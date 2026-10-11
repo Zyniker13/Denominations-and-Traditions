@@ -47,9 +47,14 @@ Notes on the texts:
 - Brenton's Septuagint has its own chapter and verse numbering, which often
   differs from the Hebrew and English (most Psalms are one lower; Jeremiah
   25–51 is arranged differently; Proverbs 30:1–14 is placed in chapter 24).
-  The `lxx` field of each passage gives Brenton's reference.
+  The `lxx` field of each passage gives Brenton's reference. Brenton prints
+  Ezra and Nehemiah as one book, 2 Esdras (`EZR`), so that Nehemiah 1–13 is
+  `EZR` 11–23; and Joshua 8:30–35 stands after 9:2, as 9:2a–f.
 - Brenton's Daniel is Theodotion's Greek version, not the Old Greek.
 - The SBL edition's text-critical signs (⸀ ⸁ ⸂ ⸃) are removed.
+- The eBible.org files differ in where they print the doxology of Romans
+  (16:25–27 in the Textus Receptus, 14:24–26 in the Byzantine text); the
+  SBL file does not include it, so no passage quotes it.
 
 ## Regenerating
 

@@ -183,14 +183,31 @@ and propagating of the truth … to commit the same wholly unto writing."
 Proofs: Prov 22:19–21; Isa 8:19–20; Matt 4:4, 7, 10; Luke 1:3–4; Rom 15:4.
 **Consonant.** It names writing as the means of preservation, exactly as
 the inscripturation passages do (Exodus 17:14; Isaiah 30:8; Jeremiah 30:2;
-Habakkuk 2:2), though it cites none of them. Romans 15:4 ("written for our
-learning") and Luke 1:4 ("that thou mightest know the certainty") fit.
+Habakkuk 2:2), though it cites none of those. Three of its proofs are in the
+collection and fit: Proverbs 22:19–21 ("Have not I written to thee …, that I
+might make thee know the certainty of the words of truth?"), Luke 1:1–4
+(written "that thou mightest know the certainty", ἀσφάλειαν), and Romans
+15:4 ("written for our learning"). **[inferred]** Proverbs 22:20 fits in the
+Hebrew, where the sage has written; in the Greek the reader is told to copy
+the words out, which would suit the "propagating" half of 1.1's sentence.
 
 **Westminster Confession 1.6.** "Unto which nothing at any time is to be
 added, whether by new revelations of the Spirit, or traditions of men."
 Proofs: Gal 1:8–9; 2 Thess 2:2; 2 Tim 3:15–17. **Consonant.** The
 prohibitions of Deuteronomy 4:2 and Revelation 22:18–19 are not cited here
-(they are cited at 1.2, 21.1 and WLC Q3), but the principle is theirs.
+(they are cited at 1.2, 21.1 and WLC Q3), but the principle is theirs, and
+Galatians 1:8–9 is its New Testament form. 2 Thessalonians 2:2 is the one
+passage in Scripture that warns against a forged apostolic letter; 1.6 uses
+it against a spurious "word" claiming the apostles' authority, which is what
+it says.
+
+**Westminster Confession 1.8, its other proofs.** Besides Matthew 5:18,
+1.8 cites John 5:39 ("search the scriptures") for the appeal to the
+originals in controversies, and Colossians 3:16 ("let the word of Christ
+dwell in you richly") for translation into the vulgar tongue. **Consonant**
+in both uses: they are proofs of what the faithful are to do with the word,
+which is how the Greek speaks of keeping it (see
+[README.md, Keeping](README.md#keeping)).
 
 **Westminster Confession 25.3.** Christ has given "the ministry, oracles,
 and ordinances of God" to the Church "to the end of the world: and doth by
@@ -198,13 +215,17 @@ his own presence and Spirit, according to his promise, make them
 effectual." Proofs: Isa 59:21; Matt 28:19–20; 1 Cor 12:28; Eph 4:11–13.
 **Consonant.** This is the Standards' best-grounded statement of
 preservation: the oracles remain with the Church by Christ's promise, and
-the promise cited is the one Scripture actually makes. 1.5 also cites Isaiah
+the promises cited are the ones Scripture actually makes, Isaiah 59:21 and
+"I am with you alway, even unto the end of the world" (Matthew 28:20), whose
+phrase "to the end of the world" the article takes over. 1.5 also cites Isaiah
 59:21, for the Spirit's witness with the word; that too fits the verse,
 which joins "my spirit" and "my words".
 
-**Larger Catechism.** Q3 cites Rev 22:18–19 for Scripture as the "only rule".
-Q4 says the Scriptures show themselves to be God's word by their "purity",
-citing Psalm 12:6 and 119:140. **Consonant**: these are the passages about
+**Larger Catechism.** Q3 cites Rev 22:18–19 for Scripture as the "only rule",
+and Luke 16:29 ("they have Moses and the prophets"). Q4 says the Scriptures
+show themselves to be God's word "by their majesty and purity", citing
+Hosea 8:12 ("I have written to him the great things of my law"), Psalm 12:6
+and 119:140. **Consonant**: these are the passages about
 the word's refined, true quality, and the catechism uses them for that, not
 for transmission. (Psalm 12:7, the contested verse, is not cited by any
 confession in the repository.) Q113 counts among the sins of the third
@@ -213,7 +234,16 @@ and Q159 requires preachers to speak the word "faithfully" (Jer 23:28) and
 not corrupt it (2 Cor 2:17). **Consonant**: the catechism takes over
 Scripture's own admission that men pervert the word. Q156 cites Isaiah 34:16
 ("seek ye out of the book of the LORD") for the reading of Scripture by all,
-a Hebrew-only reading.
+a Hebrew-only reading. **Q156–Q158** gather the law's own institutions of
+transmission and use them as Scripture uses them: the king's reading of his
+copy (Deut 17:19), the law delivered to the priests and read to all (Deut
+31:9), the fathers teaching their children (Ps 78:5–7; Deut 6:6–9), Ezra's
+public reading (Neh 8:2–3), Josiah's response to the found book (2 Chr
+34:21), the priest's lips keeping knowledge (Mal 2:7), and the veil on the
+reading of Moses (2 Cor 3:13–16). **Consonant**; **[inferred]** it is the
+fullest use of the transmission passages in any confession, though it uses
+them for the duty of reading and preaching, not for preservation. Q113
+cites 1 Timothy 6:20 for "vain janglings", not for the deposit it speaks of.
 
 **Shorter Catechism.** "The Word of God, which is contained in the
 Scriptures" (Q2). **Silent** on preservation.
@@ -281,8 +311,10 @@ most exact use of Isaiah 59:21 in any confession: the verse promises that the
 Spirit and the words will not depart from the mouth of the prophet's seed,
 and the catechism reads it as the Son keeping his people by Spirit and word.
 Q19 (the gospel "revealed in Paradise", published by patriarchs and
-prophets, and "fulfilled" by the Son) states transmission and fulfilment.
-**Consonant.**
+prophets, and "fulfilled" by the Son, citing Romans 1:2) states transmission
+and fulfilment. **Consonant.** Q103 cites 2 Timothy 2:2 for the maintenance
+of the ministry of the gospel. **Consonant**: the verse is about passing the
+teaching to "faithful men, who shall be able to teach others also".
 
 **Canons of Dort (1618–1619).** V.14: God "preserves, continues, and
 perfects" his work in the saints "by the hearing and reading of his Word".
@@ -324,7 +356,8 @@ always in terms of the word's truth, power and fulfilment.
 | [Augsburg Confession VII](../../confessions/lutheran/book-of-concord/augsburg-confession.md#article-vii-of-the-church) | "one holy Church is to continue forever", where the Gospel is rightly taught | Isaiah 59:21 (not cited) | Consonant |
 | [Apology XIII.11](../../confessions/lutheran/book-of-concord/apology-of-the-augsburg-confession.md#art-xiii-viii-of-the-number-and-use-of-the-sacraments) | The ministry of the Word has God's promises: "My Word … shall not return unto Me void" | Isaiah 55:11 (cited) | Consonant: efficacy and fulfilment, as the passage says |
 | [Apology XXIII.70](../../confessions/lutheran/book-of-concord/apology-of-the-augsburg-confession.md#art-xxiii-xi-of-the-marriage-of-priests) | "No calumnies against God's Word remain standing … before whom nothing but God's Word can abide" | Isaiah 40:6; 1 Peter 1:24 (cited) | Consonant: the point of Isaiah 40:8 and 1 Peter 1:25, though the verses cited are the ones before |
-| [Smalcald Articles II.ii.15](../../confessions/lutheran/book-of-concord/smalcald-articles.md#article-ii-of-the-mass) | "The Word of God shall establish articles of faith, and no one else, not even an angel" | Galatians 1:8 (not cited) | Consonant (authority) |
+| [Smalcald Articles II.ii.15](../../confessions/lutheran/book-of-concord/smalcald-articles.md#article-ii-of-the-mass) | "The Word of God shall establish articles of faith, and no one else, not even an angel" | Galatians 1:8 (not cited here; cited at Augsburg XXVIII, the Treatise and Epitome, Rule and Norm 1) | Consonant (authority): the New Testament form of the prohibition on adding |
+| [Apology XV.12](../../confessions/lutheran/book-of-concord/apology-of-the-augsburg-confession.md#art-xv-viii-of-human-traditions-in-the-church) | "Though it be but a man's covenant, no man addeth thereto. Therefore, neither to God's covenant … ought we to add" observances that merit | Galatians 3:15 (cited) | Consonant: uses the verse's add-or-annul formula as Paul does |
 | [Smalcald Articles III.iii.2](../../confessions/lutheran/book-of-concord/smalcald-articles.md) | The Law is "the hammer", Jeremiah 23:29 | Jeremiah 23:29 (cited) | Consonant: efficacy |
 | [Large Catechism I.46](../../confessions/lutheran/book-of-concord/large-catechism.md) | "these words had to abide and come true, since God cannot lie or deceive" | Numbers 23:19; Hebrews 6:18 (not cited) | Consonant: fulfilment, on its scriptural ground |
 | [Large Catechism I.163](../../confessions/lutheran/book-of-concord/large-catechism.md) | "we also deserve that God deprive us of His Word and blessing, and again allow preachers of lies to arise" | Amos 8:11 (not cited) | Consonant: the only confession in the repository that states the withdrawal of the word as a judgment |
@@ -341,12 +374,16 @@ claim on the subject.
 
 **Assessment.** **[inferred]** The Book of Concord's statements are all
 **consonant** with Scripture and stay close to the categories Scripture
-itself uses most: fulfilment, efficacy, inviolability and permanence. It
+itself uses most: fulfilment, efficacy, inviolability and permanence. The
+Large Catechism's Preface (¶14) cites Deuteronomy 6:6–7 for the daily
+teaching of the word in the household, the law's own means of
+transmission. It
 **falls short** of Scripture in one respect only: it never states the
 inscripturation theme (that God commanded his word to be written so that it
-would reach later generations), which Scripture states ten times and the
+would reach later generations), which Scripture states repeatedly and the
 Reformed confessions state at the head of their articles on Scripture. It
-also never takes up a promise of transmission such as Isaiah 59:21. **[context]**
+also never takes up a promise of transmission such as Isaiah 59:21 or
+Deuteronomy 31:21. **[context]**
 The Lutheran theologians of the next century did make claims about the
 text, including the inspiration of the vowel points (see
 [canon-in-the-theologians.md](../canon-in-the-theologians.md)), but the Book
@@ -404,7 +441,24 @@ From [confessional-citations.md](confessional-citations.md):
    Catechism cites Jeremiah 23:36, 2 Corinthians 2:17 and 2 Peter 3:16 for
    the sins of perverting and corrupting the word. Jeremiah 8:8 and Amos
    8:11 are cited by none, though the Large Catechism makes Amos's point.
-6. **Of 77 passages, 35 are cited by no confession**, including most of the
+   The one warning against a forged letter, 2 Thessalonians 2:2, is cited
+   at Westminster and Savoy 1.6, against claims to new revelation.
+6. **The other transmission promise is never cited.** Deuteronomy 31:21,
+   "it shall not be forgotten out of the mouths of their seed", appears in
+   no confession, though it is God's own promise and the nearest Old
+   Testament parallel to Isaiah 59:21.
+7. **The means of transmission are cited for duties, not for
+   preservation.** The Larger Catechism (Q156–158) and the Form of
+   Government cite the king's copy, the reading of the law, Ezra's reading,
+   the teaching of children and the priests' charge for the duty to read
+   and preach the word. No confession cites them for the claim that God
+   preserves it, though that is what they show.
+8. **The records of loss are not cited for loss.** The finding of the book
+   under Josiah is cited for the magistrate's duty (WCF 23.3) and for
+   reverent reading (WLC Q157), not as a record that the book of the law
+   had been neglected. The lost prophetic writings of Chronicles and Paul's
+   earlier letter to Corinth are cited by none.
+9. **Of 151 passages, 64 are cited by no confession**, including most of the
    inscripturation and fulfilment passages; they are listed at the end of
    [confessional-citations.md](confessional-citations.md#passages-no-scanned-document-cites).
 
@@ -430,9 +484,16 @@ From [confessional-citations.md](confessional-citations.md):
    They never state that God had his word written so that it would be kept,
    though Scripture says so repeatedly.
 4. **The confessions under-use the passages Scripture itself puts first.**
-   Isaiah 40:8, 1 Peter 1:25, Matthew 24:35 and Isaiah 59:21 would ground a
-   doctrine of preservation more securely than Matthew 5:18, and the
-   confessions either do not cite them or cite them for something else.
+   Isaiah 40:8, 1 Peter 1:25, Matthew 24:35, Isaiah 59:21 and Deuteronomy
+   31:21 would ground a doctrine of preservation more securely than Matthew
+   5:18, and the confessions either do not cite them or cite them for
+   something else.
+5. **None of the confessions in the repository reckons with the passages
+   that record loss.** Scripture records prophetic and apostolic writings
+   that did not survive and a book of the law neglected in the temple. A
+   claim that the word was "kept pure in all ages" is consonant with these
+   if it is read of the word's substance, as God's word; read of every
+   writing or every letter, it is not.
 
 When a confession is added to the repository, rerun the tools (see
 [catalog.yaml](../../catalog.yaml)), read its entry in

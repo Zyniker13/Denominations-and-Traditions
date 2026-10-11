@@ -29,34 +29,62 @@ differs from the English (the Psalm titles are counted as verses).
 | Passage | Speaker | Role | Categories |
 | --- | --- | --- | --- |
 | [Exodus 17:14](#exod-17-14) | God | means | Inscripturation |
+| [Exodus 24:4, 7, 12; 31:18; 32:15-16](#exod-24-4) | Narrator | means | Inscripturation |
 | [Exodus 34:1; Deuteronomy 10:2, 4](#exod-34-1) | God | means | Inscripturation, Restoration after loss |
 | [Numbers 23:19](#num-23-19) | God, through a prophet | ground | Fulfilment |
 | [Deuteronomy 4:2; 12:32](#deut-4-2) | Moses or a prophet, for God | command | Prohibition of alteration |
+| [Deuteronomy 6:6-9](#deut-6-6) | Moses or a prophet, for God | command | Transmission to later generations, Inscripturation |
 | [Deuteronomy 8:3](#deut-8-3) | Moses or a prophet, for God | claim | Efficacy |
+| [Deuteronomy 17:18-19](#deut-17-18) | Moses or a prophet, for God | command | Inscripturation, Transmission to later generations, Custody |
 | [Deuteronomy 18:18-19](#deut-18-18) | God | means | Transmission to later generations |
+| [Deuteronomy 18:21-22; Jeremiah 28:9](#deut-18-21) | Moses or a prophet, for God | claim | Fulfilment |
+| [Deuteronomy 27:2-3, 8](#deut-27-3) | Moses or a prophet, for God | command | Inscripturation |
 | [Deuteronomy 29:29](#deut-29-29) | Moses or a prophet, for God | claim | Transmission to later generations |
+| [Deuteronomy 30:11-14](#deut-30-11) | Moses or a prophet, for God | claim | Transmission to later generations |
+| [Deuteronomy 31:9-13](#deut-31-9) | Moses or a prophet, for God | means | Inscripturation, Custody, Transmission to later generations |
+| [Deuteronomy 31:19-22](#deut-31-19) | God | claim | Inscripturation, Transmission to later generations |
 | [Deuteronomy 31:24-26](#deut-31-24) | Moses or a prophet, for God | means | Inscripturation, Custody |
 | [Joshua 1:8](#josh-1-8) | God | command | Transmission to later generations |
+| [Joshua 8:32, 34-35](#josh-8-32) | Narrator | means | Inscripturation, Transmission to later generations |
 | [Joshua 21:45; 23:14](#josh-21-45) | Narrator | claim | Fulfilment |
+| [Joshua 24:26](#josh-24-26) | Narrator | means | Inscripturation |
 | [1 Samuel 3:19](#1sam-3-19) | Narrator | claim | Fulfilment |
+| [1 Samuel 10:25](#1sam-10-25) | Narrator | means | Inscripturation, Custody |
+| [2 Samuel 7:25, 28; 1 Chronicles 17:23](#2sam-7-25) | Another speaker | claim | Fulfilment, Purity and truth |
+| [2 Samuel 22:31; Psalm 18:30](#2sam-22-31) | Psalmist | claim | Purity and truth |
+| [1 Kings 8:20, 24, 26](#1kgs-8-24) | Another speaker | claim | Fulfilment |
 | [1 Kings 8:56](#1kgs-8-56) | Another speaker | claim | Fulfilment |
 | [2 Kings 10:10](#2kgs-10-10) | Another speaker | claim | Fulfilment |
-| [2 Samuel 22:31; Psalm 18:30](#2sam-22-31) | Psalmist | claim | Purity and truth |
+| [2 Kings 22:8, 11, 13; 23:2-3; 2 Chronicles 34:14-15, 21](#2kgs-22-8) | Narrator | means | Loss among men, Restoration after loss, Custody |
+| [Numbers 21:14; Joshua 10:13; 2 Samuel 1:18; 1 Kings 11:41; 1 Chronicles 29:29; 2 Chronicles 9:29; 12:15; 13:22](#2chr-9-29) | Narrator | means | Loss among men |
+| [Ezra 7:6, 10; Nehemiah 8:1-3, 8](#neh-8-8) | Narrator | means | Transmission to later generations, Restoration after loss |
+| [Nehemiah 9:8](#neh-9-8) | Another speaker | claim | Fulfilment |
 | [Psalm 12:6-7](#ps-12-6) | Psalmist | claim | Purity and truth, Transmission to later generations |
 | [Psalm 19:9](#ps-19-9) | Psalmist | claim | Permanence, Purity and truth |
+| [Psalm 33:4, 6](#ps-33-4) | Psalmist | claim | Purity and truth, Efficacy |
 | [Psalm 33:11](#ps-33-11) | Psalmist | claim | Permanence |
-| [Psalm 89:34](#ps-89-34) | God, through a prophet | claim | Fulfilment |
+| [Psalm 78:1-7](#ps-78-5) | Psalmist | claim | Transmission to later generations |
+| [Psalm 89:34-35](#ps-89-34) | God, through a prophet | claim | Fulfilment |
 | [Psalm 102:18](#ps-102-18) | Psalmist | means | Inscripturation |
 | [Psalm 105:8; 1 Chronicles 16:15](#ps-105-8) | Psalmist | claim | Permanence |
+| [Psalm 110:4](#ps-110-4) | God, through a prophet | ground | Fulfilment |
 | [Psalm 111:7-8](#ps-111-7) | Psalmist | claim | Permanence |
 | [Psalm 117:2](#ps-117-2) | Psalmist | claim | Permanence |
+| [Psalm 119:43, 111](#ps-119-43) | Psalmist | claim | Withdrawal, Transmission to later generations |
 | [Psalm 119:89-91](#ps-119-89) | Psalmist | claim | Permanence |
 | [Psalm 119:140](#ps-119-140) | Psalmist | claim | Purity and truth |
+| [Psalm 119:142, 144](#ps-119-142) | Psalmist | claim | Permanence, Purity and truth |
 | [Psalm 119:152, 160](#ps-119-152) | Psalmist | claim | Permanence |
 | [Psalm 138:2](#ps-138-2) | Psalmist | claim | Exaltation |
 | [Psalm 145:13](#ps-145-13) | Psalmist | claim | Fulfilment |
+| [Psalm 147:15, 19-20](#ps-147-15) | Psalmist | claim | Custody, Efficacy |
+| [Proverbs 22:19-21](#prov-22-19) | Sage | means | Inscripturation, Purity and truth |
 | [Proverbs 30:5-6](#prov-30-5) | Sage | command | Purity and truth, Prohibition of alteration |
+| [Ecclesiastes 12:9-12](#eccl-12-9) | Sage | means | Inscripturation, Origin |
 | [Isaiah 8:16, 20](#isa-8-16) | God, through a prophet | means | Custody |
+| [Isaiah 9:8](#isa-9-8) | God, through a prophet | claim | Efficacy |
+| [Isaiah 14:24, 27; 44:26](#isa-14-24) | God, through a prophet | claim | Fulfilment |
+| [Isaiah 29:10-14](#isa-29-11) | God, through a prophet | warning | Withdrawal, Corruption among men |
 | [Isaiah 30:8](#isa-30-8) | God, through a prophet | means | Inscripturation |
 | [Isaiah 31:2](#isa-31-2) | Moses or a prophet, for God | claim | Fulfilment |
 | [Isaiah 34:16](#isa-34-16) | Moses or a prophet, for God | claim | Fulfilment, Inscripturation |
@@ -70,41 +98,87 @@ differs from the English (the Psalm titles are counted as verses).
 | [Jeremiah 23:28-29, 36](#jer-23-28) | God, through a prophet | warning | Corruption among men, Efficacy |
 | [Jeremiah 26:2](#jer-26-2) | God, through a prophet | command | Prohibition of alteration |
 | [Jeremiah 30:2](#jer-30-2) | God, through a prophet | means | Inscripturation |
+| [Jeremiah 32:10-14](#jer-32-14) | God, through a prophet | means | Custody |
 | [Jeremiah 36:2, 27-28, 32](#jer-36) | God, through a prophet | means | Inscripturation, Restoration after loss |
+| [Jeremiah 44:28-29](#jer-44-28) | God, through a prophet | claim | Fulfilment |
+| [Jeremiah 51:60-64](#jer-51-60) | Narrator | means | Inscripturation |
+| [Lamentations 2:17](#lam-2-17) | Another speaker | claim | Fulfilment |
+| [Ezekiel 2:9-3:3](#ezek-2-9) | God, through a prophet | means | Inscripturation, Origin |
 | [Ezekiel 12:25, 28](#ezek-12-25) | God, through a prophet | claim | Fulfilment |
+| [Daniel 9:2, 12](#dan-9-2) | Another speaker | means | Transmission to later generations, Fulfilment |
 | [Daniel 12:4, 9](#dan-12-4) | Heavenly voice | means | Custody |
+| [Hosea 8:12](#hos-8-12) | God, through a prophet | warning | Inscripturation, Corruption among men |
 | [Amos 8:11-12](#amos-8-11) | God, through a prophet | warning | Withdrawal |
 | [Habakkuk 2:2-3](#hab-2-2) | God | means | Inscripturation, Fulfilment |
 | [Zechariah 1:5-6](#zech-1-5) | God, through a prophet | claim | Fulfilment, Permanence |
+| [Malachi 2:7-8](#mal-2-7) | God, through a prophet | warning | Custody, Corruption among men |
+| [Malachi 4:4](#mal-4-4) | God, through a prophet | command | Transmission to later generations |
 | [Matthew 5:17-19](#matt-5-18) | Jesus | claim | Inviolability, Fulfilment |
+| [Matthew 22:31-32; Mark 12:26](#matt-22-31) | Jesus | claim | Transmission to later generations, Origin |
+| [Matthew 26:54, 56; Mark 14:49; Luke 18:31; 21:22; 22:37; 24:25-27](#matt-26-54) | Jesus | claim | Fulfilment |
+| [Matthew 26:13; Mark 14:9](#matt-26-13) | Jesus | claim | Transmission to later generations |
+| [Matthew 28:19-20](#matt-28-20) | Jesus | command | Transmission to later generations |
 | [Luke 16:17](#luke-16-17) | Jesus | claim | Inviolability |
+| [Luke 16:29, 31](#luke-16-29) | Jesus | claim | Transmission to later generations |
 | [Matthew 24:35; Mark 13:31; Luke 21:33](#matt-24-35) | Jesus | claim | Permanence |
-| [John 10:35](#john-10-35) | Jesus | claim | Inviolability |
+| [John 10:35; 7:23](#john-10-35) | Jesus | claim | Inviolability |
+| [John 5:39, 45-47](#john-5-39) | Jesus | claim | Inscripturation, Origin |
+| [John 6:63, 68](#john-6-63) | Jesus | claim | Efficacy |
+| [John 8:31, 51; 14:23; 17:6](#john-8-31) | Jesus | claim | Keeping by the faithful |
 | [John 12:48](#john-12-48) | Jesus | claim | Permanence |
 | [John 14:26; 16:13](#john-14-26) | Jesus | means | Transmission to later generations |
 | [John 17:17](#john-17-17) | Jesus | claim | Purity and truth |
+| [John 17:8, 14, 20](#john-17-8) | Jesus | claim | Transmission to later generations |
+| [John 20:30-31; 21:24-25](#john-20-31) | Narrator | means | Inscripturation |
+| [Mark 4:15; Luke 8:12, 15](#mark-4-15) | Jesus | warning | Withdrawal, Keeping by the faithful |
 | [Matthew 4:4](#matt-4-4) | Jesus | claim | Efficacy |
 | [Matthew 15:6; Mark 7:13](#matt-15-6) | Jesus | warning | Corruption among men |
 | [Luke 1:37](#luke-1-37) | Heavenly voice | claim | Fulfilment |
+| [Luke 1:1-4](#luke-1-1) | Narrator | means | Inscripturation, Transmission to later generations |
 | [Luke 24:44](#luke-24-44) | Jesus | claim | Fulfilment |
 | [Revelation 1:19](#rev-1-19) | Jesus | means | Inscripturation |
+| [Revelation 1:3; 22:7, 9](#rev-1-3) | Jesus | claim | Keeping by the faithful |
+| [Revelation 10:7; 17:17](#rev-10-7) | Heavenly voice | claim | Fulfilment |
+| [Revelation 14:6](#rev-14-6) | Heavenly voice | claim | Permanence |
 | [Revelation 22:18-19](#rev-22-18) | Jesus | command | Prohibition of alteration |
+| [Revelation 22:10](#rev-22-10) | Heavenly voice | command | Custody |
 | [1 Peter 1:23-25](#1pet-1-23) | Apostle or evangelist | claim | Permanence |
 | [1 Peter 2:2](#1pet-2-2) | Apostle or evangelist | claim | Purity and truth |
+| [1 Peter 1:10-12](#1pet-1-10) | Apostle or evangelist | claim | Transmission to later generations, Origin |
 | [Romans 3:2](#rom-3-2) | Apostle or evangelist | means | Custody |
+| [Romans 1:2](#rom-1-2) | Apostle or evangelist | claim | Inscripturation, Fulfilment |
 | [Romans 9:6](#rom-9-6) | Apostle or evangelist | claim | Fulfilment |
-| [Romans 15:4; 1 Corinthians 10:11](#rom-15-4) | Apostle or evangelist | claim | Transmission to later generations |
+| [Romans 10:8, 17](#rom-10-8) | Apostle or evangelist | claim | Transmission to later generations, Efficacy |
+| [Romans 4:23-24; 15:4; 1 Corinthians 9:10; 10:11](#rom-15-4) | Apostle or evangelist | claim | Transmission to later generations |
 | [2 Timothy 3:15-16](#2tim-3-16) | Apostle or evangelist | claim | Origin |
 | [2 Peter 1:19-21](#2pet-1-19) | Apostle or evangelist | claim | Origin |
+| [2 Peter 1:12-15; 3:1-2](#2pet-1-12) | Apostle or evangelist | means | Transmission to later generations, Inscripturation |
 | [2 Timothy 2:9](#2tim-2-9) | Apostle or evangelist | claim | Efficacy |
+| [2 Thessalonians 2:2, 15; 3:17](#2thess-2-2) | Apostle or evangelist | warning | Corruption among men, Custody, Keeping by the faithful |
+| [1 Timothy 6:20; 2 Timothy 1:13-14](#1tim-6-20) | Apostle or evangelist | command | Keeping by the faithful, Custody |
+| [2 Timothy 2:2](#2tim-2-2) | Apostle or evangelist | command | Transmission to later generations |
+| [2 Timothy 4:13](#2tim-4-13) | Apostle or evangelist | means | Custody |
+| [Titus 1:9; Colossians 3:16; 1 Corinthians 11:2](#titus-1-9) | Apostle or evangelist | command | Keeping by the faithful |
 | [Hebrews 4:12](#heb-4-12) | Apostle or evangelist | claim | Efficacy |
+| [Hebrews 1:1-2](#heb-1-1) | Apostle or evangelist | claim | Origin |
+| [Hebrews 2:1-4](#heb-2-2) | Apostle or evangelist | warning | Inviolability, Transmission to later generations |
 | [1 Thessalonians 2:13](#1thess-2-13) | Apostle or evangelist | claim | Efficacy |
+| [1 Corinthians 15:1-4](#1cor-15-1) | Apostle or evangelist | means | Transmission to later generations, Keeping by the faithful |
+| [1 Corinthians 14:37](#1cor-14-37) | Apostle or evangelist | claim | Origin |
+| [1 Corinthians 5:9; Colossians 4:16](#1cor-5-9) | Apostle or evangelist | means | Loss among men, Transmission to later generations |
+| [2 Corinthians 1:20](#2cor-1-20) | Apostle or evangelist | claim | Fulfilment |
 | [Acts 7:38](#acts-7-38) | Another speaker | claim | Efficacy, Transmission to later generations |
-| [Jude 3](#jude-3) | Apostle or evangelist | claim | Transmission to later generations |
+| [Acts 1:16; 3:18, 21](#acts-1-16) | Apostle or evangelist | claim | Fulfilment, Origin |
+| [Jude 3, 17](#jude-3) | Apostle or evangelist | claim | Transmission to later generations |
 | [2 Corinthians 2:17; 4:2](#2cor-2-17) | Apostle or evangelist | warning | Corruption among men |
+| [2 Corinthians 3:14-15](#2cor-3-14) | Apostle or evangelist | warning | Withdrawal |
+| [Galatians 1:6-9](#gal-1-8) | Apostle or evangelist | warning | Prohibition of alteration, Corruption among men |
+| [Galatians 3:15, 17](#gal-3-15) | Apostle or evangelist | claim | Inviolability, Prohibition of alteration |
 | [2 Peter 3:16](#2pet-3-16) | Apostle or evangelist | warning | Corruption among men |
+| [1 John 2:14, 24; 2 John 2](#1john-2-14) | Apostle or evangelist | claim | Permanence, Keeping by the faithful |
 | [Hebrews 6:17-18; Titus 1:2](#heb-6-18) | Apostle or evangelist | ground | Fulfilment |
-| [Revelation 22:6](#rev-22-6) | Heavenly voice | claim | Purity and truth |
+| [James 1:18, 21](#jas-1-18) | Apostle or evangelist | claim | Efficacy |
+| [Revelation 19:9; 21:5; 22:6](#rev-22-6) | Heavenly voice | claim | Purity and truth |
 
 
 ## Old Testament
@@ -140,6 +214,89 @@ Substantially the same. The Greek names Joshua Ἰησοῦς, the same name as 
 **Notes.**
 
 The first divine command to write in a book. Writing is given as the means of memory across generations.
+
+### Exodus 24:4, 7, 12; 31:18; 32:15-16
+
+<a id="exod-24-4"></a>
+
+**Claim.** Moses wrote all the words of the LORD and read the book of the covenant to
+the people; God gave Moses tables of stone "written with the finger of
+God", "the writing of God, graven upon the tables".
+
+
+**Speaker:** Narrator · **Role:** means · **Categories:** Inscripturation · **Object:** the words of the LORD; the book of the covenant; the tables
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Exodus 24:4 — <span dir="rtl" lang="he">וַיִּכְתֹּב מֹשֶׁה אֵת כָּל־דִּבְרֵי יְהוָה וַיַּשְׁכֵּם בַּבֹּקֶר וַיִּבֶן מִזְבֵּחַ תַּחַת הָהָר וּשְׁתֵּים עֶשְׂרֵה מַצֵּבָה לִשְׁנֵים עָשָׂר שִׁבְטֵי יִשְׂרָאֵֽל׃</span>
+>
+> Exodus 24:7 — <span dir="rtl" lang="he">וַיִּקַּח סֵפֶר הַבְּרִית וַיִּקְרָא בְּאָזְנֵי הָעָם וַיֹּאמְרוּ כֹּל אֲשֶׁר־דִּבֶּר יְהוָה נַעֲשֶׂה וְנִשְׁמָֽע׃</span>
+>
+> Exodus 24:12 — <span dir="rtl" lang="he">וַיֹּאמֶר יְהוָה אֶל־מֹשֶׁה עֲלֵה אֵלַי הָהָרָה וֶהְיֵה־שָׁם וְאֶתְּנָה לְךָ אֶת־לֻחֹת הָאֶבֶן וְהַתּוֹרָה וְהַמִּצְוָה אֲשֶׁר כָּתַבְתִּי לְהוֹרֹתָֽם׃</span>
+>
+> Exodus 31:18 — <span dir="rtl" lang="he">וַיִּתֵּן אֶל־מֹשֶׁה כְּכַלֹּתוֹ לְדַבֵּר אִתּוֹ בְּהַר סִינַי שְׁנֵי לֻחֹת הָעֵדֻת לֻחֹת אֶבֶן כְּתֻבִים בְּאֶצְבַּע אֱלֹהִֽים׃</span>
+>
+> Exodus 32:15 — <span dir="rtl" lang="he">וַיִּפֶן וַיֵּרֶד מֹשֶׁה מִן־הָהָר וּשְׁנֵי לֻחֹת הָעֵדֻת בְּיָדוֹ לֻחֹת כְּתֻבִים מִשְּׁנֵי עֶבְרֵיהֶם מִזֶּה וּמִזֶּה הֵם כְּתֻבִֽים׃</span>
+>
+> Exodus 32:16 — <span dir="rtl" lang="he">וְהַלֻּחֹת מַעֲשֵׂה אֱלֹהִים הֵמָּה וְהַמִּכְתָּב מִכְתַּב אֱלֹהִים הוּא חָרוּת עַל־הַלֻּחֹֽת׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Exodus 24:4 — And Moses wrote all the words of the LORD, and rose up early in the morning, and builded an altar under the hill, and twelve pillars, according to the twelve tribes of Israel.
+>
+> Exodus 24:7 — And he took the book of the covenant, and read in the audience of the people: and they said, All that the LORD hath said will we do, and be obedient.
+>
+> Exodus 24:12 — ¶ And the LORD said unto Moses, Come up to me into the mount, and be there: and I will give thee tables of stone, and a law, and commandments which I have written; that thou mayest teach them.
+>
+> Exodus 31:18 — ¶ And he gave unto Moses, when he had made an end of communing with him upon mount Sinai, two tables of testimony, tables of stone, written with the finger of God.
+>
+> Exodus 32:15 — ¶ And Moses turned, and went down from the mount, and the two tables of the testimony [were] in his hand: the tables [were] written on both their sides; on the one side and on the other [were] they written.
+>
+> Exodus 32:16 — And the tables [were] the work of God, and the writing [was] the writing of God, graven upon the tables.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Exodus 24:4 — Καὶ ἔγραψε Μωυσῆς πάντα τὰ ῥήματα Κυρίου· ὀρθρίσας δὲ Μωυσῆς τὸ πρωῒ ᾠκοδόμησε θυσιαστήριον ὑπὸ τὸ ὄρος, καὶ δώδεκα λίθους εἰς τὰς δώδεκα φυλὰς τοῦ Ἰσραήλ.
+>
+> Exodus 24:7 — Καὶ λαβὼν τὸ βιβλίον τῆς διαθήκης, ἀνέγνω εἰς τὰ ὦτα τοῦ λαοῦ· καὶ εἶπαν, πάντα ὅσα ἐλάλησε Κύριος, ποιήσομεν καὶ ἀκουσόμεθα.
+>
+> Exodus 24:12 — Καὶ εἶπε Κύριος πρὸς Μωυσῆν, ἀνάβηθι πρὸς με εἰς τὸ ὄρος, καὶ ἴσθι ἐκεῖ· καὶ δώσω σοι τὰ πυξία τὰ λίθινα, τὸν νόμον καὶ τὰς ἐντολας, ἃς ἔγραψα νομοθετῆσαι αὐτοῖς.
+>
+> Exodus 31:18 — Καὶ ἔδωκε Μωυσῇ ἡνίκα κατέπαυσε λαλῶν αὐτῷ ἐν τῷ ὄρει τῷ Σινὰ, τὰς δύο πλάκας τοῦ μαρτυρίου, πλάκας λιθίνας γεγραμμένας τῷ δακτύλῳ τοῦ Θεοῦ.
+>
+> Exodus 32:15 — Καὶ ἀποστρέψας Μωυσῆς, κατέβη ἀπὸ τοῦ ὄρους· καὶ αἱ δύο πλάκες τοῦ μαρτυρίου ἐν ταῖς χερσὶν αὐτοῦ, πλάκες λίθιναι καταγεγραμμέναι ἐξ ἀμφοτέρων τῶν μερῶν αὐτῶν, ἔνθεν καὶ ἔνθεν ἦσανς γεγραμμέναι·
+>
+> Exodus 32:16 — καὶ αἱ πλάκες ἔργον Θεοῦ ἦσαν, καὶ ἡ γραφὴ γραφὴ Θεοῦ κεκολαμμένη ἐν ταῖς πλαξί.
+
+**English of the Greek (Brenton, 1851)**
+
+> Exodus 24:4 — And Moses wrote all the words of the Lord; and Moses rose up early in the morning, and built an altar under the mountain, and [set up] twelve stones for the twelve tribes of Israel.
+>
+> Exodus 24:7 — And he took the book of the covenant and read it in the ears of the people, and they said, All things whatsoever the Lord has spoken we will do and hearken therein.
+>
+> Exodus 24:12 — And the Lord said to Moses, Come up to me into the mountain, and be there; and I will give thee the tables of stone, the law and the commandments, which I have written to give them laws.
+>
+> Exodus 31:18 — And he gave to Moses when he left off speaking to him in mount Sina the two tables of testimony, tables of stone written [upon] with the finger of God.
+>
+> Exodus 32:15 — And Moses turned and went down from the mountain, and the two tables of testimony were in his hands, tables of stone written on both their sides: they were written within and without.
+>
+> Exodus 32:16 — And the tables were the work of God, and the writing the writing of God written on the tables.
+
+**Hebrew and Greek compared.**
+
+The same in substance. In 24:12 the Greek reads "which I wrote to give
+them laws" (ἃς ἔγραψα νομοθετῆσαι αὐτοῖς) for "which I have written, that
+thou mayest teach them"; in 32:16 "the writing of God" is ἡ γραφὴ γραφὴ
+Θεοῦ, the noun later used for Scripture.
+
+**Notes.**
+
+Two kinds of writing stand side by side at Sinai: Moses writes "all the
+words of the LORD" in a book (24:4), and God himself writes the tables
+(31:18; 32:16). Verse 24:12 is God speaking: "I will give thee tables of
+stone, and a law, and commandments which I have written". The breaking of
+the first tables (32:19) and their rewriting are in
+[Exodus 34:1](#exod-34-1).
 
 ### Exodus 34:1; Deuteronomy 10:2, 4
 
@@ -279,6 +436,68 @@ away are possible. The verbs recur in Revelation 22:18–19 (ἀφαιρέω in
 both; the Greek of Deuteronomy uses προστίθημι for "add", Revelation
 ἐπιτίθημι).
 
+### Deuteronomy 6:6-9
+
+<a id="deut-6-6"></a>
+
+**Claim.** These words shall be in thine heart; teach them diligently unto thy
+children; write them upon the posts of thy house, and on thy gates.
+
+
+**Speaker:** Moses or a prophet, for God · **Role:** command · **Categories:** Transmission to later generations, Inscripturation · **Object:** these words which I command thee this day
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Deuteronomy 6:6 — <span dir="rtl" lang="he">וְהָיוּ הַדְּבָרִים הָאֵלֶּה אֲשֶׁר אָנֹכִי מְצַוְּךָ הַיּוֹם עַל־לְבָבֶֽךָ׃</span>
+>
+> Deuteronomy 6:7 — <span dir="rtl" lang="he">וְשִׁנַּנְתָּם לְבָנֶיךָ וְדִבַּרְתָּ בָּם בְּשִׁבְתְּךָ בְּבֵיתֶךָ וּבְלֶכְתְּךָ בַדֶּרֶךְ וּֽבְשָׁכְבְּךָ וּבְקוּמֶֽךָ׃</span>
+>
+> Deuteronomy 6:8 — <span dir="rtl" lang="he">וּקְשַׁרְתָּם לְאוֹת עַל־יָדֶךָ וְהָיוּ לְטֹטָפֹת בֵּין עֵינֶֽיךָ׃</span>
+>
+> Deuteronomy 6:9 — <span dir="rtl" lang="he">וּכְתַבְתָּם עַל־מְזוּזֹת בֵּיתֶךָ וּבִשְׁעָרֶֽיךָ׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Deuteronomy 6:6 — And these words, which I command thee this day, shall be in thine heart:
+>
+> Deuteronomy 6:7 — And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
+>
+> Deuteronomy 6:8 — And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes.
+>
+> Deuteronomy 6:9 — And thou shalt write them upon the posts of thy house, and on thy gates.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Deuteronomy 6:6 — Καὶ ἔσται τὰ ῥήματα ταῦτα, ὅσα ἐγὼ ἐντέλλομαί σοι σήμερον, ἐν τῇ καρδίᾳ σου, καὶ ἐν τῇ ψυχῇ σου.
+>
+> Deuteronomy 6:7 — Καὶ προβιβάσεις αὐτὰ τοὺς υἱούς σου, καὶ λαλήσεις ἐν αὐτοῖς καθήμενος ἐν οἴκῳ, καὶ πορευόμενος ἐν ὁδῷ, καὶ κοιταζόμενος, καὶ διανιστάμενος.
+>
+> Deuteronomy 6:8 — Καὶ ἀφάψεις αὐτὰ εἰς σημεῖον ἐπὶ τῆς χειρός σου, καὶ ἔσται ἀσάλευτον πρὸ ὀφθαλμῶν σου.
+>
+> Deuteronomy 6:9 — Καὶ γράψετε αὐτὰ ἐπὶ τὰς φλιὰς τῶν οἰκιῶν ὑμῶν, καὶ τῶν πυλῶν ὑμῶν.
+
+**English of the Greek (Brenton, 1851)**
+
+> Deuteronomy 6:6 — And these words, all that I command thee this day, shall be in thy heart and in thy soul.
+>
+> Deuteronomy 6:7 — And thou shalt teach them to thy children, and thou shalt speak of them sitting in the house, and walking by the way, and lying down, and rising up.
+>
+> Deuteronomy 6:8 — And thou shalt fasten them for a sign upon thy hand, and it shall be immoveable before thine eyes.
+>
+> Deuteronomy 6:9 — And ye shall write them on the lintels of your houses and of your gates.
+
+**Hebrew and Greek compared.**
+
+The Greek adds "and in thy soul" (6:6) and, for the Hebrew "frontlets
+between thine eyes", has "it shall be immoveable (ἀσάλευτον) before thine
+eyes" (6:8).
+
+**Notes.**
+
+The word is to be kept by being taught to children, spoken of daily, bound
+on the body and written on the house. Transmission is a duty laid on every
+household.
+
 ### Deuteronomy 8:3
 
 <a id="deut-8-3"></a>
@@ -311,6 +530,55 @@ word (παντὶ ῥήματι) that proceeds through the mouth of God." Jesus'
 answer in Matthew 4:4 follows the Greek wording.
 
 **Used in the New Testament:** Matthew 4:4, Luke 4:4
+
+### Deuteronomy 17:18-19
+
+<a id="deut-17-18"></a>
+
+**Claim.** The king shall write him a copy of this law in a book, out of that which
+is before the priests the Levites, and read therein all the days of his
+life.
+
+
+**Speaker:** Moses or a prophet, for God · **Role:** command · **Categories:** Inscripturation, Transmission to later generations, Custody · **Object:** this law
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Deuteronomy 17:18 — <span dir="rtl" lang="he">וְהָיָה כְשִׁבְתּוֹ עַל כִּסֵּא מַמְלַכְתּוֹ וְכָתַב לוֹ אֶת־מִשְׁנֵה הַתּוֹרָה הַזֹּאת עַל־סֵפֶר מִלִּפְנֵי הַכֹּהֲנִים הַלְוִיִּֽם׃</span>
+>
+> Deuteronomy 17:19 — <span dir="rtl" lang="he">וְהָיְתָה עִמּוֹ וְקָרָא בוֹ כָּל־יְמֵי חַיָּיו לְמַעַן יִלְמַד לְיִרְאָה אֶת־יְהוָה אֱלֹהָיו לִשְׁמֹר אֶֽת־כָּל־דִּבְרֵי הַתּוֹרָה הַזֹּאת וְאֶת־הַחֻקִּים הָאֵלֶּה לַעֲשֹׂתָֽם׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Deuteronomy 17:18 — And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book out of [that which is] before the priests the Levites:
+>
+> Deuteronomy 17:19 — And it shall be with him, and he shall read therein all the days of his life: that he may learn to fear the LORD his God, to keep all the words of this law and these statutes, to do them:
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Deuteronomy 17:18 — Καὶ ὅταν καθίσῃ ἐπὶ τῆς ἀρχῆς αὐτοῦ, καὶ γράψει αὑτῷ τὸ δευτερονόμιον τοῦτο εἰς βιβλίον παρὰ τῶν ἱερέων τῶν Λευιτῶν,
+>
+> Deuteronomy 17:19 — καὶ ἔσται μετʼ αὐτοῦ, καὶ ἀναγνώσεται ἐν αὐτῷ πάσας τὰς ἡμέρας τῆς ζωῆς αὐτοῦ, ἵνα μάθῃ φοβεῖσθαι Κύριον τὸν Θεόν σου, καὶ φυλάσσεσθαι πάσας τὰς ἐντολὰς ταύτας, καὶ τὰ δικαιώματα ταῦτα ποιεῖν·
+
+**English of the Greek (Brenton, 1851)**
+
+> Deuteronomy 17:18 — And when he shall be established in his government, then shall he write for himself this repetition of the law into a book by the hands of the priests the Levites;
+>
+> Deuteronomy 17:19 — and it shall be with him, and he shall read in it all the days of his life, that he may learn to fear the Lord thy God, and to keep all these commandments, and to observe these ordinances:
+
+**Hebrew and Greek compared.**
+
+The Hebrew "a copy (מִשְׁנֵה, 'a second, a repetition') of this law" is
+the Greek "this deuteronomy" (τὸ δευτερονόμιον τοῦτο), "second law"; the
+book's Greek name comes from this verse.
+
+**Notes.**
+
+The only command in Scripture to *copy* the law. The copy is made from
+the exemplar kept by the Levitical priests, so the passage joins
+custody (a master copy in the priests' keeping) to transmission (a new
+copy made from it). **[inferred]** It assumes that copying from the
+authorized exemplar yields the law itself.
 
 ### Deuteronomy 18:18-19
 
@@ -354,6 +622,108 @@ Substantially the same.
 
 The model of transmission the prophets and Isaiah 59:21 build on, applied to Christ in Acts 3:22.
 
+### Deuteronomy 18:21-22; Jeremiah 28:9
+
+<a id="deut-18-21"></a>
+
+**Claim.** "When a prophet speaketh in the name of the LORD, if the thing follow not,
+nor come to pass, that is the thing which the LORD hath not spoken"; the
+prophet is known "when the word of the prophet shall come to pass".
+
+
+**Speaker:** Moses or a prophet, for God · **Role:** claim · **Categories:** Fulfilment · **Object:** the word the LORD has spoken
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Deuteronomy 18:21 — <span dir="rtl" lang="he">וְכִי תֹאמַר בִּלְבָבֶךָ אֵיכָה נֵדַע אֶת־הַדָּבָר אֲשֶׁר לֹא־דִבְּרוֹ יְהוָֽה׃</span>
+>
+> Deuteronomy 18:22 — <span dir="rtl" lang="he">אֲשֶׁר יְדַבֵּר הַנָּבִיא בְּשֵׁם יְהוָה וְלֹֽא־יִהְיֶה הַדָּבָר וְלֹא יָבוֹא הוּא הַדָּבָר אֲשֶׁר לֹא־דִבְּרוֹ יְהוָה בְּזָדוֹן דִּבְּרוֹ הַנָּבִיא לֹא תָגוּר מִמֶּֽנּוּ׃</span>
+>
+> Jeremiah 28:9 — <span dir="rtl" lang="he">הַנָּבִיא אֲשֶׁר יִנָּבֵא לְשָׁלוֹם בְּבֹא דְּבַר הַנָּבִיא יִוָּדַע הַנָּבִיא אֲשֶׁר־שְׁלָחוֹ יְהוָה בֶּאֱמֶֽת׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Deuteronomy 18:21 — And if thou say in thine heart, How shall we know the word which the LORD hath not spoken?
+>
+> Deuteronomy 18:22 — When a prophet speaketh in the name of the LORD, if the thing follow not, nor come to pass, that [is] the thing which the LORD hath not spoken, [but] the prophet hath spoken it presumptuously: thou shalt not be afraid of him.
+>
+> Jeremiah 28:9 — The prophet which prophesieth of peace, when the word of the prophet shall come to pass, [ then] shall the prophet be known, that the LORD hath truly sent him.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Deuteronomy 18:21 — Ἐὰν δὲ εἴπῃς ἐν τῇ καρδίᾳ σου, πῶς γνωσόμεθα τὸ ῥῆμα ὃ οὐκ ἐλάλησε Κύριος;
+>
+> Deuteronomy 18:22 — Ὅσα ἐὰν λαλήσῃ ὁ προφήτης ἐκεῖνος τῷ ὀνόματι Κυρίου, καὶ μὴ γένηται, καὶ μὴ συμβῇ, τοῦτο τὸ ῥῆμα ὃ οὐκ ἐλάλησε Κύριος, ἐν ἀσεβείᾳ ἐλάλησεν ὁ προφήτης ἐκεῖνος· οὐκ ἀφέξεσθε αὐτοῦ.
+>
+> Jeremiah 35:9 — Ὁ προφήτης ὁ προφητεύσας εἰς εἰρήνην, ἐλθόντος τοῦ λόγου, γνώσονται τὸν προφήτην ὃν ἀπέστειλεν αὐτοῖς Κύριος ἐν πίστει.
+
+**English of the Greek (Brenton, 1851)**
+
+> Deuteronomy 18:21 — But if thou shalt say in thine heart, How shall we know the word which the Lord has not spoken?
+>
+> Deuteronomy 18:22 — Whatsoever words that prophet shall speak in the name of the Lord, and they shall not come true, and not come to pass, this [is] the thing which the Lord has not spoken; that prophet has spoken wickedly: ye shall not spare him.
+>
+> Jeremiah 35:9 — [As for] the prophet that has prophesied for peace, when the word has come [to pass], they shall know the prophet whom the Lord has sent them in truth.
+
+**Hebrew and Greek compared.**
+
+The same in Deuteronomy. In Jeremiah (Greek 35:9) "the LORD hath truly
+sent" is "whom the Lord sent them in faithfulness" (ἐν πίστει).
+
+**Notes.**
+
+Fulfilment as the test of whether a word is God's. Jeremiah 28:9 is Jeremiah's answer to Hananiah.
+
+### Deuteronomy 27:2-3, 8
+
+<a id="deut-27-3"></a>
+
+**Claim.** Write upon great plastered stones all the words of this law, "very plainly".
+
+**Speaker:** Moses or a prophet, for God · **Role:** command · **Categories:** Inscripturation · **Object:** all the words of this law
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Deuteronomy 27:2 — <span dir="rtl" lang="he">וְהָיָה בַּיּוֹם אֲשֶׁר תַּעַבְרוּ אֶת־הַיַּרְדֵּן אֶל־הָאָרֶץ אֲשֶׁר־יְהוָה אֱלֹהֶיךָ נֹתֵן לָךְ וַהֲקֵמֹתָ לְךָ אֲבָנִים גְּדֹלוֹת וְשַׂדְתָּ אֹתָם בַּשִּֽׂיד׃</span>
+>
+> Deuteronomy 27:3 — <span dir="rtl" lang="he">וְכָתַבְתָּ עֲלֵיהֶן אֶֽת־כָּל־דִּבְרֵי הַתּוֹרָה הַזֹּאת בְּעָבְרֶךָ לְמַעַן אֲשֶׁר תָּבֹא אֶל־הָאָרֶץ אֲֽשֶׁר־יְהוָה אֱלֹהֶיךָ ׀ נֹתֵן לְךָ אֶרֶץ זָבַת חָלָב וּדְבַשׁ כַּאֲשֶׁר דִּבֶּר יְהוָה אֱלֹהֵֽי־אֲבֹתֶיךָ לָֽךְ׃</span>
+>
+> Deuteronomy 27:8 — <span dir="rtl" lang="he">וְכָתַבְתָּ עַל־הָאֲבָנִים אֶֽת־כָּל־דִּבְרֵי הַתּוֹרָה הַזֹּאת בַּאֵר הֵיטֵֽב׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Deuteronomy 27:2 — And it shall be on the day when ye shall pass over Jordan unto the land which the LORD thy God giveth thee, that thou shalt set thee up great stones, and plaister them with plaister:
+>
+> Deuteronomy 27:3 — And thou shalt write upon them all the words of this law, when thou art passed over, that thou mayest go in unto the land which the LORD thy God giveth thee, a land that floweth with milk and honey; as the LORD God of thy fathers hath promised thee.
+>
+> Deuteronomy 27:8 — And thou shalt write upon the stones all the words of this law very plainly.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Deuteronomy 27:2 — Καὶ ἔσται ᾗ ἂν ἡμέρᾳ διαβῆτε τὸν Ἰορδάνην εἰς τὴν γῆν, ἣν Κύριος ὁ Θεός σου δίδωσί σοι, καὶ στήσεις σεαυτῷ λίθους μεγάλους, καὶ κονιάσεις αὐτοὺς κονίᾳ.
+>
+> Deuteronomy 27:3 — Καὶ γράψεις ἐπὶ τῶν λίθων τούτων πάντας τούς λόγους τοῦ νόμου τούτου, ὠς ἂν διαβῆτε τὸν Ἰορδάνην, ἡνίκα ἂν εἰσέλθητε εἰς τὴν γῆν, ἣν Κύριος ὁ Θεὸς τῶν πατέρων σου δίδωσί σοι, γῆν ῥέουσαν γάλα καὶ μέλι, ὃν τρόπον εἶπε Κύριος ὁ Θεὸς τῶν πατέρων σού σοί.
+>
+> Deuteronomy 27:8 — Καὶ γράψεις ἐπὶ τῶν λίθων πάντα τὸν νόμον τοῦτον σαφῶς σφόδρα.
+
+**English of the Greek (Brenton, 1851)**
+
+> Deuteronomy 27:2 — And it shall come to pass in the day when ye shall cross over Jordan into the land which the Lord thy God gives thee, that thou shalt set up for thyself great stones, and shalt plaster them with plaster.
+>
+> Deuteronomy 27:3 — And thou shalt write on these stones all the words of this law, as soon as ye have crossed Jordan, when ye are entered into the land, which the Lord God of thy fathers gives thee, a land flowing with milk and honey, according as the Lord God of thy fathers said to thee.
+>
+> Deuteronomy 27:8 — And thou shalt write upon the stones all this law very plainly.
+
+**Hebrew and Greek compared.**
+
+"Very plainly" is σαφῶς σφόδρα in the Greek. In 27:8 the Greek reads "all
+this law" for "all the words of this law".
+
+**Notes.**
+
+"Very plainly" is בַּאֵר הֵיטֵב, "making it clear, well". The writing is to be
+legible to all who pass. Joshua carries the command out (Joshua 8:32).
+
 ### Deuteronomy 29:29
 
 <a id="deut-29-29"></a>
@@ -390,6 +760,204 @@ caution; their meaning was already debated in the rabbinic sources.
 **Notes.**
 
 The verse is 29:28 in the Hebrew and 29:29 in Brenton's Greek.
+
+### Deuteronomy 30:11-14
+
+<a id="deut-30-11"></a>
+
+**Claim.** The commandment is not in heaven nor beyond the sea; "the word is very
+nigh unto thee, in thy mouth, and in thy heart, that thou mayest do it."
+
+
+**Speaker:** Moses or a prophet, for God · **Role:** claim · **Categories:** Transmission to later generations · **Object:** this commandment; the word
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Deuteronomy 30:11 — <span dir="rtl" lang="he">כִּי הַמִּצְוָה הַזֹּאת אֲשֶׁר אָנֹכִי מְצַוְּךָ הַיּוֹם לֹֽא־נִפְלֵאת הִוא מִמְּךָ וְלֹא רְחֹקָה הִֽוא׃</span>
+>
+> Deuteronomy 30:12 — <span dir="rtl" lang="he">לֹא בַשָּׁמַיִם הִוא לֵאמֹר מִי יַעֲלֶה־לָּנוּ הַשָּׁמַיְמָה וְיִקָּחֶהָ לָּנוּ וְיַשְׁמִעֵנוּ אֹתָהּ וְנַעֲשֶֽׂנָּה׃</span>
+>
+> Deuteronomy 30:13 — <span dir="rtl" lang="he">וְלֹֽא־מֵעֵבֶר לַיָּם הִוא לֵאמֹר מִי יַעֲבָר־לָנוּ אֶל־עֵבֶר הַיָּם וְיִקָּחֶהָ לָּנוּ וְיַשְׁמִעֵנוּ אֹתָהּ וְנַעֲשֶֽׂנָּה׃</span>
+>
+> Deuteronomy 30:14 — <span dir="rtl" lang="he">כִּֽי־קָרוֹב אֵלֶיךָ הַדָּבָר מְאֹד בְּפִיךָ וּבִֽלְבָבְךָ לַעֲשֹׂתֽוֹ׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Deuteronomy 30:11 — ¶ For this commandment which I command thee this day, it [is] not hidden from thee, neither [is] it far off.
+>
+> Deuteronomy 30:12 — It [is] not in heaven, that thou shouldest say, Who shall go up for us to heaven, and bring it unto us, that we may hear it, and do it?
+>
+> Deuteronomy 30:13 — Neither [is] it beyond the sea, that thou shouldest say, Who shall go over the sea for us, and bring it unto us, that we may hear it, and do it?
+>
+> Deuteronomy 30:14 — But the word [is] very nigh unto thee, in thy mouth, and in thy heart, that thou mayest do it.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Deuteronomy 30:11 — Ὅτι ἡ ἐντολὴ αὕτη ἣν ἐγὼ ἐντέλλομαί σοι σήμερον, οὐχ ὑπέρογκός ἐστιν, οὐδέ μακρὰν ἀπὸ σοῦ ἐστιν.
+>
+> Deuteronomy 30:12 — Οὐκ ἐν τῷ οὐρανῷ ἄνω ἐστὶ, λέγων, τίς ἀναβήσεται ἡμῖν εἰς τὸν οὐρανὸν, καὶ λήψεται ἡμῖν αὐτὴν, καὶ ἀκούσαντες αὐτὴν ποιήσομεν;
+>
+> Deuteronomy 30:13 — Οὐδὲ πέραν τῆς θαλάσσης ἐστί, λέγων, τίς διαπεράσει ἡμῖν εἰς τὸ πέραν τῆς θαλάσσης, καὶ λάβῃ ἡμῖν αὐτὴν, καὶ ἀκουστὴν ἡμῖν ποιήσῃ αὐτὴν, καὶ ποιήσομεν;
+>
+> Deuteronomy 30:14 — Ἐγγύς σου ἐστὶ τὸ ῥῆμα σφόδρα ἐν τῷ στόματί σου, καὶ ἐν τῇ καρδίᾳ σου, καὶ ἐν ταῖς χερσί σου ποιεῖν αὐτό.
+
+**English of the Greek (Brenton, 1851)**
+
+> Deuteronomy 30:11 — For this command which I give thee this day is not grievous, neither is it far from thee.
+>
+> Deuteronomy 30:12 — It is not in heaven above, [as if there were one] saying, Who shall go up for us into heaven, and shall take it for us, and we will hear and do it?
+>
+> Deuteronomy 30:13 — Neither is it beyond the sea, saying, Who will go over for us to the other side of the sea, and take it for us, and make it audible to us, and we will do it?
+>
+> Deuteronomy 30:14 — The word is very near thee, in thy mouth, and in thine heart, and in thine hands to do it.
+
+**Hebrew and Greek compared.**
+
+The Greek reads "not grievous" (οὐχ ὑπέρογκος, "not too heavy") for "not
+hidden" (לֹא נִפְלֵאת), and adds "and in thy hands" to "in thy mouth and
+in thy heart" (30:14).
+
+**Used in the New Testament:** Romans 10:6-8
+
+**Notes.**
+
+The word does not need to be fetched from a distance; it is already in the
+people's mouth and heart. Paul reads it of the preached word.
+
+### Deuteronomy 31:9-13
+
+<a id="deut-31-9"></a>
+
+**Claim.** Moses wrote this law and delivered it to the priests and elders,
+commanding that it be read before all Israel every seventh year, "that
+their children, which have not known any thing, may hear".
+
+
+**Speaker:** Moses or a prophet, for God · **Role:** means · **Categories:** Inscripturation, Custody, Transmission to later generations · **Object:** this law
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Deuteronomy 31:9 — <span dir="rtl" lang="he">וַיִּכְתֹּב מֹשֶׁה אֶת־הַתּוֹרָה הַזֹּאת וַֽיִּתְּנָהּ אֶל־הַכֹּהֲנִים בְּנֵי לֵוִי הַנֹּשְׂאִים אֶת־אֲרוֹן בְּרִית יְהוָה וְאֶל־כָּל־זִקְנֵי יִשְׂרָאֵֽל׃</span>
+>
+> Deuteronomy 31:10 — <span dir="rtl" lang="he">וַיְצַו מֹשֶׁה אוֹתָם לֵאמֹר מִקֵּץ ׀ שֶׁבַע שָׁנִים בְּמֹעֵד שְׁנַת הַשְּׁמִטָּה בְּחַג הַסֻּכּֽוֹת׃</span>
+>
+> Deuteronomy 31:11 — <span dir="rtl" lang="he">בְּבוֹא כָל־יִשְׂרָאֵל לֵרָאוֹת אֶת־פְּנֵי יְהוָה אֱלֹהֶיךָ בַּמָּקוֹם אֲשֶׁר יִבְחָר תִּקְרָא אֶת־הַתּוֹרָה הַזֹּאת נֶגֶד כָּל־יִשְׂרָאֵל בְּאָזְנֵיהֶֽם׃</span>
+>
+> Deuteronomy 31:12 — <span dir="rtl" lang="he">הַקְהֵל אֶת־הָעָם הָֽאֲנָשִׁים וְהַנָּשִׁים וְהַטַּף וְגֵרְךָ אֲשֶׁר בִּשְׁעָרֶיךָ לְמַעַן יִשְׁמְעוּ וּלְמַעַן יִלְמְדוּ וְיָֽרְאוּ אֶת־יְהוָה אֱלֹֽהֵיכֶם וְשָֽׁמְרוּ לַעֲשׂוֹת אֶת־כָּל־דִּבְרֵי הַתּוֹרָה הַזֹּֽאת׃</span>
+>
+> Deuteronomy 31:13 — <span dir="rtl" lang="he">וּבְנֵיהֶם אֲשֶׁר לֹֽא־יָדְעוּ יִשְׁמְעוּ וְלָמְדוּ לְיִרְאָה אֶת־יְהוָה אֱלֹהֵיכֶם כָּל־הַיָּמִים אֲשֶׁר אַתֶּם חַיִּים עַל־הָאֲדָמָה אֲשֶׁר אַתֶּם עֹבְרִים אֶת־הַיַּרְדֵּן שָׁמָּה לְרִשְׁתָּֽהּ׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Deuteronomy 31:9 — ¶ And Moses wrote this law, and delivered it unto the priests the sons of Levi, which bare the ark of the covenant of the LORD, and unto all the elders of Israel.
+>
+> Deuteronomy 31:10 — And Moses commanded them, saying, At the end of [every] seven years, in the solemnity of the year of release, in the feast of tabernacles,
+>
+> Deuteronomy 31:11 — When all Israel is come to appear before the LORD thy God in the place which he shall choose, thou shalt read this law before all Israel in their hearing.
+>
+> Deuteronomy 31:12 — Gather the people together, men, and women, and children, and thy stranger that [is] within thy gates, that they may hear, and that they may learn, and fear the LORD your God, and observe to do all the words of this law:
+>
+> Deuteronomy 31:13 — And [that] their children, which have not known [any thing], may hear, and learn to fear the LORD your God, as long as ye live in the land whither ye go over Jordan to possess it.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Deuteronomy 31:9 — Καὶ ἔγραψε Μωυσῆς τὰ ῥήματα τοῦ νόμου τούτου εἰς βιβλίον, καὶ ἔδωκε τοῖς ἱερεῦσι τοῖς υἱοῖς Λευὶ τοῖς αἴρουσι τὴν κιβωτὸν τῆς διαθήκης Κυρίου, καὶ τοῖς πρεσβυτέροις τῶν υἱῶν Ἰσραήλ.
+>
+> Deuteronomy 31:10 — Καὶ ἐνετείλατο Μωυσῆς αὐτοῖς ἐν τῇ ἡμέρᾳ ἐκείνῃ, λέγων, μετὰ ἑπτὰ ἔτη ἐν καιρῷ ἐνιαυτοῦ ἀφέσεως ἐν ἑορτῇ σκηνοπηγίας,
+>
+> Deuteronomy 31:11 — ἐν τῷ συμπορεύεσθαι πάντα Ἰσραὴλ ὀφθῆναι ἐνώπιον Κύριου τοῦ Θεοῦ ὑμῶν, ἐν τῷ τόπῳ ᾧ ἂν ἐκλέξηται Κύριος, ἀναγνώσεσθε τὸν νόμον τοῦτον ἐναντίον παντὸς Ἰσραὴλ εἰς τὰ ὦτα αὐτῶν,
+>
+> Deuteronomy 31:12 — ἐκκλησιάσας τὸν λαὸν, τοὺς ἄνδρας καὶ τὰς γυναῖκας καὶ τὰ ἔκγονα καὶ τὸν προσήλυτον τὸν ἐν ταῖς πόλεσιν ὑμῶν, ἵνʼ ἀκούσωσι, καὶ ἵνα μάθωσι φοβεῖσθαι Κύριον τὸν Θεὸν ὑμῶν· καὶ ἀκούσονται ποιεῖν πάντας τοὺς λόγους τοῦ νόμου τούτου.
+>
+> Deuteronomy 31:13 — Καὶ οἱ υἱοὶ αὐτῶν οἳ οὐκ οἴδασιν, ἀκούσονται, καὶ μαθήσονται φοβεῖσθαι Κύριον τὸν Θεόν σου πάσας τὰς ἡμέρας ὅσας αὐτοὶ ζῶσιν ἐπὶ τῆς γῆς, εἰς ἣν ὑμεῖς διαβαίνετε τὸν Ἰορδάνην ἐκεῖ κληρονομῆσαι αὐτήν.
+
+**English of the Greek (Brenton, 1851)**
+
+> Deuteronomy 31:9 — And Moses wrote the words of this law in a book, and gave it to the priests the sons of Levi who bear the ark of the covenant of the Lord, and to the elders of the sons of Israel.
+>
+> Deuteronomy 31:10 — And Moses charged them in that day, saying, After seven years, in the time of the year of release, in the feast of tabernacles,
+>
+> Deuteronomy 31:11 — when all Israel come together to appear before the Lord your God, in the place which the Lord shall choose, ye shall read this law before all Israel in their ears,
+>
+> Deuteronomy 31:12 — having assembled the people, the men, and the women, and the children, and the stranger that is in your cities, that they may hear, and that they may learn to fear the Lord your God; and they shall hearken to do all the words of this law.
+>
+> Deuteronomy 31:13 — And their sons who have not known shall hear, and shall learn to fear the Lord thy God all the days that they live upon the land, into which ye go over Jordan to inherit it.
+
+**Hebrew and Greek compared.**
+
+The Greek reads "the words of this law in a book" for "this law" (31:9).
+
+**Notes.**
+
+Writing, custody by the priests and elders, and public reading at fixed
+intervals are joined in one institution, whose stated purpose is the next
+generation.
+
+### Deuteronomy 31:19-22
+
+<a id="deut-31-19"></a>
+
+**Claim.** Write ye this song, and teach it the children of Israel; "it shall not be
+forgotten out of the mouths of their seed."
+
+
+**Speaker:** God · **Role:** claim · **Categories:** Inscripturation, Transmission to later generations · **Object:** this song (Deuteronomy 32)
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Deuteronomy 31:19 — <span dir="rtl" lang="he">וְעַתָּה כִּתְבוּ לָכֶם אֶת־הַשִּׁירָה הַזֹּאת וְלַמְּדָהּ אֶת־בְּנֵי־יִשְׂרָאֵל שִׂימָהּ בְּפִיהֶם לְמַעַן תִּהְיֶה־לִּי הַשִּׁירָה הַזֹּאת לְעֵד בִּבְנֵי יִשְׂרָאֵֽל׃</span>
+>
+> Deuteronomy 31:20 — <span dir="rtl" lang="he">כִּֽי־אֲבִיאֶנּוּ אֶֽל־הָאֲדָמָה ׀ אֲשֶׁר־נִשְׁבַּעְתִּי לַאֲבֹתָיו זָבַת חָלָב וּדְבַשׁ וְאָכַל וְשָׂבַע וְדָשֵׁן וּפָנָה אֶל־אֱלֹהִים אֲחֵרִים וַעֲבָדוּם וְנִאֲצוּנִי וְהֵפֵר אֶת־בְּרִיתִֽי׃</span>
+>
+> Deuteronomy 31:21 — <span dir="rtl" lang="he">וְהָיָה כִּֽי־תִמְצֶאןָ אֹתוֹ רָעוֹת רַבּוֹת וְצָרוֹת וְעָנְתָה הַשִּׁירָה הַזֹּאת לְפָנָיו לְעֵד כִּי לֹא תִשָּׁכַח מִפִּי זַרְעוֹ כִּי יָדַעְתִּי אֶת־יִצְרוֹ אֲשֶׁר הוּא עֹשֶׂה הַיּוֹם בְּטֶרֶם אֲבִיאֶנּוּ אֶל־הָאָרֶץ אֲשֶׁר נִשְׁבָּֽעְתִּי׃</span>
+>
+> Deuteronomy 31:22 — <span dir="rtl" lang="he">וַיִּכְתֹּב מֹשֶׁה אֶת־הַשִּׁירָה הַזֹּאת בַּיּוֹם הַהוּא וַֽיְלַמְּדָהּ אֶת־בְּנֵי יִשְׂרָאֵֽל׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Deuteronomy 31:19 — Now therefore write ye this song for you, and teach it the children of Israel: put it in their mouths, that this song may be a witness for me against the children of Israel.
+>
+> Deuteronomy 31:20 — For when I shall have brought them into the land which I sware unto their fathers, that floweth with milk and honey; and they shall have eaten and filled themselves, and waxen fat; then will they turn unto other gods, and serve them, and provoke me, and break my covenant.
+>
+> Deuteronomy 31:21 — And it shall come to pass, when many evils and troubles are befallen them, that this song shall testify against them as a witness; for it shall not be forgotten out of the mouths of their seed: for I know their imagination which they go about, even now, before I have brought them into the land which I sware.
+>
+> Deuteronomy 31:22 — ¶ Moses therefore wrote this song the same day, and taught it the children of Israel.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Deuteronomy 31:19 — Καὶ νῦν γράψατε τὰ ῥήματα τῆς ᾠδῆς ταύτης, καὶ διδάξατε αὐτὴν τοὺς υἱοὺς Ἰσραὴλ, καὶ ἐμβαλεῖτε αὐτὴν εἰς τὸ στόμα αὐτῶν, ἵνα γένηταί μοι ἡ ᾠδὴ αὕτη κατὰ πρόσωπον μαρτυροῦσα ἐν υἱοῖς Ἰσραήλ.
+>
+> Deuteronomy 31:20 — Εἰσάξω γὰρ αὐτοὺς εἰς τὴν γῆν τὴν ἀγαθὴν, ἣν ὤμοσα τοῖς πατράσιν αὐτῶν, δοῦναι αὐτοῖς γῆν ῥέουσαν γάλα καὶ μέλι, καὶ φάγονται, καὶ ἐμπλησθέντες κορήσουσι, καὶ ἐπιστραφήσονται ἐπὶ θεοὺς ἀλλοτρίους, καὶ λατρεύσουσιν αὐτοῖς, καὶ παροξυνοῦσί με, καὶ διασκεδάσουσι τὴν διαθήκην μου.
+>
+> Deuteronomy 31:21 — Καὶ ἀντικαταστήσεται ἡ ᾠδὴ αὕτη κατὰ πρόσωπον μαρτυροῦσα· οὐ γὰρ μὴ ἐπιλησθῇ ἀπὸ στόματος αὐτῶν, καὶ ἀπὸ στόματος τοῦ σπέρματος αὐτῶν· ἐγὼ γὰρ οἶδα τὴν πονηρίαν αὐτῶν, ὅσα ποιοῦσιν ὧδε σήμερον, πρὸ τοῦ εἰσαγαγεῖν με αὐτοὺς εἰς τὴν γῆν τὴν ἀγαθὴν, ἣν ὤμοσα τοῖς πατράσιν αὐτῶν.
+>
+> Deuteronomy 31:22 — Καὶ ἔγραψε Μωυσῆς τὴν ᾠδὴν ταύτην ἐν ἐκείνῃ τῇ ἡμέρᾳ, καὶ ἐδίδαξεν αὐτὴν τοὺς υἱοὺς Ἰσραήλ.
+
+**English of the Greek (Brenton, 1851)**
+
+> Deuteronomy 31:19 — And now write the words of this song, and teach it to the children of Israel, and ye shall put it into their mouth, that this song may witness for me among the children of Israel to their face.
+>
+> Deuteronomy 31:20 — For I will bring them into the good land, which I sware to their fathers, to give to them a land flowing with milk and honey: and they shall eat and be filled and satisfy [themselves]; then will they turn aside after other gods, and serve them, and they will provoke me, and break my covenant.
+>
+> Deuteronomy 31:21 — And this song shall stand up to witness against them; for they shall not forget it out of their mouth, or out of the mouth of their seed; for I know their wickedness, what they are doing here this day, before I have brought them into the good land, which I sware to their fathers.
+>
+> Deuteronomy 31:22 — And Moses wrote this song in that day, and taught it to the children of Israel.
+
+**Hebrew and Greek compared.**
+
+The Hebrew of 31:21 has "it shall not be forgotten out of the mouth of his
+seed" (לֹא תִשָּׁכַח מִפִּי זַרְעוֹ). The Greek strengthens the negation
+and widens it: "it shall surely not be forgotten (οὐ γὰρ μὴ ἐπιλησθῇ) from
+their mouth and from the mouth of their seed".
+
+**Notes.**
+
+God's own promise that a written and taught text will remain in the
+mouths of Israel's descendants, even when they have turned away; it
+will then "testify against them as a witness". With Isaiah 59:21 this is
+one of two Old Testament promises that God's words will stay in the
+mouth of later generations. Its object is one song, and the promise is
+given as a witness against unfaithfulness.
 
 ### Deuteronomy 31:24-26
 
@@ -472,6 +1040,59 @@ Substantially the same. The Greek adds "and then thou shalt understand" for "the
 A command to Joshua, not a promise; the verb is the one God uses as a
 promise in Isaiah 59:21 ("shall not depart out of thy mouth").
 
+### Joshua 8:32, 34-35
+
+<a id="josh-8-32"></a>
+
+**Claim.** Joshua wrote on the stones a copy of the law of Moses, and read all the
+words of the law; "there was not a word of all that Moses commanded, which
+Joshua read not" before all the congregation.
+
+
+**Speaker:** Narrator · **Role:** means · **Categories:** Inscripturation, Transmission to later generations · **Object:** the law of Moses
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Joshua 8:32 — <span dir="rtl" lang="he">וַיִּכְתָּב־שָׁם עַל־הָאֲבָנִים אֵת מִשְׁנֵה תּוֹרַת מֹשֶׁה אֲשֶׁר כָּתַב לִפְנֵי בְּנֵי יִשְׂרָאֵֽל׃</span>
+>
+> Joshua 8:34 — <span dir="rtl" lang="he">וְאַֽחֲרֵי־כֵן קָרָא אֶת־כָּל־דִּבְרֵי הַתּוֹרָה הַבְּרָכָה וְהַקְּלָלָה כְּכָל־הַכָּתוּב בְּסֵפֶר הַתּוֹרָֽה׃</span>
+>
+> Joshua 8:35 — <span dir="rtl" lang="he">לֹֽא־הָיָה דָבָר מִכֹּל אֲשֶׁר־צִוָּה מֹשֶׁה אֲשֶׁר לֹֽא־קָרָא יְהוֹשֻׁעַ נֶגֶד כָּל־קְהַל יִשְׂרָאֵל וְהַנָּשִׁים וְהַטַּף וְהַגֵּר הַהֹלֵךְ בְּקִרְבָּֽם׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Joshua 8:32 — ¶ And he wrote there upon the stones a copy of the law of Moses, which he wrote in the presence of the children of Israel.
+>
+> Joshua 8:34 — And afterward he read all the words of the law, the blessings and cursings, according to all that is written in the book of the law.
+>
+> Joshua 8:35 — There was not a word of all that Moses commanded, which Joshua read not before all the congregation of Israel, with the women, and the little ones, and the strangers that were conversant among them.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Joshua 9:2c — Καὶ ἔγραψεν Ἰησοῦς ἐπὶ τῶν λίθων τὸ δευτερονόμιον, νόμον Μωυσῆ, ἐνώπιον τῶν υἱῶν Ἰσραήλ.
+>
+> Joshua 9:2e — Καὶ μετὰ ταῦτα οὕτως ἀνέγνω Ἰησοῦς πάντα τὰ ῥήματα τοῦ νόμου τούτου, τὰς εὐλογίας καὶ τὰς κατάρας, κατὰ πάντα τὰ γεγραμμένα ἐν τῷ νόμῳ Μωυσῆ.
+>
+> Joshua 9:2f — Οὐκ ἦν ῥῆμα ἀπὸ πάντων ὧν ἐνετείλατο Μωυσῆς τῷ Ἰησοῖ, ὃ οὐκ ἀνέγνω Ἰησοῦς εἰς τὰ ὦτα πάσης ἐκκλησίας υἱῶν Ἰσραὴλ, τοῖς ἀνδράσι καὶ ταῖς γυναιξὶ καὶ τοῖς παιδίοις καὶ τοῖς προσηλύτοις τοῖς προσπορευομένοις τῷ Ἰσραήλ.
+
+**English of the Greek (Brenton, 1851)**
+
+> Joshua 9:2c — And Joshua wrote upon the stones a copy of the law, [even] the law of Moses, before the children of Israel.
+>
+> Joshua 9:2e — And afterwards Joshua read accordingly all the words of this law, the blessings and the curses, according to all things written in the law of Moses.
+>
+> Joshua 9:2f — There was not a word of all that Moses charged Joshua, which Joshua read not in the ears of all the assembly of the children of Israel, the men, and the women, and the children, and the strangers that joined themselves to Israel.
+
+**Hebrew and Greek compared.**
+
+The Greek places the passage after 9:2 (Brenton's 9:2a-f). "A copy
+(מִשְׁנֵה) of the law" is again τὸ δευτερονόμιον, as in Deuteronomy 17:18.
+
+**Notes.**
+
+The command of Deuteronomy 27 carried out. The narrator stresses
+completeness ("not a word … which Joshua read not").
+
 ### Joshua 21:45; 23:14
 
 <a id="josh-21-45"></a>
@@ -517,6 +1138,41 @@ Joshua's own speech.
 
 The "falling" idiom for failure is the background of Luke 16:17 ("one tittle of the law to fall", πεσεῖν).
 
+### Joshua 24:26
+
+<a id="josh-24-26"></a>
+
+**Claim.** Joshua wrote these words in the book of the law of God.
+
+**Speaker:** Narrator · **Role:** means · **Categories:** Inscripturation · **Object:** the book of the law of God
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Joshua 24:26 — <span dir="rtl" lang="he">וַיִּכְתֹּב יְהוֹשֻׁעַ אֶת־הַדְּבָרִים הָאֵלֶּה בְּסֵפֶר תּוֹרַת אֱלֹהִים וַיִּקַּח אֶבֶן גְּדוֹלָה וַיְקִימֶהָ שָּׁם תַּחַת הָֽאַלָּה אֲשֶׁר בְּמִקְדַּשׁ יְהוָֽה׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Joshua 24:26 — ¶ And Joshua wrote these words in the book of the law of God, and took a great stone, and set it up there under an oak, that [was] by the sanctuary of the LORD.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Joshua 24:26 — Καὶ ἔγραψε τὰ ῥήματα ταῦτα εἰς βιβλίον νόμων τοῦ Θεοῦ· καὶ ἔλαβε λίθον μέγαν, καὶ ἔστησεν αὐτὸν Ἰησοῦς ὑπὸ τὴν τέρμινθον ἀπέναντι Κυρίου.
+
+**English of the Greek (Brenton, 1851)**
+
+> Joshua 24:26 — And he wrote these words in the book of the laws of God: and Joshua took a great stone, and set it up under the oak before the Lord.
+
+**Hebrew and Greek compared.**
+
+The Greek reads "the book of the laws of God" (βιβλίον νόμων τοῦ Θεοῦ).
+
+**Notes.**
+
+**[inferred]** A writing added to "the book of the law of God" after
+Moses. The book is presented as one that could receive further inspired
+writing, as Jeremiah 36:32 also shows ("there were added besides unto
+them many like words").
+
 ### 1 Samuel 3:19
 
 <a id="1sam-3-19"></a>
@@ -546,6 +1202,184 @@ The "falling" idiom for failure is the background of Luke 16:17 ("one tittle of 
 The Hebrew is causative, with the LORD as subject: "he let none of his
 words fall" (וְלֹא־הִפִּיל). The Greek is intransitive: "there fell not
 any of his words to the ground" (οὐκ ἔπεσεν).
+
+### 1 Samuel 10:25
+
+<a id="1sam-10-25"></a>
+
+**Claim.** Samuel told the people the manner of the kingdom, and wrote it in a book, and laid it up before the LORD.
+
+**Speaker:** Narrator · **Role:** means · **Categories:** Inscripturation, Custody · **Object:** the manner of the kingdom
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> 1 Samuel 10:25 — <span dir="rtl" lang="he">וַיְדַבֵּר שְׁמוּאֵל אֶל־הָעָם אֵת מִשְׁפַּט הַמְּלֻכָה וַיִּכְתֹּב בַּסֵּפֶר וַיַּנַּח לִפְנֵי יְהוָה וַיְשַׁלַּח שְׁמוּאֵל אֶת־כָּל־הָעָם אִישׁ לְבֵיתֽוֹ׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> 1 Samuel 10:25 — Then Samuel told the people the manner of the kingdom, and wrote [it] in a book, and laid [it] up before the LORD. And Samuel sent all the people away, every man to his house.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> 1 Samuel 10:25 — Καὶ εἶπε Σαμουὴλ πρὸς τὸν λαὸν τὸ δικαίωμα τοῦ βασιλέως, καὶ ἔγραψεν ἐν βιβλίῳ, καὶ ἔθηκεν ἐνώπιον Κυρίου· καὶ ἐξαπέστειλε Σαμουὴλ πάντα τὸν λαόν, καὶ ἀπῆλθεν ἕκαστος εἰς τὸν τόπον αὐτοῦ.
+
+**English of the Greek (Brenton, 1851)**
+
+> 1 Samuel 10:25 — And Samuel told to the people the manner of the king, and wrote it in a book, and set it before the Lord: and Samuel sent away all the people, and each went to his place.
+
+**Hebrew and Greek compared.**
+
+The same; the Greek reads "the ordinance of the king" (τὸ δικαίωμα τοῦ βασιλέως).
+
+**Notes.**
+
+A written text deposited "before the LORD", like the book of the law beside the ark (Deuteronomy 31:26).
+
+### 2 Samuel 7:25, 28; 1 Chronicles 17:23
+
+<a id="2sam-7-25"></a>
+
+**Claim.** "The word that thou hast spoken … establish it for ever"; "thou art that God, and thy words be true."
+
+**Speaker:** Another speaker · **Role:** claim · **Categories:** Fulfilment, Purity and truth · **Object:** the word God spoke concerning David's house
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> 2 Samuel 7:25 — <span dir="rtl" lang="he">וְעַתָּה יְהוָה אֱלֹהִים הַדָּבָר אֲשֶׁר דִּבַּרְתָּ עַֽל־עַבְדְּךָ וְעַל־בֵּיתוֹ הָקֵם עַד־עוֹלָם וַעֲשֵׂה כַּאֲשֶׁר דִּבַּֽרְתָּ׃</span>
+>
+> 2 Samuel 7:28 — <span dir="rtl" lang="he">וְעַתָּה ׀ אֲדֹנָי יְהוִה אַתָּה־הוּא הָֽאֱלֹהִים וּדְבָרֶיךָ יִהְיוּ אֱמֶת וַתְּדַבֵּר אֶֽל־עַבְדְּךָ אֶת־הַטּוֹבָה הַזֹּֽאת׃</span>
+>
+> 1 Chronicles 17:23 — <span dir="rtl" lang="he">וְעַתָּה יְהוָה הַדָּבָר אֲשֶׁר דִּבַּרְתָּ עַֽל־עַבְדְּךָ וְעַל־בֵּיתוֹ יֵאָמֵן עַד־עוֹלָם וַעֲשֵׂה כַּאֲשֶׁר דִּבַּֽרְתָּ׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> 2 Samuel 7:25 — And now, O LORD God, the word that thou hast spoken concerning thy servant, and concerning his house, establish [it] for ever, and do as thou hast said.
+>
+> 2 Samuel 7:28 — And now, O Lord GOD, thou [art] that God, and thy words be true, and thou hast promised this goodness unto thy servant:
+>
+> 1 Chronicles 17:23 — Therefore now, LORD, let the thing that thou hast spoken concerning thy servant and concerning his house be established for ever, and do as thou hast said.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> 2 Samuel 7:25 — Καὶ νῦν, κύριέ μου, ῥῆμα ὃ ἐλάλησας περὶ τοῦ δούλου σου καὶ τοῦ οἴκου αὐτοῦ, πίστωσον ἕως τοῦ αἰῶνος, Κύριε παντοκράτωρ θεὲ τοῦ Ἰσραήλ· καὶ νῦν καθὼς ἐλάλησας,
+>
+> 2 Samuel 7:28 — Καὶ νῦν, Κύριέ μου Κύριε, σὺ εἶ Θεὸς, καὶ οἱ λόγοι σου ἔσονται ἀληθιναὶ, καὶ ἐλάλησας ὑπὲρ τοῦ δούλου σου τὰ ἀγαθὰ ταῦτα.
+>
+> 1 Chronicles 17:23 — Καὶ νῦν, Κύριε, ὁ λόγος σου ὅν ἐλάλησας πρὸς τὸν παῖδά σου καὶ ἐπὶ τὸν οἶκον αὐτοῦ, πιστωθήτω ἕως αἰῶνος· καὶ ποιήσον καθὼς ἐλάλησας,
+
+**English of the Greek (Brenton, 1851)**
+
+> 2 Samuel 7:25 — And now, O my Lord, the Almighty Lord God of Israel, confirm the word for ever which thou hast spoken concerning thy servant and his house: and now as thou hast said,
+>
+> 2 Samuel 7:28 — And now, O Lord my Lord, thou art God; and thy words will be true, and thou hast spoken these good things concerning thy servant.
+>
+> 1 Chronicles 17:23 — And now, Lord, let the word which thou spokest to thy servant, and concerning his house, be confirmed for ever, and do thou as thou hast spoken.
+
+**Hebrew and Greek compared.**
+
+For "establish it for ever" (הָקֵם עַד־עוֹלָם) the Greek of 2 Samuel has
+"make it sure for ever" (πίστωσον ἕως τοῦ αἰῶνος), the verb the Hebrew of
+1 Chronicles 17:23 uses (יֵאָמֵן, Greek πιστωθήτω).
+
+**Notes.**
+
+David's prayer after Nathan's oracle. He asks God to "establish for ever"
+(הָקֵם עַד־עוֹלָם) the word, and grounds the request in the truth of God's
+words.
+
+### 2 Samuel 22:31; Psalm 18:30
+
+<a id="2sam-22-31"></a>
+
+**Claim.** The word of the LORD is tried (צְרוּפָה, refined as metal).
+
+**Speaker:** Psalmist · **Role:** claim · **Categories:** Purity and truth · **Object:** the word of the LORD
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> 2 Samuel 22:31 — <span dir="rtl" lang="he">הָאֵל תָּמִים דַּרְכּוֹ אִמְרַת יְהוָה צְרוּפָה מָגֵן הוּא לְכֹל הַחֹסִים בּֽוֹ׃</span>
+>
+> Psalm 18:31 — <span dir="rtl" lang="he">הָאֵל תָּמִים דַּרְכּוֹ אִמְרַֽת־יְהוָה צְרוּפָה מָגֵן הוּא לְכֹל ׀ הַחֹסִים בּֽוֹ׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> 2 Samuel 22:31 — [As for] God, his way [is] perfect; the word of the LORD [is] tried: he [is] a buckler to all them that trust in him.
+>
+> Psalm 18:30 — [As for] God, his way [is] perfect: the word of the LORD is tried: he [is] a buckler to all those that trust in him.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> 2 Samuel 22:31 — Ὁ ἰσχυρὸς ἄμωμος ἡ ὁδὸς αὐτοῦ· τὸ ῥῆμα Κυρίου κραταιὸν πεπυρωμένον· ὑπερασπιστής ἐστι πᾶσι τοῖς πεποιθόσιν ἐπʼ αὐτόν.
+>
+> Psalm 17:31 — Ὁ Θεός μου, ἄμωμος ἡ ὁδὸς αὐτοῦ, τὰ λόγια Κυρίου πεπυρωμένα, ὑπερασπιστής ἐστι πάντων τῶν ἐλπιζόντων ἐπʼ αὐτόν.
+
+**English of the Greek (Brenton, 1851)**
+
+> 2 Samuel 22:31 — As for the Mighty One, his way [is] blameless: the word of the Lord [is] strong [and] tried in the fire: he is a protector to all that put their trust in him.
+>
+> Psalm 17:31 — [As for] my God, his way is perfect: the oracles of the Lord are tried in the fire; he is a protector of all them that hope in him.
+
+**Hebrew and Greek compared.**
+
+The Hebrew has the singular "word" (אִמְרַת) in both places. The Greek of
+Psalm 17:31 has the plural "oracles" (τὰ λόγια … πεπυρωμένα); the Greek of
+2 Samuel adds "strong": "the word of the Lord is strong, tried" (κραταιὸν
+πεπυρωμένον).
+
+### 1 Kings 8:20, 24, 26
+
+<a id="1kgs-8-24"></a>
+
+**Claim.** "The LORD hath performed his word that he spake"; "thou spakest with thy
+mouth, and hast fulfilled it with thine hand"; "let thy word, I pray thee,
+be verified."
+
+
+**Speaker:** Another speaker · **Role:** claim · **Categories:** Fulfilment · **Object:** the word God spoke to David
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> 1 Kings 8:20 — <span dir="rtl" lang="he">וַיָּקֶם יְהוָה אֶת־דְּבָרוֹ אֲשֶׁר דִּבֵּר וָאָקֻם תַּחַת דָּוִד אָבִי וָאֵשֵׁב עַל־כִּסֵּא יִשְׂרָאֵל כַּֽאֲשֶׁר דִּבֶּר יְהוָה וָאֶבְנֶה הַבַּיִת לְשֵׁם יְהוָה אֱלֹהֵי יִשְׂרָאֵֽל׃</span>
+>
+> 1 Kings 8:24 — <span dir="rtl" lang="he">אֲשֶׁר שָׁמַרְתָּ לְעַבְדְּךָ דָּוִד אָבִי אֵת אֲשֶׁר־דִּבַּרְתָּ לוֹ וַתְּדַבֵּר בְּפִיךָ וּבְיָדְךָ מִלֵּאתָ כַּיּוֹם הַזֶּֽה׃</span>
+>
+> 1 Kings 8:26 — <span dir="rtl" lang="he">וְעַתָּה אֱלֹהֵי יִשְׂרָאֵל יֵאָמֶן נָא דבריך אֲשֶׁר דִּבַּרְתָּ לְעַבְדְּךָ דָּוִד אָבִֽי׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> 1 Kings 8:20 — And the LORD hath performed his word that he spake, and I am risen up in the room of David my father, and sit on the throne of Israel, as the LORD promised, and have built an house for the name of the LORD God of Israel.
+>
+> 1 Kings 8:24 — Who hast kept with thy servant David my father that thou promisedst him: thou spakest also with thy mouth, and hast fulfilled [it] with thine hand, as [it is] this day.
+>
+> 1 Kings 8:26 — And now, O God of Israel, let thy word, I pray thee, be verified, which thou spakest unto thy servant David my father.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> 1 Kings 8:20 — Καὶ ἀνέστησε Κύριος τὸ ῥῆμα αὐτοῦ ὃ ἐλάλησε· καὶ ἀνέστην ἀντὶ Δαυὶδ τοῦ πατρός μου, καὶ ἐκάθισα ἐπὶ τοῦ θρόνου Ἰσραὴλ, καθὼς ἐλάλησε Κύριος, καὶ ᾠκοδόμησα τὸν οἶκον τῷ ὀνόματι Κυρίου Θεοῦ Ἰσραήλ.
+>
+> 1 Kings 8:24 — ἃ ἐφύλαξας τῷ δούλῳ σου Δαυὶδ τῷ πατρί μου· καὶ γὰρ ἐλάλησας ἐν τῷ στόματί σου, καὶ ἐν χερσί σου ἐπλήρωσας, ὡς ἡ ἡμέρα αὕτη.
+>
+> 1 Kings 8:26 — Καὶ νῦν, Κύριε ὁ Θεὸς Ἰσραὴλ, πιστωθήτω δὴ τὸ ῥῆμά σου τῷ Δαυὶδ τῷ πατρί μου.
+
+**English of the Greek (Brenton, 1851)**
+
+> 1 Kings 8:20 — And the Lord has confirmed the word that he spoke, and I am risen up in the place of my father David, and I have sat down on the throne of Israel, as the Lord spoke, and I have built the house to the name of the Lord God of Israel.
+>
+> 1 Kings 8:24 — which thou hast kept toward thy servant David my father: for thou hast spoken by thy mouth and thou hast fulfilled it with thine hands, as [at] this day.
+>
+> 1 Kings 8:26 — And now, O Lord God of Israel, let, I pray thee, thy word to David my father be confirmed.
+
+**Hebrew and Greek compared.**
+
+The Greek "let thy word be confirmed" (πιστωθήτω δὴ τὸ ῥῆμά σου) renders
+the Hebrew closely; in 8:20 "the LORD hath performed his word" is ἀνέστησε
+Κύριος τὸ ῥῆμα αὐτοῦ, "raised up".
+
+**Notes.**
+
+Solomon's prayer at the dedication of the temple, in the same chapter as
+8:56. "Be verified" is יֵאָמֶן, "be confirmed, prove true", from the root
+of "amen".
 
 ### 1 Kings 8:56
 
@@ -615,44 +1449,320 @@ by word.
 
 Jehu is the speaker, justifying the slaughter of Ahab's house.
 
-### 2 Samuel 22:31; Psalm 18:30
+### 2 Kings 22:8, 11, 13; 23:2-3; 2 Chronicles 34:14-15, 21
 
-<a id="2sam-22-31"></a>
+<a id="2kgs-22-8"></a>
 
-**Claim.** The word of the LORD is tried (צְרוּפָה, refined as metal).
+**Claim.** Hilkiah the priest found "the book of the law in the house of the LORD";
+when it was read to Josiah he rent his clothes, "because our fathers have
+not hearkened unto the words of this book"; the king read it to all the
+people.
 
-**Speaker:** Psalmist · **Role:** claim · **Categories:** Purity and truth · **Object:** the word of the LORD
+
+**Speaker:** Narrator · **Role:** means · **Categories:** Loss among men, Restoration after loss, Custody · **Object:** the book of the law found in the temple
 
 **Hebrew (Masoretic Text, Westminster Leningrad Codex)**
 
-> 2 Samuel 22:31 — <span dir="rtl" lang="he">הָאֵל תָּמִים דַּרְכּוֹ אִמְרַת יְהוָה צְרוּפָה מָגֵן הוּא לְכֹל הַחֹסִים בּֽוֹ׃</span>
+> 2 Kings 22:8 — <span dir="rtl" lang="he">וַיֹּאמֶר חִלְקִיָּהוּ הַכֹּהֵן הַגָּדוֹל עַל־שָׁפָן הַסֹּפֵר סֵפֶר הַתּוֹרָה מָצָאתִי בְּבֵית יְהוָה וַיִּתֵּן חִלְקִיָּה אֶת־הַסֵּפֶר אֶל־שָׁפָן וַיִּקְרָאֵֽהוּ׃</span>
 >
-> Psalm 18:31 — <span dir="rtl" lang="he">הָאֵל תָּמִים דַּרְכּוֹ אִמְרַֽת־יְהוָה צְרוּפָה מָגֵן הוּא לְכֹל ׀ הַחֹסִים בּֽוֹ׃</span>
+> 2 Kings 22:11 — <span dir="rtl" lang="he">וַֽיְהִי כִּשְׁמֹעַ הַמֶּלֶךְ אֶת־דִּבְרֵי סֵפֶר הַתּוֹרָה וַיִּקְרַע אֶת־בְּגָדָֽיו׃</span>
+>
+> 2 Kings 22:13 — <span dir="rtl" lang="he">לְכוּ דִרְשׁוּ אֶת־יְהוָה בַּעֲדִי וּבְעַד־הָעָם וּבְעַד כָּל־יְהוּדָה עַל־דִּבְרֵי הַסֵּפֶר הַנִּמְצָא הַזֶּה כִּֽי־גְדוֹלָה חֲמַת יְהוָה אֲשֶׁר־הִיא נִצְּתָה בָנוּ עַל אֲשֶׁר לֹֽא־שָׁמְעוּ אֲבֹתֵינוּ עַל־דִּבְרֵי הַסֵּפֶר הַזֶּה לַעֲשׂוֹת כְּכָל־הַכָּתוּב עָלֵֽינוּ׃</span>
+>
+> 2 Kings 23:2 — <span dir="rtl" lang="he">וַיַּעַל הַמֶּלֶךְ בֵּית־יְהוָה וְכָל־אִישׁ יְהוּדָה וְכָל־יֹשְׁבֵי יְרוּשָׁלִַם אִתּוֹ וְהַכֹּֽהֲנִים וְהַנְּבִיאִים וְכָל־הָעָם לְמִקָּטֹן וְעַד־גָּדוֹל וַיִּקְרָא בְאָזְנֵיהֶם אֶת־כָּל־דִּבְרֵי סֵפֶר הַבְּרִית הַנִּמְצָא בְּבֵית יְהוָֽה׃</span>
+>
+> 2 Kings 23:3 — <span dir="rtl" lang="he">וַיַּעֲמֹד הַמֶּלֶךְ עַֽל־הָעַמּוּד וַיִּכְרֹת אֶֽת־הַבְּרִית ׀ לִפְנֵי יְהוָה לָלֶכֶת אַחַר יְהוָה וְלִשְׁמֹר מִצְוֺתָיו וְאֶת־עֵדְוֺתָיו וְאֶת־חֻקֹּתָיו בְּכָל־לֵב וּבְכָל־נֶפֶשׁ לְהָקִים אֶת־דִּבְרֵי הַבְּרִית הַזֹּאת הַכְּתֻבִים עַל־הַסֵּפֶר הַזֶּה וַיַּעֲמֹד כָּל־הָעָם בַּבְּרִֽית׃</span>
+>
+> 2 Chronicles 34:14 — <span dir="rtl" lang="he">וּבְהוֹצִיאָם אֶת־הַכֶּסֶף הַמּוּבָא בֵּית יְהוָה מָצָא חִלְקִיָּהוּ הַכֹּהֵן אֶת־סֵפֶר תּֽוֹרַת־יְהוָה בְּיַד־מֹשֶֽׁה׃</span>
+>
+> 2 Chronicles 34:15 — <span dir="rtl" lang="he">וַיַּעַן חִלְקִיָּהוּ וַיֹּאמֶר אֶל־שָׁפָן הַסּוֹפֵר סֵפֶר הַתּוֹרָה מָצָאתִי בְּבֵית יְהוָה וַיִּתֵּן חִלְקִיָּהוּ אֶת־הַסֵּפֶר אֶל־שָׁפָֽן׃</span>
+>
+> 2 Chronicles 34:21 — <span dir="rtl" lang="he">לְכוּ דִרְשׁוּ אֶת־יְהוָה בַּעֲדִי וּבְעַד הַנִּשְׁאָר בְּיִשְׂרָאֵל וּבִֽיהוּדָה עַל־דִּבְרֵי הַסֵּפֶר אֲשֶׁר נִמְצָא כִּֽי־גְדוֹלָה חֲמַת־יְהוָה אֲשֶׁר נִתְּכָה בָנוּ עַל אֲשֶׁר לֹא־שָׁמְרוּ אֲבוֹתֵינוּ אֶת־דְּבַר יְהוָה לַעֲשׂוֹת כְּכָל־הַכָּתוּב עַל־הַסֵּפֶר הַזֶּֽה׃</span>
 
 **English of the Hebrew (KJV, 1769)**
 
-> 2 Samuel 22:31 — [As for] God, his way [is] perfect; the word of the LORD [is] tried: he [is] a buckler to all them that trust in him.
+> 2 Kings 22:8 — ¶ And Hilkiah the high priest said unto Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah gave the book to Shaphan, and he read it.
 >
-> Psalm 18:30 — [As for] God, his way [is] perfect: the word of the LORD is tried: he [is] a buckler to all those that trust in him.
+> 2 Kings 22:11 — And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes.
+>
+> 2 Kings 22:13 — Go ye, enquire of the LORD for me, and for the people, and for all Judah, concerning the words of this book that is found: for great [is] the wrath of the LORD that is kindled against us, because our fathers have not hearkened unto the words of this book, to do according unto all that which is written concerning us.
+>
+> 2 Kings 23:2 — And the king went up into the house of the LORD, and all the men of Judah and all the inhabitants of Jerusalem with him, and the priests, and the prophets, and all the people, both small and great: and he read in their ears all the words of the book of the covenant which was found in the house of the LORD.
+>
+> 2 Kings 23:3 — ¶ And the king stood by a pillar, and made a covenant before the LORD, to walk after the LORD, and to keep his commandments and his testimonies and his statutes with all [their] heart and all [their] soul, to perform the words of this covenant that were written in this book. And all the people stood to the covenant.
+>
+> 2 Chronicles 34:14 — ¶ And when they brought out the money that was brought into the house of the LORD, Hilkiah the priest found a book of the law of the LORD [given] by Moses.
+>
+> 2 Chronicles 34:15 — And Hilkiah answered and said to Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah delivered the book to Shaphan.
+>
+> 2 Chronicles 34:21 — Go, enquire of the LORD for me, and for them that are left in Israel and in Judah, concerning the words of the book that is found: for great [is] the wrath of the LORD that is poured out upon us, because our fathers have not kept the word of the LORD, to do after all that is written in this book.
 
 **Greek (Septuagint, Brenton's edition)**
 
-> 2 Samuel 22:31 — Ὁ ἰσχυρὸς ἄμωμος ἡ ὁδὸς αὐτοῦ· τὸ ῥῆμα Κυρίου κραταιὸν πεπυρωμένον· ὑπερασπιστής ἐστι πᾶσι τοῖς πεποιθόσιν ἐπʼ αὐτόν.
+> 2 Kings 22:8 — Καὶ εἶπε Χελκίας ὁ ἱερεὺς ὁ μέγας πρὸς Σαπφὰν τὸν γραμματέα, βιβλίον τοῦ νόμου εὗρον ἐν οἴκῳ Κυρίου· καὶ ἔδωκε Χελκίας τὸ βιβλίον πρὸς Σαπφὰν, καὶ ἀνέγνω αὐτό.
 >
-> Psalm 17:31 — Ὁ Θεός μου, ἄμωμος ἡ ὁδὸς αὐτοῦ, τὰ λόγια Κυρίου πεπυρωμένα, ὑπερασπιστής ἐστι πάντων τῶν ἐλπιζόντων ἐπʼ αὐτόν.
+> 2 Kings 22:11 — Καὶ ἐγένετο ὡς ἤκουσεν ὁ βασιλεὺς τοὺς λόγους βιβλίου τοῦ νόμου, καὶ διέῤῥηξε τὰ ἱμάτια ἑαυτοῦ.
+>
+> 2 Kings 22:13 — δεῦτε, ἐκζητήσατε τὸν Κύριον περὶ ἐμοῦ, καὶ περὶ παντὸς τοῦ λαοῦ, καὶ περὶ παντὸς τοῦ Ἰούδα, καὶ περὶ τῶν λόγων τοῦ βιβλίου τοῦ εὑρεθέντος τούτου, ὅτι μεγάλη ἡ ὀργὴ Κυρίου ἐκκεκαυμένη ἐν ἡμῖν, ὑπὲρ οὗ οὐκ ἤκουσαν οἱ πατέρες ἡμῶν τῶν λόγων τοῦ βιβλίου τούτου τοῦ ποιεῖν κατὰ πάντα τὰ γεγραμμένα καθʼ ἡμῶν.
+>
+> 2 Kings 23:2 — Καὶ ἀνέβη ὁ βασιλεὺς εἰς οἶκον Κυρίου, καὶ πᾶς ἀνὴρ Ἰούδα καὶ πάντες οἱ κατοικοῦντες ἐν Ἰερουσαλὴμ μετʼ αὐτοῦ, καὶ οἱ ἱερεῖς, καὶ οἱ προφῆται, καὶ πᾶς ὁ λαὸς ἀπὸ μικροῦ καὶ ἕως μεγάλου, καὶ ἀνέγνω ἐν ὠσὶν αὐτῶν πάντας τοὺς λόγους τοῦ βιβλίου τῆς διαθήκης τοῦ εὑρεθέντος ἐν οἴκῳ Κυρίου.
+>
+> 2 Kings 23:3 — Καὶ ἔστη ὁ βασιλεὺς πρὸς τὸν στύλον, καὶ διέθετο διαθήκην ἐνώπιον Κυρίου, τοῦ πορεύεσθαι ὀπίσω Κυρίου, τοῦ φυλάσσειν τὰς ἐντολὰς αὐτοῦ, καὶ τὰ μαρτύρια αὐτοῦ, καὶ τὰ δικαιώματα αὐτοῦ ἐν πάσῃ καρδίᾳ καὶ ἐν πάσῃ ψυχῇ, τοῦ ἀναστῆσαι τοὺς λόγους τῆς διαθήκης ταύτης, τὰ γεγραμμένα ἐπὶ τὸ βιβλίον τοῦτο· καὶ ἔστη πᾶς ὁ λαὸς ἐν τῇ διαθήκῃ.
+>
+> 2 Chronicles 34:14 — Καὶ ἐν τῷ ἐκφέρειν αὐτοὺς τὸ ἀργύριον τὸ εἰσοδιασθὲν εἰς οἶκον Κυρίου, εὗρε Χελκίας ὁ ἱερεὺς βιβλίον νόμου Κυρίου διὰ χειρὸς Μωυσῆ.
+>
+> 2 Chronicles 34:15 — Καὶ ἀπεκρίθη Χελκίας, καὶ εἶπε πρὸς Σαφὰν τὸν γραμματέα, βιβλίον νόμου εὗρον ἐν οἴκῳ Κυρίου· καὶ ἔδωκε Χελκίας τὸ βιβλίον τῷ Σαφάν.
+>
+> 2 Chronicles 34:21 — πορεύθητε, ζητήσατε τὸν Κύριον περὶ ἐμοῦ καὶ περὶ παντὸς τοῦ καταλειφθέντος ἐν Ἰσραὴλ καὶ Ἰούδα περὶ τῶν λόγων τοῦ βιβλίου τοῦ εὑρεθέντος, ὅτι μέγας ὁ θυμὸς Κυρίου ἐκκέκαυται ἐν ἡμῖν, διότι οὐκ εἰσήκουσαν οἱ πατέρες ἡμῶν τῶν λόγων Κυρίου, τοῦ ποιῆσαι κατὰ πάντα τὰ γεγραμμένα ἐν τῷ βιβλίῳ τούτῳ.
 
 **English of the Greek (Brenton, 1851)**
 
-> 2 Samuel 22:31 — As for the Mighty One, his way [is] blameless: the word of the Lord [is] strong [and] tried in the fire: he is a protector to all that put their trust in him.
+> 2 Kings 22:8 — And Chelcias the high priest said to Sapphan the scribe, I have found the book of the law in the house of the Lord. And Chelcias gave the book to Sapphan, and he read it.
 >
-> Psalm 17:31 — [As for] my God, his way is perfect: the oracles of the Lord are tried in the fire; he is a protector of all them that hope in him.
+> 2 Kings 22:11 — And it came to pass, when the king heard the words of the book of the law, that he rent his garments.
+>
+> 2 Kings 22:13 — Go, enquire of the Lord for me, and for all the people, and for all Juda, and concerning the words of this book that has been found: for the wrath of the Lord that has been kindled against us [is] great, because our fathers hearkened not to the words of this book, to do according to all the things written concerning us.
+>
+> 2 Kings 23:2 — And the king went up to the house of the Lord, and every man of Juda and all who dwelt in Jerusalem with him, and the priests, and the prophets, and all the people small and great; and he read in their ears all the words of the book of the covenant that was found in the house of the Lord.
+>
+> 2 Kings 23:3 — And the king stood by a pillar, and made a covenant before the Lord, to walk after the Lord, to keep his commandments and his testimonies and his ordinances with all the heart and with all the soul, to confirm the words of this covenant; [even] the things written in this book. And all the people stood to the covenant.
+>
+> 2 Chronicles 34:14 — And when they brought forth the money that had been brought into the house of the Lord, Chelcias the priest found a book of the law of the Lord [given] by the hand of Moses.
+>
+> 2 Chronicles 34:15 — And Chelcias answered and said to Saphan the scribe, I have found a book of the law in the house of the Lord. And Chelcias gave the book to Saphan.
+>
+> 2 Chronicles 34:21 — Go, enquire of the Lord for me, and for every one that is left in Israel and Juda, concerning the words of the book that is found: for great is the wrath of the Lord [which] has been kindled amongst us, because our fathers have not hearkened to the words of the Lord, to do according to all the things written in this book.
 
 **Hebrew and Greek compared.**
 
-The Hebrew has the singular "word" (אִמְרַת) in both places. The Greek of
-Psalm 17:31 has the plural "oracles" (τὰ λόγια … πεπυρωμένα); the Greek of
-2 Samuel adds "strong": "the word of the Lord is strong, tried" (κραταιὸν
-πεπυρωμένον).
+The same in substance. Chronicles calls it "a book of the law of the LORD
+given by Moses" (סֵפֶר תּוֹרַת־יְהוָה בְּיַד־מֹשֶׁה, βιβλίον νόμου Κυρίου
+διὰ χειρὸς Μωυσῆ).
+
+**Notes.**
+
+The only narrative in Scripture of a book of God's law lost and found.
+**[inferred]** The narrative presupposes that, in the temple itself and
+under the kings, the book had gone unread and unknown long enough that
+its finding was news and its contents a shock. Its recovery leads to a
+public reading and a covenant renewal. Scripture does not say how long
+it was lost or what else was then extant. **[context]** Which book it
+was, and whether it was the only copy, are debated.
+
+### Numbers 21:14; Joshua 10:13; 2 Samuel 1:18; 1 Kings 11:41; 1 Chronicles 29:29; 2 Chronicles 9:29; 12:15; 13:22
+
+<a id="2chr-9-29"></a>
+
+**Claim.** The historical books cite other writings, among them "the book of the wars
+of the LORD", "the book of Jasher", "the book of Nathan the prophet", "the
+prophecy of Ahijah", "the visions of Iddo the seer", and "the book of
+Shemaiah the prophet".
+
+
+**Speaker:** Narrator · **Role:** means · **Categories:** Loss among men · **Object:** books cited by the biblical writers, including writings of prophets
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Numbers 21:14 — <span dir="rtl" lang="he">עַל־כֵּן יֵֽאָמַר בְּסֵפֶר מִלְחֲמֹת יְהוָה אֶת־וָהֵב בְּסוּפָה וְאֶת־הַנְּחָלִים אַרְנֽוֹן׃</span>
+>
+> Joshua 10:13 — <span dir="rtl" lang="he">וַיִּדֹּם הַשֶּׁמֶשׁ וְיָרֵחַ עָמָד עַד־יִקֹּם גּוֹי אֹֽיְבָיו הֲלֹא־הִיא כְתוּבָה עַל־סֵפֶר הַיָּשָׁר וַיַּעֲמֹד הַשֶּׁמֶשׁ בַּחֲצִי הַשָּׁמַיִם וְלֹא־אָץ לָבוֹא כְּיוֹם תָּמִֽים׃</span>
+>
+> 2 Samuel 1:18 — <span dir="rtl" lang="he">וַיֹּאמֶר לְלַמֵּד בְּנֵֽי־יְהוּדָה קָשֶׁת הִנֵּה כְתוּבָה עַל־סֵפֶר הַיָּשָֽׁר׃</span>
+>
+> 1 Kings 11:41 — <span dir="rtl" lang="he">וְיֶתֶר דִּבְרֵי שְׁלֹמֹה וְכָל־אֲשֶׁר עָשָׂה וְחָכְמָתוֹ הֲלֽוֹא־הֵם כְּתֻבִים עַל־סֵפֶר דִּבְרֵי שְׁלֹמֹֽה׃</span>
+>
+> 1 Chronicles 29:29 — <span dir="rtl" lang="he">וְדִבְרֵי דָּוִיד הַמֶּלֶךְ הָרִאשֹׁנִים וְהָאֲחרֹנִים הִנָּם כְּתוּבִים עַל־דִּבְרֵי שְׁמוּאֵל הָרֹאֶה וְעַל־דִּבְרֵי נָתָן הַנָּבִיא וְעַל־דִּבְרֵי גָּד הַחֹזֶֽה׃</span>
+>
+> 2 Chronicles 9:29 — <span dir="rtl" lang="he">וּשְׁאָר דִּבְרֵי שְׁלֹמֹה הָרִאשֹׁנִים וְהָאֲחֲרוֹנִים הֲלֹא־הֵם כְּתוּבִים עַל־דִּבְרֵי נָתָן הַנָּבִיא וְעַל־נְבוּאַת אֲחִיָּה הַשִּֽׁילוֹנִי וּבַחֲזוֹת יעדי הַחֹזֶה עַל־יָרָבְעָם בֶּן־נְבָֽט׃</span>
+>
+> 2 Chronicles 12:15 — <span dir="rtl" lang="he">וְדִבְרֵי רְחַבְעָם הָרִאשֹׁנִים וְהָאֲחַרוֹנִים הֲלֹא־הֵם כְּתוּבִים בְּדִבְרֵי שְׁמַֽעְיָה הַנָּבִיא וְעִדּוֹ הַחֹזֶה לְהִתְיַחֵשׂ וּמִלְחֲמוֹת רְחַבְעָם וְיָרָבְעָם כָּל־הַיָּמִֽים׃</span>
+>
+> 2 Chronicles 13:22 — <span dir="rtl" lang="he">וְיֶתֶר דִּבְרֵי אֲבִיָּה וּדְרָכָיו וּדְבָרָיו כְּתוּבִים בְּמִדְרַשׁ הַנָּבִיא עִדּֽוֹ׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Numbers 21:14 — Wherefore it is said in the book of the wars of the LORD, What he did in the Red sea, and in the brooks of Arnon,
+>
+> Joshua 10:13 — And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. [Is] not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.
+>
+> 2 Samuel 1:18 — (Also he bade them teach the children of Judah [the use of] the bow: behold, [it is] written in the book of Jasher.)
+>
+> 1 Kings 11:41 — ¶ And the rest of the acts of Solomon, and all that he did, and his wisdom, [are] they not written in the book of the acts of Solomon?
+>
+> 1 Chronicles 29:29 — Now the acts of David the king, first and last, behold, they [are] written in the book of Samuel the seer, and in the book of Nathan the prophet, and in the book of Gad the seer,
+>
+> 2 Chronicles 9:29 — ¶ Now the rest of the acts of Solomon, first and last, [are] they not written in the book of Nathan the prophet, and in the prophecy of Ahijah the Shilonite, and in the visions of Iddo the seer against Jeroboam the son of Nebat?
+>
+> 2 Chronicles 12:15 — Now the acts of Rehoboam, first and last, [are] they not written in the book of Shemaiah the prophet, and of Iddo the seer concerning genealogies? And [there were] wars between Rehoboam and Jeroboam continually.
+>
+> 2 Chronicles 13:22 — And the rest of the acts of Abijah, and his ways, and his sayings, [are] written in the story of the prophet Iddo.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Numbers 21:14 — Διὰ τοῦτο λέγεται ἐν βιβλίῳ, πόλεμος τοῦ Κυρίου τὴν Ζωὸβ ἐφλόγισε, καὶ τοὺς χιμάῤῥους Ἀρνῶν.
+>
+> Joshua 10:13 — Καὶ ἔστη ὁ ἥλιος καὶ ἡ σελήνη ἐν στάσει, ἕως ἠμύνατο ὁ Θεὸς τοὺς ἐχθροὺς αὐτῶν· καὶ ἔστη ὁ ἥλιος κατὰ μέσον τοῦ οὐρανοῦ· οὐ προεπορεύετο εἰς δυσμὰς εἰς τέλος ἡμέρας μιᾶς.
+>
+> 2 Samuel 1:18 — Καὶ εἶπε τοῦ διδάξαι τοὺς υἱοὺς Ἰούδα· ἰδοὺ γέγραπται ἐπὶ βιβλίου τοῦ εὐθοῦς.
+>
+> 1 Kings 11:41 — Καὶ τὰ λοιπὰ τῶν λόγων Σαλωμὼν, καὶ πάντα ὅσα ἐποίησε, καὶ πᾶσαν τὴν φρόνησιν αὐτοῦ, οὐκ ἰδοὺ ταῦτα γέγραπται ἐν βιβλίῳ ῥημάτων Σαλωμών;
+>
+> 1 Chronicles 29:29 — Οἱ δὲ λοιποὶ λόγοι τοῦ βασιλέως Δαυὶδ οἱ πρότεροι καὶ οἱ ὕστεροι γεγραμμένοι εἰσὶν ἐν λόγοις Σαμουὴλ τοῦ βλέποντος, καὶ ἐπὶ λόγων Νάθαν τοῦ προφήτου, καὶ ἐπὶ λόγων Γὰδ τοῦ βλέποντος,
+>
+> 2 Chronicles 9:29 — Καὶ οἱ κατάλοιποι λόγοι Σαλωμὼν οἱ πρῶτοι καὶ οἱ ἔσχατοι, ἰδοὺ οὗτοι γεγραμμένοι ἐπὶ τῶν λόγων Νάθαν τοῦ προφήτου, καὶ ἐπὶ τῶν λόγων Ἀχία τοῦ Σηλωνίτου, καὶ ἐν ταῖς ὁράσεσιν Ἰωὴλ τοῦ ὁρῶντος περὶ Ἱεροβοὰμ υἱοῦ Ναβάτ.
+>
+> 2 Chronicles 12:15 — Καὶ λόγοι Ῥοβοὰμ οἱ πρῶτοι καὶ ἔσχατοι οὐκ ἰδοὺ γεγραμμένοι ἐν τοῖς λόγοις Σαμαία τοῦ προφήτου, καὶ Ἀδδὼ τοῦ ὁρῶντος, καὶ πράξεις αὐτοῦ; καὶ ἐπολέμησε Ῥοβοὰμ τὸν Ἱεροβοὰμ πάσας τὰς ἡμέρας.
+>
+> 2 Chronicles 13:22 — Καὶ οἱ λοιποὶ λόγοι Ἀβιὰ καὶ αἱ πράξεις αὐτοῦ καὶ οἱ λόγοι αὐτοῦ γεγραμμένοι ἐπὶ βιβλίῳ τοῦ προφήτου Ἀδδώ.
+
+**English of the Greek (Brenton, 1851)**
+
+> Numbers 21:14 — Therefore it is said in a book, A war of the Lord has set on fire Zoob, and the brooks of Arnon.
+>
+> Joshua 10:13 — And the sun and the moon stood still, until God executed vengeance on their enemies; and the sun stood still in the midst of heaven; it did not proceed to set till the end of one day.
+>
+> 2 Samuel 1:18 — And he gave orders to teach it the sons of Juda: behold, it is written in the book of Right.
+>
+> 1 Kings 11:41 — And the rest of the history of Solomon, and all that he did, and all his wisdom, behold are not these things written in the book of the life of Solomon?
+>
+> 1 Chronicles 29:29 — And the rest of the acts of David, the former and the latter, are written in the history of Samuel the seer, and in the history of Nathan the prophet, and in the history of Gad the seer,
+>
+> 2 Chronicles 9:29 — And the rest of the acts of Solomon, the first and the last, behold, these are written in the words of Nathan the prophet, and in the words of Achia the Selonite, and in the visions of Joel the seer concerning Jeroboam the son of Nabat.
+>
+> 2 Chronicles 12:15 — And the acts of Roboam, the first and the last, behold, are they not written in the book of Samaia the prophet, and Addo the seer, with his achievements.
+>
+> 2 Chronicles 13:22 — And the rest of the acts of Abia, and his deeds, and his sayings, are written in the book of the prophet Addo.
+
+**Hebrew and Greek compared.**
+
+The Greek of Numbers 21:14 has no title "the book of the wars of the
+LORD"; it reads "it is said in a book, The war of the Lord …" (ἐν βιβλίῳ,
+πόλεμος τοῦ Κυρίου), making the phrase the start of the quotation. The
+Greek of Joshua 10:13 lacks "Is not this written in the book of Jasher?";
+2 Samuel 1:18 has it ("the book of the upright", βιβλίου τοῦ εὐθοῦς). In 2
+Chronicles 9:29 the Greek names the seer Joel (Ἰωήλ) for Iddo.
+
+**Notes.**
+
+**[context]** None of these writings is extant, and none is in any
+canon. Several are ascribed to prophets (Nathan, Gad, Ahijah, Iddo,
+Shemaiah). **[inferred]** Scripture therefore records writings by
+prophets that were not preserved. Whether any of them was the word of
+God in the sense of the canonical books Scripture does not say; it cites
+them as sources, not as Scripture.
+
+### Ezra 7:6, 10; Nehemiah 8:1-3, 8
+
+<a id="neh-8-8"></a>
+
+**Claim.** Ezra, "a ready scribe in the law of Moses", brought the book of the law
+before the returned exiles and read it from morning until midday; "they
+read in the book in the law of God distinctly, and gave the sense".
+
+
+**Speaker:** Narrator · **Role:** means · **Categories:** Transmission to later generations, Restoration after loss · **Object:** the book of the law of Moses
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Ezra 7:6 — <span dir="rtl" lang="he">הוּא עֶזְרָא עָלָה מִבָּבֶל וְהֽוּא־סֹפֵר מָהִיר בְּתוֹרַת מֹשֶׁה אֲשֶׁר־נָתַן יְהוָה אֱלֹהֵי יִשְׂרָאֵל וַיִּתֶּן־לוֹ הַמֶּלֶךְ כְּיַד־יְהוָה אֱלֹהָיו עָלָיו כֹּל בַּקָּשָׁתֽוֹ׃</span>
+>
+> Ezra 7:10 — <span dir="rtl" lang="he">כִּי עֶזְרָא הֵכִין לְבָבוֹ לִדְרוֹשׁ אֶת־תּוֹרַת יְהוָה וְלַעֲשֹׂת וּלְלַמֵּד בְּיִשְׂרָאֵל חֹק וּמִשְׁפָּֽט׃</span>
+>
+> Nehemiah 8:1 — <span dir="rtl" lang="he">וַיֵּאָסְפוּ כָל־הָעָם כְּאִישׁ אֶחָד אֶל־הָרְחוֹב אֲשֶׁר לִפְנֵי שַֽׁעַר־הַמָּיִם וַיֹּֽאמְרוּ לְעֶזְרָא הַסֹּפֵר לְהָבִיא אֶת־סֵפֶר תּוֹרַת מֹשֶׁה אֲשֶׁר־צִוָּה יְהוָה אֶת־יִשְׂרָאֵֽל׃</span>
+>
+> Nehemiah 8:2 — <span dir="rtl" lang="he">וַיָּבִיא עֶזְרָא הַכֹּהֵן אֶֽת־הַתּוֹרָה לִפְנֵי הַקָּהָל מֵאִישׁ וְעַד־אִשָּׁה וְכֹל מֵבִין לִשְׁמֹעַ בְּיוֹם אֶחָד לַחֹדֶשׁ הַשְּׁבִיעִֽי׃</span>
+>
+> Nehemiah 8:3 — <span dir="rtl" lang="he">וַיִּקְרָא־בוֹ לִפְנֵי הָרְחוֹב אֲשֶׁר ׀ לִפְנֵי שַֽׁעַר־הַמַּיִם מִן־הָאוֹר עַד־מַחֲצִית הַיּוֹם נֶגֶד הָאֲנָשִׁים וְהַנָּשִׁים וְהַמְּבִינִים וְאָזְנֵי כָל־הָעָם אֶל־סֵפֶר הַתּוֹרָֽה׃</span>
+>
+> Nehemiah 8:8 — <span dir="rtl" lang="he">וַֽיִּקְרְאוּ בַסֵּפֶר בְּתוֹרַת הָאֱלֹהִים מְפֹרָשׁ וְשׂוֹם שֶׂכֶל וַיָּבִינוּ בַּמִּקְרָֽא׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Ezra 7:6 — This Ezra went up from Babylon; and he [was] a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him.
+>
+> Ezra 7:10 — For Ezra had prepared his heart to seek the law of the LORD, and to do [it], and to teach in Israel statutes and judgments.
+>
+> Nehemiah 8:1 — And all the people gathered themselves together as one man into the street that [was] before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel.
+>
+> Nehemiah 8:2 — And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.
+>
+> Nehemiah 8:3 — And he read therein before the street that [was] before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people [were attentive] unto the book of the law.
+>
+> Nehemiah 8:8 — So they read in the book in the law of God distinctly, and gave the sense, and caused [them] to understand the reading.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Ezra 7:6 — Αὐτὸς Ἔσδρας ἀνέβη ἐκ Βαβυλῶνος, καὶ αὐτὸς γραμματεὺς ταχὺς ἐν νόμῳ Μωυσῆ, ὃν ἔδωκε Κύριος ὁ Θεὸς Ἰσραήλ· καὶ ἔδωκεν αὐτῷ ὁ βασιλεὺς, ὅτι χεὶρ Κυρίου Θεοῦ αὐτοῦ ἐπʼ αὐτὸν ἐν πᾶσιν οἷς ἐζήτει αὐτός.
+>
+> Ezra 7:10 — ὅτι Ἔσδρας ἔδωκεν ἐν καρδίᾳ αὐτοῦ ζητῆσαι τὸν νόμον, καὶ ποιεῖν καὶ διδάσκειν ἐν Ἰσραὴλ προστάγματα καὶ κρίματα.
+>
+> Ezra 18:1 — Καὶ ἔφθασεν ὁ μὴν ὁ ἕβδομος, καὶ οἱ υἱοὶ Ἰσραὴλ ἐν πόλεσιν αὐτῶν· καὶ συνήχθησαν πᾶς ὁ λαὸς ὡς ἀνὴρ εἷς εἰς τὸ πλάτος τὸ ἔμπροσθεν πύλης τοῦ ὕδατος· καὶ εἶπαν τῷ Ἔσδρᾳ τῷ γραμματεῖ, ἐνέγκαι τὸ βιβλίον νόμου Μωυσῆ, ὃν ἐνετείλατο Κύριος τῷ Ἰσραήλ.
+>
+> Ezra 18:2 — Καὶ ἤνεγκεν Ἔσδρας ὁ ἱερεὺς τὸν νόμον ἐνώπιον τῆς ἐκκλησίας ἀπὸ ἀνδρὸς ἕως γυναικὸς, καὶ πᾶς ὁ συνιὼν, ἀκούειν ἐν ἡμέρᾳ μιᾷ τοῦ μηνὸς τοῦ ἑβδόμου.
+>
+> Ezra 18:3 — Καὶ ἀνέγνω ἐν αὐτῷ ἀπὸ τῆς ὥρας τοῦ διαφωτίσαι τὸν ἥλιον ἕως ἡμίσους τῆς ἡμέρας, ἀπέναντι τῶν ἀνδρῶν καὶ τῶν γυναικῶν, καὶ αὐτοὶ συνιέντες· καὶ ὦτα παντὸς τοῦ λαοῦ εἰς τὸ βιβλίον τοῦ νόμου.
+>
+> Ezra 18:8 — Καὶ ἀνέγνωσαν ἐν βιβλίῳ νόμου τοῦ Θεοῦ, καὶ ἐδίδασκεν Ἔσδρας, καὶ διέστελλεν ἐν ἐπιστήμῃ Κυρίου, καὶ συνῆκεν ὁ λαὸς ἐν τῇ ἀναγνώσει.
+
+**English of the Greek (Brenton, 1851)**
+
+> Ezra 7:6 — This Esdras went up out of Babylon; and he was a ready scribe in the law of Moses, which the Lord God of Israel gave: and the king gave him [leave], for the hand of the Lord his God was upon him in all things which he sought.
+>
+> Ezra 7:10 — For Esdras had determined in his heart to seek the law, and to do and teach the ordinances and judgments in Israel.
+>
+> Ezra 18:1 — And the seventh month arrived, and the children of Israel [were settled] in their cities; and all the people were gathered as one man to the broad place before the water-gate, and they told Esdras the scribe to bring the book of the law of Moses, which the Lord commanded Israel.
+>
+> Ezra 18:2 — So Esdras the priest brought the law before the congregation both of men and women, and every one who had understanding [was present] to hearken, on the first day of the seventh month.
+>
+> Ezra 18:3 — And he read in it from the time of sun-rise to the middle of the day, before the men and the women; and they understood [it], and the ears of all the people [were attentive] to the book of the law.
+>
+> Ezra 18:8 — And they read in the book of the law of God, and Esdras taught, and instructed them distinctly in the knowledge of the Lord, and the people understood [the law] in the reading.
+
+**Hebrew and Greek compared.**
+
+The Greek numbers Nehemiah as chapters 11-23 of 2 Esdras (Brenton's EZR),
+so Nehemiah 8 is 18. In Nehemiah 8:8 it reads "and Esdras taught, and
+instructed them distinctly in the knowledge of the Lord" for "distinctly,
+and gave the sense".
+
+**Notes.**
+
+After the exile the law is brought out by a scribe, read publicly and
+explained. **[inferred]** The scene presupposes that the book of the law
+of Moses survived the destruction of the temple and the exile, though
+Scripture does not say how.
+
+### Nehemiah 9:8
+
+<a id="neh-9-8"></a>
+
+**Claim.** Thou "hast performed thy words; for thou art righteous".
+
+**Speaker:** Another speaker · **Role:** claim · **Categories:** Fulfilment · **Object:** thy words to Abraham
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Nehemiah 9:8 — <span dir="rtl" lang="he">וּמָצָאתָ אֶת־לְבָבוֹ נֶאֱמָן לְפָנֶיךָ וְכָרוֹת עִמּוֹ הַבְּרִית לָתֵת אֶת־אֶרֶץ הַכְּנַעֲנִי הַחִתִּי הָאֱמֹרִי וְהַפְּרִזִּי וְהַיְבוּסִי וְהַגִּרְגָּשִׁי לָתֵת לְזַרְעוֹ וַתָּקֶם אֶת־דְּבָרֶיךָ כִּי צַדִּיק אָֽתָּה׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Nehemiah 9:8 — And foundest his heart faithful before thee, and madest a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give [it, I say], to his seed, and hast performed thy words; for thou [art] righteous:
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Ezra 19:8 — Καὶ εὗρες τὴν καρδίαν αὐτοῦ πιστὴν ἐνώπιόν σου, καὶ διέθου πρὸς αὐτὸν διαθήκην δοῦναι αὐτῷ τὴν γῆν τῶν Χαναναίων, καὶ Χετταίων, καὶ Ἀμοῤῥαίων, καὶ Φερεζαίων, καὶ Ἰεβουσαίων, καὶ Γεργεσαίων, καὶ τῷ σπέρματι αὐτοῦ· καὶ ἔστησας τοὺς λόγους σου, ὅτι δίκαιος σύ.
+
+**English of the Greek (Brenton, 1851)**
+
+> Ezra 19:8 — and thou foundest his heart faithful before thee, and didst make a covenant with him to give to him and to his seed the land of the Chananites, and the Chettites, and Amorites, and Pherezites, and Jebusites, and Gergesites; and thou hast confirmed thy words, for thou [art] righteous.
+
+**Hebrew and Greek compared.**
+
+The same; "performed" is ἔστησας, "established".
+
+**Notes.**
+
+The Levites' prayer. God's keeping of his word is grounded in his righteousness.
 
 ### Psalm 12:6-7
 
@@ -744,6 +1854,49 @@ The Hebrew "standing for ever" (עוֹמֶדֶת לָעַד) becomes "enduring f
 
 "Fear of the LORD" stands in a series with law, testimony, statutes, commandment and judgments (19:7–9), so it names the law as the thing feared. [inferred]
 
+### Psalm 33:4, 6
+
+<a id="ps-33-4"></a>
+
+**Claim.** The word of the LORD is right (יָשָׁר); and all his works are done in
+truth. By the word of the LORD were the heavens made.
+
+
+**Speaker:** Psalmist · **Role:** claim · **Categories:** Purity and truth, Efficacy · **Object:** the word of the LORD
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Psalm 33:4 — <span dir="rtl" lang="he">כִּֽי־יָשָׁר דְּבַר־יְהוָה וְכָל־מַעֲשֵׂהוּ בֶּאֱמוּנָֽה׃</span>
+>
+> Psalm 33:6 — <span dir="rtl" lang="he">בִּדְבַר יְהוָה שָׁמַיִם נַעֲשׂוּ וּבְרוּחַ פִּיו כָּל־צְבָאָֽם׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Psalm 33:4 — For the word of the LORD [is] right; and all his works [are done] in truth.
+>
+> Psalm 33:6 — By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Psalm 32:4 — Ὅτι εὐθὴς ὁ λόγος τοῦ Κυρίου, καὶ πάντα τὰ ἔργα αὐτοῦ ἐν πίστει.
+>
+> Psalm 32:6 — Τῷ λόγῳ τοῦ Κυρίου οἱ οὐρανοὶ ἐστερεώθησαν, καὶ τῷ πνεύματι τοῦ στόματος αὐτοῦ πᾶσα ἡ δύναμις αὐτῶν.
+
+**English of the Greek (Brenton, 1851)**
+
+> Psalm 32:4 — For the word of the Lord is right; and all his works are faithful.
+>
+> Psalm 32:6 — By the word of the Lord the heavens were established; and all the host of them by the breath of his [mouth].
+
+**Hebrew and Greek compared.**
+
+The same; "right" is εὐθής, and in 33:6 "were made" is "were established" (ἐστερεώθησαν).
+
+**Notes.**
+
+The word that is "right" is also the creating word. Psalm 33:11 (the
+counsel of the LORD stands for ever) is a separate entry.
+
 ### Psalm 33:11
 
 <a id="ps-33-11"></a>
@@ -776,33 +1929,128 @@ The Hebrew "stands" (תַּעֲמֹד) becomes "abides" (μένει), the verb o
 
 About God's purpose rather than his spoken or written word; included because the Greek puts it in the same terms as the word passages.
 
-### Psalm 89:34
+### Psalm 78:1-7
+
+<a id="ps-78-5"></a>
+
+**Claim.** He established a testimony in Jacob and appointed a law in Israel, which
+he commanded our fathers that they should make known to their children,
+"that the generation to come might know them, even the children which
+should be born".
+
+
+**Speaker:** Psalmist · **Role:** claim · **Categories:** Transmission to later generations · **Object:** a testimony and a law established in Jacob
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Psalm 78:1 — <span dir="rtl" lang="he">מַשְׂכִּיל לְאָסָף הַאֲזִינָה עַמִּי תּוֹרָתִי הַטּוּ אָזְנְכֶם לְאִמְרֵי־פִֽי׃</span>
+>
+> Psalm 78:2 — <span dir="rtl" lang="he">אֶפְתְּחָה בְמָשָׁל פִּי אַבִּיעָה חִידוֹת מִנִּי־קֶֽדֶם׃</span>
+>
+> Psalm 78:3 — <span dir="rtl" lang="he">אֲשֶׁר שָׁמַעְנוּ וַנֵּדָעֵם וַאֲבוֹתֵינוּ סִפְּרוּ־לָֽנוּ׃</span>
+>
+> Psalm 78:4 — <span dir="rtl" lang="he">לֹא נְכַחֵד ׀ מִבְּנֵיהֶם לְדוֹר אַחֲרוֹן מְֽסַפְּרִים תְּהִלּוֹת יְהוָה וֶעֱזוּזוֹ וְנִפְלְאוֹתָיו אֲשֶׁר עָשָֽׂה׃</span>
+>
+> Psalm 78:5 — <span dir="rtl" lang="he">וַיָּקֶם עֵדוּת ׀ בְּֽיַעֲקֹב וְתוֹרָה שָׂם בְּיִשְׂרָאֵל אֲשֶׁר צִוָּה אֶת־אֲבוֹתֵינוּ לְהוֹדִיעָם לִבְנֵיהֶֽם׃</span>
+>
+> Psalm 78:6 — <span dir="rtl" lang="he">לְמַעַן יֵדְעוּ ׀ דּוֹר אַחֲרוֹן בָּנִים יִוָּלֵדוּ יָקֻמוּ וִֽיסַפְּרוּ לִבְנֵיהֶֽם׃</span>
+>
+> Psalm 78:7 — <span dir="rtl" lang="he">וְיָשִׂימוּ בֵֽאלֹהִים כִּסְלָם וְלֹא יִשְׁכְּחוּ מַֽעַלְלֵי־אֵל וּמִצְוֺתָיו יִנְצֹֽרוּ׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Psalm 78:1 — Maschil of Asaph. Give ear, O my people, [to] my law: incline your ears to the words of my mouth.
+>
+> Psalm 78:2 — I will open my mouth in a parable: I will utter dark sayings of old:
+>
+> Psalm 78:3 — Which we have heard and known, and our fathers have told us.
+>
+> Psalm 78:4 — We will not hide [them] from their children, shewing to the generation to come the praises of the LORD, and his strength, and his wonderful works that he hath done.
+>
+> Psalm 78:5 — For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:
+>
+> Psalm 78:6 — That the generation to come might know [them, even] the children [which] should be born; [who] should arise and declare [them] to their children:
+>
+> Psalm 78:7 — That they might set their hope in God, and not forget the works of God, but keep his commandments:
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Psalm 77:1 — Συνέσεως τῷ Ἀσάφ. Προσέχετε λαός μου τὸν νόμον μου, κλίνατε τὸ οὖς ὑμῶν εἰς τὰ ῥήματα τοῦ στόματός μου.
+>
+> Psalm 77:2 — Ἀνοίξω ἐν παραβολαῖς τὸ στόμα μου, φθέγξομαι προβλήματα ἀπʼ ἀρχῆς.
+>
+> Psalm 77:3 — Ὅσα ἠκούσαμεν καὶ ἔγνωμεν αὐτὰ, καὶ οἱ πατέρες ἡμῶν διηγήσαντο ἡμῖν.
+>
+> Psalm 77:4 — Οὐκ ἐκρύβη ἀπὸ τῶν τέκνων αὐτῶν εἰς γενεὰν ἑτέραν, ἀπαγγέλλοντες τὰς αἰνέσεις Κυρίου καὶ τὰς δυναστείας αὐτοῦ, καὶ τὰ θαυμάσια αὐτοῦ ἃ ἐποίησε.
+>
+> Psalm 77:5 — Καὶ ἀνέστησε μαρτύριον ἐν Ἰακὼβ, καὶ νόμον ἔθετο ἐν Ἰσραήλ· ὃν ἐνετείλατο τοῖς πατράσιν ἡμῶν, γνωρίσαι αὐτὸν τοῖς υἱοῖς αὐτῶν,
+>
+> Psalm 77:6 — ὅπως ἂν γνῷ γενεὰ ἑτέρα, υἱοὶ οἱ τεχθησόμενοι, καὶ ἀναστήσονται καὶ ἀπαγγελοῦσιν αὐτὰ τοῖς υἱοῖς αὐτῶν·
+>
+> Psalm 77:7 — ἵνα θῶνται ἐπὶ τὸν Θεὸν τὴν ἐλπίδα αὐτῶν, καὶ μὴ ἐπιλάθωνται τῶν ἔργων τοῦ Θεοῦ, καὶ τὰς ἐντολὰς αὐτοῦ ἐκζητήσωσιν.
+
+**English of the Greek (Brenton, 1851)**
+
+> Psalm 77:1 — [A Psalm] of instruction for Asaph. Give heed, O my people, to my law: incline your ear to the words of my mouth.
+>
+> Psalm 77:2 — I will open my mouth in parables: I will utter dark sayings [which have been] from the beginning.
+>
+> Psalm 77:3 — All which we have heard and known, and our fathers have declared to us.
+>
+> Psalm 77:4 — They were not hid from their children to a second generation; [the fathers] declaring the praises of the Lord, and his mighty acts, and his wonders which he wrought.
+>
+> Psalm 77:5 — And he raised up a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, to make it known to their children:
+>
+> Psalm 77:6 — that another generation might know, even the sons which should be born; and they should arise and declare them to their children.
+>
+> Psalm 77:7 — That they might set their hope on God, and not forget the works of God, but diligently seek his commandments.
+
+**Hebrew and Greek compared.**
+
+The same in substance. In 78:7 the Greek reads "seek out his commandments"
+(ἐκζητήσωσιν) for "keep" (יִנְצֹרוּ).
+
+**Notes.**
+
+The fullest statement of transmission by teaching across four generations
+("our fathers … their children … the generation to come … their
+children"). The means is telling, not writing.
+
+### Psalm 89:34-35
 
 <a id="ps-89-34"></a>
 
-**Claim.** My covenant will I not break, nor alter the thing that is gone out of my lips.
+**Claim.** My covenant will I not break, nor alter the thing that is gone out of my lips. Once have I sworn by my holiness that I will not lie unto David.
 
 **Speaker:** God, through a prophet · **Role:** claim · **Categories:** Fulfilment · **Object:** the covenant and "the thing that is gone out of my lips"
 
 **Hebrew (Masoretic Text, Westminster Leningrad Codex)**
 
 > Psalm 89:35 — <span dir="rtl" lang="he">לֹא־אֲחַלֵּל בְּרִיתִי וּמוֹצָא שְׂפָתַי לֹא אֲשַׁנֶּֽה׃</span>
+>
+> Psalm 89:36 — <span dir="rtl" lang="he">אַחַת נִשְׁבַּעְתִּי בְקָדְשִׁי אִֽם־לְדָוִד אֲכַזֵּֽב׃</span>
 
 **English of the Hebrew (KJV, 1769)**
 
 > Psalm 89:34 — My covenant will I not break, nor alter the thing that is gone out of my lips.
+>
+> Psalm 89:35 — Once have I sworn by my holiness that I will not lie unto David.
 
 **Greek (Septuagint, Brenton's edition)**
 
 > Psalm 88:35 — οὐδὲ μὴ βεβηλώσω τὴν διαθήκην μου, καὶ τὰ ἐκπορευόμενα διὰ τῶν χειλέων μου οὐ μὴ ἀθετήσω.
+>
+> Psalm 88:36 — Ἅπαξ ὤμοσα ἐν τῷ ἁγίῳ μου, εἰ τῷ Δαυὶδ ψεύσομαι.
 
 **English of the Greek (Brenton, 1851)**
 
 > Psalm 88:35 — Neither will I by any means profane my covenant; and I will not make void the things that proceed out of my lips.
+>
+> Psalm 88:36 — Once have I sworn by my holiness, that I will not lie to David.
 
 **Hebrew and Greek compared.**
 
-The Hebrew "I will not alter" (לֹא אֲשַׁנֶּה) becomes "I will not set aside" (οὐ μὴ ἀθετήσω).
+The Hebrew "I will not alter" (לֹא אֲשַׁנֶּה) becomes "I will not set aside" (οὐ μὴ ἀθετήσω). "I will not lie" is אֲכַזֵּב in the Hebrew, ψεύσομαι in the Greek.
 
 **Notes.**
 
@@ -872,6 +2120,40 @@ The same; the Greek is a jussive, "let this be written for another generation" (
 
 The same; "word" is λόγος in both Greek places. In 1 Chronicles the people are told to remember (μνημονεύωμεν, "let us remember").
 
+### Psalm 110:4
+
+<a id="ps-110-4"></a>
+
+**Claim.** The LORD hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.
+
+**Speaker:** God, through a prophet · **Role:** ground · **Categories:** Fulfilment · **Object:** God's oath
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Psalm 110:4 — <span dir="rtl" lang="he">נִשְׁבַּע יְהוָה ׀ וְלֹא יִנָּחֵם אַתָּֽה־כֹהֵן לְעוֹלָם עַל־דִּבְרָתִי מַלְכִּי־צֶֽדֶק׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Psalm 110:4 — The LORD hath sworn, and will not repent, Thou [art] a priest for ever after the order of Melchizedek.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Psalm 109:4 — Ὤμοσε Κύριος καὶ οὐ μεταμεληθήσεται, σὺ ἱερεὺς εἰς τὸν αἰῶνα, κατὰ τὴν τάξιν Μελχισεδέκ.
+
+**English of the Greek (Brenton, 1851)**
+
+> Psalm 109:4 — The Lord sware, and will not repent, Thou art a priest for ever, after the order of Melchisedec.
+
+**Hebrew and Greek compared.**
+
+The same ("will not repent", וְלֹא יִנָּחֵם / οὐ μεταμεληθήσεται).
+
+**Used in the New Testament:** Hebrews 5:6, Hebrews 6:17-20, Hebrews 7:21, Hebrews 7:28
+
+**Notes.**
+
+An oath God will not take back. Hebrews 6:17-18 and 7:21 build on it the "immutability of his counsel".
+
 ### Psalm 111:7-8
 
 <a id="ps-111-7"></a>
@@ -935,6 +2217,48 @@ The Hebrew "upheld for ever and ever" (סְמוּכִים לָעַד לְעוֹ�
 **Hebrew and Greek compared.**
 
 The Hebrew has no verb ("the truth of the LORD is for ever"); the Greek supplies "abides" (μένει), again the verb of Isaiah 40:8 in the Greek.
+
+### Psalm 119:43, 111
+
+<a id="ps-119-43"></a>
+
+**Claim.** "Take not the word of truth utterly out of my mouth"; "thy testimonies have I taken as an heritage for ever."
+
+**Speaker:** Psalmist · **Role:** claim · **Categories:** Withdrawal, Transmission to later generations · **Object:** the word of truth; thy testimonies
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Psalm 119:43 — <span dir="rtl" lang="he">וְֽאַל־תַּצֵּל מִפִּי דְבַר־אֱמֶת עַד־מְאֹד כִּי לְמִשְׁפָּטֶךָ יִחָֽלְתִּי׃</span>
+>
+> Psalm 119:111 — <span dir="rtl" lang="he">נָחַלְתִּי עֵדְוֺתֶיךָ לְעוֹלָם כִּֽי־שְׂשׂוֹן לִבִּי הֵֽמָּה׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Psalm 119:43 — And take not the word of truth utterly out of my mouth; for I have hoped in thy judgments.
+>
+> Psalm 119:111 — Thy testimonies have I taken as an heritage for ever: for they [are] the rejoicing of my heart.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Psalm 118:43 — Καὶ μὴ περιέλῃς ἐκ τοῦ στόματός μου λόγον ἀληθείας ἕως σφόδρα, ὅτι ἐπὶ τοῖς κρίμασί σου ἐπήλπισα.
+>
+> Psalm 118:111 — Ἐκληρονόμησα τὰ μαρτύριά σου εἰς τὸν αἰῶνα, ὅτι ἀγαλλιάμα τῆς καρδίας μού εἰσιν.
+
+**English of the Greek (Brenton, 1851)**
+
+> Psalm 118:43 — And take not the word of truth utterly out of my mouth; for I have hoped in thy judgments.
+>
+> Psalm 118:111 — I have inherited thy testimonies for ever; for they are the joy of my heart.
+
+**Hebrew and Greek compared.**
+
+The same; "take not … out of my mouth" is μὴ περιέλῃς, "do not strip away".
+
+**Notes.**
+
+A prayer that the word may not be taken from one's mouth, which
+presupposes that it can be; and the word held as an inheritance "for ever"
+(לְעוֹלָם), passed down like land.
 
 ### Psalm 119:89-91
 
@@ -1016,6 +2340,48 @@ The Hebrew "refined" (צְרוּפָה) is the Greek "tried in the fire" (πεπ
 **Notes.**
 
 Cited with Psalm 12:6 by the Westminster Larger Catechism (Q. 4) for the purity of Scripture.
+
+### Psalm 119:142, 144
+
+<a id="ps-119-142"></a>
+
+**Claim.** Thy righteousness is an everlasting righteousness, and thy law is the
+truth; the righteousness of thy testimonies is everlasting.
+
+
+**Speaker:** Psalmist · **Role:** claim · **Categories:** Permanence, Purity and truth · **Object:** thy law; thy testimonies
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Psalm 119:142 — <span dir="rtl" lang="he">צִדְקָתְךָ צֶדֶק לְעוֹלָם וְֽתוֹרָתְךָ אֱמֶֽת׃</span>
+>
+> Psalm 119:144 — <span dir="rtl" lang="he">צֶדֶק עֵדְוֺתֶיךָ לְעוֹלָם הֲבִינֵנִי וְאֶחְיֶֽה׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Psalm 119:142 — Thy righteousness [is] an everlasting righteousness, and thy law [is] the truth.
+>
+> Psalm 119:144 — The righteousness of thy testimonies [is] everlasting: give me understanding, and I shall live.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Psalm 118:142 — Ἡ δικαιοσύνη σου δικαιοσύνη εἰς τὸν αἰῶνα, καὶ ὁ νόυος σου ἀλήθεια.
+>
+> Psalm 118:144 — Δικαιοσύνη τὰ μαρτύριά σου εἰς τὸν αἰῶνα· συνέτισόν με, καὶ ζήσομαι.
+
+**English of the Greek (Brenton, 1851)**
+
+> Psalm 118:142 — Thy righteousness is an everlasting righteousness, and thy law is truth.
+>
+> Psalm 118:144 — Thy testimonies [are] an everlasting righteousness: instruct me, and I shall live.
+
+**Hebrew and Greek compared.**
+
+The same; "everlasting" is εἰς τὸν αἰῶνα in both verses.
+
+**Notes.**
+
+The *tsade* strophe, between 119:140 and 119:152.
 
 ### Psalm 119:152, 160
 
@@ -1130,6 +2496,119 @@ unevenly in the transmitted texts. The companion study
 [preservation-hebrew-and-greek.md](../../analysis/preservation-hebrew-and-greek.md#42-before-the-masoretes-several-hebrew-editions)
 discusses it as evidence of more than one Hebrew edition of the Psalms.
 
+### Psalm 147:15, 19-20
+
+<a id="ps-147-15"></a>
+
+**Claim.** His word runneth very swiftly. He sheweth his word unto Jacob, his
+statutes and his judgments unto Israel. He hath not dealt so with any
+nation.
+
+
+**Speaker:** Psalmist · **Role:** claim · **Categories:** Custody, Efficacy · **Object:** his word; his statutes and judgments
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Psalm 147:15 — <span dir="rtl" lang="he">הַשֹּׁלֵחַ אִמְרָתוֹ אָרֶץ עַד־מְהֵרָה יָרוּץ דְּבָרֽוֹ׃</span>
+>
+> Psalm 147:19 — <span dir="rtl" lang="he">מַגִּיד דברו לְיַעֲקֹב חֻקָּיו וּמִשְׁפָּטָיו לְיִשְׂרָאֵֽל׃</span>
+>
+> Psalm 147:20 — <span dir="rtl" lang="he">לֹא עָשָׂה כֵן ׀ לְכָל־גּוֹי וּמִשְׁפָּטִים בַּל־יְדָעוּם הַֽלְלוּ־יָֽהּ׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Psalm 147:15 — He sendeth forth his commandment [upon] earth: his word runneth very swiftly.
+>
+> Psalm 147:19 — He sheweth his word unto Jacob, his statutes and his judgments unto Israel.
+>
+> Psalm 147:20 — He hath not dealt so with any nation: and [as for his] judgments, they have not known them. Praise ye the LORD.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Psalm 147:4 — Ὁ ἀποστέλλων τὸ λόγιον αὐτοῦ τῇ γῇ, ἕως τάχους δραμεῖται ὁ λόγος αὐτοῦ·
+>
+> Psalm 147:8 — Ἀπαγγέλλων τὸν λόγον αὐτοῦ τῷ Ἰακώβ, δικαιώματα καὶ κρίματα αὐτοῦ τῷ Ἰσραήλ.
+>
+> Psalm 147:9 — Οὐκ ἐποίησεν οὕτως παντὶ ἔθνει, καὶ τὰ κρίματα αὐτοῦ οὐκ ἐδήλωσεν αὐτοῖς.
+
+**English of the Greek (Brenton, 1851)**
+
+> Psalm 147:4 — He sends his oracle to the earth: his word will run swiftly.
+>
+> Psalm 147:8 — He sends his word to Jacob, his ordinances and judgments to Israel.
+>
+> Psalm 147:9 — He has not done so to any [other] nation; and he has not shewn them his judgments.
+
+**Hebrew and Greek compared.**
+
+The Greek counts Psalm 147:12-20 as a separate psalm (Brenton's 147:1-9).
+In verse 15 it has τὸ λόγιον αὐτοῦ, "his oracle", then ὁ λόγος αὐτοῦ. In
+147:20 the Greek reads "he has not made his judgments known (ἐδήλωσεν) to
+them" for "they have not known them".
+
+**Notes.**
+
+The word given to Israel alone, the Old Testament ground of Romans 3:2
+("unto them were committed the oracles of God").
+
+### Proverbs 22:19-21
+
+<a id="prov-22-19"></a>
+
+**Claim.** Have not I written to thee excellent things, that I might make thee know
+the certainty of the words of truth; that thou mightest answer the words
+of truth to them that send unto thee?
+
+
+**Speaker:** Sage · **Role:** means · **Categories:** Inscripturation, Purity and truth · **Object:** the words of truth
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Proverbs 22:19 — <span dir="rtl" lang="he">לִהְיוֹת בַּיהוָה מִבְטַחֶךָ הוֹדַעְתִּיךָ הַיּוֹם אַף־אָֽתָּה׃</span>
+>
+> Proverbs 22:20 — <span dir="rtl" lang="he">הֲלֹא כָתַבְתִּי לְךָ שלשום בְּמוֹעֵצֹת וָדָֽעַת׃</span>
+>
+> Proverbs 22:21 — <span dir="rtl" lang="he">לְהוֹדִֽיעֲךָ קֹשְׁטְ אִמְרֵי אֱמֶת לְהָשִׁיב אֲמָרִים אֱמֶת לְשֹׁלְחֶֽיךָ׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Proverbs 22:19 — That thy trust may be in the LORD, I have made known to thee this day, even to thee.
+>
+> Proverbs 22:20 — Have not I written to thee excellent things in counsels and knowledge,
+>
+> Proverbs 22:21 — That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Proverbs 22:19 — Ἵνα σου γένηται ἐπὶ Κύριον ἡ ἐλπὶς, καὶ γνωρίσῃ σοι τὴν ὁδόν σου.
+>
+> Proverbs 22:20 — Καὶ σὺ δὲ ἀπόγραψαι αὐτὰ σεαυτῷ τρισσῶς, εἰς βουλὴν καὶ γνῶσιν ἐπὶ τὸ πλάτος τῆς καρδίας σου.
+>
+> Proverbs 22:21 — Διδάσκω οὖν σε ἀληθῆ λόγον, καὶ γνῶσιν ἀγαθὴν ὑπακούειν, τοῦ ἀποκρίνεσθαί σε λόγους ἀληθείας τοῖς προβαλλομένοις σοι.
+
+**English of the Greek (Brenton, 1851)**
+
+> Proverbs 22:19 — That thy hope may be in the Lord, and he may make thy way known to thee.
+>
+> Proverbs 22:20 — And do thou too repeatedly record them for thyself on the table of thine heart, for counsel and knowledge.
+>
+> Proverbs 22:21 — I therefore teach thee truth, and knowledge good to hear; that thou mayest answer words of truth to them that question thee.
+
+**Hebrew and Greek compared.**
+
+The Greek differs. For "Have not I written to thee excellent things
+(שָׁלִשׁוֹם)?" it has a command to the reader: "And do thou write them for
+thyself threefold (ἀπόγραψαι αὐτὰ σεαυτῷ τρισσῶς)". For "that I might make
+thee know the certainty of the words of truth" it has "I teach thee
+therefore a true word". In the Hebrew the sage writes; in the Greek the
+reader is told to copy.
+
+**Notes.**
+
+Westminster Confession 1.1 cites this passage for God's committing his
+word to writing. The purpose of the writing is certainty (קֹשְׁטְ, "truth,
+certainty").
+
 ### Proverbs 30:5-6
 
 <a id="prov-30-5"></a>
@@ -1168,6 +2647,67 @@ The sense is the same ("all the words of God are tried", πάντες λόγοι
 θεοῦ πεπυρωμένοι; "add not to his words", μὴ προσθῇς τοῖς λόγοις αὐτοῦ),
 but the Greek places the words of Agur in chapter 24, where Brenton numbers
 them 24:22k–l. The Hebrew "God" here is the rare אֱלוֹהַּ.
+
+### Ecclesiastes 12:9-12
+
+<a id="eccl-12-9"></a>
+
+**Claim.** The preacher sought out acceptable words, "and that which was written was
+upright, even words of truth"; they "are given from one shepherd". "Of
+making many books there is no end."
+
+
+**Speaker:** Sage · **Role:** means · **Categories:** Inscripturation, Origin · **Object:** words of truth written uprightly
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Ecclesiastes 12:9 — <span dir="rtl" lang="he">וְיֹתֵר שֶׁהָיָה קֹהֶלֶת חָכָם עוֹד לִמַּד־דַּעַת אֶת־הָעָם וְאִזֵּן וְחִקֵּר תִּקֵּן מְשָׁלִים הַרְבֵּֽה׃</span>
+>
+> Ecclesiastes 12:10 — <span dir="rtl" lang="he">בִּקֵּשׁ קֹהֶלֶת לִמְצֹא דִּבְרֵי־חֵפֶץ וְכָתוּב יֹשֶׁר דִּבְרֵי אֱמֶֽת׃</span>
+>
+> Ecclesiastes 12:11 — <span dir="rtl" lang="he">דִּבְרֵי חֲכָמִים כַּדָּרְבֹנוֹת וּֽכְמַשְׂמְרוֹת נְטוּעִים בַּעֲלֵי אֲסֻפּוֹת נִתְּנוּ מֵרֹעֶה אֶחָֽד׃</span>
+>
+> Ecclesiastes 12:12 — <span dir="rtl" lang="he">וְיֹתֵר מֵהֵמָּה בְּנִי הִזָּהֵר עֲשׂוֹת סְפָרִים הַרְבֵּה אֵין קֵץ וְלַהַג הַרְבֵּה יְגִעַת בָּשָֽׂר׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Ecclesiastes 12:9 — And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, [and] set in order many proverbs.
+>
+> Ecclesiastes 12:10 — The preacher sought to find out acceptable words: and [that which was] written [was] upright, [even] words of truth.
+>
+> Ecclesiastes 12:11 — The words of the wise [are] as goads, and as nails fastened [by] the masters of assemblies, [which] are given from one shepherd.
+>
+> Ecclesiastes 12:12 — And further, by these, my son, be admonished: of making many books [there is] no end; and much study [is] a weariness of the flesh.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Ecclesiastes 12:9 — Καὶ περισσὸν ὅτι ἐγένετο Ἐκκλησιαστὴς σοφὸς, ὅτι ἐδίδαξε γνῶσιν σὺν τὸν ἄνθρωπον, καὶ οὖς ἐξιχνιάσεται κόσμιον παραβολῶν.
+>
+> Ecclesiastes 12:10 — Πολλὰ ἐζήτησεν Ἐκκλησιαστὴς τοῦ εὑρεῖν λόγους θελήματος, καὶ γεγραμμένον εὐθύτητος, λόγους ἀληθείας.
+>
+> Ecclesiastes 12:11 — Λόγοι σοφῶν ὡς τὰ βούκεντρα, καὶ ὡς ἧλοι πεφυτευμένοι, οἳ παρὰ τῶν συνθεμάτων ἐδόθησαν ἐκ ποιμένος ἑνός.
+>
+> Ecclesiastes 12:12 — Καὶ περισσὸν ἐξ αὐτῶν υἱέ μου φύλαξαι· τοῦ ποιῆσαι βιβλία πολλὰ οὐκ ἔστι περασμὸς, καὶ μελέτη πολλὴ κόπωσις σαρκός.
+
+**English of the Greek (Brenton, 1851)**
+
+> Ecclesiastes 12:9 — And because the Preacher was wise above [others, so it was] that he taught man excellent knowledge, and the ear will trace out the parables.
+>
+> Ecclesiastes 12:10 — The Preacher sought diligently to find out acceptable words, and a correct writing, [even] words of truth.
+>
+> Ecclesiastes 12:11 — The words of the wise are as goads, and as nails firmly fastened, which have been given from one shepherd by agreement.
+>
+> Ecclesiastes 12:12 — And moreover, my son, guard thyself by means of them: of making many books there is no end; and much study is a weariness of the flesh.
+
+**Hebrew and Greek compared.**
+
+The same; "given from one shepherd" is ἐδόθησαν ἐκ ποιμένος ἑνός.
+
+**Notes.**
+
+The writer's labour in seeking, arranging and writing is set beside the
+claim that the words come "from one shepherd". The warning against "many
+books" sets the given words apart from the endless writing of men.
 
 ### Isaiah 8:16, 20
 
@@ -1212,6 +2752,172 @@ help", not the Hebrew's appeal "to the law and to the testimony".
 **Notes.**
 
 Westminster cites 8:20 (WCF 1.1, 1.8; WLC Q. 3) for the appeal to Scripture; that reading depends on the Hebrew.
+
+### Isaiah 9:8
+
+<a id="isa-9-8"></a>
+
+**Claim.** The Lord sent a word into Jacob, and it hath lighted (fallen) upon Israel.
+
+**Speaker:** God, through a prophet · **Role:** claim · **Categories:** Efficacy · **Object:** a word sent into Jacob
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Isaiah 9:7 — <span dir="rtl" lang="he">דָּבָר שָׁלַח אֲדֹנָי בְּיַעֲקֹב וְנָפַל בְּיִשְׂרָאֵֽל׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Isaiah 9:8 — ¶ The Lord sent a word into Jacob, and it hath lighted upon Israel.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Isaiah 9:7 — Θάνατον ἀπέστειλε Κύριος ἐπὶ Ἰακώβ, καὶ ἦλθεν ἐπὶ Ἰσραήλ.
+
+**English of the Greek (Brenton, 1851)**
+
+> Isaiah 9:7 — The Lord has sent death upon Jacob, and it has come upon Israel.
+
+**Hebrew and Greek compared.**
+
+The Hebrew consonants דבר are pointed דָּבָר, "a word". The Greek read the
+same letters as דֶּבֶר, "pestilence": "The Lord sent death (θάνατον) upon
+Jacob." A preservation passage that exists only on one vocalization of
+the consonantal text.
+
+**Notes.**
+
+The word "falls" on Israel (נָפַל), the opposite of the idiom in which
+God's word does not fall to the ground; here it falls by landing on its
+target.
+
+### Isaiah 14:24, 27; 44:26
+
+<a id="isa-14-24"></a>
+
+**Claim.** "As I have purposed, so shall it stand"; "who shall disannul it?"; he
+"confirmeth the word of his servant, and performeth the counsel of his
+messengers".
+
+
+**Speaker:** God, through a prophet · **Role:** claim · **Categories:** Fulfilment · **Object:** God's purpose; the word of his servant
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Isaiah 14:24 — <span dir="rtl" lang="he">נִשְׁבַּע יְהוָה צְבָאוֹת לֵאמֹר אִם־לֹא כַּאֲשֶׁר דִּמִּיתִי כֵּן הָיָתָה וְכַאֲשֶׁר יָעַצְתִּי הִיא תָקֽוּם׃</span>
+>
+> Isaiah 14:27 — <span dir="rtl" lang="he">כִּֽי־יְהוָה צְבָאוֹת יָעָץ וּמִי יָפֵר וְיָדוֹ הַנְּטוּיָה וּֽמִי יְשִׁיבֶֽנָּה׃</span>
+>
+> Isaiah 44:26 — <span dir="rtl" lang="he">מֵקִים דְּבַר עַבְדּוֹ וַעֲצַת מַלְאָכָיו יַשְׁלִים הָאֹמֵר לִירוּשָׁלִַם תּוּשָׁב וּלְעָרֵי יְהוּדָה תִּבָּנֶינָה וְחָרְבוֹתֶיהָ אֲקוֹמֵֽם׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Isaiah 14:24 — ¶ The LORD of hosts hath sworn, saying, Surely as I have thought, so shall it come to pass; and as I have purposed, [so] shall it stand:
+>
+> Isaiah 14:27 — For the LORD of hosts hath purposed, and who shall disannul [it]? and his hand [is] stretched out, and who shall turn it back?
+>
+> Isaiah 44:26 — That confirmeth the word of his servant, and performeth the counsel of his messengers; that saith to Jerusalem, Thou shalt be inhabited; and to the cities of Judah, Ye shall be built, and I will raise up the decayed places thereof:
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Isaiah 14:24 — Τάδε λέγει Κύριος σαβαὼθ, ὃν τρόπον εἴρηκα, οὕτως ἔσται, καὶ ὃν τρόπον βεβούλευμαι, οὕτως μενεῖ,
+>
+> Isaiah 14:27 — Ἃ γὰρ ὁ Θεὸς ὁ ἅγιος βεβούλευται, τίς διασκεδάσει; καὶ τὴν χεῖρα αὐτοῦ τὴν ὑψηλὴν τίς ἀποστρέψει;
+>
+> Isaiah 44:26 — καὶ ἱστῶν ῥὴμα παιδὸς αὐτοῦ, καὶ τὴν βουλὴν τῶν ἀγγέλων αὐτοῦ ἀληθεύων· ὁ λέγων τῇ Ἱερουσαλὴμ, κατοικηθήσῃ, καὶ ταῖς πόλεσι τῆς Ἰδουμαίας, οἰκοδομηθήσεσθε, καὶ τὰ ἔρημα αὐτῆς ἀνατελεῖ·
+
+**English of the Greek (Brenton, 1851)**
+
+> Isaiah 14:24 — Thus saith the Lord of hosts, As I have said, so it shall be: and as I have purposed, so [the matter] shall remain:
+>
+> Isaiah 14:27 — For what the Holy God has purposed, who shall frustrate? and who shall turn back his uplifted hand?
+>
+> Isaiah 44:26 — and confirming the word of his servant, and verifying the counsel of his messengers: who says to Jerusalem, Thou shalt be inhabited; and to the cities of Idumea, Ye shall be built, and her desert places shall spring forth.
+
+**Hebrew and Greek compared.**
+
+The Greek of 14:24 has no oath ("Thus saith the Lord of hosts" for "The
+LORD of hosts hath sworn") and renders "so shall it stand" (תָקוּם) as "so
+shall it abide" (μενεῖ), the verb of Isaiah 40:8 in the Greek. In 44:26
+"confirmeth the word" is ἱστῶν ῥῆμα, "establishing the word".
+
+**Notes.**
+
+The word of the prophet ("his servant", "his messengers") is made to stand (מֵקִים) by God.
+
+### Isaiah 29:10-14
+
+<a id="isa-29-11"></a>
+
+**Claim.** The vision is become as the words of a sealed book that neither learned
+nor unlearned can read; "their fear toward me is taught by the precept of
+men".
+
+
+**Speaker:** God, through a prophet · **Role:** warning · **Categories:** Withdrawal, Corruption among men · **Object:** the vision of all; the fear of God taught by men
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Isaiah 29:10 — <span dir="rtl" lang="he">כִּֽי־נָסַךְ עֲלֵיכֶם יְהוָה רוּחַ תַּרְדֵּמָה וַיְעַצֵּם אֶת־עֵֽינֵיכֶם אֶת־הַנְּבִיאִים וְאֶת־רָאשֵׁיכֶם הַחֹזִים כִּסָּֽה׃</span>
+>
+> Isaiah 29:11 — <span dir="rtl" lang="he">וַתְּהִי לָכֶם חָזוּת הַכֹּל כְּדִבְרֵי הַסֵּפֶר הֶֽחָתוּם אֲשֶֽׁר־יִתְּנוּ אֹתוֹ אֶל־יוֹדֵעַ הספר לֵאמֹר קְרָא נָא־זֶה וְאָמַר לֹא אוּכַל כִּי חָתוּם הֽוּא׃</span>
+>
+> Isaiah 29:12 — <span dir="rtl" lang="he">וְנִתַּן הַסֵּפֶר עַל אֲשֶׁר לֹֽא־יָדַע סֵפֶר לֵאמֹר קְרָא נָא־זֶה וְאָמַר לֹא יָדַעְתִּי סֵֽפֶר׃</span>
+>
+> Isaiah 29:13 — <span dir="rtl" lang="he">וַיֹּאמֶר אֲדֹנָי יַעַן כִּי נִגַּשׁ הָעָם הַזֶּה בְּפִיו וּבִשְׂפָתָיו כִּבְּדוּנִי וְלִבּוֹ רִחַק מִמֶּנִּי וַתְּהִי יִרְאָתָם אֹתִי מִצְוַת אֲנָשִׁים מְלֻמָּדָֽה׃</span>
+>
+> Isaiah 29:14 — <span dir="rtl" lang="he">לָכֵן הִנְנִי יוֹסִף לְהַפְלִיא אֶת־הָֽעָם־הַזֶּה הַפְלֵא וָפֶלֶא וְאָֽבְדָה חָכְמַת חֲכָמָיו וּבִינַת נְבֹנָיו תִּסְתַּתָּֽר׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Isaiah 29:10 — For the LORD hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.
+>
+> Isaiah 29:11 — And the vision of all is become unto you as the words of a book that is sealed, which [men] deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it [is] sealed:
+>
+> Isaiah 29:12 — And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned.
+>
+> Isaiah 29:13 — ¶ Wherefore the Lord said, Forasmuch as this people draw near [me] with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
+>
+> Isaiah 29:14 — Therefore, behold, I will proceed to do a marvellous work among this people, [even] a marvellous work and a wonder: for the wisdom of their wise [men] shall perish, and the understanding of their prudent [men] shall be hid.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Isaiah 29:10 — ὅτι πεπότικεν ὑμᾶς Κύριος πνεύματι κατανύξεως, καὶ καμμύσει τοὺς ὀφθαλμοὺς αὐτῶν, καὶ τῶν προφητῶν αὐτῶν, καὶ τῶν ἀρχόντων αὐτῶν, οἱ ὁρῶντες τὰ κρυπτά.
+>
+> Isaiah 29:11 — Καὶ ἔσται ὑμῖν τὰ ῥήματα πάντα ταῦτα, ὡς οἱ λόγοι τοῦ βιβλίου τοῦ ἐσφραγισμένου τσύτου, ὃ ἐὰν δῶσιν αὐτὸ ἀνθρώπῳ ἐπισταμένῳ γράμματα, λέγοντες, ἀνάγνωθι ταῦτα· καὶ ἐρεῖ, οὐ δύναμαι ἀναγνῶναι, ἐσφράγισται γάρ.
+>
+> Isaiah 29:12 — καὶ δοθήσεται τὸ βιβλίον τοῦτο εἰς χεῖρας ἀνθρώπου μὴ ἐπισταμένου γράμματα, καὶ ἐρεῖ αὐτῷ, ἀνάγνωθι τοῦτο· καὶ ἐρεῖ, οὐκ ἐπίσταμαι γράμματα.
+>
+> Isaiah 29:13 — Καὶ εἶπε Κύριος, ἐγγίζει μοι ὁ λαὸς οὗτος ἐν τῷ στόματι αὐτοῦ, καὶ ἐν τοῖς χείλεσιν αὐτῶν τιμῶσί με, ἡ δὲ καρδία αὐτῶν πόῤῥω ἀπέχει ἀπʼ ἐμοῦ· μάτην δὲ σέβονταί με, διδάσκοντες ἐντάλματα ἀνθρώπων καὶ διδασκαλίας.
+>
+> Isaiah 29:14 — Διατοῦτο ἰδοὺ προσθήσω τοῦ μεταθεῖναι τὸν λαὸν τοῦτον, καὶ μεταθήσω αὐτούς, καὶ ἀπολῶ τὴν σοφίαν τῶν σοφῶν, καὶ τὴν σύνεσιν τῶν συνετῶν κρύψω.
+
+**English of the Greek (Brenton, 1851)**
+
+> Isaiah 29:10 — For the Lord has made you to drink a spirit of deep sleep; and he shall close their eyes, and [the eyes] of their prophets and of their rulers, who see secret things.
+>
+> Isaiah 29:11 — And all these things shall be to you as the words of this sealed book, which if they shall give to a learned man, saying, Read this, he shall then say, I cannot read [it], for it is sealed.
+>
+> Isaiah 29:12 — And this book shall be given into the hands of a man that is unlearned, and [one] shall say to him, Read this; and he shall say, I am not learned.
+>
+> Isaiah 29:13 — And the Lord has said, This people draw nigh to me with their mouth, and they honour me with their lips, but their heart is far from me: but in vain do they worship me, teaching the commandments and doctrines of men.
+>
+> Isaiah 29:14 — Therefore behold I will proceed to remove this people, and I will remove them: and I will destroy the wisdom of the wise, and will hide the understanding of the prudent.
+
+**Hebrew and Greek compared.**
+
+The Greek of 29:11 reads "all these words" for "the vision of all", and
+29:13 adds "in vain do they worship me, teaching the commandments and
+doctrines of men" (μάτην δὲ σέβονταί με …). Jesus quotes 29:13 in that
+Greek form.
+
+**Used in the New Testament:** Matthew 15:8-9, Mark 7:6-7, Romans 11:8, 1 Corinthians 1:19
+
+**Notes.**
+
+The word is present as a book but closed to its readers, a judgment of
+blindness rather than a loss of the text. Verse 13 is the passage Jesus
+applies to the tradition that "made the word of God of none effect"
+([Matthew 15:6](#matt-15-6)).
 
 ### Isaiah 30:8
 
@@ -1697,6 +3403,75 @@ The same ("diminish not a word", אַל־תִּגְרַע דָּבָר / μὴ �
 
 The same. The chapter is 37 in the Greek.
 
+### Jeremiah 32:10-14
+
+<a id="jer-32-14"></a>
+
+**Claim.** "Take these evidences … and put them in an earthen vessel, that they may continue many days."
+
+**Speaker:** God, through a prophet · **Role:** means · **Categories:** Custody · **Object:** the sealed and open deeds of purchase
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Jeremiah 32:10 — <span dir="rtl" lang="he">וָאֶכְתֹּב בַּסֵּפֶר וָֽאֶחְתֹּם וָאָעֵד עֵדִים וָאֶשְׁקֹל הַכֶּסֶף בְּמֹאזְנָֽיִם׃</span>
+>
+> Jeremiah 32:11 — <span dir="rtl" lang="he">וָאֶקַּח אֶת־סֵפֶר הַמִּקְנָה אֶת־הֶֽחָתוּם הַמִּצְוָה וְהַחֻקִּים וְאֶת־הַגָּלֽוּי׃</span>
+>
+> Jeremiah 32:12 — <span dir="rtl" lang="he">וָאֶתֵּן אֶת־הַסֵּפֶר הַמִּקְנָה אֶל־בָּרוּךְ בֶּן־נֵרִיָּה בֶּן־מַחְסֵיָה לְעֵינֵי חֲנַמְאֵל דֹּדִי וּלְעֵינֵי הָֽעֵדִים הַכֹּתְבִים בְּסֵפֶר הַמִּקְנָה לְעֵינֵי כָּל־הַיְּהוּדִים הַיֹּשְׁבִים בַּחֲצַר הַמַּטָּרָֽה׃</span>
+>
+> Jeremiah 32:13 — <span dir="rtl" lang="he">וָֽאֲצַוֶּה אֶת בָּרוּךְ לְעֵינֵיהֶם לֵאמֹֽר׃</span>
+>
+> Jeremiah 32:14 — <span dir="rtl" lang="he">כֹּֽה־אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל לָקוֹחַ אֶת־הַסְּפָרִים הָאֵלֶּה אֵת סֵפֶר הַמִּקְנָה הַזֶּה וְאֵת הֶחָתוּם וְאֵת סֵפֶר הַגָּלוּי הַזֶּה וּנְתַתָּם בִּכְלִי־חָרֶשׂ לְמַעַן יַעַמְדוּ יָמִים רַבִּֽים׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Jeremiah 32:10 — And I subscribed the evidence, and sealed [it], and took witnesses, and weighed [him] the money in the balances.
+>
+> Jeremiah 32:11 — So I took the evidence of the purchase, [both] that which was sealed [according] to the law and custom, and that which was open:
+>
+> Jeremiah 32:12 — And I gave the evidence of the purchase unto Baruch the son of Neriah, the son of Maaseiah, in the sight of Hanameel mine uncle’s [son], and in the presence of the witnesses that subscribed the book of the purchase, before all the Jews that sat in the court of the prison.
+>
+> Jeremiah 32:13 — ¶ And I charged Baruch before them, saying,
+>
+> Jeremiah 32:14 — Thus saith the LORD of hosts, the God of Israel; Take these evidences, this evidence of the purchase, both which is sealed, and this evidence which is open; and put them in an earthen vessel, that they may continue many days.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Jeremiah 39:10 — καὶ ἔγραψα εἰς βιβλίον, καὶ ἐσφραγισάμην, καὶ διεμαρτυράμην μάρτυρας, καὶ ἔστησα τὸ ἀργύριον ἐν ζυγῷ.
+>
+> Jeremiah 39:11 — Καὶ ἔλαβον τὸ βιβλίον τῆς κτήσεως τὸ ἐσφραγισμένον,
+>
+> Jeremiah 39:12 — καὶ ἔδωκα αὐτὸ τῷ Βαροὺχ υἱῷ Νηρίου υἱῷ Μαασαίου, κατʼ ὀφθαλμοὺς Ἀναμεὴλ υἱοῦ ἀδελφοῦ πατρός μου, καὶ κατʼ ὀφθαλμοὺς τῶν ἀνδρῶν τῶν παρεστηκότων καὶ γραφόντων ἐν τῷ βιβλίῳ τῆς κτήσεως, καὶ κατʼ ὀφθαλμοὺς τῶν Ἰουδαίων τῶν ἐν τῇ αὐλῇ τῆς φυλακῆς.
+>
+> Jeremiah 39:13 — Καὶ συνέταξα τῷ Βαροὺχ κατʼ ὀφθαλμοὺς αὐτῶν, λέγων,
+>
+> Jeremiah 39:14 — Οὕτως εἶπε Κύριος παντοκράτωρ, λάβε τὸ βιβλίον τῆς κτήσεως τοῦτο, καὶ τὸ βιβλίον τὸ ἀνεγνωσμένον, καὶ θήσεις αὐτὸ εἰς ἀγγεῖον ὀστράκινον, ἵνα διαμείνῃ ἡμέρας πλείους.
+
+**English of the Greek (Brenton, 1851)**
+
+> Jeremiah 39:10 — And I wrote [it] in a book, and sealed [it], and took the testimony of witnesses, and weighed the money in the balance.
+>
+> Jeremiah 39:11 — And I took the book of the purchase that was sealed;
+>
+> Jeremiah 39:12 — and I gave it to Baruch son of Nerias, son of Maasæas, in the sight of Anameel my father's brother's son, and in the sight of the men that stood by and wrote in the book of the purchase, and in the sight of the Jews that were in the court of the prison.
+>
+> Jeremiah 39:13 — And I charged Baruch in their presence, saying, Thus saith the Lord Almighty;
+>
+> Jeremiah 39:14 — Take this book of the purchase, and the book that has been read; and thou shalt put it into an earthen vessel, that it may remain many days.
+
+**Hebrew and Greek compared.**
+
+In 32:14 the Greek reads "the book that was read" (τὸ ἀνεγνωσμένον) for
+"the open one", and "that it may last many days" is ἵνα διαμείνῃ ἡμέρας
+πλείους. 32:11 is shorter in the Greek.
+
+**Notes.**
+
+**[inferred]** A command, given as a prophetic sign, to preserve written
+documents for a long time by storing them in a sealed jar. The object is
+a deed of sale, not a prophecy, but it shows the means of keeping writing
+that God commands.
+
 ### Jeremiah 36:2, 27-28, 32
 
 <a id="jer-36"></a>
@@ -1757,6 +3532,223 @@ The second narrative of a destroyed text restored. Here the restoration
 is by dictation through the prophet, and the restored book is longer than
 the first.
 
+### Jeremiah 44:28-29
+
+<a id="jer-44-28"></a>
+
+**Claim.** "All the remnant of Judah … shall know whose words shall stand, mine, or
+theirs"; "my words shall surely stand against you for evil."
+
+
+**Speaker:** God, through a prophet · **Role:** claim · **Categories:** Fulfilment · **Object:** my words
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Jeremiah 44:28 — <span dir="rtl" lang="he">וּפְלִיטֵי חֶרֶב יְשֻׁבוּן מִן־אֶרֶץ מִצְרַיִם אֶרֶץ יְהוּדָה מְתֵי מִסְפָּר וְֽיָדְעוּ כָּל־שְׁאֵרִית יְהוּדָה הַבָּאִים לְאֶֽרֶץ־מִצְרַיִם לָגוּר שָׁם דְּבַר־מִי יָקוּם מִמֶּנִּי וּמֵהֶֽם׃</span>
+>
+> Jeremiah 44:29 — <span dir="rtl" lang="he">וְזֹאת־לָכֶם הָאוֹת נְאֻם־יְהוָה כִּֽי־פֹקֵד אֲנִי עֲלֵיכֶם בַּמָּקוֹם הַזֶּה לְמַעַן תֵּֽדְעוּ כִּי קוֹם יָקוּמוּ דְבָרַי עֲלֵיכֶם לְרָעָֽה׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Jeremiah 44:28 — Yet a small number that escape the sword shall return out of the land of Egypt into the land of Judah, and all the remnant of Judah, that are gone into the land of Egypt to sojourn there, shall know whose words shall stand, mine, or theirs.
+>
+> Jeremiah 44:29 — ¶ And this [shall be] a sign unto you, saith the LORD, that I will punish you in this place, that ye may know that my words shall surely stand against you for evil:
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Jeremiah 51:28 — Καὶ οἱ σεσωσμένοι ἀπὸ ῥομφαίας ἐπιστρέψουσιν εἰς γῆν Ἰούδα ὀλίγοι ἀριθμῷ, καὶ γνώσονται οἱ κατάλοιποι Ἰούδα οἱ καταστάντες ἐν γῇ Αἰγύπτῳ, κατοικῆσαι ἐκεῖ, λόγος τίνος ἐμμενεῖ.
+>
+> Jeremiah 51:29 — Καὶ τοῦτο τὸ σημεῖον ὑμῖν, ὅτι ἐπισκέψομαι ἐγὼ ἐφʼ ὑμᾶς εἰς πονηρά.
+
+**English of the Greek (Brenton, 1851)**
+
+> Jeremiah 51:28 — And they that escape the sword shall return to the land of Juda few in number, and the remnant of Juda, who have continued in the land [of] Egypt to dwell there, shall know whose word shall stand.
+>
+> Jeremiah 51:29 — And this [shall be] a sign to you, that I will visit you for evil.
+
+**Hebrew and Greek compared.**
+
+The Greek (51:28-29) is shorter: "they shall know whose word shall abide
+(λόγος τίνος ἐμμενεῖ)", without "mine, or theirs"; and it lacks "that ye
+may know that my words shall surely stand against you for evil" in 44:29.
+
+**Notes.**
+
+God's words and men's words set against each other; God's "stand" (יָקוּם), the verb of Isaiah 40:8.
+
+### Jeremiah 51:60-64
+
+<a id="jer-51-60"></a>
+
+**Claim.** Jeremiah wrote in a book all the evil that should come upon Babylon;
+Seraiah was to read it, bind a stone to it, and cast it into the
+Euphrates.
+
+
+**Speaker:** Narrator · **Role:** means · **Categories:** Inscripturation · **Object:** a book of the evil to come upon Babylon
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Jeremiah 51:60 — <span dir="rtl" lang="he">וַיִּכְתֹּב יִרְמְיָהוּ אֵת כָּל־הָרָעָה אֲשֶׁר־תָּבוֹא אֶל־בָּבֶל אֶל־סֵפֶר אֶחָד אֵת כָּל־הַדְּבָרִים הָאֵלֶּה הַכְּתֻבִים אֶל־בָּבֶֽל׃</span>
+>
+> Jeremiah 51:61 — <span dir="rtl" lang="he">וַיֹּאמֶר יִרְמְיָהוּ אֶל־שְׂרָיָה כְּבֹאֲךָ בָבֶל וְֽרָאִיתָ וְֽקָרָאתָ אֵת כָּל־הַדְּבָרִים הָאֵֽלֶּה׃</span>
+>
+> Jeremiah 51:62 — <span dir="rtl" lang="he">וְאָמַרְתָּ יְהוָה אַתָּה דִבַּרְתָּ אֶל־הַמָּקוֹם הַזֶּה לְהַכְרִיתוֹ לְבִלְתִּי הֱיֽוֹת־בּוֹ יוֹשֵׁב לְמֵאָדָם וְעַד־בְּהֵמָה כִּֽי־שִׁמְמוֹת עוֹלָם תִּֽהְיֶֽה׃</span>
+>
+> Jeremiah 51:63 — <span dir="rtl" lang="he">וְהָיָה כְּכַלֹּתְךָ לִקְרֹא אֶת־הַסֵּפֶר הַזֶּה תִּקְשֹׁר עָלָיו אֶבֶן וְהִשְׁלַכְתּוֹ אֶל־תּוֹךְ פְּרָֽת׃</span>
+>
+> Jeremiah 51:64 — <span dir="rtl" lang="he">וְאָמַרְתָּ כָּכָה תִּשְׁקַע בָּבֶל וְלֹֽא־תָקוּם מִפְּנֵי הָרָעָה אֲשֶׁר אָנֹכִי מֵבִיא עָלֶיהָ וְיָעֵפוּ עַד־הֵנָּה דִּבְרֵי יִרְמְיָֽהוּ׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Jeremiah 51:60 — So Jeremiah wrote in a book all the evil that should come upon Babylon, [even] all these words that are written against Babylon.
+>
+> Jeremiah 51:61 — And Jeremiah said to Seraiah, When thou comest to Babylon, and shalt see, and shalt read all these words;
+>
+> Jeremiah 51:62 — Then shalt thou say, O LORD, thou hast spoken against this place, to cut it off, that none shall remain in it, neither man nor beast, but that it shall be desolate for ever.
+>
+> Jeremiah 51:63 — And it shall be, when thou hast made an end of reading this book, [that] thou shalt bind a stone to it, and cast it into the midst of Euphrates:
+>
+> Jeremiah 51:64 — And thou shalt say, Thus shall Babylon sink, and shall not rise from the evil that I will bring upon her: and they shall be weary. Thus far [are] the words of Jeremiah.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Jeremiah 28:60 — Καὶ ἔγραψεν Ἱερεμίας πάντα τὰ κακὰ ἃ ἥξει ἐπὶ Βαβυλῶνα ἐν βιβλίῳ, πάντας τοὺς λόγους τούτους τοὺς γεγραμμένους ἐπὶ Βαβυλῶνα.
+>
+> Jeremiah 28:61 — Καὶ εἶπεν Ἱερεμίας πρὸς Σαραίαν, ὅταν ἔλθῃς εἰς Βαβυλῶνα, καὶ ὄψῃ καὶ ἀναγνώσῃ πάντας τοὺς λόγους τούτους,
+>
+> Jeremiah 28:62 — καὶ ἐρεῖς, Κύριε Κύριε, σὺ ἐλάλησας ἐπὶ τὸν τόπον τοῦτον, τοῦ ἐξολοθρεῦσαι αὐτὸν, καὶ τοῦ μὴ εἶναι ἐν αὐτῷ κατοικοῦντας ἀπὸ ἀνθρώπου ἕως κτήνους, ὅτι ἀφανισμὸς εἰς τὸν αἰῶνα ἔσται.
+>
+> Jeremiah 28:63 — Καὶ ἔσται ὅταν παύσῃ τοῦ ἀναγινώσκειν τὸ βιβλίον τοῦτο, καὶ ἐπιδήσεις ἐπʼ αὐτὸ λίθον, καὶ ῥίψεις αὐτὸ εἰς μέσον τοῦ Εὐφράτου,
+>
+> Jeremiah 28:64 — καὶ ἐρεῖς, οὕτως καταδύσεται Βαβυλὼν, καὶ οὐ μὴ ἀναστῇ ἀπὸ προσώπου τῶν κακῶν, ὧν ἐγὼ ἐπάγω ἐπʼ αὐτήν.
+
+**English of the Greek (Brenton, 1851)**
+
+> Jeremiah 28:60 — And Jeremias wrote in a book all the evils which should come upon Babylon, [even] all these words that are written against Babylon.
+>
+> Jeremiah 28:61 — And Jeremias said to Saræas, When thou art come to Babylon, and shalt see and read all these words;
+>
+> Jeremiah 28:62 — then thou shalt say, O Lord God, thou hast spoken against this place, to destroy it, and that there should be none to dwell in it, neither man nor beast; for it shall be a desolation for ever.
+>
+> Jeremiah 28:63 — And it shall come to pass, when thou shalt cease from reading this book, that thou shalt bind a stone upon it, and cast it into the midst of Euphrates;
+>
+> Jeremiah 28:64 — and shalt say, Thus shall Babylon sink, and not rise, because of the evils which I bring upon it.
+
+**Hebrew and Greek compared.**
+
+The Greek (28:60-64) lacks the closing "Thus far are the words of Jeremiah" (51:64).
+
+**Notes.**
+
+A written prophecy deliberately destroyed as a sign, the reverse of
+Jeremiah 36. **[inferred]** The words written there are also in the
+book (Jeremiah 50-51), so the destruction of one copy did not remove
+them.
+
+### Lamentations 2:17
+
+<a id="lam-2-17"></a>
+
+**Claim.** The LORD hath done that which he had devised; he hath fulfilled his word
+that he had commanded in the days of old.
+
+
+**Speaker:** Another speaker · **Role:** claim · **Categories:** Fulfilment · **Object:** his word commanded in the days of old
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Lamentations 2:17 — <span dir="rtl" lang="he">עָשָׂה יְהוָה אֲשֶׁר זָמָם בִּצַּע אֶמְרָתוֹ אֲשֶׁר צִוָּה מִֽימֵי־קֶדֶם הָרַס וְלֹא חָמָל וַיְשַׂמַּח עָלַיִךְ אוֹיֵב הֵרִים קֶרֶן צָרָֽיִךְ׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Lamentations 2:17 — The LORD hath done [that] which he had devised; he hath fulfilled his word that he had commanded in the days of old: he hath thrown down, and hath not pitied: and he hath caused [thine] enemy to rejoice over thee, he hath set up the horn of thine adversaries.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Lamentations 2:17 — ΦΗ. Ἐποίησε Κύριος ἃ ἐνεθυμήθη, συνετέλεσε ῥῆμα αὐτοῦ, ἃ ἐνετείλατο ἐξ ἡμερῶν ἀρχαίων· καθεῖλε, καὶ οὐκ ἐφείσατο, καὶ ηὔφρανεν ἐπὶ σὲ ἐχθρὸν, ὕψωσε κέρας θλίβοντός σε.
+
+**English of the Greek (Brenton, 1851)**
+
+> Lamentations 2:17 — Phe. The Lord has done that which he purposed; he has accomplished his word, [even] the things which he commanded from the ancient days: he has thrown down, and has not spared: and he has caused the enemy to rejoice over thee, he has exalted the horn of him that afflicted thee.
+
+**Hebrew and Greek compared.**
+
+The Greek has "he has completed his word" (συνετέλεσε ῥῆμα αὐτοῦ) and keeps the acrostic letter name (ΦΗ).
+
+**Notes.**
+
+Spoken by the poet of Lamentations over the fallen city. The fulfilment is of a threat, not a promise.
+
+### Ezekiel 2:9-3:3
+
+<a id="ezek-2-9"></a>
+
+**Claim.** A roll of a book, written within and without, is given to the prophet, who
+eats it; "it was in my mouth as honey for sweetness."
+
+
+**Speaker:** God, through a prophet · **Role:** means · **Categories:** Inscripturation, Origin · **Object:** the roll of a book
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Ezekiel 2:9 — <span dir="rtl" lang="he">וָאֶרְאֶה וְהִנֵּה־יָד שְׁלוּחָה אֵלָי וְהִנֵּה־בוֹ מְגִלַּת־סֵֽפֶר ׃</span>
+>
+> Ezekiel 2:10 — <span dir="rtl" lang="he">וַיִּפְרֹשׂ אוֹתָהּ לְפָנַי וְהִיא כְתוּבָה פָּנִים וְאָחוֹר וְכָתוּב אֵלֶיהָ קִנִים וָהֶגֶה וָהִֽי׃</span>
+>
+> Ezekiel 3:1 — <span dir="rtl" lang="he">וַיֹּאמֶר אֵלַי בֶּן־אָדָם אֵת אֲשֶׁר־תִּמְצָא אֱכוֹל אֱכוֹל אֶת־הַמְּגִלָּה הַזֹּאת וְלֵךְ דַּבֵּר אֶל־בֵּית יִשְׂרָאֵֽל׃</span>
+>
+> Ezekiel 3:2 — <span dir="rtl" lang="he">וָאֶפְתַּח אֶת־פִּי וַיַּאֲכִלֵנִי אֵת הַמְּגִלָּה הַזֹּֽאת׃</span>
+>
+> Ezekiel 3:3 — <span dir="rtl" lang="he">וַיֹּאמֶר אֵלַי בֶּן־אָדָם בִּטְנְךָ תַֽאֲכֵל וּמֵעֶיךָ תְמַלֵּא אֵת הַמְּגִלָּה הַזֹּאת אֲשֶׁר אֲנִי נֹתֵן אֵלֶיךָ וָאֹכְלָה וַתְּהִי בְּפִי כִּדְבַשׁ לְמָתֽוֹק׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Ezekiel 2:9 — ¶ And when I looked, behold, an hand [was] sent unto me; and, lo, a roll of a book [was] therein;
+>
+> Ezekiel 2:10 — And he spread it before me; and it [was] written within and without: and [there was] written therein lamentations, and mourning, and woe.
+>
+> Ezekiel 3:1 — Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel.
+>
+> Ezekiel 3:2 — So I opened my mouth, and he caused me to eat that roll.
+>
+> Ezekiel 3:3 — And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat [it;] and it was in my mouth as honey for sweetness.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Ezekiel 2:9 — Καὶ ἴδον, καὶ ἰδοὺ χεὶρ ἐκτεταμένη πρὸς μὲ, καὶ ἐν αὐτῇ κεφαλὶς βιβλίου.
+>
+> Ezekiel 2:10 — Καὶ ἀνείλησεν αὐτὴν ἐνώπιόν μου, καὶ ἦν ἐν αὐτῇ γεγραμμένα τὰ ἔμπροσθεν καὶ τὰ ὀπίσω· καὶ ἐγέγραπτο θρῆνος καὶ μέλος καὶ οὐαί.
+>
+> Ezekiel 3:1 — Καὶ εἶπε πρὸς μὲ, υἱὲ ἀνθρώπου, κατάφαγε τὴν κεφαλίδα ταύτην, καὶ πορεύθητι καὶ λάλησον τοῖς υἱοῖς Ἰσραήλ·
+>
+> Ezekiel 3:2 — Καὶ διήνοιξε τὸ στόμα μου, καὶ ἐψώμισέ με τὴν κεφαλίδα.
+>
+> Ezekiel 3:3 — Καὶ εἶπε πρὸς μὲ, υἱὲ ἀνθρώπου, τὸ στόμα σου φάγεται, καὶ ἡ κοιλία σου πλησθήσεται τῆς κεφαλίδος ταύτης τῆς δεδομένης εἰς σέ· καὶ ἔφαγον αὐτὴν, καὶ ἐγένετο ἐν τῷ στόματί μου, ὡς μέλι γλυκάζον.
+
+**English of the Greek (Brenton, 1851)**
+
+> Ezekiel 2:9 — And I looked, and behold, a hand stretched out to me, and in it a volume of a book.
+>
+> Ezekiel 2:10 — And he unrolled it before me: and in it the front and the back were written [upon]: and there was written [in it] Lamentation, and mournful song, and woe.
+>
+> Ezekiel 3:1 — And he said to me, Son of man, eat this volume, and go and speak to the children of Israel.
+>
+> Ezekiel 3:2 — So he opened my mouth, and caused me to eat the volume. And he said to me, Son of man,
+>
+> Ezekiel 3:3 — thy mouth shall eat, and thy belly shall be filled with this volume that is given to thee. So I ate it; and it was in my mouth as sweet honey.
+
+**Hebrew and Greek compared.**
+
+The same in substance; the roll is κεφαλὶς βιβλίου.
+
+**Used in the New Testament:** Revelation 10:8-11
+
+**Notes.**
+
+The prophet's message is given to him already written. Compare Jeremiah
+15:16, "thy words were found, and I did eat them".
+
 ### Ezekiel 12:25, 28
 
 <a id="ezek-12-25"></a>
@@ -1793,6 +3785,53 @@ the first.
 
 Substantially the same.
 
+### Daniel 9:2, 12
+
+<a id="dan-9-2"></a>
+
+**Claim.** Daniel "understood by books" the seventy years "whereof the word of the
+LORD came to Jeremiah"; "he hath confirmed his words, which he spake
+against us".
+
+
+**Speaker:** Another speaker · **Role:** means · **Categories:** Transmission to later generations, Fulfilment · **Object:** the word of the LORD to Jeremiah, in the books
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Daniel 9:2 — <span dir="rtl" lang="he">בִּשְׁנַת אַחַת לְמָלְכוֹ אֲנִי דָּֽנִיֵּאל בִּינֹתִי בַּסְּפָרִים מִסְפַּר הַשָּׁנִים אֲשֶׁר הָיָה דְבַר־יְהוָה אֶל־יִרְמִיָה הַנָּבִיא לְמַלֹּאות לְחָרְבוֹת יְרוּשָׁלִַם שִׁבְעִים שָׁנָֽה׃</span>
+>
+> Daniel 9:12 — <span dir="rtl" lang="he">וַיָּקֶם אֶת־דבריו ׀ אֲשֶׁר־דִּבֶּר עָלֵינוּ וְעַל שֹֽׁפְטֵינוּ אֲשֶׁר שְׁפָטוּנוּ לְהָבִיא עָלֵינוּ רָעָה גְדֹלָה אֲשֶׁר לֹֽא־נֶעֶשְׂתָה תַּחַת כָּל־הַשָּׁמַיִם כַּאֲשֶׁר נֶעֶשְׂתָה בִּירוּשָׁלִָֽם׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Daniel 9:2 — In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the LORD came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem.
+>
+> Daniel 9:12 — And he hath confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Daniel (Greek) 9:2 — ἐγὼ Δανιὴλ συνῆκα ἐν ταῖς βίβλοις τὸν ἀριθμὸν τῶν ἐτῶν, ὃς ἐγενήθη λόγος Κυρίου πρὸς Ἱερεμίαν τὸν προφήτην, εἰς συμπλήρωσιν ἐρημώσεως Ἱερουσαλὴμ ἑβδομήκοντα ἔτη.
+>
+> Daniel (Greek) 9:12 — Καὶ ἔστησε τοὺς λόγους αὐτοῦ οὓς ἐλάλησεν ἐφʼ ἡμᾶς, καὶ ἐπὶ τοὺς κριτὰς ἡμῶν, οἳ ἔκρινον ἡμᾶς, ἐπαγαγεῖν ἐφʼ ἡμᾶς κακὰ μεγάλα, οἷα οὐ γέγονεν ὑποκάτω παντὸς τοῦ οὐρανοῦ, κατὰ τὰ γενόμενα ἐν Ἱερουσαλὴμ,
+
+**English of the Greek (Brenton, 1851)**
+
+> Daniel (Greek) 9:2 — I Daniel understood by books the number of the years which was the word of the Lord to the prophet Jeremias, [even] seventy years for the accomplishment of the desolation of Jerusalem.
+>
+> Daniel (Greek) 9:12 — And he has confirmed his words, which he spoke against us, and against our judges who judged us, [by] bringing upon us great evils, such as have not happened under the whole heaven, according to what has happened in Jerusalem.
+
+**Hebrew and Greek compared.**
+
+The same in the Greek (Theodotion): "I understood in the books" (ἐν ταῖς
+βίβλοις) and "he hath confirmed his words" (ἔστησε τοὺς λόγους αὐτοῦ).
+
+**Notes.**
+
+Jeremiah's written prophecy (Jeremiah 25:11-12; 29:10), read in exile a
+generation later and understood as still in force. **[inferred]** The
+clearest Old Testament instance of a prophet's written words being read
+by a later one "in the books" (בַּסְּפָרִים).
+
 ### Daniel 12:4, 9
 
 <a id="dan-12-4"></a>
@@ -1828,6 +3867,43 @@ Substantially the same.
 **Hebrew and Greek compared.**
 
 Substantially the same. Brenton's Greek Daniel is Theodotion's version, not the Old Greek.
+
+### Hosea 8:12
+
+<a id="hos-8-12"></a>
+
+**Claim.** I have written to him the great things of my law, but they were counted as a strange thing.
+
+**Speaker:** God, through a prophet · **Role:** warning · **Categories:** Inscripturation, Corruption among men · **Object:** the great things of my law
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Hosea 8:12 — <span dir="rtl" lang="he">אכתוב ־לוֹ רבו תּֽוֹרָתִי כְּמוֹ־זָר נֶחְשָֽׁבוּ׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Hosea 8:12 — I have written to him the great things of my law, [but] they were counted as a strange thing.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Hosea 8:12 — Καταγράψω αὐτῷ πλῆθος, καὶ τὰ νόμιμα αὐτοῦ εἰς ἀλλότρια ἐλογίσθησαν, θυσιαστήρια τὰ ἠγαπημένα.
+
+**English of the Greek (Brenton, 1851)**
+
+> Hosea 8:12 — I will write down a multitude [of commands] for him; but his statutes are accounted strange things, [even] the beloved altars.
+
+**Hebrew and Greek compared.**
+
+The Hebrew is past or habitual, "I write (אֶכְתָּב) for him the ten
+thousands (רִבּוֹ, written רבו) of my law". The Greek is future and
+reads the line differently: "I will write down for him a multitude, and
+his ordinances were counted strange".
+
+**Notes.**
+
+God himself is said to write his law, and Israel to treat it as foreign.
+Westminster Larger Catechism Q. 4 cites the verse for the "majesty" of
+Scripture.
 
 ### Amos 8:11-12
 
@@ -1956,6 +4032,86 @@ prophets", adding "by my Spirit".
 
 The prophets die; the words outlast them. The claim is about the words' fulfilment on a later generation.
 
+### Malachi 2:7-8
+
+<a id="mal-2-7"></a>
+
+**Claim.** "The priest's lips should keep knowledge, and they should seek the law at
+his mouth"; "but ye … have caused many to stumble at the law; ye have
+corrupted the covenant of Levi."
+
+
+**Speaker:** God, through a prophet · **Role:** warning · **Categories:** Custody, Corruption among men · **Object:** knowledge and the law in the priest's mouth
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Malachi 2:7 — <span dir="rtl" lang="he">כִּֽי־שִׂפְתֵי כֹהֵן יִשְׁמְרוּ־דַעַת וְתוֹרָה יְבַקְשׁוּ מִפִּיהוּ כִּי מַלְאַךְ יְהוָֽה־צְבָאוֹת הֽוּא׃</span>
+>
+> Malachi 2:8 — <span dir="rtl" lang="he">וְאַתֶּם סַרְתֶּם מִן־הַדֶּרֶךְ הִכְשַׁלְתֶּם רַבִּים בַּתּוֹרָה שִֽׁחַתֶּם בְּרִית הַלֵּוִי אָמַר יְהוָה צְבָאֽוֹת׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Malachi 2:7 — For the priest’s lips should keep knowledge, and they should seek the law at his mouth: for he [is] the messenger of the LORD of hosts.
+>
+> Malachi 2:8 — But ye are departed out of the way; ye have caused many to stumble at the law; ye have corrupted the covenant of Levi, saith the LORD of hosts.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Malachi 2:7 — Ὅτι χείλη ἱερέως φυλάξεται γνῶσιν, καὶ νόμον ἐκζητήσουσιν ἐκ στόματος αὐτοῦ, διότι ἄγγελος Κυρίου παντοκράτορός ἐστιν.
+>
+> Malachi 2:8 — Ὑμεῖς δὲ ἐξεκλίνατε ἐκ τῆς ὁδοῦ, καὶ ἠσθενήσατε πολλοὺς ἐν νόμῳ, διεφθείρατε τὴν διαθήκην τοῦ Λευὶ, λέγει Κύριος παντοκράτωρ.
+
+**English of the Greek (Brenton, 1851)**
+
+> Malachi 2:7 — For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the Lord Almighty.
+>
+> Malachi 2:8 — But ye have turned aside from the way, and caused many to fail in [following] the law: ye have corrupted the covenant of Levi, saith the Lord Almighty.
+
+**Hebrew and Greek compared.**
+
+The same; "keep knowledge" is φυλάξεται γνῶσιν.
+
+**Notes.**
+
+The priests are the appointed keepers of the law (as in Deuteronomy 31:9),
+and here they are charged with corrupting the covenant through their
+teaching.
+
+### Malachi 4:4
+
+<a id="mal-4-4"></a>
+
+**Claim.** Remember ye the law of Moses my servant, which I commanded unto him in Horeb.
+
+**Speaker:** God, through a prophet · **Role:** command · **Categories:** Transmission to later generations · **Object:** the law of Moses
+
+**Hebrew (Masoretic Text, Westminster Leningrad Codex)**
+
+> Malachi 3:22 — <span dir="rtl" lang="he">זִכְרוּ תּוֹרַת מֹשֶׁה עַבְדִּי אֲשֶׁר צִוִּיתִי אוֹתוֹ בְחֹרֵב עַל־כָּל־יִשְׂרָאֵל חֻקִּים וּמִשְׁפָּטִֽים׃</span>
+
+**English of the Hebrew (KJV, 1769)**
+
+> Malachi 4:4 — ¶ Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, [with] the statutes and judgments.
+
+**Greek (Septuagint, Brenton's edition)**
+
+> Malachi 3:24 — Μνήσθητε νόμου Μωυσῆ τοῦ δούλου μου, καθότι ἐνετειλάμην αὐτῷ ἐν Χωρὴβ πρὸς πάντα τὸν Ἰσραὴλ, προστάγματα καὶ δικαιώματα.
+
+**English of the Greek (Brenton, 1851)**
+
+> Malachi 3:24 — Remember the law of my servant Moses, accordingly as I charged him [with it] in Choreb for all Israel, [even] the commandments and ordinances.
+
+**Hebrew and Greek compared.**
+
+The Hebrew numbers the verse 3:22 and places it before the promise of
+Elijah; the Greek (Brenton's 3:24) places it last, after the promise of
+Elijah, so that the Greek Old Testament's prophetic books close with
+"Remember the law of Moses".
+
+**Notes.**
+
+The last command in the Hebrew order of the Twelve.
+
 
 ## New Testament
 
@@ -2030,6 +4186,251 @@ The three Greek editions agree.
   it as the sole proof for "kept pure in all ages"; see
   [confessions.md](../../analysis/preservation-of-scripture/confessions.md#westminster-confession-18-kept-pure-in-all-ages).
 
+### Matthew 22:31-32; Mark 12:26
+
+<a id="matt-22-31"></a>
+
+**Claim.** "Have ye not read that which was spoken unto you by God, saying, I am the God of Abraham …?"
+
+**Speaker:** Jesus · **Role:** claim · **Categories:** Transmission to later generations, Origin · **Object:** that which was spoken unto you by God
+
+**Greek (Textus Receptus)**
+
+> Matthew 22:31 — Περὶ δὲ τῆς ἀναστάσεως τῶν νεκρῶν, οὐκ ἀνέγνωτε τὸ ῥηθὲν ὑμῖν ὑπὸ τοῦ Θεοῦ, λέγοντος,
+>
+> Matthew 22:32 — Ἐγώ εἰμι ὁ Θεὸς Ἀβραάμ, καὶ ὁ Θεὸς Ἰσαάκ, καὶ ὁ Θεὸς Ἰακώβ; Οὐκ ἔστιν ὁ Θεὸς Θεὸς νεκρῶν, ἀλλὰ ζώντων.
+>
+> Mark 12:26 — Περὶ δὲ τῶν νεκρῶν, ὅτι ἐγείρονται, οὐκ ἀνέγνωτε ἐν τῇ βίβλῳ Μωσέως, ἐπὶ τῆς βάτου, ὡς εἶπεν αὐτῷ ὁ Θεός, λέγων, Ἐγὼ ὁ Θεὸς Ἀβραάμ, καὶ ὁ Θεὸς Ἰσαάκ, καὶ ὁ Θεὸς Ἰακώβ;
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Matthew 22:31 — περὶ δὲ τῆς ἀναστάσεως τῶν νεκρῶν οὐκ ἀνέγνωτε τὸ ῥηθὲν ὑμῖν ὑπὸ τοῦ Θεοῦ λέγοντος,
+>
+> Matthew 22:32 — ἐγώ εἰμι ὁ Θεὸς Ἀβραὰμ καὶ ὁ Θεὸς Ἰσαὰκ καὶ ὁ Θεὸς Ἰακώβ; οὐκ ἔστιν ὁ Θεὸς Θεὸς νεκρῶν, ἀλλὰ ζώντων.
+>
+> Mark 12:26 — περὶ δὲ τῶν νεκρῶν ὅτι ἐγείρονται, οὐκ ἀνέγνωτε ἐν τῇ βίβλῳ Μωϋσέως, ἐπὶ τοῦ βάτου πῶς εἶπεν αὐτῷ ὁ Θεὸς λέγων, ἐγὼ ὁ Θεὸς Ἀβραὰμ καὶ ὁ Θεὸς Ἰσαὰκ καὶ ὁ Θεὸς Ἰακώβ;
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Matthew 22:31 — περὶ δὲ τῆς ἀναστάσεως τῶν νεκρῶν οὐκ ἀνέγνωτε τὸ ῥηθὲν ὑμῖν ὑπὸ τοῦ θεοῦ λέγοντος·
+>
+> Matthew 22:32 — Ἐγώ εἰμι ὁ θεὸς Ἀβραὰμ καὶ ὁ θεὸς Ἰσαὰκ καὶ ὁ θεὸς Ἰακώβ; οὐκ ἔστιν ὁ θεὸς νεκρῶν ἀλλὰ ζώντων.
+>
+> Mark 12:26 — περὶ δὲ τῶν νεκρῶν ὅτι ἐγείρονται οὐκ ἀνέγνωτε ἐν τῇ βίβλῳ Μωϋσέως ἐπὶ τοῦ βάτου πῶς εἶπεν αὐτῷ ὁ θεὸς λέγων· Ἐγὼ ὁ θεὸς Ἀβραὰμ καὶ ὁ θεὸς Ἰσαὰκ καὶ ὁ θεὸς Ἰακώβ;
+
+**English (KJV, 1769)**
+
+> Matthew 22:31 — But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying,
+>
+> Matthew 22:32 — I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.
+>
+> Mark 12:26 — And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I [am] the God of Abraham, and the God of Isaac, and the God of Jacob?
+
+**The Greek editions compared.**
+
+Minor. In Mark 12:26 SBL and the Byzantine text read "how" (πῶς) for "as" (ὡς).
+
+**Notes.**
+
+Jesus treats words written in Exodus 3:6 as spoken by God "to you" (ὑμῖν),
+the hearers generations later. **[inferred]** The written word is God's
+address to every later generation that reads it. The argument also rests
+on the tense of the quotation ("I am", ἐγώ εἰμι).
+
+### Matthew 26:54, 56; Mark 14:49; Luke 18:31; 21:22; 22:37; 24:25-27
+
+<a id="matt-26-54"></a>
+
+**Claim.** "How then shall the scriptures be fulfilled, that thus it must be?"; "all
+things that are written by the prophets concerning the Son of man shall be
+accomplished"; "this that is written must yet be accomplished in me".
+
+
+**Speaker:** Jesus · **Role:** claim · **Categories:** Fulfilment · **Object:** the scriptures; all things that are written
+
+**Greek (Textus Receptus)**
+
+> Matthew 26:54 — Πῶς οὖν πληρωθῶσιν αἱ γραφαί, ὅτι οὕτω δεῖ γενέσθαι;
+>
+> Matthew 26:56 — Τοῦτο δὲ ὅλον γέγονεν, ἵνα πληρωθῶσιν αἱ γραφαὶ τῶν προφητῶν. Τότε οἱ μαθηταὶ πάντες ἀφέντες αὐτὸν ἔφυγον.
+>
+> Mark 14:49 — Καθ᾿ ἡμέραν ἤμην πρὸς ὑμᾶς ἐν τῷ ἱερῷ διδάσκων, καὶ οὐκ ἐκρατήσατέ με· ἀλλ᾿ ἵνα πληρωθῶσιν αἱ γραφαί.
+>
+> Luke 18:31 — Παραλαβὼν δὲ τοὺς δώδεκα, εἶπε πρὸς αὐτούς, Ἰδού, ἀναβαίνομεν εἰς Ἱεροσόλυμα, καὶ τελεσθήσεται πάντα τὰ γεγραμμένα διὰ τῶν προφητῶν τῷ υἱῷ τοῦ ἀνθρώπου.
+>
+> Luke 21:22 — Ὅτι ἡμέραι ἐκδικήσεως αὗταί εἰσι, τοῦ πληρωθῆναι πάντα τὰ γεγραμμένα.
+>
+> Luke 22:37 — Λέγω γὰρ ὑμῖν ὅτι ἔτι τοῦτο τὸ γεγραμμένον δεῖ τελεσθῆναι ἐν ἐμοί, τὸ Καὶ μετὰ ἀνόμων ἐλογίσθη· καὶ γὰρ τὰ περὶ ἐμοῦ τέλος ἔχει.
+>
+> Luke 24:25 — Καὶ αὐτὸς εἶπε πρὸς αὐτούς, Ὦ ἀνόητοι καὶ βραδεῖς τῇ καρδίᾳ τοῦ πιστεύειν ἐπὶ πᾶσιν οἷς ἐλάλησαν οἱ προφῆται·
+>
+> Luke 24:26 — οὐχὶ ταῦτα ἔδει παθεῖν τὸν Χριστόν, καὶ εἰσελθεῖν εἰς τὴν δόξαν αὐτοῦ;
+>
+> Luke 24:27 — Καὶ ἀρξάμενος ἀπὸ Μωσέως καὶ ἀπὸ πάντων τῶν προφητῶν, διηρμήνευεν αὐτοῖς ἐν πάσαις ταῖς γραφαῖς τὰ περὶ ἑαυτοῦ.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Matthew 26:54 — πῶς οὖν πληρωθῶσιν αἱ γραφαὶ ὅτι οὕτω δεῖ γενέσθαι;
+>
+> Matthew 26:56 — τοῦτο δὲ ὅλον γέγονεν ἵνα πληρωθῶσιν αἱ γραφαὶ τῶν προφητῶν. Τότε οἱ μαθηταὶ πάντες ἀφέντες αὐτὸν ἔφυγον.
+>
+> Mark 14:49 — καθ᾽ ἡμέραν πρὸς ὑμᾶς ἤμην ἐν τῷ ἱερῷ διδάσκων, καὶ οὐκ ἐκρατήσατέ με. ἀλλ᾽ ἵνα πληρωθῶσιν αἱ γραφαί.
+>
+> Luke 18:31 — Παραλαβὼν δὲ τοὺς δώδεκα εἶπε πρὸς αὐτούς· ἰδοὺ ἀναβαίνομεν εἰς Ἱεροσόλυμα καὶ τελειωθήσεται πάντα τὰ γεγραμμένα διὰ τῶν προφητῶν τῷ υἱῷ τοῦ ἀνθρώπου.
+>
+> Luke 21:22 — ὅτι ἡμέραι ἐκδικήσεως αὗταί εἰσι τοῦ πληρωθῆναι πάντα τὰ γεγραμμένα.
+>
+> Luke 22:37 — λέγω γὰρ ὑμῖν ὅτι ἔτι τοῦτο τὸ γεγραμμένον δεῖ τελεσθῆναι ἐν ἐμοί, τὸ καὶ μετὰ ἀνόμων ἐλογίσθη· καὶ γὰρ τὰ περὶ ἐμοῦ τέλος ἔχει.
+>
+> Luke 24:25 — καὶ αὐτὸς εἶπε πρὸς αὐτούς· ὦ ἀνόητοι καὶ βραδεῖς τῇ καρδίᾳ τοῦ πιστεύειν ἐπὶ πᾶσιν οἷς ἐλάλησαν οἱ προφῆται!
+>
+> Luke 24:26 — οὐχὶ ταῦτα ἔδει παθεῖν τὸν Χριστὸν καὶ εἰσελθεῖν εἰς τὴν δόξαν αὐτοῦ;
+>
+> Luke 24:27 — καὶ ἀρξάμενος ἀπὸ Μωϋσέως καὶ ἀπὸ πάντων τῶν προφητῶν διηρμήνευεν αὐτοῖς ἐν πάσαις ταῖς γραφαῖς τὰ περὶ ἑαυτοῦ.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Matthew 26:54 — πῶς οὖν πληρωθῶσιν αἱ γραφαὶ ὅτι οὕτως δεῖ γενέσθαι;
+>
+> Matthew 26:56 — τοῦτο δὲ ὅλον γέγονεν ἵνα πληρωθῶσιν αἱ γραφαὶ τῶν προφητῶν. τότε οἱ μαθηταὶ πάντες ἀφέντες αὐτὸν ἔφυγον.
+>
+> Mark 14:49 — καθʼ ἡμέραν ἤμην πρὸς ὑμᾶς ἐν τῷ ἱερῷ διδάσκων καὶ οὐκ ἐκρατήσατέ με· ἀλλʼ ἵνα πληρωθῶσιν αἱ γραφαί.
+>
+> Luke 18:31 — Παραλαβὼν δὲ τοὺς δώδεκα εἶπεν πρὸς αὐτούς· Ἰδοὺ ἀναβαίνομεν εἰς Ἰερουσαλήμ καὶ τελεσθήσεται πάντα τὰ γεγραμμένα διὰ τῶν προφητῶν τῷ υἱῷ τοῦ ἀνθρώπου·
+>
+> Luke 21:22 — ὅτι ἡμέραι ἐκδικήσεως αὗταί εἰσιν τοῦ πλησθῆναι πάντα τὰ γεγραμμένα.
+>
+> Luke 22:37 — λέγω γὰρ ὑμῖν ὅτι τοῦτο τὸ γεγραμμένον δεῖ τελεσθῆναι ἐν ἐμοί, τό· Καὶ μετὰ ἀνόμων ἐλογίσθη· καὶ γὰρ τὸ περὶ ἐμοῦ τέλος ἔχει.
+>
+> Luke 24:25 — καὶ αὐτὸς εἶπεν πρὸς αὐτούς· Ὦ ἀνόητοι καὶ βραδεῖς τῇ καρδίᾳ τοῦ πιστεύειν ἐπὶ πᾶσιν οἷς ἐλάλησαν οἱ προφῆται·
+>
+> Luke 24:26 — οὐχὶ ταῦτα ἔδει παθεῖν τὸν χριστὸν καὶ εἰσελθεῖν εἰς τὴν δόξαν αὐτοῦ;
+>
+> Luke 24:27 — καὶ ἀρξάμενος ἀπὸ Μωϋσέως καὶ ἀπὸ πάντων τῶν προφητῶν διερμήνευσεν αὐτοῖς ἐν πάσαις ταῖς γραφαῖς τὰ περὶ ἑαυτοῦ
+
+**English (KJV, 1769)**
+
+> Matthew 26:54 — But how then shall the scriptures be fulfilled, that thus it must be?
+>
+> Matthew 26:56 — But all this was done, that the scriptures of the prophets might be fulfilled. Then all the disciples forsook him, and fled.
+>
+> Mark 14:49 — I was daily with you in the temple teaching, and ye took me not: but the scriptures must be fulfilled.
+>
+> Luke 18:31 — ¶ Then he took [unto him] the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished.
+>
+> Luke 21:22 — For these be the days of vengeance, that all things which are written may be fulfilled.
+>
+> Luke 22:37 — For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end.
+>
+> Luke 24:25 — Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:
+>
+> Luke 24:26 — Ought not Christ to have suffered these things, and to enter into his glory?
+>
+> Luke 24:27 — And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself.
+
+**The Greek editions compared.**
+
+In Luke 21:22 SBL reads πλησθῆναι for πληρωθῆναι ("be fulfilled"); in Luke
+18:31 the Byzantine text reads τελειωθήσεται for τελεσθήσεται ("shall be
+accomplished"); in Luke 22:37 SBL lacks "yet" (ἔτι). The sense is the
+same.
+
+**Notes.**
+
+Jesus speaks of the fulfilment of Scripture as necessary (δεῖ, "it must").
+The many single fulfilment notices of the Gospels ("that it might be
+fulfilled which was spoken …") are not listed one by one; these are
+the passages in which Jesus states the general principle. Luke 24:44 is
+a separate entry.
+
+### Matthew 26:13; Mark 14:9
+
+<a id="matt-26-13"></a>
+
+**Claim.** Wheresoever this gospel shall be preached in the whole world, there shall
+also this, that this woman hath done, be told for a memorial of her.
+
+
+**Speaker:** Jesus · **Role:** claim · **Categories:** Transmission to later generations · **Object:** what this woman has done, told with the gospel
+
+**Greek (Textus Receptus)**
+
+> Matthew 26:13 — Ἀμὴν λέγω ὑμῖν, ὅπου ἐὰν κηρυχθῇ τὸ εὐαγγέλιον τοῦτο ἐν ὅλῳ τῷ κόσμῳ, λαληθήσεται καὶ ὃ ἐποίησεν αὕτη εἰς μνημόσυνον αὐτῆς.
+>
+> Mark 14:9 — Ἀμὴν λέγω ὑμῖν, ὅπου ἂν κηρυχθῇ τὸ εὐαγγέλιον τοῦτο εἰς ὅλον τὸν κόσμον, καὶ ὃ ἐποίησεν αὕτη λαληθήσεται εἰς μνημόσυνον αὐτῆς.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Matthew 26:13 — ἀμὴν λέγω ὑμῖν, ὅπου ἐὰν κηρυχθῇ τὸ εὐαγγέλιον τοῦτο ἐν ὅλῳ τῷ κόσμῳ, λαληθήσεται καὶ ὃ ἐποίησεν αὕτη εἰς μνημόσυνον αὐτῆς.
+>
+> Mark 14:9 — ἀμὴν λέγω ὑμῖν, ὅπου ἐὰν κηρυχθῇ τὸ εὐαγγέλιον τοῦτο εἰς ὅλον τὸν κόσμον, καὶ ὃ ἐποίησεν αὕτη λαληθήσεται εἰς μνημόσυνον αὐτῆς.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Matthew 26:13 — ἀμὴν λέγω ὑμῖν, ὅπου ἐὰν κηρυχθῇ τὸ εὐαγγέλιον τοῦτο ἐν ὅλῳ τῷ κόσμῳ, λαληθήσεται καὶ ὃ ἐποίησεν αὕτη εἰς μνημόσυνον αὐτῆς.
+>
+> Mark 14:9 — ἀμὴν δὲ λέγω ὑμῖν, ὅπου ἐὰν κηρυχθῇ τὸ εὐαγγέλιον εἰς ὅλον τὸν κόσμον, καὶ ὃ ἐποίησεν αὕτη λαληθήσεται εἰς μνημόσυνον αὐτῆς.
+
+**English (KJV, 1769)**
+
+> Matthew 26:13 — Verily I say unto you, Wheresoever this gospel shall be preached in the whole world, [there] shall also this, that this woman hath done, be told for a memorial of her.
+>
+> Mark 14:9 — Verily I say unto you, Wheresoever this gospel shall be preached throughout the whole world, [this] also that she hath done shall be spoken of for a memorial of her.
+
+**The Greek editions compared.**
+
+SBL reads "the gospel" for "this gospel" in Mark 14:9.
+
+**Notes.**
+
+A promise that a particular account will be carried with the gospel
+throughout the world. **[inferred]** The Gospels' own record of it is
+the means by which the promise is kept.
+
+### Matthew 28:19-20
+
+<a id="matt-28-20"></a>
+
+**Claim.** Teaching them to observe all things whatsoever I have commanded you; and,
+lo, I am with you alway, even unto the end of the world.
+
+
+**Speaker:** Jesus · **Role:** command · **Categories:** Transmission to later generations · **Object:** all things whatsoever I have commanded you
+
+**Greek (Textus Receptus)**
+
+> Matthew 28:19 — Πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ Ἁγίου Πνεύματος·
+>
+> Matthew 28:20 — διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδού, ἐγὼ μεθ᾿ ὑμῶν εἰμι πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. Ἀμήν.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Matthew 28:19 — πορευθέντες μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ Ἁγίου Πνεύματος,
+>
+> Matthew 28:20 — διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδοὺ ἐγὼ μεθ᾽ ὑμῶν εἰμι πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. ἀμήν.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Matthew 28:19 — πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος,
+>
+> Matthew 28:20 — διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδοὺ ἐγὼ μεθʼ ὑμῶν εἰμι πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος
+
+**English (KJV, 1769)**
+
+> Matthew 28:19 — ¶ Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
+>
+> Matthew 28:20 — Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, [even] unto the end of the world. Amen.
+
+**The Greek editions compared.**
+
+The Byzantine text lacks "therefore" (οὖν) in 28:19; SBL lacks the closing "Amen".
+
+**Notes.**
+
+The command to pass on all Jesus's commands is joined to the promise of
+his presence "unto the end of the age" (ἕως τῆς συντελείας τοῦ αἰῶνος).
+Westminster Confession 25.3 cites it with Isaiah 59:21.
+
 ### Luke 16:17
 
 <a id="luke-16-17"></a>
@@ -2063,6 +4464,50 @@ The three Greek editions agree.
 "To fail" is πεσεῖν, "to fall", the Old Testament idiom for an unfulfilled
 word (Joshua 21:45; 23:14; 1 Samuel 3:19; 2 Kings 10:10). The next verse
 (16:18) applies the law on divorce more strictly, not less.
+
+### Luke 16:29, 31
+
+<a id="luke-16-29"></a>
+
+**Claim.** "They have Moses and the prophets; let them hear them." "If they hear not
+Moses and the prophets, neither will they be persuaded, though one rose
+from the dead."
+
+
+**Speaker:** Jesus · **Role:** claim · **Categories:** Transmission to later generations · **Object:** Moses and the prophets
+
+**Greek (Textus Receptus)**
+
+> Luke 16:29 — Λέγει αὐτῷ Ἀβραάμ, Ἔχουσι Μωσέα καὶ τοὺς προφήτας· ἀκουσάτωσαν αὐτῶν.
+>
+> Luke 16:31 — Εἶπε δὲ αὐτῷ, Εἰ Μωσέως καὶ τῶν προφητῶν οὐκ ἀκούουσιν, οὐδέ, ἐάν τις ἐκ νεκρῶν ἀναστῇ, πεισθήσονται.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Luke 16:29 — λέγει αὐτῷ Ἀβραάμ· ἔχουσι Μωϋσέα καὶ τοὺς προφήτας· ἀκουσάτωσαν αὐτῶν.
+>
+> Luke 16:31 — εἶπε δὲ αὐτῷ· εἰ Μωϋσέως καὶ τῶν προφητῶν οὐκ ἀκούουσιν, οὐδὲ ἐάν τις ἐκ νεκρῶν ἀναστῇ πεισθήσονται.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Luke 16:29 — λέγει δὲ Ἀβραάμ· Ἔχουσι Μωϋσέα καὶ τοὺς προφήτας· ἀκουσάτωσαν αὐτῶν.
+>
+> Luke 16:31 — εἶπεν δὲ αὐτῷ· Εἰ Μωϋσέως καὶ τῶν προφητῶν οὐκ ἀκούουσιν, οὐδʼ ἐάν τις ἐκ νεκρῶν ἀναστῇ πεισθήσονται.
+
+**English (KJV, 1769)**
+
+> Luke 16:29 — Abraham saith unto him, They have Moses and the prophets; let them hear them.
+>
+> Luke 16:31 — And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.
+
+**The Greek editions compared.**
+
+The editions agree in substance.
+
+**Notes.**
+
+Spoken by Abraham in Jesus's parable. The written Moses and prophets are
+present to the rich man's brothers, and are said to be enough.
 
 ### Matthew 24:35; Mark 13:31; Luke 21:33
 
@@ -2119,7 +4564,7 @@ the life of the created order. The strongest permanence claim in the
 collection. **[inferred]** It is a claim about what Jesus said, not about
 the copies or translations in which it is transmitted.
 
-### John 10:35
+### John 10:35; 7:23
 
 <a id="john-10-35"></a>
 
@@ -2130,18 +4575,26 @@ the copies or translations in which it is transmitted.
 **Greek (Textus Receptus)**
 
 > John 10:35 — Εἰ ἐκείνους εἶπε θεούς, πρὸς οὓς ὁ λόγος τοῦ Θεοῦ ἐγένετο — καὶ οὐ δύναται λυθῆναι ἡ γραφή —
+>
+> John 7:23 — Εἰ περιτομὴν λαμβάνει ἄνθρωπος ἐν σαββάτῳ, ἵνα μὴ λυθῇ ὁ νόμος Μωσέως, ἐμοὶ χολᾶτε ὅτι ὅλον ἄνθρωπον ὑγιῆ ἐποίησα ἐν σαββάτῳ;
 
 **Greek (Byzantine, 1904 Patriarchal text)**
 
 > John 10:35 — εἰ ἐκείνους εἶπε θεούς, πρὸς οὓς ὁ λόγος τοῦ Θεοῦ ἐγένετο, καὶ οὐ δύναται λυθῆναι ἡ γραφή,
+>
+> John 7:23 — εἰ περιτομὴν λαμβάνει ἄνθρωπος ἐν σαββάτῳ ἵνα μὴ λυθῇ ὁ νόμος Μωϋσέως, ἐμοὶ χολᾶτε ὅτι ὅλον ἄνθρωπον ὑγιῆ ἐποίησα ἐν σαββάτῳ!
 
 **Greek (SBL Greek New Testament, CC BY 4.0)**
 
 > John 10:35 — εἰ ἐκείνους εἶπεν θεοὺς πρὸς οὓς ὁ λόγος τοῦ θεοῦ ἐγένετο, καὶ οὐ δύναται λυθῆναι ἡ γραφή,
+>
+> John 7:23 — εἰ περιτομὴν λαμβάνει ἄνθρωπος ἐν σαββάτῳ ἵνα μὴ λυθῇ ὁ νόμος Μωϋσέως, ἐμοὶ χολᾶτε ὅτι ὅλον ἄνθρωπον ὑγιῆ ἐποίησα ἐν σαββάτῳ;
 
 **English (KJV, 1769)**
 
 > John 10:35 — If he called them gods, unto whom the word of God came, and the scripture cannot be broken;
+>
+> John 7:23 — If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?
 
 **The Greek editions compared.**
 
@@ -2151,7 +4604,172 @@ The editions agree.
 
 "Broken" is λυθῆναι, "loosed, annulled", the verb of Matthew 5:19. Spoken
 of a single phrase of Psalm 82:6 ("I said, Ye are gods"), which Jesus
-treats as binding because it is written.
+treats as binding because it is written. In John 7:23 the same verb is
+used of the law of Moses ("that the law of Moses should not be broken",
+ἵνα μὴ λυθῇ ὁ νόμος Μωσέως).
+
+### John 5:39, 45-47
+
+<a id="john-5-39"></a>
+
+**Claim.** "Search the scriptures … they are they which testify of me"; "if ye
+believe not his writings (γράμμασιν), how shall ye believe my words?"
+
+
+**Speaker:** Jesus · **Role:** claim · **Categories:** Inscripturation, Origin · **Object:** the scriptures; Moses's writings
+
+**Greek (Textus Receptus)**
+
+> John 5:39 — Ἐρευνᾶτε τὰς γραφάς, ὅτι ὑμεῖς δοκεῖτε ἐν αὐταῖς ζωὴν αἰώνιον ἔχειν, καὶ ἐκεῖναί εἰσιν αἱ μαρτυροῦσαι περὶ ἐμοῦ·
+>
+> John 5:45 — Μὴ δοκεῖτε ὅτι ἐγὼ κατηγορήσω ὑμῶν πρὸς τὸν πατέρα· ἔστιν ὁ κατηγορῶν ὑμῶν, Μωσῆς, εἰς ὃν ὑμεῖς ἠλπίκατε.
+>
+> John 5:46 — Εἰ γὰρ ἐπιστεύετε Μωσῇ, ἐπιστεύετε ἂν ἐμοί· περὶ γὰρ ἐμοῦ ἐκεῖνος ἔγραψεν.
+>
+> John 5:47 — Εἰ δὲ τοῖς ἐκείνου γράμμασιν οὐ πιστεύετε, πῶς τοῖς ἐμοῖς ῥήμασι πιστεύσετε;
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> John 5:39 — ἐρευνᾶτε τὰς γραφάς, ὅτι ὑμεῖς δοκεῖτε ἐν αὐταῖς ζωὴν αἰώνιον ἔχειν· καὶ ἐκεῖναί εἰσιν αἱ μαρτυροῦσαι περὶ ἐμοῦ·
+>
+> John 5:45 — μὴ δοκεῖτε ὅτι ἐγὼ κατηγορήσω ὑμῶν πρὸς τὸν πατέρα· ἔστιν ὁ κατηγορῶν ὑμῶν Μωϋσῆς, εἰς ὃν ὑμεῖς ἠλπίκατε.
+>
+> John 5:46 — εἰ γὰρ ἐπιστεύετε Μωϋσεῖ, ἐπιστεύετε ἂν ἐμοί· περὶ γὰρ ἐμοῦ ἐκεῖνος ἔγραψεν.
+>
+> John 5:47 — εἰ δὲ τοῖς ἐκείνου γράμμασιν οὐ πιστεύετε, πῶς τοῖς ἐμοῖς ῥήμασι πιστεύσετε;
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> John 5:39 — Ἐραυνᾶτε τὰς γραφάς, ὅτι ὑμεῖς δοκεῖτε ἐν αὐταῖς ζωὴν αἰώνιον ἔχειν· καὶ ἐκεῖναί εἰσιν αἱ μαρτυροῦσαι περὶ ἐμοῦ·
+>
+> John 5:45 — μὴ δοκεῖτε ὅτι ἐγὼ κατηγορήσω ὑμῶν πρὸς τὸν πατέρα· ἔστιν ὁ κατηγορῶν ὑμῶν Μωϋσῆς, εἰς ὃν ὑμεῖς ἠλπίκατε.
+>
+> John 5:46 — εἰ γὰρ ἐπιστεύετε Μωϋσεῖ, ἐπιστεύετε ἂν ἐμοί, περὶ γὰρ ἐμοῦ ἐκεῖνος ἔγραψεν.
+>
+> John 5:47 — εἰ δὲ τοῖς ἐκείνου γράμμασιν οὐ πιστεύετε, πῶς τοῖς ἐμοῖς ῥήμασιν πιστεύσετε;
+
+**English (KJV, 1769)**
+
+> John 5:39 — ¶ Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.
+>
+> John 5:45 — Do not think that I will accuse you to the Father: there is [one] that accuseth you, [even] Moses, in whom ye trust.
+>
+> John 5:46 — For had ye believed Moses, ye would have believed me: for he wrote of me.
+>
+> John 5:47 — But if ye believe not his writings, how shall ye believe my words?
+
+**The Greek editions compared.**
+
+The editions agree in substance.
+
+**Notes.**
+
+Moses's writings are set beside Jesus's spoken words; to disbelieve the
+one is to disbelieve the other. Westminster Confession 1.8 cites 5:39 and
+5:46.
+
+### John 6:63, 68
+
+<a id="john-6-63"></a>
+
+**Claim.** "The words that I speak unto you, they are spirit, and they are life"; "thou hast the words of eternal life."
+
+**Speaker:** Jesus · **Role:** claim · **Categories:** Efficacy · **Object:** the words I speak
+
+**Greek (Textus Receptus)**
+
+> John 6:63 — Τὸ πνεῦμά ἐστι τὸ ζῳοποιοῦν, ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν· τὰ ῥήματα ἃ ἐγὼ λαλῶ ὑμῖν, πνεῦμά ἐστι καὶ ζωή ἐστιν.
+>
+> John 6:68 — Ἀπεκρίθη οὖν αὐτῷ Σίμων Πέτρος, Κύριε, πρὸς τίνα ἀπελευσόμεθα; Ῥήματα ζωῆς αἰωνίου ἔχεις.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> John 6:63 — τὸ πνεῦμά ἐστι τὸ ζωοποιοῦν, ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν· τὰ ῥήματα ἃ ἐγὼ λαλῶ ὑμῖν, πνεῦμά ἐστι καὶ ζωή ἐστιν.
+>
+> John 6:68 — ἀπεκρίθη οὖν αὐτῷ Σίμων Πέτρος· Κύριε, πρὸς τίνα ἀπελευσόμεθα; ῥήματα ζωῆς αἰωνίου ἔχεις·
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> John 6:63 — τὸ πνεῦμά ἐστιν τὸ ζῳοποιοῦν, ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν· τὰ ῥήματα ἃ ἐγὼ λελάληκα ὑμῖν πνεῦμά ἐστιν καὶ ζωή ἐστιν.
+>
+> John 6:68 — ἀπεκρίθη αὐτῷ Σίμων Πέτρος· Κύριε, πρὸς τίνα ἀπελευσόμεθα; ῥήματα ζωῆς αἰωνίου ἔχεις,
+
+**English (KJV, 1769)**
+
+> John 6:63 — It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, [they] are spirit, and [they] are life.
+>
+> John 6:68 — Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.
+
+**The Greek editions compared.**
+
+In 6:63 the Textus Receptus and Byzantine text read "the words that I
+speak" (λαλῶ); SBL "that I have spoken" (λελάληκα).
+
+**Notes.**
+
+Verse 68 is Peter's confession.
+
+### John 8:31, 51; 14:23; 17:6
+
+<a id="john-8-31"></a>
+
+**Claim.** "If ye continue (μείνητε) in my word, then are ye my disciples indeed";
+"if a man keep (τηρήσῃ) my saying, he shall never see death"; "they have
+kept thy word."
+
+
+**Speaker:** Jesus · **Role:** claim · **Categories:** Keeping by the faithful · **Object:** my word
+
+**Greek (Textus Receptus)**
+
+> John 8:31 — Ἔλεγεν οὖν ὁ Ἰησοῦς πρὸς τοὺς πεπιστευκότας αὐτῷ Ἰουδαίους, Ἐὰν ὑμεῖς μείνητε ἐν τῷ λόγῳ τῷ ἐμῷ, ἀληθῶς μαθηταί μου ἐστέ·
+>
+> John 8:51 — Ἀμὴν ἀμὴν λέγω ὑμῖν, ἐάν τις τὸν λόγον τὸν ἐμὸν τηρήσῃ, θάνατον οὐ μὴ θεωρήσῃ εἰς τὸν αἰῶνα.
+>
+> John 14:23 — Ἀπεκρίθη ὁ Ἰησοῦς καὶ εἶπεν αὐτῷ, Ἐάν τις ἀγαπᾷ με, τὸν λόγον μου τηρήσει, καὶ ὁ πατήρ μου ἀγαπήσει αὐτόν, καὶ πρὸς αὐτὸν ἐλευσόμεθα, καὶ μονὴν παρ᾿ αὐτῷ ποιήσομεν.
+>
+> John 17:6 — Ἐφανέρωσά σου τὸ ὄνομα τοῖς ἀνθρώποις οὓς δέδωκάς μοι ἐκ τοῦ κόσμου· σοὶ ἦσαν, καὶ ἐμοὶ αὐτοὺς δέδωκας· καὶ τὸν λόγον σου τετηρήκασι.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> John 8:31 — Ἔλεγεν οὖν ὁ Ἰησοῦς πρὸς τοὺς πεπιστευκότας αὐτῷ Ἰουδαίους· ἐὰν ὑμεῖς μείνητε ἐν τῷ λόγῳ τῷ ἐμῷ, ἀληθῶς μαθηταί μού ἐστε,
+>
+> John 8:51 — ἀμὴν ἀμὴν λέγω ὑμῖν, ἐάν τις τὸν λόγον τὸν ἐμὸν τηρήσῃ, θάνατον οὐ μὴ θεωρήσῃ εἰς τὸν αἰῶνα.
+>
+> John 14:23 — ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ· ἐάν τις ἀγαπᾷ με, τὸν λόγον μου τηρήσει, καὶ ὁ πατήρ μου ἀγαπήσει αὐτόν, καὶ πρὸς αὐτὸν ἐλευσόμεθα καὶ μονὴν παρ᾽ αὐτῷ ποιήσομεν.
+>
+> John 17:6 — Ἐφανέρωσά σου τὸ ὄνομα τοῖς ἀνθρώποις οὓς δέδωκάς μοι ἐκ τοῦ κόσμου. σοὶ ἦσαν καὶ ἐμοὶ αὐτοὺς δέδωκας, καὶ τὸν λόγον σου τετηρήκασι.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> John 8:31 — Ἔλεγεν οὖν ὁ Ἰησοῦς πρὸς τοὺς πεπιστευκότας αὐτῷ Ἰουδαίους· Ἐὰν ὑμεῖς μείνητε ἐν τῷ λόγῳ τῷ ἐμῷ, ἀληθῶς μαθηταί μού ἐστε,
+>
+> John 8:51 — ἀμὴν ἀμὴν λέγω ὑμῖν, ἐάν τις τὸν ἐμὸν λόγον τηρήσῃ, θάνατον οὐ μὴ θεωρήσῃ εἰς τὸν αἰῶνα.
+>
+> John 14:23 — ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ· Ἐάν τις ἀγαπᾷ με τὸν λόγον μου τηρήσει, καὶ ὁ πατήρ μου ἀγαπήσει αὐτόν, καὶ πρὸς αὐτὸν ἐλευσόμεθα καὶ μονὴν παρʼ αὐτῷ ποιησόμεθα
+>
+> John 17:6 — Ἐφανέρωσά σου τὸ ὄνομα τοῖς ἀνθρώποις οὓς ἔδωκάς μοι ἐκ τοῦ κόσμου. σοὶ ἦσαν κἀμοὶ αὐτοὺς ἔδωκας καὶ τὸν λόγον σου τετήρηκαν.
+
+**English (KJV, 1769)**
+
+> John 8:31 — Then said Jesus to those Jews which believed on him, If ye continue in my word, [then] are ye my disciples indeed;
+>
+> John 8:51 — Verily, verily, I say unto you, If a man keep my saying, he shall never see death.
+>
+> John 14:23 — Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.
+>
+> John 17:6 — I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word.
+
+**The Greek editions compared.**
+
+The editions agree in substance; in 17:6 SBL reads "thou gavest" (ἔδωκας) for "thou hast given" (δέδωκας).
+
+**Notes.**
+
+The word "abides" in the faithful and they "keep" it. **[inferred]** In the
+Greek of both Testaments it is people who keep the word and God who
+keeps people (see greek-consistency.md §8); these passages are the
+clearest statement of the first half.
 
 ### John 12:48
 
@@ -2252,6 +4870,168 @@ The means by which Jesus's spoken words were to reach the apostolic record. A pr
 **The Greek editions compared.**
 
 The Textus Receptus and Byzantine text have "in thy truth" (ἐν τῇ ἀληθείᾳ σου); SBL has "in the truth".
+
+### John 17:8, 14, 20
+
+<a id="john-17-8"></a>
+
+**Claim.** "I have given unto them the words which thou gavest me"; "I pray … for
+them also which shall believe on me through their word."
+
+
+**Speaker:** Jesus · **Role:** claim · **Categories:** Transmission to later generations · **Object:** the words thou gavest me; their word
+
+**Greek (Textus Receptus)**
+
+> John 17:8 — ὅτι τὰ ῥήματα ἃ δέδωκάς μοι, δέδωκα αὐτοῖς· καὶ αὐτοὶ ἔλαβον, καὶ ἔγνωσαν ἀληθῶς ὅτι παρὰ σοῦ ἐξῆλθον, καὶ ἐπίστευσαν ὅτι σύ με ἀπέστειλας.
+>
+> John 17:14 — Ἐγὼ δέδωκα αὐτοῖς τὸν λόγον σου, καὶ ὁ κόσμος ἐμίσησεν αὐτούς, ὅτι οὐκ εἰσὶν ἐκ τοῦ κόσμου, καθὼς ἐγὼ οὐκ εἰμὶ ἐκ τοῦ κόσμου.
+>
+> John 17:20 — Οὐ περὶ τούτων δὲ ἐρωτῶ μόνον, ἀλλὰ καὶ περὶ τῶν πιστευσόντων διὰ τοῦ λόγου αὐτῶν εἰς ἐμέ·
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> John 17:8 — ὅτι τὰ ῥήματα ἃ δέδωκάς μοι δέδωκα αὐτοῖς, καὶ αὐτοὶ ἔλαβον, καὶ ἔγνωσαν ἀληθῶς ὅτι παρὰ σοῦ ἐξῆλθον, καὶ ἐπίστευσαν ὅτι σύ με ἀπέστειλας.
+>
+> John 17:14 — ἐγὼ δέδωκα αὐτοῖς τὸν λόγον σου, καὶ ὁ κόσμος ἐμίσησεν αὐτούς, ὅτι οὐκ εἰσὶν ἐκ τοῦ κόσμου, καθὼς ἐγὼ οὐκ εἰμὶ ἐκ τοῦ κόσμου.
+>
+> John 17:20 — Οὐ περὶ τούτων δὲ ἐρωτῶ μόνον, ἀλλὰ καὶ περὶ τῶν πιστευόντων διὰ τοῦ λόγου αὐτῶν εἰς ἐμέ,
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> John 17:8 — ὅτι τὰ ῥήματα ἃ ἔδωκάς μοι δέδωκα αὐτοῖς, καὶ αὐτοὶ ἔλαβον καὶ ἔγνωσαν ἀληθῶς ὅτι παρὰ σοῦ ἐξῆλθον, καὶ ἐπίστευσαν ὅτι σύ με ἀπέστειλας.
+>
+> John 17:14 — ἐγὼ δέδωκα αὐτοῖς τὸν λόγον σου, καὶ ὁ κόσμος ἐμίσησεν αὐτούς, ὅτι οὐκ εἰσὶν ἐκ τοῦ κόσμου καθὼς ἐγὼ οὐκ εἰμὶ ἐκ τοῦ κόσμου.
+>
+> John 17:20 — Οὐ περὶ τούτων δὲ ἐρωτῶ μόνον, ἀλλὰ καὶ περὶ τῶν πιστευόντων διὰ τοῦ λόγου αὐτῶν εἰς ἐμέ,
+
+**English (KJV, 1769)**
+
+> John 17:8 — For I have given unto them the words which thou gavest me; and they have received [them], and have known surely that I came out from thee, and they have believed that thou didst send me.
+>
+> John 17:14 — I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world.
+>
+> John 17:20 — Neither pray I for these alone, but for them also which shall believe on me through their word;
+
+**The Greek editions compared.**
+
+In 17:20 the Textus Receptus reads "which shall believe" (πιστευσόντων);
+the Byzantine and SBL texts "which believe" (πιστευόντων).
+
+**Notes.**
+
+The chain of transmission in Jesus's own prayer, from the Father, to
+Jesus, to the apostles, to those who believe "through their word" (διὰ τοῦ
+λόγου αὐτῶν).
+
+### John 20:30-31; 21:24-25
+
+<a id="john-20-31"></a>
+
+**Claim.** "These are written, that ye might believe"; "this is the disciple which
+testifieth of these things, and wrote these things: and we know that his
+testimony is true."
+
+
+**Speaker:** Narrator · **Role:** means · **Categories:** Inscripturation · **Object:** these things written
+
+**Greek (Textus Receptus)**
+
+> John 20:30 — Πολλὰ μὲν οὖν καὶ ἄλλα σημεῖα ἐποίησεν ὁ Ἰησοῦς ἐνώπιον τῶν μαθητῶν αὐτοῦ, ἃ οὐκ ἔστι γεγραμμένα ἐν τῷ βιβλίῳ τούτῳ.
+>
+> John 20:31 — Ταῦτα δὲ γέγραπται, ἵνα πιστεύσητε ὅτι ὁ Ἰησοῦς ἐστιν ὁ Χριστὸς ὁ υἱὸς τοῦ Θεοῦ, καὶ ἵνα πιστεύοντες ζωὴν ἔχητε ἐν τῷ ὀνόματι αὐτοῦ.
+>
+> John 21:24 — Οὗτός ἐστιν ὁ μαθητὴς ὁ μαρτυρῶν περὶ τούτων, καὶ γράψας ταῦτα· καὶ οἴδαμεν ὅτι ἀληθής ἐστιν ἡ μαρτυρία αὐτοῦ.
+>
+> John 21:25 — Ἔστι δὲ καὶ ἄλλα πολλὰ ὅσα ἐποίησεν ὁ Ἰησοῦς, ἅτινα ἐὰν γράφηται καθ᾿ ἕν, οὐδὲ αὐτὸν οἶμαι τὸν κόσμον χωρῆσαι τὰ γραφόμενα βιβλία. Ἀμήν.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> John 20:30 — Πολλὰ μὲν οὖν καὶ ἄλλα σημεῖα ἐποίησεν ὁ Ἰησοῦς ἐνώπιον τῶν μαθητῶν αὐτοῦ, ἃ οὐκ ἔστι γεγραμμένα ἐν τῷ βιβλίῳ τούτῳ·
+>
+> John 20:31 — ταῦτα δὲ γέγραπται ἵνα πιστεύσητε ὅτι Ἰησοῦς ἐστιν ὁ Χριστὸς ὁ υἱὸς τοῦ Θεοῦ, καὶ ἵνα πιστεύοντες ζωὴν ἔχητε ἐν τῷ ὀνόματι αὐτοῦ.
+>
+> John 21:24 — Οὗτός ἐστιν ὁ μαθητὴς ὁ μαρτυρῶν περὶ τούτων καὶ γράψας ταῦτα, καὶ οἴδαμεν ὅτι ἀληθής ἐστιν ἡ μαρτυρία αὐτοῦ.
+>
+> John 21:25 — ἔστι δὲ καὶ ἄλλα πολλὰ ὅσα ἐποίησεν ὁ Ἰησοῦς, ἅτινα ἐὰν γράφηται καθ᾽ ἕν, οὐδὲ αὐτὸν οἶμαι τὸν κόσμον χωρῆσαι τὰ γραφόμενα βιβλία. ἀμήν.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> John 20:30 — Πολλὰ μὲν οὖν καὶ ἄλλα σημεῖα ἐποίησεν ὁ Ἰησοῦς ἐνώπιον τῶν μαθητῶν ἃ οὐκ ἔστιν γεγραμμένα ἐν τῷ βιβλίῳ τούτῳ·
+>
+> John 20:31 — ταῦτα δὲ γέγραπται ἵνα πιστεύητε ὅτι Ἰησοῦς ἐστιν ὁ χριστὸς ὁ υἱὸς τοῦ θεοῦ, καὶ ἵνα πιστεύοντες ζωὴν ἔχητε ἐν τῷ ὀνόματι αὐτοῦ.
+>
+> John 21:24 — Οὗτός ἐστιν ὁ μαθητὴς ὁ μαρτυρῶν περὶ τούτων καὶ ὁ γράψας ταῦτα, καὶ οἴδαμεν ὅτι ἀληθὴς αὐτοῦ ἡ μαρτυρία ἐστίν.
+>
+> John 21:25 — ἔστιν δὲ καὶ ἄλλα πολλὰ ἃ ἐποίησεν ὁ Ἰησοῦς, ἅτινα ἐὰν γράφηται καθʼ ἕν, οὐδʼ αὐτὸν οἶμαι τὸν κόσμον χωρήσειν τὰ γραφόμενα βιβλία
+
+**English (KJV, 1769)**
+
+> John 20:30 — ¶ And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:
+>
+> John 20:31 — But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name.
+>
+> John 21:24 — This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true.
+>
+> John 21:25 — And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.
+
+**The Greek editions compared.**
+
+In 20:31 SBL reads "that ye may go on believing" (πιστεύητε) for "that ye might believe" (πιστεύσητε).
+
+**Notes.**
+
+The Gospel states its own purpose and the truth of its witness, and says that much else was not written.
+
+### Mark 4:15; Luke 8:12, 15
+
+<a id="mark-4-15"></a>
+
+**Claim.** "Satan cometh immediately, and taketh away the word that was sown in their
+hearts"; the good ground "having heard the word, keep it (κατέχουσιν)".
+
+
+**Speaker:** Jesus · **Role:** warning · **Categories:** Withdrawal, Keeping by the faithful · **Object:** the word sown in hearts
+
+**Greek (Textus Receptus)**
+
+> Mark 4:15 — Οὗτοι δέ εἰσιν οἱ παρὰ τὴν ὁδόν, ὅπου σπείρεται ὁ λόγος, καὶ ὅταν ἀκούσωσιν, εὐθέως ἔρχεται ὁ Σατανᾶς καὶ αἴρει τὸν λόγον τὸν ἐσπαρμένον ἐν ταῖς καρδίαις αὐτῶν.
+>
+> Luke 8:12 — Οἱ δὲ παρὰ τὴν ὁδὸν εἰσὶν οἱ ἀκούοντες, εἶτα ἔρχεται ὁ διάβολος καὶ αἴρει τὸν λόγον ἀπὸ τῆς καρδίας αὐτῶν, ἵνα μὴ πιστεύσαντες σωθῶσιν.
+>
+> Luke 8:15 — Τὸ δὲ ἐν τῇ καλῇ γῇ, οὗτοί εἰσιν οἵτινες ἐν καρδίᾳ καλῇ καὶ ἀγαθῇ, ἀκούσαντες τὸν λόγον κατέχουσι, καὶ καρποφοροῦσιν ἐν ὑπομονῇ.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Mark 4:15 — οὗτοι δέ εἰσιν οἱ παρὰ τὴν ὁδὸν ὅπου σπείρεται ὁ λόγος, καὶ ὅταν ἀκούσωσιν, εὐθὺς ἔρχεται ὁ σατανᾶς καὶ αἴρει τὸν λόγον τὸν ἐσπαρμένον ἐν ταῖς καρδίαις αὐτῶν.
+>
+> Luke 8:12 — οἱ δὲ παρὰ τὴν ὁδόν εἰσιν οἱ ἀκούσαντες, εἶτα ἔρχεται ὁ διάβολος καὶ αἴρει τὸν λόγον ἀπὸ τῆς καρδίας αὐτῶν, ἵνα μὴ πιστεύσαντες σωθῶσιν.
+>
+> Luke 8:15 — τὸ δὲ ἐν τῇ καλῇ γῇ, οὗτοί εἰσιν οἵτινες ἐν καρδίᾳ καλῇ καὶ ἀγαθῇ ἀκούσαντες τὸν λόγον κατέχουσι καὶ καρποφοροῦσιν ἐν ὑπομονῇ.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Mark 4:15 — οὗτοι δέ εἰσιν οἱ παρὰ τὴν ὁδὸν ὅπου σπείρεται ὁ λόγος, καὶ ὅταν ἀκούσωσιν εὐθὺς ἔρχεται ὁ Σατανᾶς καὶ αἴρει τὸν λόγον τὸν ἐσπαρμένον εἰς αὐτούς.
+>
+> Luke 8:12 — οἱ δὲ παρὰ τὴν ὁδόν εἰσιν οἱ ἀκούσαντες εἶτα ἔρχεται ὁ διάβολος καὶ αἴρει τὸν λόγον ἀπὸ τῆς καρδίας αὐτῶν, ἵνα μὴ πιστεύσαντες σωθῶσιν.
+>
+> Luke 8:15 — τὸ δὲ ἐν τῇ καλῇ γῇ, οὗτοί εἰσιν οἵτινες ἐν καρδίᾳ καλῇ καὶ ἀγαθῇ ἀκούσαντες τὸν λόγον κατέχουσιν καὶ καρποφοροῦσιν ἐν ὑπομονῇ.
+
+**English (KJV, 1769)**
+
+> Mark 4:15 — And these are they by the way side, where the word is sown; but when they have heard, Satan cometh immediately, and taketh away the word that was sown in their hearts.
+>
+> Luke 8:12 — Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved.
+>
+> Luke 8:15 — But that on the good ground are they, which in an honest and good heart, having heard the word, keep [it], and bring forth fruit with patience.
+
+**The Greek editions compared.**
+
+In Mark 4:15 SBL reads "the word sown in them" (εἰς αὐτούς) for "in their hearts".
+
+**Notes.**
+
+The word can be taken away from a hearer by Satan, and is kept by those who hold it fast.
 
 ### Matthew 4:4
 
@@ -2365,6 +5145,68 @@ LORD?". With the reading "from God" (SBL) it is a claim that no word God
 speaks fails of its effect, which Mary's reply takes up: "be it unto me
 according to thy word" (κατὰ τὸ ῥῆμά σου, 1:38). **[inferred]**
 
+### Luke 1:1-4
+
+<a id="luke-1-1"></a>
+
+**Claim.** Many have taken in hand to set forth the things delivered (παρέδοσαν) by
+eyewitnesses and ministers of the word; it seemed good to write them in
+order, "that thou mightest know the certainty (ἀσφάλειαν) of those
+things".
+
+
+**Speaker:** Narrator · **Role:** means · **Categories:** Inscripturation, Transmission to later generations · **Object:** the things delivered by eyewitnesses
+
+**Greek (Textus Receptus)**
+
+> Luke 1:1 — Ἐπειδήπερ πολλοὶ ἐπεχείρησαν ἀνατάξασθαι διήγησιν περὶ τῶν πεπληροφορημένων ἐν ἡμῖν πραγμάτων,
+>
+> Luke 1:2 — καθὼς παρέδοσαν ἡμῖν οἱ ἀπ᾿ ἀρχῆς αὐτόπται καὶ ὑπηρέται γενόμενοι τοῦ λόγου,
+>
+> Luke 1:3 — ἔδοξε κἀμοί, παρηκολουθηκότι ἄνωθεν πᾶσιν ἀκριβῶς, καθεξῆς σοι γράψαι, κράτιστε Θεόφιλε,
+>
+> Luke 1:4 — ἵνα ἐπιγνῷς περὶ ὧν κατηχήθης λόγων τὴν ἀσφάλειαν.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Luke 1:1 — Ἐπειδήπερ πολλοὶ ἐπεχείρησαν ἀνατάξασθαι διήγησιν περὶ τῶν πεπληροφορημένων ἐν ἡμῖν πραγμάτων
+>
+> Luke 1:2 — καθὼς παρέδοσαν ἡμῖν οἱ ἀπ᾽ ἀρχῆς αὐτόπται καὶ ὑπηρέται γενόμενοι τοῦ λόγου,
+>
+> Luke 1:3 — ἔδοξε κἀμοί, παρηκολουθηκότι ἄνωθεν πᾶσιν ἀκριβῶς, καθεξῆς σοι γράψαι, κράτιστε Θεόφιλε,
+>
+> Luke 1:4 — ἵνα ἐπιγνῷς περὶ ὧν κατηχήθης λόγων τὴν ἀσφάλειαν.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Luke 1:1 — Ἐπειδήπερ πολλοὶ ἐπεχείρησαν ἀνατάξασθαι διήγησιν περὶ τῶν πεπληροφορημένων ἐν ἡμῖν πραγμάτων,
+>
+> Luke 1:2 — καθὼς παρέδοσαν ἡμῖν οἱ ἀπʼ ἀρχῆς αὐτόπται καὶ ὑπηρέται γενόμενοι τοῦ λόγου,
+>
+> Luke 1:3 — ἔδοξε κἀμοὶ παρηκολουθηκότι ἄνωθεν πᾶσιν ἀκριβῶς καθεξῆς σοι γράψαι, κράτιστε Θεόφιλε,
+>
+> Luke 1:4 — ἵνα ἐπιγνῷς περὶ ὧν κατηχήθης λόγων τὴν ἀσφάλειαν.
+
+**English (KJV, 1769)**
+
+> Luke 1:1 — Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,
+>
+> Luke 1:2 — Even as they delivered them unto us, which from the beginning were eyewitnesses, and ministers of the word;
+>
+> Luke 1:3 — It seemed good to me also, having had perfect understanding of all things from the very first, to write unto thee in order, most excellent Theophilus,
+>
+> Luke 1:4 — That thou mightest know the certainty of those things, wherein thou hast been instructed.
+
+**The Greek editions compared.**
+
+The editions agree.
+
+**Notes.**
+
+The evangelist in his own voice. Transmission runs from eyewitnesses, by
+handing down, to an orderly written account, and its purpose is certainty.
+Westminster Confession 1.1 cites the passage.
+
 ### Luke 24:44
 
 <a id="luke-24-44"></a>
@@ -2421,6 +5263,137 @@ SBL adds "my" ("these are my words").
 
 SBL and the Byzantine text add "therefore" (οὖν).
 
+### Revelation 1:3; 22:7, 9
+
+<a id="rev-1-3"></a>
+
+**Claim.** "Blessed is he that readeth, and they that hear the words of this
+prophecy, and keep those things which are written therein"; "blessed is he
+that keepeth the sayings of the prophecy of this book."
+
+
+**Speaker:** Jesus · **Role:** claim · **Categories:** Keeping by the faithful · **Object:** the words of this prophecy, this book
+
+**Greek (Textus Receptus)**
+
+> Revelation 1:3 — Μακάριος ὁ ἀναγινώσκων, καὶ οἱ ἀκούοντες τοὺς λόγους τῆς προφητείας καὶ τηροῦντες τὰ ἐν αὐτῇ γεγραμμένα· ὁ γὰρ καιρὸς ἐγγύς.
+>
+> Revelation 22:7 — Ἰδού, ἔρχομαι ταχύ. Μακάριος ὁ τηρῶν τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου.
+>
+> Revelation 22:9 — Καὶ λέγει μοι, Ὅρα μή· σύνδουλός σου γάρ εἰμι, καὶ τῶν ἀδελφῶν σου τῶν προφητῶν, καὶ τῶν τηρούντων τοὺς λόγους τοῦ βιβλίου τούτου· τῷ Θεῷ προσκύνησον.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Revelation 1:3 — μακάριος ὁ ἀναγινώσκων καὶ οἱ ἀκούοντες τοὺς λόγους τῆς προφητείας καὶ τηροῦντες τὰ ἐν αὐτῇ γεγραμμένα· ὁ γὰρ καιρὸς ἐγγύς.
+>
+> Revelation 22:7 — καὶ ἰδοὺ ἔρχομαι ταχύ. μακάριος ὁ τηρῶν τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου.
+>
+> Revelation 22:9 — καὶ λέγει μοι· ὅρα μή· σύνδουλός σού εἰμι καὶ τῶν ἀδελφῶν σου τῶν προφητῶν καὶ τῶν τηρούντων τοὺς λόγους τοῦ βιβλίου τούτου· τῷ Θεῷ προσκύνησον.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Revelation 1:3 — μακάριος ὁ ἀναγινώσκων καὶ οἱ ἀκούοντες τοὺς λόγους τῆς προφητείας καὶ τηροῦντες τὰ ἐν αὐτῇ γεγραμμένα, ὁ γὰρ καιρὸς ἐγγύς.
+>
+> Revelation 22:7 — καὶ ἰδοὺ ἔρχομαι ταχύ· μακάριος ὁ τηρῶν τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου.
+>
+> Revelation 22:9 — καὶ λέγει μοι· Ὅρα μή· σύνδουλός σού εἰμι καὶ τῶν ἀδελφῶν σου τῶν προφητῶν καὶ τῶν τηρούντων τοὺς λόγους τοῦ βιβλίου τούτου· τῷ θεῷ προσκύνησον.
+
+**English (KJV, 1769)**
+
+> Revelation 1:3 — Blessed [is] he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time [is] at hand.
+>
+> Revelation 22:7 — Behold, I come quickly: blessed [is] he that keepeth the sayings of the prophecy of this book.
+>
+> Revelation 22:9 — Then saith he unto me, See [thou do it] not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God.
+
+**The Greek editions compared.**
+
+The editions agree in substance.
+
+**Notes.**
+
+22:7 is Jesus speaking; 1:3 is the book's own opening; 22:9 is the angel.
+The book is to be read aloud and kept.
+
+### Revelation 10:7; 17:17
+
+<a id="rev-10-7"></a>
+
+**Claim.** The mystery of God should be finished, "as he hath declared to his
+servants the prophets"; "until the words of God shall be fulfilled".
+
+
+**Speaker:** Heavenly voice · **Role:** claim · **Categories:** Fulfilment · **Object:** the mystery of God declared to the prophets; the words of God
+
+**Greek (Textus Receptus)**
+
+> Revelation 10:7 — ἀλλὰ ἐν ταῖς ἡμέραις τῆς φωνῆς τοῦ ἑβδόμου ἀγγέλου, ὅταν μέλλῃ σαλπίζειν, καὶ τελεσθῇ τὸ μυστήριον τοῦ Θεοῦ, ὡς εὐηγγέλισε τοῖς ἑαυτοῦ δούλοις τοῖς προφήταις.
+>
+> Revelation 17:17 — Ὁ γὰρ Θεὸς ἔδωκεν εἰς τὰς καρδίας αὐτῶν ποιῆσαι τὴν γνώμην αὐτοῦ, καὶ ποιῆσαι μίαν γνώμην, καὶ δοῦναι τὴν βασιλείαν αὐτῶν τῷ θηρίῳ, ἄχρι τελεσθῇ τὰ ῥήματα τοῦ Θεοῦ.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Revelation 10:7 — ἀλλ᾽ ἐν ταῖς ἡμέραις τῆς φωνῆς τοῦ ἑβδόμου ἀγγέλου, ὅταν μέλλῃ σαλπίζειν, καὶ ἐτελέσθη τὸ μυστήριον τοῦ Θεοῦ, ὡς εὐηγγέλισε τοὺς δούλους αὐτοῦ τοὺς προφήτας.
+>
+> Revelation 17:17 — ὁ γὰρ Θεὸς ἔδωκεν εἰς τὰς καρδίας αὐτῶν ποιῆσαι τὴν γνώμην αὐτοῦ, καὶ ποιῆσαι μίαν γνώμην καὶ δοῦναι τὴν βασιλείαν αὐτῶν τῷ θηρίῳ, ἄχρι τελεσθῶσιν οἱ λόγοι τοῦ Θεοῦ.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Revelation 10:7 — ἀλλʼ ἐν ταῖς ἡμέραις τῆς φωνῆς τοῦ ἑβδόμου ἀγγέλου, ὅταν μέλλῃ σαλπίζειν, καὶ ἐτελέσθη τὸ μυστήριον τοῦ θεοῦ, ὡς εὐηγγέλισεν τοὺς ἑαυτοῦ δούλους τοὺς προφήτας.
+>
+> Revelation 17:17 — ὁ γὰρ θεὸς ἔδωκεν εἰς τὰς καρδίας αὐτῶν ποιῆσαι τὴν γνώμην αὐτοῦ, καὶ ποιῆσαι μίαν γνώμην καὶ δοῦναι τὴν βασιλείαν αὐτῶν τῷ θηρίῳ, ἄχρι τελεσθήσονται οἱ λόγοι τοῦ θεοῦ.
+
+**English (KJV, 1769)**
+
+> Revelation 10:7 — But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he hath declared to his servants the prophets.
+>
+> Revelation 17:17 — For God hath put in their hearts to fulfil his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled.
+
+**The Greek editions compared.**
+
+In 10:7 the Textus Receptus reads "should be finished" (τελεσθῇ); the
+Byzantine and SBL texts "is finished" (ἐτελέσθη). In 17:17 the Textus
+Receptus reads "until the words (τὰ ῥήματα) of God be fulfilled"; the
+Byzantine text has τελεσθῶσιν οἱ λόγοι and SBL "shall be fulfilled"
+(τελεσθήσονται οἱ λόγοι).
+
+**Notes.**
+
+10:7 is the angel's oath; 17:17 is the angel's explanation.
+
+### Revelation 14:6
+
+<a id="rev-14-6"></a>
+
+**Claim.** An angel having the everlasting gospel (εὐαγγέλιον αἰώνιον) to preach unto them that dwell on the earth.
+
+**Speaker:** Heavenly voice · **Role:** claim · **Categories:** Permanence · **Object:** the everlasting gospel
+
+**Greek (Textus Receptus)**
+
+> Revelation 14:6 — Καὶ εἶδον ἄλλον ἄγγελον πετώμενον ἐν μεσουρανήματι, ἔχοντα εὐαγγέλιον αἰώνιον, εὐαγγελίσαι τοὺς κατοικοῦντας ἐπὶ τῆς γῆς, καὶ πᾶν ἔθνος καὶ φυλὴν καὶ γλῶσσαν καὶ λαόν,
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Revelation 14:6 — Καὶ εἶδον ἄλλον ἄγγελον πετόμενον ἐν μεσουρανήματι, ἔχοντα εὐαγγέλιον αἰώνιον εὐαγγελίσαι ἐπὶ τοὺς καθημένους ἐπὶ τῆς γῆς καὶ ἐπὶ πᾶν ἔθνος καὶ φυλὴν καὶ γλῶσσαν καὶ λαόν,
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Revelation 14:6 — Καὶ εἶδον ἄλλον ἄγγελον πετόμενον ἐν μεσουρανήματι, ἔχοντα εὐαγγέλιον αἰώνιον εὐαγγελίσαι ἐπὶ τοὺς καθημένους ἐπὶ τῆς γῆς καὶ ἐπὶ πᾶν ἔθνος καὶ φυλὴν καὶ γλῶσσαν καὶ λαόν,
+
+**English (KJV, 1769)**
+
+> Revelation 14:6 — And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,
+
+**The Greek editions compared.**
+
+The Textus Receptus reads "them that dwell (κατοικοῦντας) on the earth";
+the Byzantine and SBL texts "them that sit (καθημένους) on the earth".
+
+**Notes.**
+
+The only place the gospel is called "eternal".
+
 ### Revelation 22:18-19
 
 <a id="rev-22-18"></a>
@@ -2471,6 +5444,38 @@ The speaker is the one who "testifieth these things" (22:20), Jesus. A
 curse on altering this book, not a promise that it will not be altered.
 The passage that warns against changing the text is itself one of the
 places where the printed Greek texts differ most.
+
+### Revelation 22:10
+
+<a id="rev-22-10"></a>
+
+**Claim.** Seal not the sayings of the prophecy of this book, for the time is at hand.
+
+**Speaker:** Heavenly voice · **Role:** command · **Categories:** Custody · **Object:** the sayings of the prophecy of this book
+
+**Greek (Textus Receptus)**
+
+> Revelation 22:10 — Καὶ λέγει μοι, Μὴ σφραγίσῃς τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου· ὅτι ὁ καιρὸς ἐγγύς ἐστιν.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Revelation 22:10 — Καὶ λέγει μοι· μὴ σφραγίσῃς τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου· ὁ καιρὸς γὰρ ἐγγύς ἐστιν.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Revelation 22:10 — Καὶ λέγει μοι· Μὴ σφραγίσῃς τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου, ὁ καιρὸς γὰρ ἐγγύς ἐστιν.
+
+**English (KJV, 1769)**
+
+> Revelation 22:10 — And he saith unto me, Seal not the sayings of the prophecy of this book: for the time is at hand.
+
+**The Greek editions compared.**
+
+The editions agree.
+
+**Notes.**
+
+The reverse of Daniel 12:4 ("seal the book, even to the time of the end").
 
 ### 1 Peter 1:23-25
 
@@ -2570,6 +5575,57 @@ directly on 1:23–25. "Of the word" is λογικόν, which can also mean
 word as free of adulteration is applied to what believers are to desire,
 not to a text's transmission. **[inferred]**
 
+### 1 Peter 1:10-12
+
+<a id="1pet-1-10"></a>
+
+**Claim.** The prophets searched what the Spirit of Christ in them did signify; "unto
+them it was revealed, that not unto themselves, but unto us they did
+minister".
+
+
+**Speaker:** Apostle or evangelist · **Role:** claim · **Categories:** Transmission to later generations, Origin · **Object:** what the prophets foretold
+
+**Greek (Textus Receptus)**
+
+> 1 Peter 1:10 — Περὶ ἧς σωτηρίας ἐξεζήτησαν καὶ ἐξηρεύνησαν προφῆται οἱ περὶ τῆς εἰς ὑμᾶς χάριτος προφητεύσαντες·
+>
+> 1 Peter 1:11 — ἐρευνῶντες εἰς τίνα ἢ ποῖον καιρὸν ἐδήλου τὸ ἐν αὐτοῖς πνεῦμα Χριστοῦ, προμαρτυρόμενον τὰ εἰς Χριστὸν παθήματα, καὶ τὰς μετὰ ταῦτα δόξας.
+>
+> 1 Peter 1:12 — Οἷς ἀπεκαλύφθη ὅτι οὐχ ἑαυτοῖς, ἡμῖν δὲ διηκόνουν αὐτά, ἃ νῦν ἀνηγγέλη ὑμῖν διὰ τῶν εὐαγγελισαμένων ὑμᾶς ἐν πνεύματι ἁγίῳ ἀποσταλέντι ἀπ᾿ οὐρανοῦ, εἰς ἃ ἐπιθυμοῦσιν ἄγγελοι παρακύψαι.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> 1 Peter 1:10 — περὶ ἧς σωτηρίας ἐξεζήτησαν καὶ ἐξηρεύνησαν προφῆται οἱ περὶ τῆς εἰς ὑμᾶς χάριτος προφητεύσαντες,
+>
+> 1 Peter 1:11 — ἐρευνῶντες εἰς τίνα ἢ ποῖον καιρὸν ἐδήλου τὸ ἐν αὐτοῖς Πνεῦμα Χριστοῦ προμαρτυρόμενον τὰ εἰς Χριστὸν παθήματα καὶ τὰς μετὰ ταῦτα δόξας·
+>
+> 1 Peter 1:12 — οἷς ἀπεκαλύφθη ὅτι οὐχ ἑαυτοῖς, ὑμῖν δὲ διηκόνουν αὐτά, ἃ νῦν ἀνηγγέλη ὑμῖν διὰ τῶν εὐαγγελισαμένων ὑμᾶς ἐν Πνεύματι Ἁγίῳ ἀποσταλέντι ἀπ᾽ οὐρανοῦ, εἰς ἃ ἐπιθυμοῦσιν ἄγγελοι παρακύψαι.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> 1 Peter 1:10 — Περὶ ἧς σωτηρίας ἐξεζήτησαν καὶ ἐξηραύνησαν προφῆται οἱ περὶ τῆς εἰς ὑμᾶς χάριτος προφητεύσαντες,
+>
+> 1 Peter 1:11 — ἐραυνῶντες εἰς τίνα ἢ ποῖον καιρὸν ἐδήλου τὸ ἐν αὐτοῖς πνεῦμα Χριστοῦ προμαρτυρόμενον τὰ εἰς Χριστὸν παθήματα καὶ τὰς μετὰ ταῦτα δόξας·
+>
+> 1 Peter 1:12 — οἷς ἀπεκαλύφθη ὅτι οὐχ ἑαυτοῖς ὑμῖν δὲ διηκόνουν αὐτά, ἃ νῦν ἀνηγγέλη ὑμῖν διὰ τῶν εὐαγγελισαμένων ὑμᾶς πνεύματι ἁγίῳ ἀποσταλέντι ἀπʼ οὐρανοῦ, εἰς ἃ ἐπιθυμοῦσιν ἄγγελοι παρακύψαι.
+
+**English (KJV, 1769)**
+
+> 1 Peter 1:10 — Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace [that should come] unto you:
+>
+> 1 Peter 1:11 — Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.
+>
+> 1 Peter 1:12 — Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into.
+
+**The Greek editions compared.**
+
+In 1:12 the Textus Receptus reads "unto us" (ἡμῖν); the Byzantine and SBL texts "unto you" (ὑμῖν).
+
+**Notes.**
+
+The prophets wrote for a later generation, the New Testament form of Psalm 102:18 and Romans 15:4.
+
 ### Romans 3:2
 
 <a id="rom-3-2"></a>
@@ -2605,6 +5661,41 @@ The Second London Confession cites this verse in its proofs for 1.8.
 Paul's next verse asks whether their unbelief makes God's faithfulness
 void, and answers no.
 
+### Romans 1:2
+
+<a id="rom-1-2"></a>
+
+**Claim.** The gospel "he had promised afore by his prophets in the holy scriptures" (ἐν γραφαῖς ἁγίαις).
+
+**Speaker:** Apostle or evangelist · **Role:** claim · **Categories:** Inscripturation, Fulfilment · **Object:** the gospel promised in the holy scriptures
+
+**Greek (Textus Receptus)**
+
+> Romans 1:2 — ὃ προεπηγγείλατο διὰ τῶν προφητῶν αὐτοῦ ἐν γραφαῖς ἁγίαις,
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Romans 1:2 — ὃ προεπηγγείλατο διὰ τῶν προφητῶν αὐτοῦ ἐν γραφαῖς ἁγίαις
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Romans 1:2 — ὃ προεπηγγείλατο διὰ τῶν προφητῶν αὐτοῦ ἐν γραφαῖς ἁγίαις
+
+**English (KJV, 1769)**
+
+> Romans 1:2 — (Which he had promised afore by his prophets in the holy scriptures,)
+
+**The Greek editions compared.**
+
+The editions agree.
+
+**Notes.**
+
+The first reference to Scripture in the letter. The closing doxology adds
+that the mystery is now "by the scriptures of the prophets … made known to
+all nations" (16:26 in the Textus Receptus; the Byzantine edition prints
+the doxology at 14:24-26 and the SBL file used here does not include it).
+
 ### Romans 9:6
 
 <a id="rom-9-6"></a>
@@ -2638,7 +5729,51 @@ The editions agree.
 "Taken none effect" is ἐκπέπτωκεν, "has fallen", the verb the Greek of
 Isaiah 40:7 and 1 Peter 1:24 use for the flower that "fell".
 
-### Romans 15:4; 1 Corinthians 10:11
+### Romans 10:8, 17
+
+<a id="rom-10-8"></a>
+
+**Claim.** "The word is nigh thee, even in thy mouth … that is, the word of faith,
+which we preach"; "faith cometh by hearing, and hearing by the word of
+God."
+
+
+**Speaker:** Apostle or evangelist · **Role:** claim · **Categories:** Transmission to later generations, Efficacy · **Object:** the word of faith which we preach
+
+**Greek (Textus Receptus)**
+
+> Romans 10:8 — Ἀλλὰ τί λέγει; Ἐγγύς σου τὸ ῥῆμά ἐστιν, ἐν τῷ στόματί σου καὶ ἐν τῇ καρδίᾳ σου· τοῦτ᾿ ἔστι τὸ ῥῆμα τῆς πίστεως ὃ κηρύσσομεν·
+>
+> Romans 10:17 — Ἄρα ἡ πίστις ἐξ ἀκοῆς, ἡ δὲ ἀκοὴ διὰ ῥήματος Θεοῦ.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Romans 10:8 — ἀλλὰ τί λέγει; ἐγγύς σου τὸ ῥῆμά ἐστιν, ἐν τῷ στόματί σου καὶ ἐν τῇ καρδίᾳ σου· τοῦτ᾽ ἔστι τὸ ῥῆμα τῆς πίστεως ὃ κηρύσσομεν.
+>
+> Romans 10:17 — ἄρα ἡ πίστις ἐξ ἀκοῆς, ἡ δὲ ἀκοὴ διὰ ῥήματος Θεοῦ.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Romans 10:8 — ἀλλὰ τί λέγει; Ἐγγύς σου τὸ ῥῆμά ἐστιν, ἐν τῷ στόματί σου καὶ ἐν τῇ καρδίᾳ σου, τοῦτʼ ἔστιν τὸ ῥῆμα τῆς πίστεως ὃ κηρύσσομεν.
+>
+> Romans 10:17 — ἄρα ἡ πίστις ἐξ ἀκοῆς, ἡ δὲ ἀκοὴ διὰ ῥήματος Χριστοῦ
+
+**English (KJV, 1769)**
+
+> Romans 10:8 — But what saith it? The word is nigh thee, [even] in thy mouth, and in thy heart: that is, the word of faith, which we preach;
+>
+> Romans 10:17 — So then faith [cometh] by hearing, and hearing by the word of God.
+
+**The Greek editions compared.**
+
+In 10:17 the Textus Receptus and Byzantine text read "the word of God"
+(ῥήματος Θεοῦ); SBL "the word of Christ" (ῥήματος Χριστοῦ).
+
+**Notes.**
+
+Paul applies Deuteronomy 30:14 to the word preached by the apostles.
+
+### Romans 4:23-24; 15:4; 1 Corinthians 9:10; 10:11
 
 <a id="rom-15-4"></a>
 
@@ -2648,35 +5783,59 @@ Isaiah 40:7 and 1 Peter 1:24 use for the flower that "fell".
 
 **Greek (Textus Receptus)**
 
+> Romans 4:23 — Οὐκ ἐγράφη δὲ δι᾿ αὐτὸν μόνον, ὅτι ἐλογίσθη αὐτῷ·
+>
+> Romans 4:24 — ἀλλὰ καὶ δι᾿ ἡμᾶς, οἷς μέλλει λογίζεσθαι, τοῖς πιστεύουσιν ἐπὶ τὸν ἐγείραντα Ἰησοῦν τὸν Κύριον ἡμῶν ἐκ νεκρῶν,
+>
 > Romans 15:4 — Ὅσα γὰρ προεγράφη, εἰς τὴν ἡμετέραν διδασκαλίαν προεγράφη, ἵνα διὰ τῆς ὑπομονῆς καὶ τῆς παρακλήσεως τῶν γραφῶν τὴν ἐλπίδα ἔχωμεν.
+>
+> 1 Corinthians 9:10 — Ἢ δι᾿ ἡμᾶς πάντως λέγει; Δι᾿ ἡμᾶς γὰρ ἐγράφη, ὅτι ἐπ᾿ ἐλπίδι ὀφείλει ὁ ἀροτριῶν ἀροτριᾷν, καὶ ὁ ἀλοῶν τῆς ἐλπίδος αὐτοῦ μετέχειν ἐπ᾿ ἐλπίδι.
 >
 > 1 Corinthians 10:11 — Ταῦτα δὲ πάντα τύποι συνέβαινον ἐκείνοις· ἐγράφη δὲ πρὸς νουθεσίαν ἡμῶν, εἰς οὓς τὰ τέλη τῶν αἰώνων κατήντησεν.
 
 **Greek (Byzantine, 1904 Patriarchal text)**
 
+> Romans 4:23 — Οὐκ ἐγράφη δὲ δι᾽ αὐτὸν μόνον ὅτι ἐλογίσθη αὐτῷ,
+>
+> Romans 4:24 — ἀλλὰ καὶ δι᾽ ἡμᾶς οἷς μέλλει λογίζεσθαι, τοῖς πιστεύουσιν ἐπὶ τὸν ἐγείραντα Ἰησοῦν τὸν Κύριον ἡμῶν ἐκ νεκρῶν,
+>
 > Romans 15:4 — ὅσα γὰρ προεγράφη, εἰς τὴν ἡμετέραν διδασκαλίαν προεγράφη, ἵνα διὰ τῆς ὑπομονῆς καὶ τῆς παρακλήσεως τῶν γραφῶν τὴν ἐλπίδα ἔχωμεν.
+>
+> 1 Corinthians 9:10 — ἢ δι᾽ ἡμᾶς πάντως λέγει; δι᾽ ἡμᾶς γὰρ ἐγράφη, ὅτι ἐπ᾽ ἐλπίδι ὀφείλει ὁ ἀροτριῶν ἀροτριᾶν, καὶ ὁ ἀλοῶν τῆς ἐλπίδος αὐτοῦ μετέχειν ἐπ᾽ ἐλπίδι.
 >
 > 1 Corinthians 10:11 — ταῦτα δὲ πάντα τύποι συνέβαινον ἐκείνοις, ἐγράφη δὲ πρὸς νουθεσίαν ἡμῶν, εἰς οὓς τὰ τέλη τῶν αἰώνων κατήντησεν.
 
 **Greek (SBL Greek New Testament, CC BY 4.0)**
 
+> Romans 4:23 — Οὐκ ἐγράφη δὲ διʼ αὐτὸν μόνον ὅτι ἐλογίσθη αὐτῷ,
+>
+> Romans 4:24 — ἀλλὰ καὶ διʼ ἡμᾶς οἷς μέλλει λογίζεσθαι, τοῖς πιστεύουσιν ἐπὶ τὸν ἐγείραντα Ἰησοῦν τὸν κύριον ἡμῶν ἐκ νεκρῶν,
+>
 > Romans 15:4 — ὅσα γὰρ προεγράφη, εἰς τὴν ἡμετέραν διδασκαλίαν ἐγράφη ἵνα διὰ τῆς ὑπομονῆς καὶ διὰ τῆς παρακλήσεως τῶν γραφῶν τὴν ἐλπίδα ἔχωμεν.
+>
+> 1 Corinthians 9:10 — ἢ διʼ ἡμᾶς πάντως λέγει; διʼ ἡμᾶς γὰρ ἐγράφη, ὅτι ὀφείλει ἐπʼ ἐλπίδι ὁ ἀροτριῶν ἀροτριᾶν, καὶ ὁ ἀλοῶν ἐπʼ ἐλπίδι τοῦ μετέχειν.
 >
 > 1 Corinthians 10:11 — ταῦτα δὲ τυπικῶς συνέβαινεν ἐκείνοις, ἐγράφη δὲ πρὸς νουθεσίαν ἡμῶν, εἰς οὓς τὰ τέλη τῶν αἰώνων κατήντηκεν
 
 **English (KJV, 1769)**
 
+> Romans 4:23 — Now it was not written for his sake alone, that it was imputed to him;
+>
+> Romans 4:24 — But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;
+>
 > Romans 15:4 — For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
+>
+> 1 Corinthians 9:10 — Or saith he [it] altogether for our sakes? For our sakes, no doubt, [this] is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope.
 >
 > 1 Corinthians 10:11 — Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.
 
 **The Greek editions compared.**
 
-In Romans 15:4 SBL has "were written" (ἐγράφη) for the second "were written aforetime" (προεγράφη).
+In Romans 15:4 SBL has "were written" (ἐγράφη) for the second "were written aforetime" (προεγράφη). In 1 Corinthians 9:10 SBL orders the words differently.
 
 **Notes.**
 
-The Old Testament writings were written for a later generation, which presupposes they would reach it.
+Romans 4:23-24 ("it was not written for his sake alone … but for us also") and 1 Corinthians 9:10 ("for our sakes, no doubt, this is written") say the same of single passages. The Old Testament writings were written for a later generation, which presupposes they would reach it.
 
 ### 2 Timothy 3:15-16
 
@@ -2766,6 +5925,86 @@ unto salvation.
 
 In 1:21 the Textus Receptus has "holy men of God" (οἱ ἅγιοι Θεοῦ ἄνθρωποι); SBL has "men spoke from God" (ἀπὸ θεοῦ ἄνθρωποι).
 
+### 2 Peter 1:12-15; 3:1-2
+
+<a id="2pet-1-12"></a>
+
+**Claim.** "I will endeavour that ye may be able after my decease to have these
+things always in remembrance"; "this second epistle … I write unto you …
+that ye may be mindful of the words which were spoken before by the holy
+prophets, and of the commandment of us the apostles."
+
+
+**Speaker:** Apostle or evangelist · **Role:** means · **Categories:** Transmission to later generations, Inscripturation · **Object:** these things; the words of the prophets and the commandment of the apostles
+
+**Greek (Textus Receptus)**
+
+> 2 Peter 1:12 — Διὸ οὐκ ἀμελήσω ὑμᾶς ἀεὶ ὑπομιμνῄσκειν περὶ τούτων, καίπερ εἰδότας, καὶ ἐστηριγμένους ἐν τῇ παρούσῃ ἀληθείᾳ.
+>
+> 2 Peter 1:13 — Δίκαιον δὲ ἡγοῦμαι, ἐφ᾿ ὅσον εἰμὶ ἐν τούτῳ τῷ σκηνώματι, διεγείρειν ὑμᾶς ἐν ὑπομνήσει·
+>
+> 2 Peter 1:14 — εἰδὼς ὅτι ταχινή ἐστιν ἡ ἀπόθεσις τοῦ σκηνώματός μου, καθὼς καὶ ὁ Κύριος ἡμῶν Ἰησοῦς Χριστὸς ἐδήλωσέ μοι.
+>
+> 2 Peter 1:15 — Σπουδάσω δὲ καὶ ἑκάστοτε ἔχειν ὑμᾶς μετὰ τὴν ἐμὴν ἔξοδον τὴν τούτων μνήμην ποιεῖσθαι.
+>
+> 2 Peter 3:1 — Ταύτην ἤδη, ἀγαπητοί, δευτέραν ὑμῖν γράφω ἐπιστολήν, ἐν αἷς διεγείρω ὑμῶν ἐν ὑπομνήσει τὴν εἰλικρινῆ διάνοιαν,
+>
+> 2 Peter 3:2 — μνησθῆναι τῶν προειρημένων ῥημάτων ὑπὸ τῶν ἁγίων προφητῶν, καὶ τῆς τῶν ἀποστόλων ἡμῶν ἐντολῆς τοῦ Κυρίου καὶ σωτῆρος·
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> 2 Peter 1:12 — Διὸ οὐκ ἀμελήσω ἀεὶ ὑμᾶς ὑπομιμνήσκειν περὶ τούτων, καίπερ εἰδότας καὶ ἐστηριγμένους ἐν τῇ παρούσῃ ἀληθείᾳ.
+>
+> 2 Peter 1:13 — δίκαιον δὲ ἡγοῦμαι, ἐφ᾽ ὅσον εἰμὶ ἐν τούτῳ τῷ σκηνώματι, διεγείρειν ὑμᾶς ἐν ὑπομνήσει,
+>
+> 2 Peter 1:14 — εἰδὼς ὅτι ταχινή ἐστιν ἡ ἀπόθεσις τοῦ σκηνώματός μου, καθὼς καὶ ὁ Κύριος ἡμῶν Ἰησοῦς Χριστὸς ἐδήλωσέ μοι.
+>
+> 2 Peter 1:15 — σπουδάσω δὲ καὶ ἑκάστοτε ἔχειν ὑμᾶς μετὰ τὴν ἐμὴν ἔξοδον τὴν τούτων μνήμην ποιεῖσθαι.
+>
+> 2 Peter 3:1 — Ταύτην ἤδη, ἀγαπητοί, δευτέραν ὑμῖν γράφω ἐπιστολήν, ἐν αἷς διεγείρω ὑμῶν ἐν ὑπομνήσει τὴν εἰλικρινῆ διάνοιαν,
+>
+> 2 Peter 3:2 — μνησθῆναι τῶν προειρημένων ῥημάτων ὑπὸ τῶν ἁγίων προφητῶν καὶ τῆς τῶν ἀποστόλων ὑμῶν ἐντολῆς τοῦ Κυρίου καὶ σωτῆρος,
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> 2 Peter 1:12 — Διὸ μελλήσω ἀεὶ ὑμᾶς ὑπομιμνῄσκειν περὶ τούτων, καίπερ εἰδότας καὶ ἐστηριγμένους ἐν τῇ παρούσῃ ἀληθείᾳ.
+>
+> 2 Peter 1:13 — δίκαιον δὲ ἡγοῦμαι, ἐφʼ ὅσον εἰμὶ ἐν τούτῳ τῷ σκηνώματι, διεγείρειν ὑμᾶς ἐν ὑπομνήσει,
+>
+> 2 Peter 1:14 — εἰδὼς ὅτι ταχινή ἐστιν ἡ ἀπόθεσις τοῦ σκηνώματός μου, καθὼς καὶ ὁ κύριος ἡμῶν Ἰησοῦς Χριστὸς ἐδήλωσέν μοι·
+>
+> 2 Peter 1:15 — σπουδάσω δὲ καὶ ἑκάστοτε ἔχειν ὑμᾶς μετὰ τὴν ἐμὴν ἔξοδον τὴν τούτων μνήμην ποιεῖσθαι.
+>
+> 2 Peter 3:1 — Ταύτην ἤδη, ἀγαπητοί, δευτέραν ὑμῖν γράφω ἐπιστολήν, ἐν αἷς διεγείρω ὑμῶν ἐν ὑπομνήσει τὴν εἰλικρινῆ διάνοιαν,
+>
+> 2 Peter 3:2 — μνησθῆναι τῶν προειρημένων ῥημάτων ὑπὸ τῶν ἁγίων προφητῶν καὶ τῆς τῶν ἀποστόλων ὑμῶν ἐντολῆς τοῦ κυρίου καὶ σωτῆρος,
+
+**English (KJV, 1769)**
+
+> 2 Peter 1:12 — Wherefore I will not be negligent to put you always in remembrance of these things, though ye know [them], and be established in the present truth.
+>
+> 2 Peter 1:13 — Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting [you] in remembrance;
+>
+> 2 Peter 1:14 — Knowing that shortly I must put off [this] my tabernacle, even as our Lord Jesus Christ hath shewed me.
+>
+> 2 Peter 1:15 — Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance.
+>
+> 2 Peter 3:1 — This second epistle, beloved, I now write unto you; in [both] which I stir up your pure minds by way of remembrance:
+>
+> 2 Peter 3:2 — That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:
+
+**The Greek editions compared.**
+
+In 1:12 the Textus Receptus and Byzantine text read "I will not be
+negligent to put you always in remembrance" (οὐκ ἀμελήσω); SBL "I will
+always be ready" (μελλήσω ἀεί).
+
+**Notes.**
+
+An apostle makes provision, by writing, for his teaching to be remembered
+after his death, and sets the apostles' commandment beside the prophets'
+words.
+
 ### 2 Timothy 2:9
 
 <a id="2tim-2-9"></a>
@@ -2793,6 +6032,240 @@ In 1:21 the Textus Receptus has "holy men of God" (οἱ ἅγιοι Θεοῦ �
 **The Greek editions compared.**
 
 The editions agree.
+
+### 2 Thessalonians 2:2, 15; 3:17
+
+<a id="2thess-2-2"></a>
+
+**Claim.** Be not shaken "by letter as from us"; "hold the traditions which ye have
+been taught, whether by word, or our epistle"; "the salutation of Paul
+with mine own hand, which is the token in every epistle, so I write."
+
+
+**Speaker:** Apostle or evangelist · **Role:** warning · **Categories:** Corruption among men, Custody, Keeping by the faithful · **Object:** letters "as from us"; the traditions taught by word or epistle
+
+**Greek (Textus Receptus)**
+
+> 2 Thessalonians 2:2 — εἰς τὸ μὴ ταχέως σαλευθῆναι ὑμᾶς ἀπὸ τοῦ νοός, μήτε θροεῖσθαι, μήτε διὰ πνεύματος, μήτε διὰ λόγου, μήτε δι᾿ ἐπιστολῆς ὡς δι᾿ ἡμῶν, ὡς ὅτι ἐνέστηκεν ἡ ἡμέρα τοῦ Χριστοῦ·
+>
+> 2 Thessalonians 2:15 — Ἄρα οὖν, ἀδελφοί, στήκετε, καὶ κρατεῖτε τὰς παραδόσεις ἃς ἐδιδάχθητε, εἴτε διὰ λόγου, εἴτε δι᾿ ἐπιστολῆς ἡμῶν.
+>
+> 2 Thessalonians 3:17 — Ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ Παύλου, ὅ ἐστι σημεῖον ἐν πάσῃ ἐπιστολῇ· οὕτω γράφω.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> 2 Thessalonians 2:2 — εἰς τὸ μὴ ταχέως σαλευθῆναι ὑμᾶς ἀπὸ τοῦ νοὸς μήτε θροεῖσθαι μήτε διὰ τοῦ πνεύματος μήτε διὰ λόγου μήτε δι᾽ ἐπιστολῆς ὡς δι᾽ ἡμῶν, ὡς ὅτι ἐνέστηκεν ἡ ἡμέρα τοῦ Χριστοῦ.
+>
+> 2 Thessalonians 2:15 — Ἄρα οὖν, ἀδελφοί, στήκετε, καὶ κρατεῖτε τὰς παραδόσεις ἃς ἐδιδάχθητε εἴτε διὰ λόγου εἴτε δι᾽ ἐπιστολῆς ἡμῶν.
+>
+> 2 Thessalonians 3:17 — Ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ Παύλου, ὅ ἐστι σημεῖον ἐν πάσῃ ἐπιστολῇ· οὕτω γράφω.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> 2 Thessalonians 2:2 — εἰς τὸ μὴ ταχέως σαλευθῆναι ὑμᾶς ἀπὸ τοῦ νοὸς μηδὲ θροεῖσθαι μήτε διὰ πνεύματος μήτε διὰ λόγου μήτε διʼ ἐπιστολῆς ὡς διʼ ἡμῶν, ὡς ὅτι ἐνέστηκεν ἡ ἡμέρα τοῦ κυρίου
+>
+> 2 Thessalonians 2:15 — ἄρα οὖν, ἀδελφοί, στήκετε, καὶ κρατεῖτε τὰς παραδόσεις ἃς ἐδιδάχθητε εἴτε διὰ λόγου εἴτε διʼ ἐπιστολῆς ἡμῶν.
+>
+> 2 Thessalonians 3:17 — Ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ Παύλου, ὅ ἐστιν σημεῖον ἐν πάσῃ ἐπιστολῇ· οὕτως γράφω.
+
+**English (KJV, 1769)**
+
+> 2 Thessalonians 2:2 — That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.
+>
+> 2 Thessalonians 2:15 — Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word, or our epistle.
+>
+> 2 Thessalonians 3:17 — The salutation of Paul with mine own hand, which is the token in every epistle: so I write.
+
+**The Greek editions compared.**
+
+In 2:2 the Textus Receptus and Byzantine text read "the day of Christ"
+(Χριστοῦ); SBL "the day of the Lord" (κυρίου).
+
+**Notes.**
+
+The only New Testament warning against a forged apostolic letter, with
+the means Paul gives for telling a genuine one (his own hand). The
+genuine teaching, spoken or written, is to be held fast (κρατεῖτε).
+
+### 1 Timothy 6:20; 2 Timothy 1:13-14
+
+<a id="1tim-6-20"></a>
+
+**Claim.** "Keep that which is committed to thy trust (τὴν παραθήκην φύλαξον)"; "hold
+fast the form of sound words"; "that good thing which was committed unto
+thee keep by the Holy Ghost which dwelleth in us."
+
+
+**Speaker:** Apostle or evangelist · **Role:** command · **Categories:** Keeping by the faithful, Custody · **Object:** the deposit (παραθήκη); the pattern of sound words
+
+**Greek (Textus Receptus)**
+
+> 1 Timothy 6:20 — Ὦ Τιμόθεε, τὴν παρακαταθήκην φύλαξον, ἐκτρεπόμενος τὰς βεβήλους κενοφωνίας καὶ ἀντιθέσεις τῆς ψευδωνύμου γνώσεως·
+>
+> 2 Timothy 1:13 — Ὑποτύπωσιν ἔχε ὑγιαινόντων λόγων ὧν παρ᾿ ἐμοῦ ἤκουσας, ἐν πίστει καὶ ἀγάπῃ τῇ ἐν Χριστῷ Ἰησοῦ.
+>
+> 2 Timothy 1:14 — Τὴν καλὴν παρακαταθήκην φύλαξον διὰ πνεύματος ἁγίου τοῦ ἐνοικοῦντος ἐν ἡμῖν.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> 1 Timothy 6:20 — Ὦ Τιμόθεε, τὴν παρακαταθήκην φύλαξον, ἐκτρεπόμενος τὰς βεβήλους κενοφωνίας καὶ ἀντιθέσεις τῆς ψευδωνύμου γνώσεως,
+>
+> 2 Timothy 1:13 — ὑποτύπωσιν ἔχε ὑγιαινόντων λόγων ὧν παρ᾽ ἐμοῦ ἤκουσας, ἐν πίστει καὶ ἀγάπῃ τῇ ἐν Χριστῷ Ἰησοῦ·
+>
+> 2 Timothy 1:14 — τὴν καλὴν παραθήκην φύλαξον διὰ Πνεύματος Ἁγίου τοῦ ἐνοικοῦντος ἐν ἡμῖν.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> 1 Timothy 6:20 — Ὦ Τιμόθεε, τὴν παραθήκην φύλαξον, ἐκτρεπόμενος τὰς βεβήλους κενοφωνίας καὶ ἀντιθέσεις τῆς ψευδωνύμου γνώσεως,
+>
+> 2 Timothy 1:13 — ὑποτύπωσιν ἔχε ὑγιαινόντων λόγων ὧν παρʼ ἐμοῦ ἤκουσας ἐν πίστει καὶ ἀγάπῃ τῇ ἐν Χριστῷ Ἰησοῦ·
+>
+> 2 Timothy 1:14 — τὴν καλὴν παραθήκην φύλαξον διὰ πνεύματος ἁγίου τοῦ ἐνοικοῦντος ἐν ἡμῖν.
+
+**English (KJV, 1769)**
+
+> 1 Timothy 6:20 — O Timothy, keep that which is committed to thy trust, avoiding profane [and] vain babblings, and oppositions of science falsely so called:
+>
+> 2 Timothy 1:13 — Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.
+>
+> 2 Timothy 1:14 — That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.
+
+**The Greek editions compared.**
+
+The Textus Receptus reads παρακαταθήκην, "deposit", in both places; SBL
+reads παραθήκην in both; the Byzantine text has παρακαταθήκην in 1 Timothy
+6:20 and παραθήκην in 2 Timothy 1:14. The words mean the same.
+
+**Notes.**
+
+παραθήκη is a deposit entrusted for safekeeping. It is kept by Timothy
+and "through the Holy Spirit" (διὰ πνεύματος ἁγίου). Here, unusually,
+φυλάσσω has a teaching as its object, but the keeper is a person. Two
+verses earlier God is the keeper: "he is able to keep that which I have
+committed unto him" (τὴν παραθήκην μου φυλάξαι, 2 Timothy 1:12).
+What Paul has entrusted to God there is not said to be a teaching or a
+text; **[context]** it is usually read of his life or salvation.
+
+### 2 Timothy 2:2
+
+<a id="2tim-2-2"></a>
+
+**Claim.** The things that thou hast heard of me among many witnesses, the same
+commit thou to faithful men, who shall be able to teach others also.
+
+
+**Speaker:** Apostle or evangelist · **Role:** command · **Categories:** Transmission to later generations · **Object:** the things heard from Paul
+
+**Greek (Textus Receptus)**
+
+> 2 Timothy 2:2 — Καὶ ἃ ἤκουσας παρ᾿ ἐμοῦ διὰ πολλῶν μαρτύρων, ταῦτα παράθου πιστοῖς ἀνθρώποις, οἵτινες ἱκανοὶ ἔσονται καὶ ἑτέρους διδάξαι.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> 2 Timothy 2:2 — καὶ ἃ ἤκουσας παρ᾽ ἐμοῦ διὰ πολλῶν μαρτύρων, ταῦτα παράθου πιστοῖς ἀνθρώποις, οἵτινες ἱκανοὶ ἔσονται καὶ ἑτέρους διδάξαι.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> 2 Timothy 2:2 — καὶ ἃ ἤκουσας παρʼ ἐμοῦ διὰ πολλῶν μαρτύρων, ταῦτα παράθου πιστοῖς ἀνθρώποις, οἵτινες ἱκανοὶ ἔσονται καὶ ἑτέρους διδάξαι.
+
+**English (KJV, 1769)**
+
+> 2 Timothy 2:2 — And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also.
+
+**The Greek editions compared.**
+
+The editions agree.
+
+**Notes.**
+
+Four links of transmission in one sentence (Paul, Timothy, faithful men,
+others), with "commit" (παράθου) from the root of παραθήκη.
+
+### 2 Timothy 4:13
+
+<a id="2tim-4-13"></a>
+
+**Claim.** Bring with thee the cloke … and the books, but especially the parchments.
+
+**Speaker:** Apostle or evangelist · **Role:** means · **Categories:** Custody · **Object:** the books and the parchments
+
+**Greek (Textus Receptus)**
+
+> 2 Timothy 4:13 — Τὸν φελόνην ὃν ἀπέλιπον ἐν Τρῳάδι παρὰ Κάρπῳ, ἐρχόμενος φέρε, καὶ τὰ βιβλία, μάλιστα τὰς μεμβράνας.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> 2 Timothy 4:13 — τὸν φαιλόνην, ὃν ἀπέλιπον ἐν Τρῳάδι παρὰ Κάρπῳ, ἐρχόμενος φέρε, καὶ τὰ βιβλία, μάλιστα τὰς μεμβράνας.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> 2 Timothy 4:13 — τὸν φαιλόνην, ὃν ἀπέλιπον ἐν Τρῳάδι παρὰ Κάρπῳ, ἐρχόμενος φέρε, καὶ τὰ βιβλία, μάλιστα τὰς μεμβράνας.
+
+**English (KJV, 1769)**
+
+> 2 Timothy 4:13 — The cloke that I left at Troas with Carpus, when thou comest, bring [with thee], and the books, [but] especially the parchments.
+
+**The Greek editions compared.**
+
+The editions agree in substance.
+
+**Notes.**
+
+**[inferred]** The only mention of an apostle's own books (βιβλία) and
+parchments (μεμβράνας). What they contained is not said.
+
+### Titus 1:9; Colossians 3:16; 1 Corinthians 11:2
+
+<a id="titus-1-9"></a>
+
+**Claim.** "Holding fast the faithful word as he hath been taught"; "let the word of
+Christ dwell in you richly"; "keep the ordinances, as I delivered them to
+you."
+
+
+**Speaker:** Apostle or evangelist · **Role:** command · **Categories:** Keeping by the faithful · **Object:** the faithful word; the word of Christ; the ordinances delivered
+
+**Greek (Textus Receptus)**
+
+> Titus 1:9 — ἀντεχόμενον τοῦ κατὰ τὴν διδαχὴν πιστοῦ λόγου, ἵνα δυνατὸς ᾖ καὶ παρακαλεῖν ἐν τῇ διδασκαλίᾳ τῇ ὑγιαινούσῃ, καὶ τοὺς ἀντιλέγοντας ἐλέγχειν.
+>
+> Colossians 3:16 — Ὁ λόγος τοῦ Χριστοῦ ἐνοικείτω ἐν ὑμῖν πλουσίως ἐν πάσῃ σοφίᾳ· διδάσκοντες καὶ νουθετοῦντες ἑαυτούς, ψαλμοῖς, καὶ ὕμνοις, καὶ ᾠδαῖς πνευματικαῖς, ἐν χάριτι ᾄδοντες ἐν τῇ καρδίᾳ ὑμῶν τῷ Κυρίῳ.
+>
+> 1 Corinthians 11:2 — Ἐπαινῶ δὲ ὑμᾶς, ἀδελφοί, ὅτι πάντα μου μέμνησθε, καὶ καθὼς παρέδωκα ὑμῖν τὰς παραδόσεις κατέχετε.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Titus 1:9 — ἀντεχόμενον τοῦ κατὰ τὴν διδαχὴν πιστοῦ λόγου, ἵνα δυνατὸς ᾖ καὶ παρακαλεῖν ἐν τῇ διδασκαλίᾳ τῇ ὑγιαινούσῃ καὶ τοὺς ἀντιλέγοντας ἐλέγχειν.
+>
+> Colossians 3:16 — ὁ λόγος τοῦ Χριστοῦ ἐνοικείτω ἐν ὑμῖν πλουσίως, ἐν πάσῃ σοφίᾳ διδάσκοντες καὶ νουθετοῦντες ἑαυτοὺς ψαλμοῖς καὶ ὕμνοις καὶ ᾠδαῖς πνευματικαῖς, ἐν χάριτι ᾄδοντες ἐν τῇ καρδίᾳ ὑμῶν τῷ Κυρίῳ.
+>
+> 1 Corinthians 11:2 — Ἐπαινῶ δὲ ὑμᾶς, ἀδελφοί, ὅτι πάντα μου μέμνησθε καὶ καθὼς παρέδωκα ὑμῖν τὰς παραδόσεις κατέχετε.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Titus 1:9 — ἀντεχόμενον τοῦ κατὰ τὴν διδαχὴν πιστοῦ λόγου, ἵνα δυνατὸς ᾖ καὶ παρακαλεῖν ἐν τῇ διδασκαλίᾳ τῇ ὑγιαινούσῃ καὶ τοὺς ἀντιλέγοντας ἐλέγχειν.
+>
+> Colossians 3:16 — ὁ λόγος τοῦ Χριστοῦ ἐνοικείτω ἐν ὑμῖν πλουσίως ἐν πάσῃ σοφίᾳ· διδάσκοντες καὶ νουθετοῦντες ἑαυτοὺς ψαλμοῖς ὕμνοις ᾠδαῖς πνευματικαῖς ἐν χάριτι, ᾄδοντες ἐν ταῖς καρδίαις ὑμῶν τῷ θεῷ
+>
+> 1 Corinthians 11:2 — Ἐπαινῶ δὲ ὑμᾶς ὅτι πάντα μου μέμνησθε καὶ καθὼς παρέδωκα ὑμῖν τὰς παραδόσεις κατέχετε.
+
+**English (KJV, 1769)**
+
+> Titus 1:9 — Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.
+>
+> Colossians 3:16 — Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
+>
+> 1 Corinthians 11:2 — Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered [them] to you.
+
+**The Greek editions compared.**
+
+In Colossians 3:16 SBL reads "singing to God" (θεῷ) for "to the Lord".
+
+**Notes.**
+
+The church keeps the word by holding it fast, letting it dwell, and
+keeping what was delivered. Westminster Confession 1.8 cites Colossians
+3:16.
 
 ### Hebrews 4:12
 
@@ -2822,6 +6295,112 @@ The editions agree.
 
 SBL reads "soul and spirit" (καὶ) for "both soul and spirit" (τε καὶ).
 
+### Hebrews 1:1-2
+
+<a id="heb-1-1"></a>
+
+**Claim.** God, who at sundry times and in divers manners spake in time past unto the
+fathers by the prophets, hath in these last days spoken unto us by his
+Son.
+
+
+**Speaker:** Apostle or evangelist · **Role:** claim · **Categories:** Origin · **Object:** God's speaking by the prophets and by his Son
+
+**Greek (Textus Receptus)**
+
+> Hebrews 1:1 — Πολυμερῶς καὶ πολυτρόπως πάλαι ὁ Θεὸς λαλήσας τοῖς πατράσιν ἐν τοῖς προφήταις, ἐπ᾿ ἐσχάτων τῶν ἡμερῶν τούτων ἐλάλησεν ἡμῖν ἐν υἱῷ,
+>
+> Hebrews 1:2 — ὃν ἔθηκε κληρονόμον πάντων, δι᾿ οὗ καὶ τοὺς αἰῶνας ἐποίησεν,
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Hebrews 1:1 — Πολυμερῶς καὶ πολυτρόπως πάλαι ὁ Θεὸς λαλήσας τοῖς πατράσιν ἐν τοῖς προφήταις, ἐπ᾽ ἐσχάτου τῶν ἡμερῶν τούτων ἐλάλησεν ἡμῖν ἐν υἱῷ,
+>
+> Hebrews 1:2 — ὃν ἔθηκε κληρονόμον πάντων, δι᾽ οὗ καὶ τοὺς αἰῶνας ἐποίησεν·
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Hebrews 1:1 — Πολυμερῶς καὶ πολυτρόπως πάλαι ὁ θεὸς λαλήσας τοῖς πατράσιν ἐν τοῖς προφήταις
+>
+> Hebrews 1:2 — ἐπʼ ἐσχάτου τῶν ἡμερῶν τούτων ἐλάλησεν ἡμῖν ἐν υἱῷ, ὃν ἔθηκεν κληρονόμον πάντων, διʼ οὗ καὶ ἐποίησεν τοὺς αἰῶνας ·
+
+**English (KJV, 1769)**
+
+> Hebrews 1:1 — God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,
+>
+> Hebrews 1:2 — Hath in these last days spoken unto us by [his] Son, whom he hath appointed heir of all things, by whom also he made the worlds;
+
+**The Greek editions compared.**
+
+The Textus Receptus reads "in these last days" (ἐσχάτων); the Byzantine
+and SBL texts "at the end of these days" (ἐσχάτου).
+
+**Notes.**
+
+The opening of Westminster Confession 1.1 echoes it ("at sundry times, and
+in divers manners"). Hebrews names no author; the speaker tag is the
+closest available.
+
+### Hebrews 2:1-4
+
+<a id="heb-2-2"></a>
+
+**Claim.** Lest "we should let them slip"; "the word spoken by angels was stedfast
+(βέβαιος)"; the great salvation "was confirmed (ἐβεβαιώθη) unto us by them
+that heard him".
+
+
+**Speaker:** Apostle or evangelist · **Role:** warning · **Categories:** Inviolability, Transmission to later generations · **Object:** the word spoken by angels; the salvation spoken by the Lord
+
+**Greek (Textus Receptus)**
+
+> Hebrews 2:1 — Διὰ τοῦτο δεῖ περισσοτέρως ἡμᾶς προσέχειν τοῖς ἀκουσθεῖσι, μήποτε παραρρυῶμεν.
+>
+> Hebrews 2:2 — Εἰ γὰρ ὁ δι᾿ ἀγγέλων λαληθεὶς λόγος ἐγένετο βέβαιος, καὶ πᾶσα παράβασις καὶ παρακοὴ ἔλαβεν ἔνδικον μισθαποδοσίαν,
+>
+> Hebrews 2:3 — πῶς ἡμεῖς ἐκφευξόμεθα τηλικαύτης ἀμελήσαντες σωτηρίας; Ἥτις, ἀρχὴν λαβοῦσα λαλεῖσθαι διὰ τοῦ Κυρίου, ὑπὸ τῶν ἀκουσάντων εἰς ἡμᾶς ἐβεβαιώθη,
+>
+> Hebrews 2:4 — συνεπιμαρτυροῦντος τοῦ Θεοῦ σημείοις τε καὶ τέρασι, καὶ ποικίλαις δυνάμεσι, καὶ πνεύματος ἁγίου μερισμοῖς, κατὰ τὴν αὐτοῦ θέλησιν.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Hebrews 2:1 — Διὰ τοῦτο δεῖ περισσοτέρως ἡμᾶς προσέχειν τοῖς ἀκουσθεῖσι, μή ποτε παραρρυῶμεν.
+>
+> Hebrews 2:2 — εἰ γὰρ ὁ δι᾽ ἀγγέλων λαληθεὶς λόγος ἐγένετο βέβαιος, καὶ πᾶσα παράβασις καὶ παρακοὴ ἔλαβεν ἔνδικον μισθαποδοσίαν,
+>
+> Hebrews 2:3 — πῶς ἡμεῖς ἐκφευξόμεθα τηλικαύτης ἀμελήσαντες σωτηρίας; ἥτις ἀρχὴν λαβοῦσα λαλεῖσθαι διὰ τοῦ Κυρίου, ὑπὸ τῶν ἀκουσάντων εἰς ἡμᾶς ἐβεβαιώθη,
+>
+> Hebrews 2:4 — συνεπιμαρτυροῦντος τοῦ Θεοῦ σημείοις τε καὶ τέρασι καὶ ποικίλαις δυνάμεσι καὶ Πνεύματος Ἁγίου μερισμοῖς κατὰ τὴν αὐτοῦ θέλησιν.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Hebrews 2:1 — Διὰ τοῦτο δεῖ περισσοτέρως προσέχειν ἡμᾶς τοῖς ἀκουσθεῖσιν, μήποτε παραρυῶμεν.
+>
+> Hebrews 2:2 — εἰ γὰρ ὁ διʼ ἀγγέλων λαληθεὶς λόγος ἐγένετο βέβαιος, καὶ πᾶσα παράβασις καὶ παρακοὴ ἔλαβεν ἔνδικον μισθαποδοσίαν,
+>
+> Hebrews 2:3 — πῶς ἡμεῖς ἐκφευξόμεθα τηλικαύτης ἀμελήσαντες σωτηρίας, ἥτις, ἀρχὴν λαβοῦσα λαλεῖσθαι διὰ τοῦ κυρίου, ὑπὸ τῶν ἀκουσάντων εἰς ἡμᾶς ἐβεβαιώθη,
+>
+> Hebrews 2:4 — συνεπιμαρτυροῦντος τοῦ θεοῦ σημείοις τε καὶ τέρασιν καὶ ποικίλαις δυνάμεσιν καὶ πνεύματος ἁγίου μερισμοῖς κατὰ τὴν αὐτοῦ θέλησιν;
+
+**English (KJV, 1769)**
+
+> Hebrews 2:1 — Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let [them] slip.
+>
+> Hebrews 2:2 — For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward;
+>
+> Hebrews 2:3 — How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard [him];
+>
+> Hebrews 2:4 — God also bearing [them] witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will?
+
+**The Greek editions compared.**
+
+The editions agree.
+
+**Notes.**
+
+The law was "firm"; the gospel, spoken by the Lord, was "confirmed" to a
+later generation by those who heard him, God bearing witness with signs.
+
 ### 1 Thessalonians 2:13
 
 <a id="1thess-2-13"></a>
@@ -2845,6 +6424,180 @@ SBL reads "soul and spirit" (καὶ) for "both soul and spirit" (τε καὶ).
 **English (KJV, 1769)**
 
 > 1 Thessalonians 2:13 — For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received [it] not [as] the word of men, but as it is in truth, the word of God, which effectually worketh also in you that believe.
+
+### 1 Corinthians 15:1-4
+
+<a id="1cor-15-1"></a>
+
+**Claim.** "If ye keep in memory (κατέχετε) what I preached unto you"; "I delivered
+(παρέδωκα) unto you first of all that which I also received … according to
+the scriptures."
+
+
+**Speaker:** Apostle or evangelist · **Role:** means · **Categories:** Transmission to later generations, Keeping by the faithful · **Object:** the gospel which I preached unto you
+
+**Greek (Textus Receptus)**
+
+> 1 Corinthians 15:1 — Γνωρίζω δὲ ὑμῖν, ἀδελφοί, τὸ εὐαγγέλιον ὃ εὐηγγελισάμην ὑμῖν, ὃ καὶ παρελάβετε, ἐν ᾧ καὶ ἑστήκατε,
+>
+> 1 Corinthians 15:2 — δι᾿ οὗ καὶ σώζεσθε· τίνι λόγῳ εὐηγγελισάμην ὑμῖν, εἰ κατέχετε, ἐκτὸς εἰ μὴ εἰκῇ ἐπιστεύσατε.
+>
+> 1 Corinthians 15:3 — Παρέδωκα γὰρ ὑμῖν ἐν πρώτοις, ὃ καὶ παρέλαβον, ὅτι Χριστὸς ἀπέθανεν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν κατὰ τὰς γραφάς·
+>
+> 1 Corinthians 15:4 — καὶ ὅτι ἐτάφη· καὶ ὅτι ἐγήγερται τῇ τρίτῃ ἡμέρᾳ κατὰ τὰς γραφάς·
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> 1 Corinthians 15:1 — Γνωρίζω δὲ ὑμῖν, ἀδελφοί, τὸ εὐαγγέλιον ὃ εὐηγγελισάμην ὑμῖν, ὃ καὶ παρελάβετε, ἐν ᾧ καὶ ἑστήκατε,
+>
+> 1 Corinthians 15:2 — δι᾽ οὗ καὶ σῴζεσθε, τίνι λόγῳ εὐηγγελισάμην ὑμῖν εἰ κατέχετε, ἐκτὸς εἰ μὴ εἰκῆ ἐπιστεύσατε.
+>
+> 1 Corinthians 15:3 — παρέδωκα γὰρ ὑμῖν ἐν πρώτοις ὃ καὶ παρέλαβον, ὅτι Χριστὸς ἀπέθανεν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν κατὰ τὰς γραφάς,
+>
+> 1 Corinthians 15:4 — καὶ ὅτι ἐτάφη, καὶ ὅτι ἐγήγερται τῇ τρίτη ἡμέρᾳ κατὰ τὰς γραφάς,
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> 1 Corinthians 15:1 — Γνωρίζω δὲ ὑμῖν, ἀδελφοί, τὸ εὐαγγέλιον ὃ εὐηγγελισάμην ὑμῖν, ὃ καὶ παρελάβετε, ἐν ᾧ καὶ ἑστήκατε,
+>
+> 1 Corinthians 15:2 — διʼ οὗ καὶ σῴζεσθε, τίνι λόγῳ εὐηγγελισάμην ὑμῖν, εἰ κατέχετε, ἐκτὸς εἰ μὴ εἰκῇ ἐπιστεύσατε.
+>
+> 1 Corinthians 15:3 — Παρέδωκα γὰρ ὑμῖν ἐν πρώτοις, ὃ καὶ παρέλαβον, ὅτι Χριστὸς ἀπέθανεν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν κατὰ τὰς γραφάς,
+>
+> 1 Corinthians 15:4 — καὶ ὅτι ἐτάφη, καὶ ὅτι ἐγήγερται τῇ ἡμέρᾳ τῇ τρίτῃ κατὰ τὰς γραφάς,
+
+**English (KJV, 1769)**
+
+> 1 Corinthians 15:1 — Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;
+>
+> 1 Corinthians 15:2 — By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain.
+>
+> 1 Corinthians 15:3 — For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures;
+>
+> 1 Corinthians 15:4 — And that he was buried, and that he rose again the third day according to the scriptures:
+
+**The Greek editions compared.**
+
+The editions agree.
+
+**Notes.**
+
+The language of handing on what was received (παραλαμβάνω / παραδίδωμι).
+The gospel is kept by being held fast.
+
+### 1 Corinthians 14:37
+
+<a id="1cor-14-37"></a>
+
+**Claim.** Let him acknowledge that the things that I write unto you are the commandments of the Lord.
+
+**Speaker:** Apostle or evangelist · **Role:** claim · **Categories:** Origin · **Object:** the things that I write
+
+**Greek (Textus Receptus)**
+
+> 1 Corinthians 14:37 — Εἴ τις δοκεῖ προφήτης εἶναι ἢ πνευματικός, ἐπιγινωσκέτω ἃ γράφω ὑμῖν, ὅτι τοῦ Κυρίου εἰσὶν ἐντολαί.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> 1 Corinthians 14:37 — Εἴ τις δοκεῖ προφήτης εἶναι ἢ πνευματικός, ἐπιγινωσκέτω ἃ γράφω ὑμῖν, ὅτι τοῦ Κυρίου εἰσὶν ἐντολαί·
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> 1 Corinthians 14:37 — Εἴ τις δοκεῖ προφήτης εἶναι ἢ πνευματικός, ἐπιγινωσκέτω ἃ γράφω ὑμῖν ὅτι κυρίου ἐστίν
+
+**English (KJV, 1769)**
+
+> 1 Corinthians 14:37 — If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord.
+
+**The Greek editions compared.**
+
+The Textus Receptus and Byzantine text read "are the commandments of the
+Lord" (τοῦ Κυρίου εἰσὶν ἐντολαί); SBL reads "is of the Lord" (κυρίου
+ἐστίν), without "commandment".
+
+**Notes.**
+
+An apostle's claim that what he writes is the Lord's command.
+
+### 1 Corinthians 5:9; Colossians 4:16
+
+<a id="1cor-5-9"></a>
+
+**Claim.** "I wrote unto you in an epistle not to company with fornicators"; "when
+this epistle is read among you, cause that it be read also in the church
+of the Laodiceans; and that ye likewise read the epistle from Laodicea."
+
+
+**Speaker:** Apostle or evangelist · **Role:** means · **Categories:** Loss among men, Transmission to later generations · **Object:** an earlier letter to Corinth; the letter from Laodicea
+
+**Greek (Textus Receptus)**
+
+> 1 Corinthians 5:9 — Ἔγραψα ὑμῖν ἐν τῇ ἐπιστολῇ μὴ συναναμίγνυσθαι πόρνοις·
+>
+> Colossians 4:16 — Καὶ ὅταν ἀναγνωσθῇ παρ᾿ ὑμῖν ἡ ἐπιστολή, ποιήσατε ἵνα καὶ ἐν τῇ Λαοδικέων ἐκκλησίᾳ ἀναγνωσθῇ, καὶ τὴν ἐκ Λαοδικείας ἵνα καὶ ὑμεῖς ἀναγνῶτε.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> 1 Corinthians 5:9 — Ἔγραψα ὑμῖν ἐν τῇ ἐπιστολῇ μὴ συναναμίγνυσθαι πόρνοις,
+>
+> Colossians 4:16 — καὶ ὅταν ἀναγνωσθῇ παρ᾽ ὑμῖν ἡ ἐπιστολή, ποιήσατε ἵνα καὶ ἐν τῇ Λαοδικέων ἐκκλησίᾳ ἀναγνωσθῇ, καὶ τὴν ἐκ Λαοδικείας ἵνα καὶ ὑμεῖς ἀναγνῶτε.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> 1 Corinthians 5:9 — Ἔγραψα ὑμῖν ἐν τῇ ἐπιστολῇ μὴ συναναμίγνυσθαι πόρνοις,
+>
+> Colossians 4:16 — καὶ ὅταν ἀναγνωσθῇ παρʼ ὑμῖν ἡ ἐπιστολή, ποιήσατε ἵνα καὶ ἐν τῇ Λαοδικέων ἐκκλησίᾳ ἀναγνωσθῇ, καὶ τὴν ἐκ Λαοδικείας ἵνα καὶ ὑμεῖς ἀναγνῶτε.
+
+**English (KJV, 1769)**
+
+> 1 Corinthians 5:9 — I wrote unto you in an epistle not to company with fornicators:
+>
+> Colossians 4:16 — And when this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that ye likewise read the [epistle] from Laodicea.
+
+**The Greek editions compared.**
+
+The editions agree.
+
+**Notes.**
+
+**[context]** 1 Corinthians 5:9 is generally taken to refer to a letter of
+Paul's to Corinth earlier than 1 Corinthians, and Colossians 4:16 to a
+letter to Laodicea; neither is extant under that name (some identify
+the second with Ephesians). Colossians 4:16 also shows apostolic letters
+being exchanged and read between churches, the first means of their
+circulation.
+
+### 2 Corinthians 1:20
+
+<a id="2cor-1-20"></a>
+
+**Claim.** For all the promises of God in him are yea, and in him Amen.
+
+**Speaker:** Apostle or evangelist · **Role:** claim · **Categories:** Fulfilment · **Object:** all the promises of God
+
+**Greek (Textus Receptus)**
+
+> 2 Corinthians 1:20 — Ὅσαι γὰρ ἐπαγγελίαι Θεοῦ, ἐν αὐτῷ τὸ Ναί, καὶ ἐν αὐτῷ τὸ Ἀμήν, τῷ Θεῷ πρὸς δόξαν δι᾿ ἡμῶν.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> 2 Corinthians 1:20 — ὅσαι γὰρ ἐπαγγελίαι Θεοῦ, ἐν αὐτῷ τὸ ναὶ καὶ ἐν αὐτῷ τὸ ἀμήν, τῷ Θεῷ πρὸς δόξαν δι᾽ ἡμῶν.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> 2 Corinthians 1:20 — ὅσαι γὰρ ἐπαγγελίαι θεοῦ, ἐν αὐτῷ τὸ Ναί· διὸ καὶ διʼ αὐτοῦ τὸ Ἀμὴν τῷ θεῷ πρὸς δόξαν διʼ ἡμῶν.
+
+**English (KJV, 1769)**
+
+> 2 Corinthians 1:20 — For all the promises of God in him [are] yea, and in him Amen, unto the glory of God by us.
+
+**The Greek editions compared.**
+
+SBL reads "wherefore also through him is the Amen" (διὸ καὶ διʼ αὐτοῦ τὸ ἀμήν) for "and in him Amen".
+
+**Notes.**
+
+Every promise of God finds its "yes" in Christ.
 
 ### Acts 7:38
 
@@ -2878,7 +6631,60 @@ The Textus Receptus and Byzantine text have "to give unto us" (ἡμῖν); SBL 
 
 Stephen is the speaker, in his speech before the council.
 
-### Jude 3
+### Acts 1:16; 3:18, 21
+
+<a id="acts-1-16"></a>
+
+**Claim.** "This scripture must needs have been fulfilled, which the Holy Ghost by
+the mouth of David spake"; God "spake by the mouth of all his holy
+prophets since the world began".
+
+
+**Speaker:** Apostle or evangelist · **Role:** claim · **Categories:** Fulfilment, Origin · **Object:** the scripture which the Holy Ghost spake by David; the mouth of all his holy prophets
+
+**Greek (Textus Receptus)**
+
+> Acts 1:16 — Ἄνδρες ἀδελφοί, ἔδει πληρωθῆναι τὴν γραφὴν ταύτην, ἣν προεῖπε τὸ πνεῦμα τὸ ἅγιον διὰ στόματος Δαβὶδ περὶ Ἰούδα, τοῦ γενομένου ὁδηγοῦ τοῖς συλλαβοῦσι τὸν Ἰησοῦν.
+>
+> Acts 3:18 — Ὁ δὲ Θεὸς ἃ προκατήγγειλε διὰ στόματος πάντων τῶν προφητῶν αὐτοῦ, παθεῖν τὸν Χριστόν, ἐπλήρωσεν οὕτω.
+>
+> Acts 3:21 — ὃν δεῖ οὐρανὸν μὲν δέξασθαι ἄχρι χρόνων ἀποκαταστάσεως πάντων, ὧν ἐλάλησεν ὁ Θεὸς διὰ στόματος πάντων ἁγίων αὐτοῦ προφητῶν ἀπ᾿ αἰῶνος.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Acts 1:16 — ἄνδρες ἀδελφοί, ἔδει πληρωθῆναι τὴν γραφὴν ταύτην ἣν προεῖπε τὸ Πνεῦμα τὸ Ἅγιον διὰ στόματος Δαυῒδ περὶ Ἰούδα τοῦ γενομένου ὁδηγοῦ τοῖς συλλαβοῦσι τὸν Ἰησοῦν,
+>
+> Acts 3:18 — ὁ δὲ Θεὸς ἃ προκατήγγειλε διὰ στόματος πάντων τῶν προφητῶν αὐτοῦ παθεῖν τὸν Χριστόν, ἐπλήρωσεν οὕτω.
+>
+> Acts 3:21 — ὃν δεῖ οὐρανὸν μὲν δέξασθαι ἄχρι χρόνων ἀποκαταστάσεως πάντων ὧν ἐλάλησεν ὁ Θεὸς διὰ στόματος [πάντων] ἁγίων αὐτοῦ προφητῶν ἀπ᾽ αἰῶνος.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Acts 1:16 — Ἄνδρες ἀδελφοί, ἔδει πληρωθῆναι τὴν γραφὴν ἣν προεῖπε τὸ πνεῦμα τὸ ἅγιον διὰ στόματος Δαυὶδ περὶ Ἰούδα τοῦ γενομένου ὁδηγοῦ τοῖς συλλαβοῦσιν Ἰησοῦν
+>
+> Acts 3:18 — ὁ δὲ θεὸς ἃ προκατήγγειλεν διὰ στόματος πάντων τῶν προφητῶν παθεῖν τὸν χριστὸν αὐτοῦ ἐπλήρωσεν οὕτως.
+>
+> Acts 3:21 — ὃν δεῖ οὐρανὸν μὲν δέξασθαι ἄχρι χρόνων ἀποκαταστάσεως πάντων ὧν ἐλάλησεν ὁ θεὸς διὰ στόματος τῶν ἁγίων ἀπʼ αἰῶνος αὐτοῦ προφητῶν.
+
+**English (KJV, 1769)**
+
+> Acts 1:16 — Men [and] brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus.
+>
+> Acts 3:18 — But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled.
+>
+> Acts 3:21 — Whom the heaven must receive until the times of restitution of all things, which God hath spoken by the mouth of all his holy prophets since the world began.
+
+**The Greek editions compared.**
+
+SBL lacks "this" (ταύτην) in Acts 1:16 ("the scripture" for "this scripture").
+
+**Notes.**
+
+Peter's speeches. The written Scripture is what the Holy Spirit "spoke
+beforehand" (προεῖπεν) through David, and its fulfilment is necessary
+(ἔδει).
+
+### Jude 3, 17
 
 <a id="jude-3"></a>
 
@@ -2889,22 +6695,34 @@ Stephen is the speaker, in his speech before the council.
 **Greek (Textus Receptus)**
 
 > Jude 1:3 — Ἀγαπητοί, πᾶσαν σπουδὴν ποιούμενος γράφειν ὑμῖν περὶ τῆς κοινῆς σωτηρίας, ἀνάγκην ἔσχον γράψαι ὑμῖν, παρακαλῶν ἐπαγωνίζεσθαι τῇ ἅπαξ παραδοθείσῃ τοῖς ἁγίοις πίστει.
+>
+> Jude 1:17 — Ὑμεῖς δέ, ἀγαπητοί, μνήσθητε τῶν ῥημάτων τῶν προειρημένων ὑπὸ τῶν ἀποστόλων τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ·
 
 **Greek (Byzantine, 1904 Patriarchal text)**
 
 > Jude 1:3 — Ἀγαπητοί, πᾶσαν σπουδὴν ποιούμενος γράφειν ὑμῖν περὶ τῆς κοινῆς σωτηρίας, ἀνάγκην ἔσχον γράψαι ὑμῖν παρακαλῶν ἐπαγωνίζεσθαι τῇ ἅπαξ παραδοθείσῃ τοῖς ἁγίοις πίστει.
+>
+> Jude 1:17 — Ὑμεῖς δέ, ἀγαπητοί, μνήσθητε τῶν ῥημάτων τῶν προειρημένων ὑπὸ τῶν ἀποστόλων τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ,
 
 **Greek (SBL Greek New Testament, CC BY 4.0)**
 
 > Jude 1:3 — Ἀγαπητοί, πᾶσαν σπουδὴν ποιούμενος γράφειν ὑμῖν περὶ τῆς κοινῆς ἡμῶν σωτηρίας ἀνάγκην ἔσχον γράψαι ὑμῖν παρακαλῶν ἐπαγωνίζεσθαι τῇ ἅπαξ παραδοθείσῃ τοῖς ἁγίοις πίστει.
+>
+> Jude 1:17 — Ὑμεῖς δέ, ἀγαπητοί, μνήσθητε τῶν ῥημάτων τῶν προειρημένων ὑπὸ τῶν ἀποστόλων τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ·
 
 **English (KJV, 1769)**
 
 > Jude 1:3 — Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort [you] that ye should earnestly contend for the faith which was once delivered unto the saints.
+>
+> Jude 1:17 — But, beloved, remember ye the words which were spoken before of the apostles of our Lord Jesus Christ;
+
+**The Greek editions compared.**
+
+The editions agree.
 
 **Notes.**
 
-"Once" (ἅπαξ) means once for all. The object is the faith, the body of teaching, not a text.
+"Once" (ἅπαξ) means once for all. The object is the faith, the body of teaching, not a text. Verse 17 adds "remember ye the words which were spoken before of the apostles".
 
 ### 2 Corinthians 2:17; 4:2
 
@@ -2949,6 +6767,152 @@ adulterate their wares); "handling deceitfully" is δολοῦντες,
 "adulterating". Paul admits that some in his day were corrupting the word
 in their handling of it.
 
+### 2 Corinthians 3:14-15
+
+<a id="2cor-3-14"></a>
+
+**Claim.** Until this day remaineth the same vail untaken away in the reading of the
+old testament; when Moses is read, the vail is upon their heart.
+
+
+**Speaker:** Apostle or evangelist · **Role:** warning · **Categories:** Withdrawal · **Object:** the old testament as read in the synagogue
+
+**Greek (Textus Receptus)**
+
+> 2 Corinthians 3:14 — ἀλλ᾿ ἐπωρώθη τὰ νοήματα αὐτῶν· ἄχρι γὰρ τῆς σήμερον τὸ αὐτὸ κάλυμμα ἐπὶ τῇ ἀναγνώσει τῆς παλαιᾶς διαθήκης μένει μὴ ἀνακαλυπτόμενον, ὅ τι ἐν Χριστῷ καταργεῖται.
+>
+> 2 Corinthians 3:15 — Ἀλλ᾿ ἕως σήμερον, ἡνίκα ἀναγινώσκεται Μωσῆς, κάλυμμα ἐπὶ τὴν καρδίαν αὐτῶν κεῖται.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> 2 Corinthians 3:14 — ἀλλ᾽ ἐπωρώθη τὰ νοήματα αὐτῶν. ἄχρι γὰρ τῆς σήμερον τὸ αὐτὸ κάλυμμα ἐπὶ τῇ ἀναγνώσει τῆς παλαιᾶς διαθήκης μένει, μὴ ἀνακαλυπτόμενον ὅτι ἐν Χριστῷ καταργεῖται,
+>
+> 2 Corinthians 3:15 — ἀλλ᾽ ἕως σήμερον, ἡνίκα ἀναγινώσκεται Μωϋσῆς, κάλυμμα ἐπὶ τὴν καρδίαν αὐτῶν κεῖται·
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> 2 Corinthians 3:14 — ἀλλὰ ἐπωρώθη τὰ νοήματα αὐτῶν. ἄχρι γὰρ τῆς σήμερον ἡμέρας τὸ αὐτὸ κάλυμμα ἐπὶ τῇ ἀναγνώσει τῆς παλαιᾶς διαθήκης μένει μὴ ἀνακαλυπτόμενον, ὅτι ἐν Χριστῷ καταργεῖται,
+>
+> 2 Corinthians 3:15 — ἀλλʼ ἕως σήμερον ἡνίκα ἂν ἀναγινώσκηται Μωϋσῆς κάλυμμα ἐπὶ τὴν καρδίαν αὐτῶν κεῖται·
+
+**English (KJV, 1769)**
+
+> 2 Corinthians 3:14 — But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which [vail] is done away in Christ.
+>
+> 2 Corinthians 3:15 — But even unto this day, when Moses is read, the vail is upon their heart.
+
+**The Greek editions compared.**
+
+The editions agree in substance.
+
+**Notes.**
+
+The text is present and read, but not understood. Compare Isaiah 29:11.
+
+### Galatians 1:6-9
+
+<a id="gal-1-8"></a>
+
+**Claim.** Some "would pervert (μεταστρέψαι) the gospel of Christ. But though we, or
+an angel from heaven, preach any other gospel unto you … let him be
+accursed."
+
+
+**Speaker:** Apostle or evangelist · **Role:** warning · **Categories:** Prohibition of alteration, Corruption among men · **Object:** the gospel
+
+**Greek (Textus Receptus)**
+
+> Galatians 1:6 — Θαυμάζω ὅτι οὕτω ταχέως μετατίθεσθε ἀπὸ τοῦ καλέσαντος ὑμᾶς ἐν χάριτι Χριστοῦ εἰς ἕτερον εὐαγγέλιον·
+>
+> Galatians 1:7 — ὃ οὐκ ἔστιν ἄλλο, εἰ μή τινές εἰσιν οἱ ταράσσοντες ὑμᾶς καὶ θέλοντες μεταστρέψαι τὸ εὐαγγέλιον τοῦ Χριστοῦ.
+>
+> Galatians 1:8 — Ἀλλὰ καὶ ἐὰν ἡμεῖς ἢ ἄγγελος ἐξ οὐρανοῦ εὐαγγελίζηται ὑμῖν παρ᾿ ὃ εὐηγγελισάμεθα ὑμῖν, ἀνάθεμα ἔστω.
+>
+> Galatians 1:9 — Ὡς προειρήκαμεν, καὶ ἄρτι πάλιν λέγω, εἴ τις ὑμᾶς εὐαγγελίζεται παρ᾿ ὃ παρελάβετε, ἀνάθεμα ἔστω.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Galatians 1:6 — Θαυμάζω ὅτι οὕτω ταχέως μετατίθεσθε ἀπὸ τοῦ καλέσαντος ὑμᾶς ἐν χάριτι Χριστοῦ εἰς ἕτερον εὐαγγέλιον,
+>
+> Galatians 1:7 — ὃ οὐκ ἔστιν ἄλλο, εἰ μή τινές εἰσιν οἱ ταράσσοντες ὑμᾶς καὶ θέλοντες μεταστρέψαι τὸ εὐαγγέλιον τοῦ Χριστοῦ.
+>
+> Galatians 1:8 — ἀλλὰ καὶ ἐὰν ἡμεῖς ἢ ἄγγελος ἐξ οὐρανοῦ εὐαγγελίζηται ὑμῖν παρ᾽ ὃ εὐηγγελισάμεθα ὑμῖν, ἀνάθεμα ἔστω.
+>
+> Galatians 1:9 — ὡς προειρήκαμεν, καὶ ἄρτι πάλιν λέγω· εἴ τις ὑμᾶς εὐαγγελίζεται παρ᾽ ὃ παρελάβετε, ἀνάθεμα ἔστω.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Galatians 1:6 — Θαυμάζω ὅτι οὕτως ταχέως μετατίθεσθε ἀπὸ τοῦ καλέσαντος ὑμᾶς ἐν χάριτι Χριστοῦ εἰς ἕτερον εὐαγγέλιον,
+>
+> Galatians 1:7 — ὃ οὐκ ἔστιν ἄλλο· εἰ μή τινές εἰσιν οἱ ταράσσοντες ὑμᾶς καὶ θέλοντες μεταστρέψαι τὸ εὐαγγέλιον τοῦ Χριστοῦ.
+>
+> Galatians 1:8 — ἀλλὰ καὶ ἐὰν ἡμεῖς ἢ ἄγγελος ἐξ οὐρανοῦ εὐαγγελίζηται ὑμῖν παρʼ ὃ εὐηγγελισάμεθα ὑμῖν, ἀνάθεμα ἔστω.
+>
+> Galatians 1:9 — ὡς προειρήκαμεν, καὶ ἄρτι πάλιν λέγω, εἴ τις ὑμᾶς εὐαγγελίζεται παρʼ ὃ παρελάβετε, ἀνάθεμα ἔστω.
+
+**English (KJV, 1769)**
+
+> Galatians 1:6 — I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
+>
+> Galatians 1:7 — Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
+>
+> Galatians 1:8 — But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
+>
+> Galatians 1:9 — As we said before, so say I now again, If any [man] preach any other gospel unto you than that ye have received, let him be accursed.
+
+**The Greek editions compared.**
+
+The editions agree.
+
+**Notes.**
+
+The New Testament's counterpart to the prohibitions of Deuteronomy 4:2,
+applied to the gospel preached. Westminster Confession 1.6 and the Formula
+of Concord (Epitome, Rule and Norm 1) cite it.
+
+### Galatians 3:15, 17
+
+<a id="gal-3-15"></a>
+
+**Claim.** "Though it be but a man's covenant, yet if it be confirmed, no man
+disannulleth (ἀθετεῖ), or addeth thereto (ἐπιδιατάσσεται)"; the law
+"cannot disannul (ἀκυροῖ)" the covenant confirmed before of God.
+
+
+**Speaker:** Apostle or evangelist · **Role:** claim · **Categories:** Inviolability, Prohibition of alteration · **Object:** a ratified covenant; the promise
+
+**Greek (Textus Receptus)**
+
+> Galatians 3:15 — Ἀδελφοί, κατὰ ἄνθρωπον λέγω· ὅμως ἀνθρώπου κεκυρωμένην διαθήκην οὐδεὶς ἀθετεῖ ἢ ἐπιδιατάσσεται.
+>
+> Galatians 3:17 — Τοῦτο δὲ λέγω, διαθήκην προκεκυρωμένην ὑπὸ τοῦ Θεοῦ εἰς Χριστὸν ὁ μετὰ ἔτη τετρακόσια καὶ τριάκοντα γεγονὼς νόμος οὐκ ἀκυροῖ, εἰς τὸ καταργῆσαι τὴν ἐπαγγελίαν.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> Galatians 3:15 — Ἀδελφοί, κατὰ ἄνθρωπον λέγω· ὅμως ἀνθρώπου κεκυρωμένην διαθήκην οὐδεὶς ἀθετεῖ ἢ ἐπιδιατάσσεται.
+>
+> Galatians 3:17 — τοῦτο δὲ λέγω· διαθήκην προκεκυρωμένην ὑπὸ τοῦ Θεοῦ εἰς Χριστὸν ὁ μετὰ ἔτη τετρακόσια καὶ τριάκοντα γεγονὼς νόμος οὐκ ἀκυροῖ, εἰς τὸ καταργῆσαι τὴν ἐπαγγελίαν.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> Galatians 3:15 — Ἀδελφοί, κατὰ ἄνθρωπον λέγω· ὅμως ἀνθρώπου κεκυρωμένην διαθήκην οὐδεὶς ἀθετεῖ ἢ ἐπιδιατάσσεται.
+>
+> Galatians 3:17 — τοῦτο δὲ λέγω· διαθήκην προκεκυρωμένην ὑπὸ τοῦ θεοῦ ὁ μετὰ τετρακόσια καὶ τριάκοντα ἔτη γεγονὼς νόμος οὐκ ἀκυροῖ, εἰς τὸ καταργῆσαι τὴν ἐπαγγελίαν.
+
+**English (KJV, 1769)**
+
+> Galatians 3:15 — Brethren, I speak after the manner of men; Though [it be] but a man’s covenant, yet [if it be] confirmed, no man disannulleth, or addeth thereto.
+>
+> Galatians 3:17 — And this I say, [that] the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.
+
+**The Greek editions compared.**
+
+In 3:17 SBL lacks "in Christ" (εἰς Χριστόν).
+
+**Notes.**
+
+The add-or-take-away formula and the vocabulary of annulment, applied to God's promise to Abraham.
+
 ### 2 Peter 3:16
 
 <a id="2pet-3-16"></a>
@@ -2980,6 +6944,58 @@ Minor; SBL reads "in which" (αἷς, the epistles) for "in which things" (οἷ
 **Notes.**
 
 Corruption by interpretation ("wrest", στρεβλοῦσιν, "twist") rather than by alteration of the text. Paul's letters are counted among "the scriptures".
+
+### 1 John 2:14, 24; 2 John 2
+
+<a id="1john-2-14"></a>
+
+**Claim.** "The word of God abideth in you"; "let that therefore abide in you, which
+ye have heard from the beginning"; "the truth … which dwelleth in us, and
+shall be with us for ever."
+
+
+**Speaker:** Apostle or evangelist · **Role:** claim · **Categories:** Permanence, Keeping by the faithful · **Object:** the word of God abiding in you; the truth
+
+**Greek (Textus Receptus)**
+
+> 1 John 2:14 — Ἔγραψα ὑμῖν, πατέρες, ὅτι ἐγνώκατε τὸν ἀπ᾿ ἀρχῆς. Ἔγραψα ὑμῖν, νεανίσκοι, ὅτι ἰσχυροί ἐστε, καὶ ὁ λόγος τοῦ Θεοῦ ἐν ὑμῖν μένει, καὶ νενικήκατε τὸν πονηρόν.
+>
+> 1 John 2:24 — Ὑμεῖς οὖν ὃ ἠκούσατε ἀπ᾿ ἀρχῆς, ἐν ὑμῖν μενέτω. Ἐὰν ἐν ὑμῖν μείνῃ ὃ ἀπ᾿ ἀρχῆς ἠκούσατε, καὶ ὑμεῖς ἐν τῷ υἱῷ καὶ ἐν τῷ πατρὶ μενεῖτε.
+>
+> 2 John 1:2 — διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθ᾿ ἡμῶν ἔσται εἰς τὸν αἰῶνα·
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> 1 John 2:14 — ἔγραψα ὑμῖν, παιδία, ὅτι ἐγνώκατε τὸν πατέρα. ἔγραψα ὑμῖν, πατέρες, ὅτι ἐγνώκατε τὸν ἀπ᾽ ἀρχῆς. ἔγραψα ὑμῖν, νεανίσκοι, ὅτι ἰσχυροί ἐστε καὶ ὁ λόγος τοῦ Θεοῦ ἐν ὑμῖν μένει καὶ νενικήκατε τὸν πονηρόν.
+>
+> 1 John 2:24 — Ὑμεῖς οὖν ὃ ἠκούσατε ἀπ᾽ ἀρχῆς, ἐν ὑμῖν μενέτω. ἐὰν ἐν ὑμῖν μείνῃ ὃ ἀπ᾽ ἀρχῆς ἠκούσατε, καὶ ὑμεῖς ἐν τῷ υἱῷ καὶ ἐν τῷ πατρὶ μενεῖτε.
+>
+> 2 John 1:2 — διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθ᾽ ἡμῶν ἔσται εἰς τὸν αἰῶνα·
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> 1 John 2:14 — ἔγραψα ὑμῖν, παιδία, ὅτι ἐγνώκατε τὸν πατέρα· ἔγραψα ὑμῖν, πατέρες, ὅτι ἐγνώκατε τὸν ἀπʼ ἀρχῆς· ἔγραψα ὑμῖν, νεανίσκοι, ὅτι ἰσχυροί ἐστε καὶ ὁ λόγος τοῦ θεοῦ ἐν ὑμῖν μένει καὶ νενικήκατε τὸν πονηρόν.
+>
+> 1 John 2:24 — ὑμεῖς ὃ ἠκούσατε ἀπʼ ἀρχῆς, ἐν ὑμῖν μενέτω· ἐὰν ἐν ὑμῖν μείνῃ ὃ ἀπʼ ἀρχῆς ἠκούσατε, καὶ ὑμεῖς ἐν τῷ υἱῷ καὶ ἐν τῷ πατρὶ μενεῖτε.
+>
+> 2 John 1:2 — διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθʼ ἡμῶν ἔσται εἰς τὸν αἰῶνα·
+
+**English (KJV, 1769)**
+
+> 1 John 2:14 — I have written unto you, fathers, because ye have known him [that is] from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.
+>
+> 1 John 2:24 — Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father.
+>
+> 2 John 1:2 — For the truth’s sake, which dwelleth in us, and shall be with us for ever.
+
+**The Greek editions compared.**
+
+The editions agree in substance; they divide 2:13-14 differently.
+
+**Notes.**
+
+The abiding (μένω) of Isaiah 40:8 and 1 Peter 1:23, located in believers;
+2 John 2 adds "for ever" (εἰς τὸν αἰῶνα).
 
 ### Hebrews 6:17-18; Titus 1:2
 
@@ -3025,30 +7041,92 @@ Corruption by interpretation ("wrest", στρεβλοῦσιν, "twist") rather 
 
 The editions agree.
 
-### Revelation 22:6
+### James 1:18, 21
+
+<a id="jas-1-18"></a>
+
+**Claim.** Of his own will begat he us with the word of truth; receive with meekness
+the engrafted word, which is able to save your souls.
+
+
+**Speaker:** Apostle or evangelist · **Role:** claim · **Categories:** Efficacy · **Object:** the word of truth; the engrafted word
+
+**Greek (Textus Receptus)**
+
+> James 1:18 — Βουληθεὶς ἀπεκύησεν ἡμᾶς λόγῳ ἀληθείας, εἰς τὸ εἶναι ἡμᾶς ἀπαρχήν τινα τῶν αὐτοῦ κτισμάτων.
+>
+> James 1:21 — Διὸ ἀποθέμενοι πᾶσαν ῥυπαρίαν καὶ περισσείαν κακίας, ἐν πρᾳΰτητι δέξασθε τὸν ἔμφυτον λόγον, τὸν δυνάμενον σῶσαι τὰς ψυχὰς ὑμῶν.
+
+**Greek (Byzantine, 1904 Patriarchal text)**
+
+> James 1:18 — βουληθεὶς ἀπεκύησεν ἡμᾶς λόγῳ ἀληθείας εἰς τὸ εἶναι ἡμᾶς ἀπαρχήν τινα τῶν αὐτοῦ κτισμάτων.
+>
+> James 1:21 — διὸ ἀποθέμενοι πᾶσαν ῥυπαρίαν καὶ περισσείαν κακίας ἐν πραΰτητι δέξασθε τὸν ἔμφυτον λόγον τὸν δυνάμενον σῶσαι τὰς ψυχὰς ὑμῶν.
+
+**Greek (SBL Greek New Testament, CC BY 4.0)**
+
+> James 1:18 — βουληθεὶς ἀπεκύησεν ἡμᾶς λόγῳ ἀληθείας, εἰς τὸ εἶναι ἡμᾶς ἀπαρχήν τινα τῶν αὐτοῦ κτισμάτων.
+>
+> James 1:21 — διὸ ἀποθέμενοι πᾶσαν ῥυπαρίαν καὶ περισσείαν κακίας ἐν πραΰτητι δέξασθε τὸν ἔμφυτον λόγον τὸν δυνάμενον σῶσαι τὰς ψυχὰς ὑμῶν.
+
+**English (KJV, 1769)**
+
+> James 1:18 — Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.
+>
+> James 1:21 — Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.
+
+**The Greek editions compared.**
+
+The editions agree.
+
+**Notes.**
+
+Compare 1 Peter 1:23.
+
+### Revelation 19:9; 21:5; 22:6
 
 <a id="rev-22-6"></a>
 
-**Claim.** These sayings are faithful and true.
+**Claim.** "These are the true sayings of God"; "these words are true and faithful"; "these sayings are faithful and true."
 
 **Speaker:** Heavenly voice · **Role:** claim · **Categories:** Purity and truth · **Object:** these sayings
 
 **Greek (Textus Receptus)**
 
+> Revelation 19:9 — Καὶ λέγει μοι, Γράψον, Μακάριοι οἱ εἰς τὸ δεῖπνον τοῦ γάμου τοῦ ἀρνίου κεκλημένοι. Καὶ λέγει μοι, Οὗτοι οἱ λόγοι ἀληθινοί εἰσι τοῦ Θεοῦ.
+>
+> Revelation 21:5 — Καὶ εἶπεν ὁ καθήμενος ἐπὶ τοῦ θρόνου, Ἰδού, καινὰ πάντα ποιῶ. Καὶ λέγει μοι, Γράψον· ὅτι οὗτοι οἱ λόγοι ἀληθινοὶ καὶ πιστοί εἰσι.
+>
 > Revelation 22:6 — Καὶ εἶπέ μοι, Οὗτοι οἱ λόγοι πιστοὶ καὶ ἀληθινοί· καὶ Κύριος ὁ Θεὸς τῶν ἁγίων προφητῶν ἀπέστειλε τὸν ἄγγελον αὐτοῦ δεῖξαι τοῖς δούλοις αὐτοῦ ἃ δεῖ γενέσθαι ἐν τάχει.
 
 **Greek (Byzantine, 1904 Patriarchal text)**
 
+> Revelation 19:9 — Καὶ λέγει μοι· γράψον, μακάριοι οἱ εἰς τὸ δεῖπνον τοῦ γάμου τοῦ ἀρνίου κεκλημένοι. καὶ λέγει μοι· οὗτοι οἱ λόγοι ἀληθινοὶ τοῦ Θεοῦ εἰσι.
+>
+> Revelation 21:5 — Καὶ εἶπεν ὁ καθήμενος ἐπὶ τῷ θρόνῳ· ἰδοὺ καινὰ ποιῶ πάντα. καὶ λέγει [μοι]· γράψον, ὅτι οὗτοι οἱ λόγοι πιστοὶ καὶ ἀληθινοί εἰσι.
+>
 > Revelation 22:6 — Καὶ λέγει μοι· οὗτοι οἱ λόγοι πιστοὶ καὶ ἀληθινοί, καὶ Κύριος ὁ Θεὸς τῶν πνευμάτων τῶν προφητῶν ἀπέστειλε τὸν ἄγγελον αὐτοῦ δεῖξαι τοῖς δούλοις αὐτοῦ ἃ δεῖ γενέσθαι ἐν τάχει.
 
 **Greek (SBL Greek New Testament, CC BY 4.0)**
 
+> Revelation 19:9 — Καὶ λέγει μοι· Γράψον· Μακάριοι οἱ εἰς τὸ δεῖπνον τοῦ γάμου τοῦ ἀρνίου κεκλημένοι. καὶ λέγει μοι· Οὗτοι οἱ λόγοι ἀληθινοὶ τοῦ θεοῦ εἰσιν.
+>
+> Revelation 21:5 — Καὶ εἶπεν ὁ καθήμενος ἐπὶ τῷ θρόνῳ· Ἰδοὺ καινὰ ποιῶ πάντα. καὶ λέγει Γράψον, ὅτι οὗτοι οἱ λόγοι πιστοὶ καὶ ἀληθινοί εἰσιν.
+>
 > Revelation 22:6 — Καὶ εἶπέν μοι· Οὗτοι οἱ λόγοι πιστοὶ καὶ ἀληθινοί, καὶ ὁ κύριος, ὁ θεὸς τῶν πνευμάτων τῶν προφητῶν, ἀπέστειλεν τὸν ἄγγελον αὐτοῦ δεῖξαι τοῖς δούλοις αὐτοῦ ἃ δεῖ γενέσθαι ἐν τάχει·
 
 **English (KJV, 1769)**
 
+> Revelation 19:9 — And he saith unto me, Write, Blessed [are] they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God.
+>
+> Revelation 21:5 — And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.
+>
 > Revelation 22:6 — And he said unto me, These sayings [are] faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done.
 
 **The Greek editions compared.**
 
-The Textus Receptus has "the Lord God of the holy prophets"; the Byzantine and SBL texts have "the Lord, the God of the spirits of the prophets".
+In 21:5 the Byzantine and SBL texts read "faithful and true" for "true and faithful". In 22:6 the Textus Receptus has "the Lord God of the holy prophets"; the Byzantine and SBL texts have "the Lord, the God of the spirits of the prophets".
+
+**Notes.**
+
+An angel speaks in 19:9 and 22:6; in 21:5 the command "Write" follows the words of "he that sat upon the throne".
