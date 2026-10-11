@@ -105,8 +105,9 @@ Read in its own language:
 
 - the verb (παρέρχομαι) is the one used of heaven and earth in the same
   sentence: to cease to stand, not to be miscopied;
-- "iota" and "horn" are an idiom for the least particle; ἰῶτα is a Greek
-  letter, so the verse does not even specify the Hebrew script;
+- "iota" and "horn" mean the least letter and the least stroke; ἰῶτα is a
+  Greek letter, so the Law the verse speaks of is measured in Greek
+  letters, not Hebrew ones;
 - verse 19 draws the consequence with "therefore": whoever "loosens" (λύσῃ)
   one of the least commandments. What does not pass away is the binding
   force of the least commandment;
@@ -126,7 +127,10 @@ and in the [passage notes](../../scripture/preservation/passages.md#matt-5-18).)
    Greek have been kept pure. The verse supports the *authority* half of 1.8
    ("authentical", the Church's final appeal) much better than the
    *preservation* half it is attached to. It says nothing about the New
-   Testament, about Greek, or about scribes.
+   Testament or about scribes. And so far as it speaks of letters at all,
+   the letter it names is the Greek iota: read as a proof about letters, it
+   tells for the Greek, while 1.8 uses it chiefly to establish the Hebrew
+   Old Testament as "authentical".
 2. **The claim exceeds Scripture if read of the letters.** No passage
    promises that the text of Scripture will be kept free of error in all
    ages (see [README.md, "What the passages do not say"](README.md#what-the-passages-do-not-say)).

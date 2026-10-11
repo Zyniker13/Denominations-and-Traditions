@@ -2005,12 +2005,15 @@ The three Greek editions agree.
 
 **Notes.**
 
-- ἰῶτα is the Greek letter iota, the smallest letter of the alphabet the
-  Gospel's readers used; κεραία, "horn", is the hook or stroke of a
-  letter and, proverbially, the least detail. "One iota or one horn" is
-  an idiom of totality, "not the least particle". That it stands for the
-  Hebrew *yod* is a reconstruction of the saying's Aramaic background,
-  not something the Greek says. **[context]**
+- ἰῶτα is the Greek letter iota, the smallest letter of the Greek
+  alphabet; κεραία, "horn", is the least stroke of a letter, and in Greek
+  usage the least stroke of a written law. "One iota or one horn" means
+  not the least letter or stroke. The text presents the Law as a text
+  that has iotas, a Law in Greek letters. The Evangelist writes Hebrew
+  words in Greek letters when he means them (ἀμήν in this verse, Ῥακά in
+  5:22), and could have written ἰώδ; he wrote ἰῶτα. This study takes the
+  Greek as the text and does not reconstruct a saying behind it. The
+  letter therefore counts for the Greek, not the Hebrew.
 - The verb is the one used in the same sentence of heaven and earth:
   παρέλθῃ, "pass away", cease to stand. Luke's parallel has πεσεῖν,
   "fall", the idiom for a word that loses its force (Luke 16:17).

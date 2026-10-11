@@ -49,10 +49,11 @@ How to add a passage or a confession is in
    earth will pass away, but my words will by no means pass away" (οἱ δὲ
    λόγοι μου οὐ μὴ παρέλθωσιν). 1 Peter 1:25 identifies the abiding word of
    Isaiah 40 with "the word which was preached to you".
-3. **No passage says what form the enduring word will take.** None names a
-   language, a text, a manuscript, or a line of copyists. The objects of
-   the claims are God's word, words, counsel, commandments, law, truth,
-   promise, and once "the scripture" (John 10:35).
+3. **No passage promises a particular text or line of copyists.** The
+   objects of the claims are God's word, words, counsel, commandments, law,
+   truth, promise, and once "the scripture" (John 10:35). The one passage
+   that measures the word by its letters, Matthew 5:18, measures it in a
+   Greek letter, the iota, which counts for the Greek.
 4. **The passages that come closest to the text are about authority, not
    copying.** Matthew 5:18 and Luke 16:17 speak of the "iota" and "horn" of
    the law, and John 10:35 says "the scripture cannot be loosed". Read in
@@ -277,9 +278,13 @@ promises about the text.
 
 - **Matthew 5:18.** "Until heaven and earth pass away, one iota or one horn
   shall by no means pass away from the law, until all things take place"
-  (ἰῶτα ἓν ἢ μία κεραία οὐ μὴ παρέλθῃ ἀπὸ τοῦ νόμου). In the Greek, ἰῶτα is
-  the smallest letter of the Greek alphabet and κεραία ("horn") the least
-  stroke of a letter; together they are an idiom for the least particle. The
+  (ἰῶτα ἓν ἢ μία κεραία οὐ μὴ παρέλθῃ ἀπὸ τοῦ νόμου). ἰῶτα is the smallest
+  letter of the Greek alphabet and κεραία ("horn") the least stroke of a
+  letter: not the least letter or stroke of the Law. The text measures the
+  Law in Greek letters, and the Evangelist, who writes Hebrew words in Greek
+  letters when he means them (ἀμήν in the same verse), wrote ἰῶτα, not ἰώδ.
+  Taking the Greek as the text, the verse speaks of a Law written in Greek
+  letters, which counts for the Greek. The
   verb is the one used of heaven and earth in the same sentence, "pass away",
   cease to stand. Verse 19 draws the consequence with "therefore" (οὖν):
   whoever "loosens" (λύσῃ) one of the least commandments and teaches others
@@ -299,7 +304,8 @@ promises about the text.
 authority: the law and Scripture cannot be annulled, down to their least
 part. That is a strong claim, and it reaches the smallest detail; but its
 verbs (παρέρχομαι, πίπτω, λύω) are verbs of validity, not of copying, and no
-one of the three mentions scribes, copies or a language. They presuppose
+one of the three mentions scribes or copies. Matthew 5:18 does name a
+letter, and the letter is Greek. They presuppose
 that the law and Scripture remain knowable, since an annulled commandment
 must be one that people know, but they do not say how. They are the passages
 the confessions cite for the purity of the text (see
@@ -530,11 +536,13 @@ Hebrew only.
 
 **[inferred]** Taking the 77 passages together:
 
-1. **No passage names a language, text or manuscript tradition** as the form
-   in which God's word will endure. The question "preserved in the Hebrew or
-   in the Greek?" is not answered by any of them; it is the subject of the
-   companion study
-   [preservation-hebrew-and-greek.md](../preservation-hebrew-and-greek.md).
+1. **No passage names a text or manuscript tradition** as the form in
+   which God's word will endure, and only one bears on its language:
+   Matthew 5:18 speaks of the Law's iota, a Greek letter. Taking the Greek
+   as the text, that counts for the Greek. The question "preserved in the
+   Hebrew or in the Greek?" is weighed in the companion study
+   [preservation-hebrew-and-greek.md](../preservation-hebrew-and-greek.md),
+   which rates Matthew 5:18 strong for the Greek and weak for the Hebrew.
 2. **No passage promises that copies of Scripture will be free of error.**
    The nearest candidates are Matthew 5:18, Luke 16:17 and John 10:35, which
    are about authority; and Psalm 12:7, whose object is disputed in the
