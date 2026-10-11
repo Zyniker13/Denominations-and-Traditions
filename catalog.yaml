@@ -1,0 +1,293 @@
+# Catalog of the repository: every confessional document, every collection of
+# other source texts, and every study, with the documents each study covers.
+#
+# INDEX.md is generated from this file by tools/build_index.py, and
+# tools/build_preservation.py reads the documents listed here to find the
+# confessions' citations of the preservation passages.
+#
+# When a confession is added:
+#   1. Add it under `documents` (with `scan: true` if its Scripture citations
+#      should be found by the tools).
+#   2. Run `python3 tools/build_preservation.py` and `python3 tools/build_index.py`.
+#   3. INDEX.md then shows, under "Coverage", every study that does not yet
+#      cover the new document. Update those studies, then add the document's
+#      id to each study's `covers` list and run tools/build_index.py again.
+#
+# Document fields
+#   id         short stable identifier
+#   title      display title with date
+#   tradition  grouping used in the index
+#   kind       confession | catechism | creed | church-order | companion
+#              (companion documents are printed with a standard but are not
+#              themselves confessions; studies are not expected to cover them)
+#   path       file in this repository, or omitted if the document is not here
+#   scan       true if tools should scan the file for Scripture citations
+#
+# Study fields
+#   id, title, path
+#   covers       document ids the study examines; `all-confessions` stands
+#                for every document of kind confession, catechism or creed
+#                that is in the repository
+#   also         documents the study discusses that are not in the repository
+#   collections  collections the study draws on
+#   tracked      true if the study is meant to cover every confession; INDEX.md
+#                then lists the confessions it does not yet cover
+#   scope        one line on what the study covers, shown in INDEX.md
+
+documents:
+
+  # Ecumenical creeds
+  - id: nicene-creed
+    title: The Nicene Creed
+    tradition: Ecumenical creeds
+    kind: creed
+    path: confessions/ecumenical-creeds/nicene-creed.md
+    scan: true
+  - id: athanasian-creed
+    title: The Athanasian Creed
+    tradition: Ecumenical creeds
+    kind: creed
+    path: confessions/ecumenical-creeds/athanasian-creed.md
+    scan: true
+
+  # Continental Reformed
+  - id: belgic
+    title: The Belgic Confession (1561)
+    tradition: Continental Reformed
+    kind: confession
+    path: confessions/reformed/continental/three-forms-of-unity/belgic-confession.md
+    scan: true
+  - id: heidelberg
+    title: The Heidelberg Catechism (1563)
+    tradition: Continental Reformed
+    kind: catechism
+    path: confessions/reformed/continental/three-forms-of-unity/heidelberg-catechism.md
+    scan: true
+  - id: dort
+    title: The Canons of Dort (1618–1619)
+    tradition: Continental Reformed
+    kind: confession
+    path: confessions/reformed/continental/three-forms-of-unity/canons-of-dort.md
+    scan: true
+  - id: french
+    title: The French (Gallican) Confession (1559)
+    tradition: Continental Reformed
+    kind: confession
+  - id: first-helvetic
+    title: The First Helvetic Confession (1536)
+    tradition: Continental Reformed
+    kind: confession
+  - id: second-helvetic
+    title: The Second Helvetic Confession (1566)
+    tradition: Continental Reformed
+    kind: confession
+  - id: helvetic-consensus
+    title: The Helvetic Consensus Formula (1675)
+    tradition: Continental Reformed
+    kind: confession
+
+  # Presbyterian
+  - id: wcf
+    title: The Westminster Confession of Faith (1646)
+    tradition: Presbyterian
+    kind: confession
+    path: confessions/reformed/presbyterian/westminster-standards/westminster-confession-of-faith.md
+    scan: true
+  - id: wlc
+    title: The Westminster Larger Catechism (1647)
+    tradition: Presbyterian
+    kind: catechism
+    path: confessions/reformed/presbyterian/westminster-standards/westminster-larger-catechism.md
+    scan: true
+  - id: wsc
+    title: The Westminster Shorter Catechism (1647)
+    tradition: Presbyterian
+    kind: catechism
+    path: confessions/reformed/presbyterian/westminster-standards/westminster-shorter-catechism.md
+    scan: true
+  - id: form-of-government
+    title: The Form of Presbyterial Church Government (1645)
+    tradition: Presbyterian
+    kind: church-order
+    path: confessions/reformed/presbyterian/westminster-standards/form-of-presbyterial-church-government.md
+    scan: true
+  - id: directory-publick-worship
+    title: The Directory for the Publick Worship of God (1645)
+    tradition: Presbyterian
+    kind: church-order
+    path: confessions/reformed/presbyterian/westminster-standards/directory-for-the-publick-worship-of-god.md
+    scan: true
+  - id: directory-family-worship
+    title: The Directory for Family Worship (1647)
+    tradition: Presbyterian
+    kind: church-order
+    path: confessions/reformed/presbyterian/westminster-standards/directory-for-family-worship.md
+    scan: true
+  - id: sum-of-saving-knowledge
+    title: The Sum of Saving Knowledge (c. 1650)
+    tradition: Presbyterian
+    kind: companion
+    path: confessions/reformed/presbyterian/westminster-standards/sum-of-saving-knowledge.md
+    scan: true
+  - id: solemn-league
+    title: The Solemn League and Covenant (1643)
+    tradition: Presbyterian
+    kind: companion
+    path: confessions/reformed/presbyterian/westminster-standards/solemn-league-and-covenant.md
+    scan: true
+  - id: to-the-christian-reader
+    title: To the Christian Reader, Especially Heads of Families
+    tradition: Presbyterian
+    kind: companion
+    path: confessions/reformed/presbyterian/westminster-standards/to-the-christian-reader.md
+    scan: true
+  - id: manton-epistle
+    title: Mr. Thomas Manton's Epistle to the Reader
+    tradition: Presbyterian
+    kind: companion
+    path: confessions/reformed/presbyterian/westminster-standards/epistle-to-the-reader.md
+    scan: true
+  - id: scots
+    title: The Scots Confession (1560)
+    tradition: Presbyterian
+    kind: confession
+    path: confessions/reformed/presbyterian/scots-confession.md
+    scan: true
+
+  # Anglican
+  - id: thirty-nine-articles
+    title: The Thirty-Nine Articles (1571)
+    tradition: Anglican
+    kind: confession
+    path: confessions/reformed/anglican/thirty-nine-articles.md
+    scan: true
+  - id: irish-articles
+    title: The Irish Articles (1615)
+    tradition: Anglican
+    kind: confession
+
+  # Congregational and Baptist
+  - id: savoy
+    title: The Savoy Declaration (1658)
+    tradition: Congregational
+    kind: confession
+    path: confessions/reformed/congregational/savoy-declaration.md
+    scan: true
+  - id: lbc
+    title: The Second London Baptist Confession (1677/1689)
+    tradition: Reformed Baptist
+    kind: confession
+    path: confessions/reformed/reformed-baptist/second-london-baptist-confession-1689.md
+    scan: true
+  - id: keach
+    title: Keach's Catechism (1693)
+    tradition: Reformed Baptist
+    kind: catechism
+    path: confessions/reformed/reformed-baptist/keachs-catechism.md
+    scan: true
+
+  # Lutheran: the Book of Concord
+  - id: boc-preface
+    title: Preface to the Christian Book of Concord (1580)
+    tradition: Lutheran
+    kind: confession
+    path: confessions/lutheran/book-of-concord/preface.md
+    scan: true
+  - id: boc-creeds
+    title: The Three Ecumenical Creeds (Book of Concord)
+    tradition: Lutheran
+    kind: creed
+    path: confessions/lutheran/book-of-concord/ecumenical-creeds.md
+    scan: true
+  - id: augsburg
+    title: The Augsburg Confession (1530)
+    tradition: Lutheran
+    kind: confession
+    path: confessions/lutheran/book-of-concord/augsburg-confession.md
+    scan: true
+  - id: apology
+    title: The Apology of the Augsburg Confession (1531)
+    tradition: Lutheran
+    kind: confession
+    path: confessions/lutheran/book-of-concord/apology-of-the-augsburg-confession.md
+    scan: true
+  - id: smalcald
+    title: The Smalcald Articles (1537)
+    tradition: Lutheran
+    kind: confession
+    path: confessions/lutheran/book-of-concord/smalcald-articles.md
+    scan: true
+  - id: treatise
+    title: Treatise on the Power and Primacy of the Pope (1537)
+    tradition: Lutheran
+    kind: confession
+    path: confessions/lutheran/book-of-concord/treatise-on-the-power-and-primacy-of-the-pope.md
+    scan: true
+  - id: small-catechism
+    title: The Small Catechism (1529)
+    tradition: Lutheran
+    kind: catechism
+    path: confessions/lutheran/book-of-concord/small-catechism.md
+    scan: true
+  - id: large-catechism
+    title: The Large Catechism (1529)
+    tradition: Lutheran
+    kind: catechism
+    path: confessions/lutheran/book-of-concord/large-catechism.md
+    scan: true
+  - id: fc-epitome
+    title: The Formula of Concord, Epitome (1577)
+    tradition: Lutheran
+    kind: confession
+    path: confessions/lutheran/book-of-concord/formula-of-concord-epitome.md
+    scan: true
+  - id: fc-solid-declaration
+    title: The Formula of Concord, Solid Declaration (1577)
+    tradition: Lutheran
+    kind: confession
+    path: confessions/lutheran/book-of-concord/formula-of-concord-solid-declaration.md
+    scan: true
+
+collections:
+  - id: theologians
+    title: Theologians and teachers on the canon and the text
+    path: theologians/README.md
+  - id: preservation-passages
+    title: The preservation passages of Scripture, with the Hebrew, Greek and English texts
+    path: scripture/preservation/passages.md
+
+studies:
+  - id: canon-in-the-confessions
+    title: The Canon of Scripture in the Reformed Confessions and the Book of Concord
+    path: analysis/canon-in-the-confessions.md
+    tracked: true
+    scope: What each confession says about the canon, the Apocrypha, the Hebrew text and the Greek versions
+    covers: [belgic, heidelberg, dort, scots, thirty-nine-articles, wcf, wlc, wsc,
+             form-of-government, directory-publick-worship, savoy, lbc,
+             boc-preface, boc-creeds, augsburg, apology, smalcald, treatise,
+             small-catechism, large-catechism, fc-epitome, fc-solid-declaration]
+    also: [french, first-helvetic, second-helvetic, helvetic-consensus, irish-articles]
+  - id: canon-in-the-theologians
+    title: The Canon of Scripture in the Theologians
+    path: analysis/canon-in-the-theologians.md
+    covers: []
+    collections: [theologians]
+    scope: What the theologians and teachers in theologians/ say about the canon and the text
+  - id: preservation-of-scripture
+    title: The Preservation of Scripture in Scripture and in the Confessions
+    path: analysis/preservation-of-scripture/README.md
+    covers: [all-confessions]
+    also: [helvetic-consensus, irish-articles]
+    collections: [preservation-passages]
+    tracked: true
+    scope: Scripture's claims that God's word endures, categorized and assessed, with every confession measured against them
+  - id: preservation-hebrew-and-greek
+    title: "Preserved in Hebrew or in Greek? Scripture's Preservation Claims Tested Against the History of Its Text"
+    path: analysis/preservation-hebrew-and-greek.md
+    covers: [wcf, savoy, lbc, belgic, heidelberg, dort, scots, thirty-nine-articles,
+             boc-preface, augsburg, apology, smalcald, treatise, small-catechism,
+             large-catechism, fc-epitome, fc-solid-declaration]
+    also: [helvetic-consensus, french, irish-articles]
+    collections: [preservation-passages]
+    tracked: true
+    scope: The strength of the preservation claims grounded in the Hebrew text or in the Septuagint; section 9 covers only the confessions' claims about the Hebrew and Greek text
