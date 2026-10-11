@@ -113,6 +113,8 @@ CATEGORY_TITLES = {
     "restoration": "Restoration after loss",
     "corruption": "Corruption among men",
     "withdrawal": "Withdrawal",
+    "loss": "Loss among men",
+    "keeping": "Keeping by the faithful",
     "efficacy": "Efficacy",
     "exaltation": "Exaltation",
     "origin": "Origin",

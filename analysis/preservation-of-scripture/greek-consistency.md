@@ -29,6 +29,9 @@ history outside the texts; **[inferred]** marks this study's own reading.
 - [9. The nouns: ῥῆμα, λόγος, λόγια, γραφή](#9-the-nouns-ῥῆμα-λόγος-λόγια-γραφή)
 - [10. How the New Testament handles the Greek of the Old](#10-how-the-new-testament-handles-the-greek-of-the-old)
 - [11. The New Testament's text of its own claims](#11-the-new-testaments-text-of-its-own-claims)
+- [12. "Fulfilled", "must be": πληρόω, τελέω, πιστόω and δεῖ](#12-fulfilled-must-be-πληρόω-τελέω-πιστόω-and-δεῖ)
+- [13. "Delivered", "the deposit", "hold fast": the vocabulary of handing on](#13-delivered-the-deposit-hold-fast-the-vocabulary-of-handing-on)
+- [14. Writing, copying and storing](#14-writing-copying-and-storing)
 - [Conclusions](#conclusions)
 
 ## Summary
@@ -42,17 +45,23 @@ history outside the texts; **[inferred]** marks this study's own reading.
 | Scripture *cannot be broken* | no Old Testament equivalent | — | **λυθῆναι** (John 10:35; cf. Matt 5:19); **ἀκυρόω** (Matt 15:6; Mark 7:13) | **New** to the New Testament. |
 | *Add not, take not away* | הוֹסִיף / גָּרַע (Deut 4:2; 13:1; Jer 26:2) | **προστίθημι / ἀφαιρέω** (Deut 4:2; 13:1; Prov 24:22l; Eccl 3:14; Jer 33:2) | **ἐπιτίθημι / ἀφαιρέω** (Rev 22:18–19) | **Yes**, with a change of verb for "add". |
 | The word is *pure, tried* | צָרַף "refine", טָהוֹר "clean" (Ps 12:7; 18:31; 119:140; Prov 30:5) | **πεπυρωμένος**, **ἁγνός** | Never applied to the word. Instead **ἀλήθεια** (John 17:17), **πιστός, ἀληθινός** (Rev 22:6; 1 Tim 1:15), **ἄδολος** (1 Pet 2:2) | **No.** The New Testament drops the refining image. |
-| God *keeps* | שָׁמַר / נָצַר, "them" / "him" (Ps 12:8) | **φυλάξεις ἡμᾶς** "keep *us*" (Ps 11:8) | God keeps **people** (John 17:11–15; Jude 24; 1 Pet 1:5); people keep **the word** (John 8:51; 17:6; Rev 22:7) | **Consistent with the LXX's reading**, not with the reading that God keeps the words. |
+| God *keeps* | שָׁמַר / נָצַר, "them" / "him" (Ps 12:8); God "kept" what he promised (1 Kgs 8:24) | **φυλάξεις ἡμᾶς** "keep *us*" (Ps 11:8); **ἃ ἐφύλαξας** "which thou hast kept" of a promise performed (1 Kgs 8:24) | God keeps **people** (John 17:11–15; Jude 24; 1 Pet 1:5) and what is entrusted to him (2 Tim 1:12); people keep **the word** (John 8:51; 17:6; Rev 22:7) and the deposit (1 Tim 6:20) | **Consistent with the LXX's reading**, not with the reading that God keeps the words. |
+| The word is *fulfilled* | מִלֵּא (1 Kgs 8:24); הֵקִים "establish" (1 Kgs 8:20; Neh 9:8); בִּצַּע (Lam 2:17) | **πληρόω** (1 Kgs 8:24; 2 Chr 36:21); **συντελέω** (Lam 2:17); **πιστόω** (2 Kgdms 7:25; 1 Kgs 8:26) | **πληρόω** (Matt 26:54; Acts 1:16); **τελέω** (Luke 18:31; 22:37; Rev 10:7; 17:17); **δεῖ** "must" | **Yes**, and the New Testament adds necessity. |
+| The teaching is *delivered* and *kept as a deposit* | — | **παραθήκη / παρακαταθήκη**, a deposit in law (Exod 22:7; Lev 5:21) | **παραδίδωμι** (Luke 1:2; 1 Cor 15:3), **παραθήκη** (1 Tim 6:20; 2 Tim 1:14), **κατέχω, κρατέω** (1 Cor 15:2; 2 Thess 2:15) | **New** as applied to God's word; the deposit term comes from the LXX's law. |
 | *For ever* | לְעוֹלָם, לָעַד | **εἰς τὸν αἰῶνα** | **εἰς τὸν αἰῶνα** | **Yes.** |
 
 **[inferred]** Read in Greek, the two Testaments speak of the word's
 permanence in one vocabulary, and the New Testament plainly writes in the
 Septuagint's idiom. The consistency is not complete: the New Testament adds
 a claim the Old does not make in so many words ("the scripture cannot be
-broken"), drops the Psalms' image of refined metal, and never once uses a
-verb of preserving with God's word or a written text as its object. Nowhere,
-in either Testament's Greek, is there a word for the copying or safekeeping
-of a text as such.
+broken"), drops the Psalms' image of refined metal, and never once has God
+as the subject of a verb of preserving with his word or a written text as
+its object. Where the New Testament speaks of the word being kept, the
+keepers are people: it is "delivered", held as a "deposit", "held fast".
+The Greek of both Testaments has words for copying (ἀπογράφω, Prov 22:20;
+τὸ δευτερονόμιον, Deut 17:18) and for storing a document so that it lasts
+(Jer 39:14, ἵνα διαμείνῃ), but none is used in a promise that God will keep
+the text of his word.
 
 ---
 
@@ -287,10 +296,26 @@ The New Testament's use of the same verbs follows the Greek pattern exactly:
   my word" (Rev 3:8); "blessed is he that **keepeth** the sayings of the
   prophecy of this book" (Rev 22:7).
 
+Two further uses complete the picture:
+
+- **God keeps a promise.** Solomon: "thou … hast kept (ἐφύλαξας) with thy
+  servant David my father that thou promisedst him: thou spakest also with
+  thy mouth, and hast fulfilled it with thine hand" (**1 Kgs 8:24**). God
+  "keeps" what he said by doing it, as in "keeping covenant" (Deut 7:9,
+  ὁ φυλάσσων διαθήκην). The object is a promise, and keeping it is its
+  fulfilment.
+- **God keeps a deposit.** "He is able to keep (φυλάξαι) that which I have
+  committed unto him (τὴν παραθήκην μου)" (2 Tim 1:12). Two verses later
+  Timothy is told to keep "that good thing which was committed unto thee"
+  (τὴν καλὴν παραθήκην φύλαξον, 1:14). **[context]** 1:12 is usually read of
+  Paul's life or salvation entrusted to God, 1:14 of the teaching entrusted
+  to Timothy. See §13.
+
 **Assessment.** Consistent with the LXX's reading of Psalm 12, and
 inconsistent with the reading in which God keeps the words. **[inferred]** In
 neither Testament's Greek is God the subject of a verb of keeping with his
-words or a text as its object. Where the New Testament says the word is kept,
+words or a text as its object, except in the sense of keeping a promise by
+performing it. Where the New Testament says the word is kept,
 it is kept by believers, in obedience.
 
 ## 9. The nouns: ῥῆμα, λόγος, λόγια, γραφή
@@ -363,9 +388,125 @@ The curse on whoever "shall take away from the words of the book of this
 prophecy" is therefore transmitted, in the Textus Receptus, in a form that
 itself departs from the Greek manuscript tradition.
 
+Among the passages added in the second search, these differences touch the
+claim:
+
+| Passage | Textus Receptus | Byzantine (1904) | SBL | Effect |
+| --- | --- | --- | --- | --- |
+| **Rom 10:17** | ῥήματος **Θεοῦ** | the same | ῥήματος **Χριστοῦ** | "The word of God" or "of Christ" |
+| **Rev 17:17** | τελεσθῇ **τὰ ῥήματα** τοῦ Θεοῦ | τελεσθῶσιν **οἱ λόγοι** | **τελεσθήσονται** οἱ λόγοι | Subjunctive or future; same sense |
+| **Rev 10:7** | **τελεσθῇ** "should be finished" | **ἐτελέσθη** "is finished" | the same as Byzantine | Prospect or accomplished fact |
+| **1 Cor 14:37** | τοῦ Κυρίου εἰσὶν **ἐντολαί** | the same | κυρίου **ἐστίν** | "Are the commandments of the Lord" or "is of the Lord" |
+| **2 Pet 1:12** | **οὐκ ἀμελήσω** "I will not be negligent" | the same | **μελλήσω** "I will be ready" | The same purpose, to keep the readers in remembrance |
+| **1 Tim 6:20; 2 Tim 1:14** | **παρακαταθήκην** both | παρακαταθήκην, then **παραθήκην** | **παραθήκην** both | Synonyms, both LXX terms for a deposit |
+| **1 Pet 1:12** | ministered **unto us** (ἡμῖν) | **unto you** (ὑμῖν) | the same as Byzantine | Who the prophets wrote for |
+| **2 Thess 2:2** | the day **of Christ** | the same | the day **of the Lord** | The context of the forged letter, not the warning |
+
 **[inferred]** The New Testament's preservation claims are themselves
 transmitted the way the rest of the New Testament is: in substance without
 loss, in wording with variation, none of which here changes what is claimed.
+
+## 12. "Fulfilled", "must be": πληρόω, τελέω, πιστόω and δεῖ
+
+The Old Testament's fulfilment idiom is mostly negative (the word did not
+"fall", did not "return"; §3, §4). Its positive form is rarer, and the
+Septuagint uses several verbs for it:
+
+| Passage | Hebrew | LXX |
+| --- | --- | --- |
+| **1 Kgs 8:24** | וּבְיָדְךָ **מִלֵּאתָ** "with thine hand hast fulfilled it" | ἐν χερσί σου **ἐπλήρωσας** |
+| **1 Kgs 8:20; Neh 9:8** | וַיָּקֶם / וַתָּקֶם "hath performed (raised up)" | **ἀνέστησε** (1 Kgs 8:20); **ἔστησας** (2 Esd 19:8) |
+| **2 Sam 7:25; 1 Chr 17:23; 1 Kgs 8:26** | הָקֵם "establish"; יֵאָמֵן "be confirmed" | **πίστωσον**, **πιστωθήτω** "be made sure" |
+| **Lam 2:17** | בִּצַּע אֶמְרָתוֹ "he hath finished his word" | **συνετέλεσε** ῥῆμα αὐτοῦ |
+| **Dan 9:2** | לְמַלֹּאות "to accomplish" (seventy years) | εἰς **συμπλήρωσιν** (Theodotion) |
+| 2 Chr 36:21–22 | לְמַלֹּאות דְּבַר־יְהוָה "to fulfil the word of the LORD" | **πληρωθῆναι** λόγον Κυρίου |
+
+The New Testament has the same two verbs, and adds necessity:
+
+- **πληρόω**: "how then shall the scriptures be **fulfilled** (πληρωθῶσιν),
+  that thus it **must be** (δεῖ γενέσθαι)?" (**Matt 26:54**); "that the
+  scriptures of the prophets might be fulfilled" (26:56; Mark 14:49); "this
+  scripture **must needs** (ἔδει) have been fulfilled" (**Acts 1:16**).
+- **τελέω**: "all things that are written … shall be **accomplished**
+  (τελεσθήσεται)" (**Luke 18:31**); "this that is written **must** yet be
+  accomplished in me (δεῖ τελεσθῆναι)" (22:37); "the mystery of God should
+  be **finished**" (**Rev 10:7**); "until the words of God shall be
+  **fulfilled**" (17:17).
+- The "yes" of 2 Cor 1:20 (ὅσαι γὰρ ἐπαγγελίαι θεοῦ, ἐν αὐτῷ τὸ ναί) is the
+  New Testament's form of the Old Testament's "be confirmed" (יֵאָמֵן,
+  "amen"): "and in him Amen".
+
+**Assessment.** Consistent. The Septuagint's πληρόω and (συν)τελέω pass into
+the New Testament with their meaning. **[inferred]** What the New Testament
+adds is δεῖ, "it must": fulfilment is no longer only observed afterwards
+("not one thing hath failed") but stated beforehand as necessary because it
+is written.
+
+## 13. "Delivered", "the deposit", "hold fast": the vocabulary of handing on
+
+The New Testament describes the transmission of the apostles' teaching in a
+vocabulary the Old Testament does not apply to God's word:
+
+- **παραδίδωμι / παραλαμβάνω**, "deliver" and "receive": "even as they
+  **delivered** them unto us, which from the beginning were eyewitnesses"
+  (**Luke 1:2**); "I **delivered** unto you … that which I also **received**"
+  (**1 Cor 15:3**); "keep the ordinances (παραδόσεις), as I delivered them to
+  you" (1 Cor 11:2); "hold the traditions (παραδόσεις) which ye have been
+  taught, whether by word, or our epistle" (**2 Thess 2:15**); "the faith
+  which was once **delivered** (παραδοθείσῃ) unto the saints" (**Jude 3**).
+- **παραθήκη / παρακαταθήκη**, "deposit": "keep that which is committed to
+  thy trust" (**1 Tim 6:20**; 2 Tim 1:14); with the verb, "commit
+  (παράθου) to faithful men" (**2 Tim 2:2**). In the Septuagint these are
+  terms of the law of deposits: goods entrusted to a neighbour, which he must
+  return or swear he has not touched (παρακαταθήκη, Exod 22:7, 10;
+  παραθήκη, Lev 5:21, 23, in Brenton's numbering; KJV Exod 22:8, 11; Lev
+  6:2, 4).
+- **κατέχω, κρατέω, ἀντέχομαι**, "hold fast": "if ye **keep in memory**
+  (κατέχετε)" (**1 Cor 15:2**); the good ground "**keep** it (κατέχουσιν)"
+  (**Luke 8:15**); "**hold** (κρατεῖτε) the traditions" (2 Thess 2:15);
+  "**holding fast** (ἀντεχόμενον) the faithful word" (**Titus 1:9**).
+- **μένω ἐν**, "abide in": "if ye continue in my word" (**John 8:31**); "let
+  that therefore abide in you, which ye have heard from the beginning" (**1
+  John 2:24**); "the truth … which dwelleth (μένουσαν) in us, and shall be
+  with us for ever" (2 John 2). This is the verb of Isaiah 40:8 (§1), now
+  with believers as the place where the word abides.
+
+**Assessment.** **[inferred]** This vocabulary is new as applied to God's
+word, but it is not new Greek: the deposit terms are the Septuagint's legal
+ones, and they bring with them the obligation to return what was entrusted
+intact. The New Testament's picture of preservation through human keepers
+is therefore stated in the Septuagint's language, and it places the duty of
+faithful keeping on the church's teachers.
+
+## 14. Writing, copying and storing
+
+The Septuagint has the vocabulary for keeping texts, but uses it of human
+acts:
+
+- **Copying.** The king "shall write for himself this **deuteronomy**" (τὸ
+  δευτερονόμιον, **Deut 17:18**), the Greek's rendering of מִשְׁנֵה, "a
+  copy", which gave the book its name; Joshua writes "the deuteronomy" on
+  the stones (**Josh 9:2c** LXX). In **Prov 22:20** the reader is told
+  "**write them out** (ἀπόγραψαι) for thyself threefold".
+- **Storing.** "Put them in an earthen vessel, **that they may continue**
+  (ἵνα διαμείνῃ) many days" (**Jer 39:14** LXX = 32:14), of deeds of sale.
+  The verb is the one used of God's word "abiding" in heaven (Ps 118:89–91).
+- **God's own writing.** "The writing was the writing of God" (ἡ γραφὴ γραφὴ
+  Θεοῦ, **Exod 32:16**); "I will write down for him a multitude" (**Hos
+  8:12**, καταγράψω).
+
+The New Testament speaks of writing in order to be remembered (**2 Pet
+1:15**; 3:1, ὑπομνήσει), of letters being read and passed on (**Col 4:16**;
+1 Thess 5:27, ἀναγνωσθῆναι), of the author's own hand as the mark of a
+genuine letter (**2 Thess 3:17**), and of "books" and "parchments" (βιβλία,
+μεμβράναι, **2 Tim 4:13**).
+
+**Assessment.** **[inferred]** Neither Testament lacks the words for
+copying and storing a text; both use them of what people do with writings.
+The verb God uses of his word in Psalm 119:89 (διαμένει) is used in
+Jeremiah of a document stored in a jar so that it lasts, which shows that
+the Greek could have said that God keeps the text of his word in the same
+words. It does not.
 
 ## Conclusions
 
@@ -382,8 +523,18 @@ loss, in wording with variation, none of which here changes what is claimed.
    truthfulness and freedom from adulteration in its place.
 4. **Neither Testament's Greek says that God keeps a text.** The Septuagint
    reads the one possible exception, Psalm 12:7, of people; the New Testament
-   follows that pattern consistently.
-5. **The consistency is partly the Septuagint's work.** It made several
+   follows that pattern consistently. God "keeps" a promise by performing it
+   (1 Kgs 8:24), and keeps what is entrusted to him (2 Tim 1:12), but the
+   Greek of both Testaments, which has words for copying and storing texts
+   (§14), never makes his word's text the object of his keeping.
+5. **The New Testament describes the keeping of the word in the language of
+   deposit and handing on** (§13): the word is delivered, entrusted, held
+   fast and kept by believers and teachers. The deposit terms are the
+   Septuagint's legal ones.
+6. **The New Testament adds necessity to fulfilment** (§12): the Scriptures
+   "must" be fulfilled, where the Old Testament observes afterwards that
+   God's word did not fail.
+7. **The consistency is partly the Septuagint's work.** It made several
    Hebrew expressions into one Greek one (μένει), and the New Testament read
    the Old Testament through it. To compare the Greek of the two Testaments is
    to compare the New Testament with the Greek translation it largely used,
