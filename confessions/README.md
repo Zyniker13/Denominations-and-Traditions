@@ -4,10 +4,11 @@
 
 Shared by the Lutheran and Reformed traditions. The Book of Concord carries
 its own translation of the Apostles', Nicene, and Athanasian creeds, which
-will live with it.
+lives with it.
 
 - [The Nicene Creed](ecumenical-creeds/nicene-creed.md)
 - [The Athanasian Creed](ecumenical-creeds/athanasian-creed.md)
+- [The Apostles', Nicene, and Athanasian creeds as given in the Book of Concord](lutheran/book-of-concord/ecumenical-creeds.md)
 
 ## Reformed
 
@@ -52,4 +53,15 @@ Companion documents customarily printed with the Standards:
 
 ## Lutheran
 
-- [The Book of Concord (1580)](lutheran/book-of-concord/README.md) (pending)
+### The Book of Concord (1580)
+
+- [Preface to the Christian Book of Concord (1580)](lutheran/book-of-concord/preface.md)
+- [The Three Universal or Ecumenical Creeds](lutheran/book-of-concord/ecumenical-creeds.md) (Apostles', Nicene, Athanasian)
+- [The Augsburg Confession (1530)](lutheran/book-of-concord/augsburg-confession.md)
+- [The Apology of the Augsburg Confession (1531)](lutheran/book-of-concord/apology-of-the-augsburg-confession.md)
+- [The Smalcald Articles (1537)](lutheran/book-of-concord/smalcald-articles.md)
+- [Treatise on the Power and Primacy of the Pope (1537)](lutheran/book-of-concord/treatise-on-the-power-and-primacy-of-the-pope.md)
+- [The Small Catechism (1529)](lutheran/book-of-concord/small-catechism.md)
+- [The Large Catechism (1529)](lutheran/book-of-concord/large-catechism.md)
+- [The Formula of Concord: Epitome (1577)](lutheran/book-of-concord/formula-of-concord-epitome.md)
+- [The Formula of Concord: Solid Declaration (1577)](lutheran/book-of-concord/formula-of-concord-solid-declaration.md)

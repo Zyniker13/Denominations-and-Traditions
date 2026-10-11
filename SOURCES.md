@@ -40,7 +40,8 @@ from the wording rather than stated upstream.
 
 - **Apostles' Creed.** The compendium gives the 1988 English Language
   Liturgical Consultation (ELLC) text, which is under copyright. The
-  public-domain Triglotta translation will arrive with the Book of Concord.
+  public-domain Triglotta translation is included with the
+  [Book of Concord](confessions/lutheran/book-of-concord/ecumenical-creeds.md).
 - **Chalcedonian Definition.** The compendium's translation matches Henry
   Bettenson's *Documents of the Christian Church* (1943), which is under
   copyright.
@@ -51,9 +52,29 @@ from the wording rather than stated upstream.
 - **Church Order of Dort.** Not a confessional document, and the compendium's
   English translation could not be dated with confidence.
 
-## Book of Concord (pending)
+## Book of Concord
 
-- **Source:** <https://thebookofconcord.org/>
-- **Text:** *Concordia Triglotta* English translation (1921), which the site's
-  [legal page](https://thebookofconcord.org/legal/) describes as no longer
-  under copyright.
+- **Source:** <https://thebookofconcord.org/>, fetched 2026-10-11
+- **Text:** *Concordia Triglotta* English translation (St. Louis: Concordia
+  Publishing House, 1921), edited by F. Bente and W. H. T. Dau
+- **License:** public domain. The site's
+  [legal page](https://thebookofconcord.org/legal/) says the Triglotta text "is
+  no longer covered by copyright" and "may be freely copied, shared, et
+  cetera." The same page notes that some *other* material on the site, such as
+  modern Scripture translations, belongs to its owners; none of that material is
+  included here. Only the confessional texts were taken, not the site's
+  introductions, the Roman Confutation, or the German and Latin pages.
+- **Documents:** Preface to the Christian Book of Concord; the three ecumenical
+  creeds; Augsburg Confession; Apology; Smalcald Articles; Treatise on the
+  Power and Primacy of the Pope; Small Catechism (with the Daily Prayers, Table
+  of Duties, and Christian Questions and Answers the site gives with it); Large
+  Catechism; Formula of Concord, Epitome and Solid Declaration.
+- **Changes made here:** the Markdown under
+  `confessions/lutheran/book-of-concord/` is generated from the site's pages by
+  `tools/build_book_of_concord.py`. The text is unchanged. The script keeps the
+  Triglotta paragraph numbers as superscripts, joins paragraphs the site splits
+  mid-sentence at a paragraph number, and drops the site's navigation, copy
+  buttons, and hover notes. Bracketed passages are as given on the site. A few
+  Greek words
+  in the Apology appear as the site gives them, either transliterated
+  ("latreiva") or as the placeholder "((greek))".

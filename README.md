@@ -14,13 +14,13 @@ See [confessions/README.md](confessions/README.md) for the full index.
 
 | Tradition | Documents |
 | --- | --- |
-| Ecumenical creeds | Nicene and Athanasian creeds (the Apostles' Creed will come with the Book of Concord) |
+| Ecumenical creeds | Nicene and Athanasian creeds; the Apostles', Nicene, and Athanasian creeds in the Book of Concord's translation |
 | Continental Reformed | Three Forms of Unity: Belgic Confession, Heidelberg Catechism, Canons of Dort |
 | Presbyterian | Westminster Standards (Confession, Larger and Shorter Catechisms, Form of Government, Directories for Publick and Family Worship, and companion documents); Scots Confession |
 | Anglican | Thirty-Nine Articles of Religion |
 | Reformed Baptist | Second London Baptist Confession (1677/1689); Keach's Catechism |
 | Congregational | Savoy Declaration of Faith and Order |
-| Lutheran | Book of Concord (pending; see [its folder](confessions/lutheran/book-of-concord/README.md)) |
+| Lutheran | [Book of Concord](confessions/lutheran/book-of-concord/README.md): Preface, the three ecumenical creeds, Augsburg Confession, Apology, Smalcald Articles, Treatise on the Power and Primacy of the Pope, Small and Large Catechisms, Formula of Concord (Epitome and Solid Declaration) |
 
 ## Layout
 
@@ -36,4 +36,10 @@ To regenerate the Reformed texts after updating `sources/`:
 ```
 pip install pyyaml
 python3 tools/build_reformed.py
+```
+
+To regenerate the Book of Concord from thebookofconcord.org:
+
+```
+python3 tools/build_book_of_concord.py
 ```
