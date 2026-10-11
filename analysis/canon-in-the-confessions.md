@@ -52,7 +52,7 @@ rather than on the text of a confession, it is marked **[context]**.
 | Westminster Confession (1646) | Yes, 1.2 | OT and NT, 1.2 | "No part of the Canon," "no authority," to be used only as "other human writings," 1.3; not to be read publicly (Directory) | **The OT "in Hebrew"** is "immediately inspired" and "authentical," 1.8 | **The NT "in Greek"** likewise, 1.8; LXX silent |
 | Savoy Declaration (1658) | Yes, 1.2 | Same as Westminster | Same as Westminster, 1.3 | Same as Westminster, 1.8 | Same as Westminster, 1.8 |
 | Second London Baptist (1677/1689) | Yes, 1.2 | Same as Westminster | Same, with "Canon *or rule*," 1.3 | Same as Westminster, 1.8 | Same as Westminster, 1.8 |
-| **Book of Concord (1580)** | **No** | **No** | **No statement**; Tobit is quoted and interpreted (Ap. V(III) 156–158); 2 Maccabees is set apart from "the Scriptures" (Ap. XXI(IX) 9) | Used exegetically, never defined | Used exegetically, never defined; LXX silent |
+| **Book of Concord (1580)** | **No** | **No** | **No statement**; Tobit is quoted and interpreted ([Ap. V(III)](../confessions/lutheran/book-of-concord/apology-of-the-augsburg-confession.md#art-v-iii-of-love-and-the-fulfilling-of-the-law) 156–158); 2 Maccabees is set apart from "the Scriptures" ([Ap. XXI(IX)](../confessions/lutheran/book-of-concord/apology-of-the-augsburg-confession.md#art-xxi-ix-of-the-invocation-of-saints) 9) | Used exegetically, never defined | Used exegetically, never defined; LXX silent |
 
 The short version:
 
@@ -469,32 +469,36 @@ Both documents take over Westminster chapter 1.
 
 ## The Lutheran Book of Concord (1580)
 
-The Book of Concord could not be added to this repository yet because the
-source site is not reachable from the build environment. The text cited here
-is the *Concordia Triglotta* English translation (Bente and Dau, 1921, public
-domain) as published at thebookofconcord.org. Paragraph numbers follow that
-edition. Where the Triglotta numbers the Apology's articles differently from
+The text cited here is the *Concordia Triglotta* English translation (Bente
+and Dau, 1921, public domain), from the copy in this repository at
+[confessions/lutheran/book-of-concord/](../confessions/lutheran/book-of-concord/README.md).
+Paragraph numbers are the Triglotta's, shown there as superscripts. Where the Triglotta numbers the Apology's articles differently from
 modern editions, both are given (e.g. "Ap. V (III)").
 
 **1. Does it define a canon?** No. No document in the Book of Concord lists
 the books of Scripture, uses "canon" of a list of books, or rules on disputed
-books. The Formula of Concord's statement on Scripture is the "Comprehensive
-Summary, Rule and Norm" that opens both the Epitome and the Solid
-Declaration. It names the rule without enumerating it:
+books. The Formula of Concord's statement on Scripture is the "Rule and Norm"
+section that opens both the Epitome and the Solid Declaration. It names the rule without enumerating it:
 
-- Epitome, Rule and Norm 1: "the sole rule and standard according to which
+- [Epitome, Rule and Norm](../confessions/lutheran/book-of-concord/formula-of-concord-epitome.md#summary-content-rule-and-norm) 1: "the sole rule and standard according to which
   all dogmas together with [all] teachers should be estimated and judged are
   the prophetic and apostolic Scriptures of the Old and of the New Testament
   alone."
-- Solid Declaration, Rule and Norm 3: "the Prophetic and Apostolic Scriptures
+- [Solid Declaration, Rule and Norm](../confessions/lutheran/book-of-concord/formula-of-concord-solid-declaration.md#comprehensive-summary-foundation-rule-and-norm) 3: "the Prophetic and Apostolic Scriptures
   of the Old and New Testaments as the pure, clear fountain of Israel, which
   is the only true standard by which all teachers and doctrines are to be
   judged."
 
+The phrase "Canonical Scriptures" occurs once in the whole Book of Concord, in
+a quotation of Augustine: bishops are not to be followed if they "hold
+anything contrary to the Canonical Scriptures of God"
+([Augsburg Confession XXVIII](../confessions/lutheran/book-of-concord/augsburg-confession.md#article-xxviii-of-ecclesiastical-power) 28). The term is used, but the canon
+is never set out.
+
 **2. Books included or excluded.** None are specified. In practice the
 confessions treat the disputed New Testament books as Scripture. The Apology
-deals at length with James 2:24 and concludes that "James does not contradict
-St. Paul" (Ap. V (III) 123–132, esp. 130), interpreting the epistle rather
+deals at length with James 2:24 and concludes that "James does not contradict us" ([Ap. V (III)](../confessions/lutheran/book-of-concord/apology-of-the-augsburg-confession.md#art-v-iii-of-love-and-the-fulfilling-of-the-law) 127) and
+"James does not contradict St. Paul" (130), interpreting the epistle rather
 than questioning it. **[context]** Luther's critical prefaces on James,
 Hebrews, Jude, and Revelation, and Chemnitz's distinction between
 *homologoumena* and *antilegomena* (*Examen*, 1565–73), are not part of the
@@ -508,12 +512,12 @@ as a class. Its handling of particular apocryphal texts shows two attitudes:
   death"), the Apology does not deny the book's authority. It interprets the verse so as not to "detract from the
   praise of Christ." Alms free from sin and death "not *ex opere operato*" but
   as "exercises of faith." It argues from Tobit's own context (Tob. 4:5, 4:19)
-  that "faith is required before alms" (Ap. V (III) 156–158).
+  that "faith is required before alms" ([Ap. V (III)](../confessions/lutheran/book-of-concord/apology-of-the-augsburg-confession.md#art-v-iii-of-love-and-the-fulfilling-of-the-law) 156–158).
 - **2 Maccabees is set apart from "the Scriptures."** On the invocation of
   saints, the Apology concedes that the saints in heaven pray for the Church
   in general, "albeit no testimony concerning the praying of the dead is
   extant in the Scriptures, except the dream taken from the Second Book of
-  Maccabees, 15:14" (Ap. XXI (IX) 9). The sentence can be read two ways:
+  Maccabees, 15:14" ([Ap. XXI (IX)](../confessions/lutheran/book-of-concord/apology-of-the-augsburg-confession.md#art-xxi-ix-of-the-invocation-of-saints) 9). The sentence can be read two ways:
   2 Maccabees as the single scriptural exception, or (more naturally, given
   "the dream taken from") a non-scriptural exception. Either way the Apology
   bases nothing on it, and goes on to say that for invocation of saints
@@ -521,7 +525,7 @@ as a class. Its handling of particular apocryphal texts shows two attitudes:
   Scriptures" (Ap. XXI (IX) 10).
 - The Smalcald Articles state the principle that governs both cases: "The
   rule is: The Word of God shall establish articles of faith, and no one
-  else, not even an angel" (SA II.ii.15).
+  else, not even an angel" ([SA II.ii](../confessions/lutheran/book-of-concord/smalcald-articles.md#article-ii-of-the-mass) 15).
 
 So the Lutheran confessions take an *operative* position on the Apocrypha
 (no article of faith is built on them, and where cited they are read in
@@ -536,20 +540,22 @@ Hebrew exegetically:
 - On Dan. 4:24 [27], it rejects the Vulgate's "Redeem thy sins by alms" and
   says that "the words of Daniel speak in his own language still more clearly
   of repentance." It also faults Jerome for adding "a particle expressing
-  doubt" (Ap. V (III) 140–143). The passage is in fact Aramaic, which the
+  doubt" ([Ap. V (III)](../confessions/lutheran/book-of-concord/apology-of-the-augsburg-confession.md#art-v-iii-of-love-and-the-fulfilling-of-the-law) 140–143). The passage is in fact Aramaic, which the
   Apology does not name.
 - It explains *asham* in Isa. 53:10 as "a victim for transgression"
-  (Ap. XXIV (XII) 23).
+  ([Ap. XXIV (XII)](../confessions/lutheran/book-of-concord/apology-of-the-augsburg-confession.md#art-xxiv-xii-of-the-mass) 23).
 - It discusses the claimed Hebrew etymology of *missa* from Deut. 16:10
-  (Ap. XXIV (XII) 85–87).
+  ([Ap. XXIV (XII)](../confessions/lutheran/book-of-concord/apology-of-the-augsburg-confession.md#art-xxiv-xii-of-the-mass) 85–87).
+- It derives "holy day" (*Feiertag*) "from the Hebrew word sabbath," which
+  "properly signifies to rest" ([Large Catechism, Third Commandment](../confessions/lutheran/book-of-concord/large-catechism.md#3rd-commandment) 79).
 
 These are arguments from the original language against the Vulgate, not a
 confessional doctrine of the text.
 
 **5. Greek / LXX.** The Septuagint is never mentioned. Greek appears only as
-New Testament and patristic philology: *latreia* (Ap. IV (II) 49), and
+New Testament and patristic philology: *latreia* ([Ap. IV (II)](../confessions/lutheran/book-of-concord/apology-of-the-augsburg-confession.md#art-iv-ii-of-justification) 49), and
 *leitourgia*, argued from 2 Cor. 9:12 and Phil. 2:25 to mean "public
-ministry" rather than sacrifice (Ap. XXIV (XII) 79–83). There is also the
+ministry" rather than sacrifice ([Ap. XXIV (XII)](../confessions/lutheran/book-of-concord/apology-of-the-augsburg-confession.md#art-xxiv-xii-of-the-mass) 79–83). There is also the
 "Greek canon," meaning the Eastern eucharistic liturgy, not a list of books
 (Ap. XXIV (XII) 88, 93).
 
@@ -559,12 +565,12 @@ than its *extent*.
 
 - Scripture alone is the norm: "the Holy Scriptures alone remain the only
   judge, rule, and standard, according to which, as the only test-stone, all
-  dogmas shall and must be discerned and judged" (FC Ep., Rule and Norm 7).
+  dogmas shall and must be discerned and judged" ([FC Ep., Rule and Norm](../confessions/lutheran/book-of-concord/formula-of-concord-epitome.md#summary-content-rule-and-norm) 7).
 - All other writings are subordinate. They "must not be regarded as equal to
   the Holy Scriptures" and are received only "as witnesses" (Ep. 2). The
   creeds and confessions "are not judges, as are the Holy Scriptures," but
   "only a testimony and declaration of the faith" (Ep. 8). The Solid
-  Declaration repeats this (SD Rule and Norm 9–10), and receives the Augsburg
+  Declaration repeats this ([SD Rule and Norm](../confessions/lutheran/book-of-concord/formula-of-concord-solid-declaration.md#comprehensive-summary-foundation-rule-and-norm) 9–10), and receives the Augsburg
   Confession, Apology, Smalcald Articles, and Catechisms because they are
   "taken from God's Word" (SD Rule and Norm 4–8).
 - **[context]** Later Lutheran dogmatics describe this as Scripture the
@@ -677,15 +683,12 @@ repository, taken from the Reformed Standards compendium (Apache-2.0; see
   only briefly. The Latin original is public domain.
 
 **Lutheran texts:** *Concordia Triglotta* English translation (1921, public
-domain) at thebookofconcord.org: Formula of Concord, Epitome and Solid
-Declaration (Rule and Norm); Smalcald Articles II.ii; Apology Arts. IV (II),
-V (III), XXI (IX), XXIV (XII). For this study the Apology's articles on
-justification, love and the law, repentance, confession, invocation of saints,
-the Mass, and monastic vows were checked for every citation of an apocryphal
-book and every reference to Hebrew, Greek, or the Septuagint. The Augsburg
-Confession, Large and Small Catechisms, and the rest of the Formula were read
-for their statements on Scripture's authority, not searched exhaustively for
-incidental apocryphal citations.
+domain), from the copy in this repository at
+[confessions/lutheran/book-of-concord/](../confessions/lutheran/book-of-concord/README.md)
+(taken from thebookofconcord.org). The whole Book of Concord was searched for
+every apocryphal book by name, for "canonical," and for references to Hebrew,
+Greek, or the Septuagint. Apart from the passages cited above, "canonical"
+occurs only of church law, canonical hours, and canonical satisfactions.
 
 **Context** marked **[context]** (Trent's Fourth Session, Cappel, the
 subscription history of the Helvetic Consensus and the Thirty-Nine Articles,
