@@ -1,0 +1,3997 @@
+{
+ "generated_by": "tools/build_preservation.py",
+ "editions": {
+  "mt": {
+   "code": "hboWLC",
+   "title": "Hebrew (Masoretic Text, Westminster Leningrad Codex)"
+  },
+  "lxx": {
+   "code": "grcbrent",
+   "title": "Greek (Septuagint, Brenton's edition)"
+  },
+  "lxx_en": {
+   "code": "eng-Brenton",
+   "title": "English of the Greek (Brenton, 1851)"
+  },
+  "kjv": {
+   "code": "eng-kjv2006",
+   "title": "English of the Hebrew (KJV, 1769)"
+  },
+  "tr": {
+   "code": "grctr",
+   "title": "Greek (Textus Receptus)"
+  },
+  "byz": {
+   "code": "grcbyz",
+   "title": "Greek (Byzantine, 1904 Patriarchal text)"
+  },
+  "sbl": {
+   "code": "grcsbl",
+   "title": "Greek (SBL Greek New Testament, CC BY 4.0)"
+  },
+  "kjv_nt": {
+   "code": "eng-kjv2006",
+   "title": "English (KJV, 1769)"
+  }
+ },
+ "categories": {
+  "permanence": "Permanence",
+  "fulfilment": "Fulfilment",
+  "inviolability": "Inviolability",
+  "purity": "Purity and truth",
+  "transmission": "Transmission to later generations",
+  "no-alteration": "Prohibition of alteration",
+  "inscripturation": "Inscripturation",
+  "custody": "Custody",
+  "restoration": "Restoration after loss",
+  "corruption": "Corruption among men",
+  "withdrawal": "Withdrawal",
+  "efficacy": "Efficacy",
+  "exaltation": "Exaltation",
+  "origin": "Origin"
+ },
+ "speakers": {
+  "god": "God",
+  "god-through-prophet": "God, through a prophet",
+  "jesus": "Jesus",
+  "mediator": "Moses or a prophet, for God",
+  "psalmist": "Psalmist",
+  "sage": "Sage",
+  "narrator": "Narrator",
+  "apostle": "Apostle or evangelist",
+  "heavenly-voice": "Heavenly voice",
+  "other": "Another speaker"
+ },
+ "passages": [
+  {
+   "id": "exod-17-14",
+   "ref": "Exodus 17:14",
+   "kjv": "EXO 17:14",
+   "speaker": "god",
+   "role": "means",
+   "categories": [
+    "inscripturation"
+   ],
+   "object": "a record of the war with Amalek",
+   "claim": "God commands Moses to write a memorial \"in a book\" (בַּסֵּפֶר) and rehearse it to Joshua.",
+   "mt_lxx": "Substantially the same. The Greek names Joshua Ἰησοῦς, the same name as Jesus.",
+   "notes": "The first divine command to write in a book. Writing is given as the means of memory across generations.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "EXO 17:14",
+      "text": "וַיֹּאמֶר יְהוָה אֶל־מֹשֶׁה כְּתֹב זֹאת זִכָּרוֹן בַּסֵּפֶר וְשִׂים בְּאָזְנֵי יְהוֹשֻׁעַ כִּֽי־מָחֹה אֶמְחֶה אֶת־זֵכֶר עֲמָלֵק מִתַּחַת הַשָּׁמָֽיִם׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "EXO 17:14",
+      "text": "And the LORD said unto Moses, Write this [for] a memorial in a book, and rehearse [it] in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "EXO 17:14",
+      "text": "Εἶπε δὲ Κύριος πρὸς Μωυσῆν, Κατάγραψον τοῦτο εἰς μνημόσυνον εἰς βιβλίον, καὶ δὸς εἰς τὰ ὦτα Ἰησοῖ· ὅτι ἀλοιφῇ ἐξαλείψω τὸ μνημόσυνον Ἀμαλὴκ ἐκ τῆς ὑπὸ τὸν οὐρανόν."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "EXO 17:14",
+      "text": "And the Lord said to Moses, Write this for a memorial in a book, and speak [this] in the ears of Joshua; for I will utterly blot out the memorial of Amalec from under heaven."
+     }
+    ]
+   }
+  },
+  {
+   "id": "exod-34-1",
+   "ref": "Exodus 34:1; Deuteronomy 10:2, 4",
+   "kjv": "EXO 34:1, DEU 10:2, DEU 10:4",
+   "speaker": "god",
+   "role": "means",
+   "categories": [
+    "inscripturation",
+    "restoration"
+   ],
+   "object": "the words on the first tables",
+   "claim": "After Moses breaks the first tables, God rewrites \"the words that were in the first tables\" on new ones, \"according to the first writing.\"",
+   "mt_lxx": "In Deuteronomy 10:2 the Hebrew has God say \"I will write\" (וְאֶכְתֹּב); the\nGreek has \"thou shalt write\" (καὶ γράψεις). Both agree in 10:4 that God\nwrote. Exodus 34:1 in the Greek adds \"and come up to me to the mountain\"\n(from 34:2 and Deut 10:1).\n",
+   "notes": "The one narrative in which a destroyed autograph is replaced with an\nidentical text. The restoration is by God's own act, not by the\ncommunity's copying.\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "EXO 34:1",
+      "text": "וַיֹּאמֶר יְהוָה אֶל־מֹשֶׁה פְּסָל־לְךָ שְׁנֵֽי־לֻחֹת אֲבָנִים כָּרִאשֹׁנִים וְכָתַבְתִּי עַל־הַלֻּחֹת אֶת־הַדְּבָרִים אֲשֶׁר הָיוּ עַל־הַלֻּחֹת הָרִאשֹׁנִים אֲשֶׁר שִׁבַּֽרְתָּ׃"
+     },
+     {
+      "ref": "DEU 10:2",
+      "text": "וְאֶכְתֹּב עַל־הַלֻּחֹת אֶת־הַדְּבָרִים אֲשֶׁר הָיוּ עַל־הַלֻּחֹת הָרִאשֹׁנִים אֲשֶׁר שִׁבַּרְתָּ וְשַׂמְתָּם בָּאָרֽוֹן׃"
+     },
+     {
+      "ref": "DEU 10:4",
+      "text": "וַיִּכְתֹּב עַֽל־הַלֻּחֹת כַּמִּכְתָּב הָרִאשׁוֹן אֵת עֲשֶׂרֶת הַדְּבָרִים אֲשֶׁר דִּבֶּר יְהוָה אֲלֵיכֶם בָּהָר מִתּוֹךְ הָאֵשׁ בְּיוֹם הַקָּהָל וַיִּתְּנֵם יְהוָה אֵלָֽי׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "EXO 34:1",
+      "text": "And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon [these] tables the words that were in the first tables, which thou brakest."
+     },
+     {
+      "ref": "DEU 10:2",
+      "text": "And I will write on the tables the words that were in the first tables which thou brakest, and thou shalt put them in the ark."
+     },
+     {
+      "ref": "DEU 10:4",
+      "text": "And he wrote on the tables, according to the first writing, the ten commandments, which the LORD spake unto you in the mount out of the midst of the fire in the day of the assembly: and the LORD gave them unto me."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "EXO 34:1",
+      "text": "Καὶ εἶπε Κύριος πρὸς Μωυσῆν λαξευσον σεαυτῷ δύο πλάκας λιθίνας, καθὼς καὶ αἱ πρῶται, καὶ ἀνάβηθι πρὸς μὲ εἰς τὸ ὄρος, καὶ γράψω ἐπὶ τῶν πλακῶν τὰ ῥήματα ἃ ἦν ἐν ταῖς πλαξὶ ταῖς πρώταις, αἷς συνέτριψας."
+     },
+     {
+      "ref": "DEU 10:2",
+      "text": "Καὶ γράψεις ἐπὶ τὰς πλάκας τὰ ῥήματα, ἃ ἦν ἐν ταῖς πλαξὶν ταῖς πρώταις ἃς συνέτριψας, καὶ ἐμβαλεῖς αὐτὰ εἰς τὴν κιβωτόν."
+     },
+     {
+      "ref": "DEU 10:4",
+      "text": "Καὶ ἔγραψεν ἐπὶ τὰς πλάκας κατὰ τὴν γραφὴν τὴν πρώτην τοὺς δέκα λόγους, οὓς ἐλάλησε Κύριος πρὸς ὑμᾶς ἐν τῷ ὄρει ἐκ μέσου τοῦ πυρός, καὶ ἔδωκεν αὐτὰς Κύριος ἐμοί."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "EXO 34:1",
+      "text": "And the Lord said to Moses, Hew for thyself two tables of stone, as also the first were, and come up to me to the mountain; and I will write upon the tables the words, which were on the first tables, which thou brokest."
+     },
+     {
+      "ref": "DEU 10:2",
+      "text": "And thou shalt write upon the tables the words which were on the first tables which thou didst break, and thou shalt put them into the ark."
+     },
+     {
+      "ref": "DEU 10:4",
+      "text": "And he wrote upon the tables according to the first writing the ten commandments, which the Lord spoke to you in the mountain out of the midst of the fire, and the Lord gave them to me."
+     }
+    ]
+   }
+  },
+  {
+   "id": "num-23-19",
+   "ref": "Numbers 23:19",
+   "kjv": "NUM 23:19",
+   "speaker": "god-through-prophet",
+   "role": "ground",
+   "categories": [
+    "fulfilment"
+   ],
+   "object": "what God has said and spoken",
+   "claim": "God is not a man that he should lie; what he has spoken he will make good.",
+   "mt_lxx": "The Hebrew: \"God is not a man, that he should lie (וִיכַזֵּב) … hath he\nspoken, and shall he not make it stand (יְקִימֶנָּה)?\" The Greek: \"God is\nnot as man to waver (διαρτηθῆναι), nor as the son of man to be threatened\n(ἀπειληθῆναι) … shall he speak and not abide by it (οὐχὶ ἐμμενεῖ)?\" The\nGreek turns \"lie … repent\" into \"waver … be threatened\", and \"establish\"\ninto \"abide by\".\n",
+   "notes": "Balaam's oracle, given as the word God \"put in his mouth\" (23:16).",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "NUM 23:19",
+      "text": "לֹא אִישׁ אֵל וִֽיכַזֵּב וּבֶן־אָדָם וְיִתְנֶחָם הַהוּא אָמַר וְלֹא יַעֲשֶׂה וְדִבֶּר וְלֹא יְקִימֶֽנָּה׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "NUM 23:19",
+      "text": "God [is] not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do [it]? or hath he spoken, and shall he not make it good?"
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "NUM 23:19",
+      "text": "Οὐχ ὡς ἄνθρωπος ὁ Θεὸς διαρτηθῆναι, οὐδʼ ὡς υἱὸς ἀνθρώπου ἀπειληθῆναι, αὐτὸς εἴπας, οὐχὶ ποιήσει; λαλήσει, καὶ οὐχὶ ἐμμενεῖ;"
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "NUM 23:19",
+      "text": "God is not as man to waver, nor as the son of man to be threatened; shall he say and not perform? shall he speak and not keep [to his word]?"
+     }
+    ]
+   }
+  },
+  {
+   "id": "deut-4-2",
+   "ref": "Deuteronomy 4:2; 12:32",
+   "kjv": "DEU 4:2, DEU 12:32",
+   "mt": "DEU 4:2, DEU 13:1",
+   "lxx": "DEU 4:2, DEU 13:1",
+   "speaker": "mediator",
+   "role": "command",
+   "categories": [
+    "no-alteration"
+   ],
+   "object": "the word Moses commands",
+   "claim": "Ye shall not add unto the word, neither diminish from it.",
+   "mt_lxx": "The same command in both: לֹא תֹסִפוּ … וְלֹא תִגְרְעוּ / οὐ προσθήσετε …\nοὐκ ἀφελεῖτε. In 4:2 the Greek reads \"the Lord our God\" for \"the LORD your\nGod\" and adds \"this day\" (σήμερον). Deuteronomy 12:32 in English Bibles is\n13:1 in the Hebrew and the Greek.\n",
+   "nt_use": [
+    "REV 22:18-19"
+   ],
+   "notes": "A command to Israel, not a promise. It presupposes that adding and taking\naway are possible. The verbs recur in Revelation 22:18–19 (ἀφαιρέω in\nboth; the Greek of Deuteronomy uses προστίθημι for \"add\", Revelation\nἐπιτίθημι).\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "DEU 4:2",
+      "text": "לֹא תֹסִפוּ עַל־הַדָּבָר אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם וְלֹא תִגְרְעוּ מִמֶּנּוּ לִשְׁמֹר אֶת־מִצְוֺת יְהוָה אֱלֹֽהֵיכֶם אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶֽם׃"
+     },
+     {
+      "ref": "DEU 13:1",
+      "text": "אֵת כָּל־הַדָּבָר אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם אֹתוֹ תִשְׁמְרוּ לַעֲשׂוֹת לֹא־תֹסֵף עָלָיו וְלֹא תִגְרַע מִמֶּֽנּוּ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "DEU 4:2",
+      "text": "Ye shall not add unto the word which I command you, neither shall ye diminish [ought] from it, that ye may keep the commandments of the LORD your God which I command you."
+     },
+     {
+      "ref": "DEU 12:32",
+      "text": "What thing soever I command you, observe to do it: thou shalt not add thereto, nor diminish from it."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "DEU 4:2",
+      "text": "Οὐ προσθήσετε πρὸς τὸ ῥῆμα ὃ ἐγὼ ἐντέλλομαι ὑμῖν, καὶ οὐκ ἀφελεῖτε ἀπʼ αὐτοῦ· φυλάσσεσθε τὰς ἐντολὰς Κυρίου τοῦ Θεοῦ ἡμῶν, ὅσα ἐγὼ ἐντέλλομαι ὑμῖν σήμερον."
+     },
+     {
+      "ref": "DEU 13:1",
+      "text": "Πᾶν ῥῆμα ὃ ἐγὼ ἐντλλομαι ὑμῖν σήμερον, τοῦτο φυλάξῃ ποιεῖν· οὐ προσθήσεις ἐπʼ αὐτό, οὐδὲ ἀφελεῖς ἀπʼ αὐτοῦ."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "DEU 4:2",
+      "text": "Ye shall not add to the word which I command you, and ye shall not take from it: keep the commandments of the Lord our God, all that I command you this day."
+     },
+     {
+      "ref": "DEU 13:1",
+      "text": "Every word that I command you this day, it shalt thou observe to do: thou shalt not add to it, nor diminish from it."
+     }
+    ]
+   }
+  },
+  {
+   "id": "deut-8-3",
+   "ref": "Deuteronomy 8:3",
+   "kjv": "DEU 8:3",
+   "speaker": "mediator",
+   "role": "claim",
+   "categories": [
+    "efficacy"
+   ],
+   "object": "every word that proceeds from God's mouth",
+   "claim": "Man lives by every word that proceeds out of the mouth of the LORD.",
+   "mt_lxx": "The Hebrew has no noun \"word\": \"by everything that proceeds from the mouth\nof the LORD\" (כָּל־מוֹצָא פִי־יְהוָה). The Greek supplies one: \"by every\nword (παντὶ ῥήματι) that proceeds through the mouth of God.\" Jesus's\nanswer in Matthew 4:4 follows the Greek wording.\n",
+   "nt_use": [
+    "MAT 4:4",
+    "LUK 4:4"
+   ],
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "DEU 8:3",
+      "text": "וַֽיְעַנְּךָ וַיַּרְעִבֶךָ וַיַּֽאֲכִֽלְךָ אֶת הַמָּן אֲשֶׁר לֹא־יָדַעְתָּ וְלֹא יָדְעוּן אֲבֹתֶיךָ לְמַעַן הוֹדִֽעֲךָ כִּי לֹא עַל־הַלֶּחֶם לְבַדּוֹ יִחְיֶה הָֽאָדָם כִּי עַל־כָּל־מוֹצָא פִֽי־יְהוָה יִחְיֶה הָאָדָֽם׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "DEU 8:3",
+      "text": "And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every [word] that proceedeth out of the mouth of the LORD doth man live."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "DEU 8:3",
+      "text": "Καὶ ἐκάκωσέ σε, καὶ ἐλιμαγχόνησέ σε, καὶ ἐψώμισέ σε τὸ μάννα, ὃ οὐκ ᾔδεισαν οἱ πατέρες σου· ἵνα ἀναγγείλῃ σοι, ὅτι οὐκ ἐπʼ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος, ἀλλʼ ἐπὶ παντὶ ῥήματι τῷ ἐκπορευομένῳ διὰ στόματος Θεοῦ ζήσεται ὁ ἄνθρωπος."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "DEU 8:3",
+      "text": "And he afflicted thee and straitened thee with hunger, and fed thee with manna, which thy fathers knew not; that he might teach thee that man shall not live by bread alone, but by every word that proceeds out of the mouth of God shall man live."
+     }
+    ]
+   }
+  },
+  {
+   "id": "deut-18-18",
+   "ref": "Deuteronomy 18:18-19",
+   "kjv": "DEU 18:18-19",
+   "speaker": "god",
+   "role": "means",
+   "categories": [
+    "transmission"
+   ],
+   "object": "God's words in the prophet's mouth",
+   "claim": "God will put his words in the mouth of a prophet like Moses, and require it of whoever will not hear them.",
+   "mt_lxx": "Substantially the same.",
+   "nt_use": [
+    "ACT 3:22-23",
+    "ACT 7:37",
+    "JOH 17:8"
+   ],
+   "notes": "The model of transmission the prophets and Isaiah 59:21 build on, applied to Christ in Acts 3:22.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "DEU 18:18",
+      "text": "נָבִיא אָקִים לָהֶם מִקֶּרֶב אֲחֵיהֶם כָּמוֹךָ וְנָתַתִּי דְבָרַי בְּפִיו וְדִבֶּר אֲלֵיהֶם אֵת כָּל־אֲשֶׁר אֲצַוֶּֽנּוּ׃"
+     },
+     {
+      "ref": "DEU 18:19",
+      "text": "וְהָיָה הָאִישׁ אֲשֶׁר לֹֽא־יִשְׁמַע אֶל־דְּבָרַי אֲשֶׁר יְדַבֵּר בִּשְׁמִי אָנֹכִי אֶדְרֹשׁ מֵעִמּֽוֹ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "DEU 18:18",
+      "text": "I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him."
+     },
+     {
+      "ref": "DEU 18:19",
+      "text": "And it shall come to pass, [that] whosoever will not hearken unto my words which he shall speak in my name, I will require [it] of him."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "DEU 18:18",
+      "text": "Προφήτην ἀναστήσω αὐτοῖς ἐκ τῶν ἀδελφῶν αὐτῶν, ὥσπερ σέ· καὶ δώσω τὰ ῥήματα ἐν τῷ στόματι αὐτοῦ, καὶ λαλήσει αὐτοῖς καθʼ ὅτι ἂν ἐντείλωμαι αὐτῷ."
+     },
+     {
+      "ref": "DEU 18:19",
+      "text": "Καὶ ὁ ἄνθρωπος ὃς ἐὰν μὴ ἀκούσῃ ὅσα ἂν λαλήσῃ ὁ προφήτης ἐκεῖνος ἐπὶ τῷ ὀνόματί μου, ἐγὼ ἐκδικήσω ἐξ αὐτοῦ."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "DEU 18:18",
+      "text": "I will raise up to them a prophet of their brethren, like thee; and I will put my words in his mouth, and he shall speak to them as I shall command him."
+     },
+     {
+      "ref": "DEU 18:19",
+      "text": "And whatever man shall not hearken to whatsoever words that prophet shall speak in my name, I will take vengeance on him."
+     }
+    ]
+   }
+  },
+  {
+   "id": "deut-29-29",
+   "ref": "Deuteronomy 29:29",
+   "kjv": "DEU 29:29",
+   "mt": "DEU 29:28",
+   "speaker": "mediator",
+   "role": "claim",
+   "categories": [
+    "transmission"
+   ],
+   "object": "the things revealed",
+   "claim": "The things revealed belong to us and to our children for ever (עַד־עוֹלָם / εἰς τὸν αἰῶνα).",
+   "mt_lxx": "The sense is the same. In the Hebrew manuscripts, including the Leningrad\nCodex, the words \"unto us and to our children\" (לָנוּ וּלְבָנֵינוּ) carry\n*puncta extraordinaria*, scribal dots over the letters; the Greek has no\ncounterpart. **[context]** The dots are one of fifteen places where the\nMasoretic tradition marks letters as doubtful or to be read with special\ncaution; their meaning was already debated in the rabbinic sources.\n",
+   "notes": "The verse is 29:28 in the Hebrew and 29:29 in Brenton's Greek.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "DEU 29:28",
+      "text": "הַנִּסְתָּרֹת לַיהוָה אֱלֹהֵינוּ וְהַנִּגְלֹת לָׄנׄוּׄ וּׄלְׄבָׄנֵׄיׄנׄוּׄ עַד־עוֹלָם לַעֲשׂוֹת אֶת־כָּל־דִּבְרֵי הַתּוֹרָה הַזֹּֽאת׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "DEU 29:29",
+      "text": "The secret [things belong] unto the LORD our God: but those [things which are] revealed [belong] unto us and to our children for ever, that [we] may do all the words of this law."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "DEU 29:29",
+      "text": "Τὰ κρυπτὰ Κυρίῳ τῷ Θεῷ ἡμῶν, τὰ δὲ φανερὰ ἡμῖν καὶ τοῖς τέκνοις ἡμῶν εἰς τὸν αἰῶνα, ποιεῖν πάντα τὰ ῥήματα τοῦ νόμου τούτου."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "DEU 29:29",
+      "text": "The secret things [belong] to the Lord our God, but the things that are revealed [belong] to us and to our children for ever, to do all the words of this law."
+     }
+    ]
+   }
+  },
+  {
+   "id": "deut-31-24",
+   "ref": "Deuteronomy 31:24-26",
+   "kjv": "DEU 31:24-26",
+   "speaker": "mediator",
+   "role": "means",
+   "categories": [
+    "inscripturation",
+    "custody"
+   ],
+   "object": "the book of the law",
+   "claim": "Moses writes the law in a book \"until they were finished\" and has the Levites lay it beside the ark as a witness.",
+   "mt_lxx": "The Greek reads \"all the words\" and \"even to the end\" (ἕως εἰς τέλος) for the Hebrew \"until they were finished\" (עַד תֻּמָּם).",
+   "notes": "Custody of the written text is assigned to the Levites and its place is the sanctuary.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "DEU 31:24",
+      "text": "וַיְהִי ׀ כְּכַלּוֹת מֹשֶׁה לִכְתֹּב אֶת־דִּבְרֵי הַתּוֹרָֽה־הַזֹּאת עַל־סֵפֶר עַד תֻּמָּֽם׃"
+     },
+     {
+      "ref": "DEU 31:25",
+      "text": "וַיְצַו מֹשֶׁה אֶת־הַלְוִיִּם נֹשְׂאֵי אֲרוֹן בְּרִית־יְהוָה לֵאמֹֽר׃"
+     },
+     {
+      "ref": "DEU 31:26",
+      "text": "לָקֹחַ אֵת סֵפֶר הַתּוֹרָה הַזֶּה וְשַׂמְתֶּם אֹתוֹ מִצַּד אֲרוֹן בְּרִית־יְהוָה אֱלֹהֵיכֶם וְהָֽיָה־שָׁם בְּךָ לְעֵֽד׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "DEU 31:24",
+      "text": "¶ And it came to pass, when Moses had made an end of writing the words of this law in a book, until they were finished,"
+     },
+     {
+      "ref": "DEU 31:25",
+      "text": "That Moses commanded the Levites, which bare the ark of the covenant of the LORD, saying,"
+     },
+     {
+      "ref": "DEU 31:26",
+      "text": "Take this book of the law, and put it in the side of the ark of the covenant of the LORD your God, that it may be there for a witness against thee."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "DEU 31:24",
+      "text": "Ἡνίκα δὲ συνετέλεσε Μωυσῆς γράφων πάντας τοὺς λόγους τοῦ νόμου τούτου εἰς βιβλίον ἕως εἰς τέλος,"
+     },
+     {
+      "ref": "DEU 31:25",
+      "text": "καὶ ἐνετείλατο τοῖς Λευίταις τοῖς αἴρουσι τὴν κιβωτὸν τῆς διαθήκης Κυρίου, λέγων,"
+     },
+     {
+      "ref": "DEU 31:26",
+      "text": "λαβόντες τὸ βιβλίον τοῦ νόμου τούτου, θήσετε αὐτὸ ἐκ πλαγίων τῆς κιβωτοῦ τῆς διαθήκης Κυρίου τοῦ Θεοῦ ὑμῶν· καὶ ἔσται ἐκεῖ ἐν σοὶ εἰς μαρτύριον."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "DEU 31:24",
+      "text": "And when Moses finished writing all the words of this law in a book, even to the end,"
+     },
+     {
+      "ref": "DEU 31:25",
+      "text": "then he charged the Levites who bear the ark of the covenant of the Lord, saying,"
+     },
+     {
+      "ref": "DEU 31:26",
+      "text": "Take the book of this law, and ye shall put it in the side of the ark of the covenant of the Lord your God; and it shall be there among you for a testimony."
+     }
+    ]
+   }
+  },
+  {
+   "id": "josh-1-8",
+   "ref": "Joshua 1:8",
+   "kjv": "JOS 1:8",
+   "speaker": "god",
+   "role": "command",
+   "categories": [
+    "transmission"
+   ],
+   "object": "the book of the law",
+   "claim": "This book of the law shall not depart (לֹא־יָמוּשׁ / οὐκ ἀποστήσεται) out of thy mouth.",
+   "mt_lxx": "Substantially the same. The Greek adds \"and then thou shalt understand\" for \"then thou shalt have good success\" (תַּשְׂכִּיל, which can mean either).",
+   "notes": "A command to Joshua, not a promise; the verb is the one God uses as a\npromise in Isaiah 59:21 (\"shall not depart out of thy mouth\").\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "JOS 1:8",
+      "text": "לֹֽא־יָמוּשׁ סֵפֶר הַתּוֹרָה הַזֶּה מִפִּיךָ וְהָגִיתָ בּוֹ יוֹמָם וָלַיְלָה לְמַעַן תִּשְׁמֹר לַעֲשׂוֹת כְּכָל־הַכָּתוּב בּוֹ כִּי־אָז תַּצְלִיחַ אֶת־דְּרָכֶךָ וְאָז תַּשְׂכִּֽיל׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "JOS 1:8",
+      "text": "This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "JOS 1:8",
+      "text": "Καὶ οὐκ ἀποστήσεται ἡ βίβλος τοῦ νόμου τούτου ἐκ τοῦ στόματός σου, καὶ μελετήσεις ἐν αὐτῇ ἡμέρας καὶ νυκτὸς, ἵνα εἰδῇς ποιεῖν πάντα τὰ γεγραμμένα· τότε εὐοδωθήσῃ, καὶ εὐοδώσεις τὰς ὁδούς σου, καὶ τότε συνήσεις."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "JOS 1:8",
+      "text": "And the book of this law shall not depart out of thy mouth, and thou shalt meditate in it day and night, that thou mayest know how to do all the things that are written [in it]; then shalt thou prosper, and make thy ways prosperous, and then shalt thou be wise."
+     }
+    ]
+   }
+  },
+  {
+   "id": "josh-21-45",
+   "ref": "Joshua 21:45; 23:14",
+   "kjv": "JOS 21:45, JOS 23:14",
+   "speaker": "narrator",
+   "role": "claim",
+   "categories": [
+    "fulfilment"
+   ],
+   "object": "the good things the LORD spoke",
+   "claim": "There failed not ought of any good thing the LORD had spoken; all came to pass.",
+   "mt_lxx": "The Hebrew idiom is \"not a word fell\" (לֹא־נָפַל דָּבָר). The Greek renders\nit \"there fell not\" (οὐ διέπεσεν, 21:45; οὐκ ἔπεσεν εἷς λόγος, 23:14) and\nadds in 23:14 \"not one of them was discordant\" (οὐ διεφώνησεν). 23:14 is\nJoshua's own speech.\n",
+   "nt_use": [
+    "LUK 16:17"
+   ],
+   "notes": "The \"falling\" idiom for failure is the background of Luke 16:17 (\"one tittle of the law to fall\", πεσεῖν).",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "JOS 21:45",
+      "text": "לֹֽא־נָפַל דָּבָר מִכֹּל הַדָּבָר הַטּוֹב אֲשֶׁר־דִּבֶּר יְהוָה אֶל־בֵּית יִשְׂרָאֵל הַכֹּל בָּֽא׃"
+     },
+     {
+      "ref": "JOS 23:14",
+      "text": "וְהִנֵּה אָנֹכִי הוֹלֵךְ הַיּוֹם בְּדֶרֶךְ כָּל־הָאָרֶץ וִידַעְתֶּם בְּכָל־לְבַבְכֶם וּבְכָל־נַפְשְׁכֶם כִּי לֹֽא־נָפַל דָּבָר אֶחָד מִכֹּל ׀ הַדְּבָרִים הַטּוֹבִים אֲשֶׁר דִּבֶּר יְהוָה אֱלֹהֵיכֶם עֲלֵיכֶם הַכֹּל בָּאוּ לָכֶם לֹֽא־נָפַל מִמֶּנּוּ דָּבָר אֶחָֽד׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "JOS 21:45",
+      "text": "There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass."
+     },
+     {
+      "ref": "JOS 23:14",
+      "text": "And, behold, this day I [am] going the way of all the earth: and ye know in all your hearts and in all your souls, that not one thing hath failed of all the good things which the LORD your God spake concerning you; all are come to pass unto you, [and] not one thing hath failed thereof."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "JOS 21:45",
+      "text": "Οὐ διέπεσεν ἀπὸ πάντων τῶν ῥημάτων τῶν καλῶν, ὧν ἐλάλησε Κύριος τοῖς υἱοῖς Ἰσραὴλ· πάντα παρεγένετο."
+     },
+     {
+      "ref": "JOS 23:14",
+      "text": "Ἐγὼ δὲ ἀποτρέχω τὴν ὁδὸν, καθὰ καὶ πάντες οἱ ἐπὶ τῆς γῆς· καὶ γνώσεσθε τῇ καρδίᾳ ὑμῶν καὶ τῇ ψυχῇ ὑμῶν, διότι οὐκ ἔπεσεν εἷς λόγος ἀπὸ πάντων τῶν λόγων, ὧν εἶπε Κύριος ὁ Θεὸς ἡμῶν πρὸς πάντα τὰ ἀνήκοντα ἡμῖν, οὐ διεφώνησεν ἐξ αὐτῶν."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "JOS 21:45",
+      "text": "There failed not one of the good things which the Lord spoke to the children of Israel; all came to pass."
+     },
+     {
+      "ref": "JOS 23:14",
+      "text": "But I hasten to go the way [of death], as all that are upon the earth also [do]: and know ye in your heart and in your soul, that not one word has fallen [to the ground] of all the words which the Lord our God has spoken respecting all that concerns us; there has not one of them failed."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1sam-3-19",
+   "ref": "1 Samuel 3:19",
+   "kjv": "1SA 3:19",
+   "speaker": "narrator",
+   "role": "claim",
+   "categories": [
+    "fulfilment"
+   ],
+   "object": "Samuel's words (as the LORD's prophet)",
+   "claim": "The LORD let none of his words fall to the ground.",
+   "mt_lxx": "The Hebrew is causative, with the LORD as subject: \"he let none of his\nwords fall\" (וְלֹא־הִפִּיל). The Greek is intransitive: \"there fell not\nany of his words to the ground\" (οὐκ ἔπεσεν).\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "1SA 3:19",
+      "text": "וַיִּגְדַּל שְׁמוּאֵל וַֽיהוָה הָיָה עִמּוֹ וְלֹֽא־הִפִּיל מִכָּל־דְּבָרָיו אָֽרְצָה׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "1SA 3:19",
+      "text": "¶ And Samuel grew, and the LORD was with him, and did let none of his words fall to the ground."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "1SA 3:19",
+      "text": "Καὶ ἐμεγαλύνθη Σαμουὴλ, καὶ ἦν Κύριος μετʼ αὐτοῦ, καὶ οὐκ ἔπεσεν ἀπὸ πάντων τῶν λόγων αὐτοῦ ἐπὶ τὴν γῆν."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "1SA 3:19",
+      "text": "And Samuel grew, and the Lord was with him, and there did not fall one of his words to the ground."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1kgs-8-56",
+   "ref": "1 Kings 8:56",
+   "kjv": "1KI 8:56",
+   "speaker": "other",
+   "role": "claim",
+   "categories": [
+    "fulfilment"
+   ],
+   "object": "all God's good promise by Moses",
+   "claim": "There hath not failed one word of all his good promise.",
+   "mt_lxx": "The Hebrew again has \"not one word fell\" (לֹא־נָפַל דָּבָר אֶחָד); the Greek\nhas \"not one word was discordant\" (οὐ διεφώνησε λόγος εἷς).\nBrenton's Greek book is 3 Kingdoms.\n",
+   "notes": "Solomon is the speaker, at the dedication of the temple.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "1KI 8:56",
+      "text": "בָּרוּךְ יְהוָה אֲשֶׁר נָתַן מְנוּחָה לְעַמּוֹ יִשְׂרָאֵל כְּכֹל אֲשֶׁר דִּבֵּר לֹֽא־נָפַל דָּבָר אֶחָד מִכֹּל דְּבָרוֹ הַטּוֹב אֲשֶׁר דִּבֶּר בְּיַד מֹשֶׁה עַבְדּֽוֹ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "1KI 8:56",
+      "text": "Blessed [be] the LORD, that hath given rest unto his people Israel, according to all that he promised: there hath not failed one word of all his good promise, which he promised by the hand of Moses his servant."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "1KI 8:56",
+      "text": "εὐλογητὸς Κύριος σήμερον ὃς ἔδωκε κατάπαυσιν τῷ λαῷ αὐτοῦ Ἰσραὴλ, κατὰ πάντα ὅσα ἐλάλησεν· οὐ διεφώνησε λόγος εἷς ἐν πᾶσι τοῖς λόγοις αὐτοῦ τοῖς ἀγαθοῖς οἷς ἐλάλησεν ἐν χειρὶ δούλου αὐτοῦ Μωυσῆ."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "1KI 8:56",
+      "text": "Blessed [be] the Lord this day, who has given rest to his people Israel, according to all that he said: there has not failed one word among all his good words which he spoke by the hand of his servant Moses."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2kgs-10-10",
+   "ref": "2 Kings 10:10",
+   "kjv": "2KI 10:10",
+   "speaker": "other",
+   "role": "claim",
+   "categories": [
+    "fulfilment"
+   ],
+   "object": "the word of the LORD against Ahab's house",
+   "claim": "There shall fall unto the earth nothing of the word of the LORD.",
+   "mt_lxx": "Same sense. The Greek leaves the Hebrew particle אֵפוֹא untranslated, as\nthe transliteration ἀφφώ, a sign of a translator following his Hebrew word\nby word.\n",
+   "notes": "Jehu is the speaker, justifying the slaughter of Ahab's house.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "2KI 10:10",
+      "text": "דְּעוּ אֵפוֹא כִּי לֹא יִפֹּל מִדְּבַר יְהוָה אַרְצָה אֲשֶׁר־דִּבֶּר יְהוָה עַל־בֵּית אַחְאָב וַיהוָה עָשָׂה אֵת אֲשֶׁר דִּבֶּר בְּיַד עַבְדּוֹ אֵלִיָּֽהוּ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "2KI 10:10",
+      "text": "Know now that there shall fall unto the earth nothing of the word of the LORD, which the LORD spake concerning the house of Ahab: for the LORD hath done [that] which he spake by his servant Elijah."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "2KI 10:10",
+      "text": "Ἴδετε ἀφφὼ, ὅτι οὐ πεσεῖται ἀπὸ τοῦ ῥήματος Κυρίου εἰς τὴν γῆν οὗ ἐλάλησε Κύριος ἐπὶ τὸν οἶκον Ἀχαάβ· καὶ Κύριος ἐποίησεν ὅσα ἐλάλησεν ἐν χειρὶ δούλου αὐτοῦ Ἠλιού."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "2KI 10:10",
+      "text": "See now that there shall not fall to the ground anything of the word of the Lord which the Lord spoke against the house of Achaab: for the Lord has performed all that he spoke of by the hand of his servant Eliu."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2sam-22-31",
+   "ref": "2 Samuel 22:31; Psalm 18:30",
+   "kjv": "2SA 22:31, PSA 18:30",
+   "mt": "2SA 22:31, PSA 18:31",
+   "lxx": "2SA 22:31, PSA 17:31",
+   "speaker": "psalmist",
+   "role": "claim",
+   "categories": [
+    "purity"
+   ],
+   "object": "the word of the LORD",
+   "claim": "The word of the LORD is tried (צְרוּפָה, refined as metal).",
+   "mt_lxx": "The Hebrew has the singular \"word\" (אִמְרַת) in both places. The Greek of\nPsalm 17:31 has the plural \"oracles\" (τὰ λόγια … πεπυρωμένα); the Greek of\n2 Samuel adds \"strong\": \"the word of the Lord is strong, tried\" (κραταιὸν\nπεπυρωμένον).\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "2SA 22:31",
+      "text": "הָאֵל תָּמִים דַּרְכּוֹ אִמְרַת יְהוָה צְרוּפָה מָגֵן הוּא לְכֹל הַחֹסִים בּֽוֹ׃"
+     },
+     {
+      "ref": "PSA 18:31",
+      "text": "הָאֵל תָּמִים דַּרְכּוֹ אִמְרַֽת־יְהוָה צְרוּפָה מָגֵן הוּא לְכֹל ׀ הַחֹסִים בּֽוֹ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "2SA 22:31",
+      "text": "[As for] God, his way [is] perfect; the word of the LORD [is] tried: he [is] a buckler to all them that trust in him."
+     },
+     {
+      "ref": "PSA 18:30",
+      "text": "[As for] God, his way [is] perfect: the word of the LORD is tried: he [is] a buckler to all those that trust in him."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "2SA 22:31",
+      "text": "Ὁ ἰσχυρὸς ἄμωμος ἡ ὁδὸς αὐτοῦ· τὸ ῥῆμα Κυρίου κραταιὸν πεπυρωμένον· ὑπερασπιστής ἐστι πᾶσι τοῖς πεποιθόσιν ἐπʼ αὐτόν."
+     },
+     {
+      "ref": "PSA 17:31",
+      "text": "Ὁ Θεός μου, ἄμωμος ἡ ὁδὸς αὐτοῦ, τὰ λόγια Κυρίου πεπυρωμένα, ὑπερασπιστής ἐστι πάντων τῶν ἐλπιζόντων ἐπʼ αὐτόν."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "2SA 22:31",
+      "text": "As for the Mighty One, his way [is] blameless: the word of the Lord [is] strong [and] tried in the fire: he is a protector to all that put their trust in him."
+     },
+     {
+      "ref": "PSA 17:31",
+      "text": "[As for] my God, his way is perfect: the oracles of the Lord are tried in the fire; he is a protector of all them that hope in him."
+     }
+    ]
+   }
+  },
+  {
+   "id": "ps-12-6",
+   "ref": "Psalm 12:6-7",
+   "kjv": "PSA 12:6-7",
+   "mt": "PSA 12:7-8",
+   "lxx": "PSA 11:7-8",
+   "speaker": "psalmist",
+   "role": "claim",
+   "categories": [
+    "purity",
+    "transmission"
+   ],
+   "object": "the words of the LORD; and \"them\" (contested)",
+   "claim": "The words of the LORD are pure words, silver tried seven times. Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever.",
+   "mt_lxx": "The sharpest contrast in the collection.\n\n- **Hebrew** (12:8): אַתָּה־יְהוָה תִּשְׁמְרֵם תִּצְּרֶנּוּ — \"Thou, LORD,\n  wilt keep *them*; thou wilt preserve *him* (or *it*).\" The first suffix\n  is masculine plural; the second is singular.\n- **Greek** (11:8): Σὺ Κύριε φυλάξεις ἡμᾶς καὶ διατηρήσεις ἡμᾶς — \"Thou,\n  O Lord, shalt keep *us*, and shalt preserve *us*.\"\n\nThe Greek therefore makes the psalm a prayer for the preservation of the\nfaithful, not of the words. In the Hebrew, \"words\" (אִמֲרוֹת, v. 7) is\nfeminine plural, and the masculine \"them\" more naturally takes up \"the\npoor\" and \"the needy\" of verse 6 (5 in English), whom God has just\npromised to set in safety; but Hebrew does not always keep gender\nagreement, which is why the verse has also been read of the words.\n**[inferred]** The\ngrammar favours the poor; the Greek takes the same line, with a\nfirst-person \"us\".\n",
+   "notes": "The Westminster Larger Catechism (Q. 4) cites Psalm 12:6 for the\n\"purity\" of Scripture, meaning its content, not its transmission. Verse 6\n(7 in the Hebrew) itself is about purity, not preservation.\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "PSA 12:7",
+      "text": "אִֽמֲרוֹת יְהוָה אֲמָרוֹת טְהֹרוֹת כֶּסֶף צָרוּף בַּעֲלִיל לָאָרֶץ מְזֻקָּק שִׁבְעָתָֽיִם׃"
+     },
+     {
+      "ref": "PSA 12:8",
+      "text": "אַתָּֽה־יְהוָה תִּשְׁמְרֵם תִּצְּרֶנּוּ ׀ מִן־הַדּוֹר זוּ לְעוֹלָֽם׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "PSA 12:6",
+      "text": "The words of the LORD [are] pure words: [as] silver tried in a furnace of earth, purified seven times."
+     },
+     {
+      "ref": "PSA 12:7",
+      "text": "Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "PSA 11:7",
+      "text": "Τὰ λόγια Κυρίου, λόγια ἁγνά· ἀργύριον πεπυρωμένον, δοκίμιον τῇ γῇ, κεκαθαρισμένον ἑπταπλασίως."
+     },
+     {
+      "ref": "PSA 11:8",
+      "text": "Σὺ Κύριε φυλάξεις ἡμᾶς· καὶ διατηρήσεις ἡμᾶς ἀπὸ τῆς γενεᾶς ταύτης, καὶ εἰς τὸν αἰῶνα."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "PSA 11:7",
+      "text": "The oracles of the Lord are pure oracles; as silver tried in the fire, proved [in] a furnace of earth, purified seven times."
+     },
+     {
+      "ref": "PSA 11:8",
+      "text": "Thou, O Lord, shalt keep us, and shalt preserve us, from this generation, and for ever."
+     }
+    ]
+   }
+  },
+  {
+   "id": "ps-19-9",
+   "ref": "Psalm 19:9",
+   "kjv": "PSA 19:9",
+   "mt": "PSA 19:10",
+   "lxx": "PSA 18:10",
+   "speaker": "psalmist",
+   "role": "claim",
+   "categories": [
+    "permanence",
+    "purity"
+   ],
+   "object": "the fear of the LORD (here a name for his law)",
+   "claim": "The fear of the LORD is clean, enduring for ever; the judgments of the LORD are true.",
+   "mt_lxx": "The Hebrew \"standing for ever\" (עוֹמֶדֶת לָעַד) becomes \"enduring for ever and ever\" (διαμένων εἰς αἰῶνα αἰῶνος).",
+   "notes": "\"Fear of the LORD\" stands in a series with law, testimony, statutes, commandment and judgments (19:7–9), so it names the law as the thing feared. [inferred]",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "PSA 19:10",
+      "text": "יִרְאַת יְהוָה ׀ טְהוֹרָה עוֹמֶדֶת לָעַד מִֽשְׁפְּטֵי־יְהוָה אֱמֶת צָֽדְקוּ יַחְדָּֽו׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "PSA 19:9",
+      "text": "The fear of the LORD [is] clean, enduring for ever: the judgments of the LORD [are] true [and] righteous altogether."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "PSA 18:10",
+      "text": "Ὁ φόβος Κυρίου ἁγνὸς διαμένων εἰς αἰῶνα αἰῶνος, τὰ κρίματα Κυρίου ἀληθινὰ δεδικαιωμένα ἐπὶ τὸ αὐτό·"
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "PSA 18:10",
+      "text": "The fear of the Lord is pure, enduring for ever and ever: the judgments of the Lord are true, [and] justified altogether."
+     }
+    ]
+   }
+  },
+  {
+   "id": "ps-33-11",
+   "ref": "Psalm 33:11",
+   "kjv": "PSA 33:11",
+   "lxx": "PSA 32:11",
+   "speaker": "psalmist",
+   "role": "claim",
+   "categories": [
+    "permanence"
+   ],
+   "object": "the counsel of the LORD",
+   "claim": "The counsel of the LORD standeth for ever.",
+   "mt_lxx": "The Hebrew \"stands\" (תַּעֲמֹד) becomes \"abides\" (μένει), the verb of Isaiah 40:8 in the Greek and of 1 Peter 1:23–25.",
+   "notes": "About God's purpose rather than his spoken or written word; included because the Greek puts it in the same terms as the word passages.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "PSA 33:11",
+      "text": "עֲצַת יְהוָה לְעוֹלָם תַּעֲמֹד מַחְשְׁבוֹת לִבּוֹ לְדֹר וָדֹֽר׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "PSA 33:11",
+      "text": "The counsel of the LORD standeth for ever, the thoughts of his heart to all generations."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "PSA 32:11",
+      "text": "Ἡ δὲ βουλὴ τοῦ Κυρίου εἰς τὸν αἰῶνα μένει, λογισμοὶ τῆς καρδίας αὐτοῦ ἀπὸ γενεῶν εἰς γενεάς."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "PSA 32:11",
+      "text": "But the counsel of the Lord endures for ever, the thoughts of his heart from generation to generation."
+     }
+    ]
+   }
+  },
+  {
+   "id": "ps-89-34",
+   "ref": "Psalm 89:34",
+   "kjv": "PSA 89:34",
+   "mt": "PSA 89:35",
+   "lxx": "PSA 88:35",
+   "speaker": "god-through-prophet",
+   "role": "claim",
+   "categories": [
+    "fulfilment"
+   ],
+   "object": "the covenant and \"the thing that is gone out of my lips\"",
+   "claim": "My covenant will I not break, nor alter the thing that is gone out of my lips.",
+   "mt_lxx": "The Hebrew \"I will not alter\" (לֹא אֲשַׁנֶּה) becomes \"I will not set aside\" (οὐ μὴ ἀθετήσω).",
+   "notes": "God speaking in the first person within the psalm (89:19–37), about his oath to David.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "PSA 89:35",
+      "text": "לֹא־אֲחַלֵּל בְּרִיתִי וּמוֹצָא שְׂפָתַי לֹא אֲשַׁנֶּֽה׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "PSA 89:34",
+      "text": "My covenant will I not break, nor alter the thing that is gone out of my lips."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "PSA 88:35",
+      "text": "οὐδὲ μὴ βεβηλώσω τὴν διαθήκην μου, καὶ τὰ ἐκπορευόμενα διὰ τῶν χειλέων μου οὐ μὴ ἀθετήσω."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "PSA 88:35",
+      "text": "Neither will I by any means profane my covenant; and I will not make void the things that proceed out of my lips."
+     }
+    ]
+   }
+  },
+  {
+   "id": "ps-102-18",
+   "ref": "Psalm 102:18",
+   "kjv": "PSA 102:18",
+   "mt": "PSA 102:19",
+   "lxx": "PSA 101:19",
+   "speaker": "psalmist",
+   "role": "means",
+   "categories": [
+    "inscripturation"
+   ],
+   "object": "this (the record of God's deliverance)",
+   "claim": "This shall be written for the generation to come.",
+   "mt_lxx": "The same; the Greek is a jussive, \"let this be written for another generation\" (Γραφήτω).",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "PSA 102:19",
+      "text": "תִּכָּתֶב זֹאת לְדוֹר אַחֲרוֹן וְעַם נִבְרָא יְהַלֶּל־יָֽהּ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "PSA 102:18",
+      "text": "This shall be written for the generation to come: and the people which shall be created shall praise the LORD."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "PSA 101:19",
+      "text": "Γραφήτω αὕτη εἰς γενεὰν ἑτέραν, καὶ λαὸς ὁ κτιζόμενος αἰνέσει τὸν Κύριον."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "PSA 101:19",
+      "text": "Let this be written for another generation; and the people that shall be created shall praise the Lord."
+     }
+    ]
+   }
+  },
+  {
+   "id": "ps-105-8",
+   "ref": "Psalm 105:8; 1 Chronicles 16:15",
+   "kjv": "PSA 105:8, 1CH 16:15",
+   "lxx": "PSA 104:8, 1CH 16:15",
+   "speaker": "psalmist",
+   "role": "claim",
+   "categories": [
+    "permanence"
+   ],
+   "object": "the covenant, \"the word which he commanded\"",
+   "claim": "He hath remembered his covenant for ever, the word which he commanded to a thousand generations.",
+   "mt_lxx": "The same; \"word\" is λόγος in both Greek places. In 1 Chronicles the people are told to remember (μνημονεύωμεν, \"let us remember\").",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "PSA 105:8",
+      "text": "זָכַר לְעוֹלָם בְּרִיתוֹ דָּבָר צִוָּה לְאֶלֶף דּֽוֹר׃"
+     },
+     {
+      "ref": "1CH 16:15",
+      "text": "זִכְרוּ לְעוֹלָם בְּרִיתוֹ דָּבָר צִוָּה לְאֶלֶף דּֽוֹר׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "PSA 105:8",
+      "text": "He hath remembered his covenant for ever, the word [which] he commanded to a thousand generations."
+     },
+     {
+      "ref": "1CH 16:15",
+      "text": "Be ye mindful always of his covenant; the word [which] he commanded to a thousand generations;"
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "PSA 104:8",
+      "text": "Ἐμνήσθη εἰς τὸν αἰῶνα διαθήκης αὐτοῦ, λόγου οὗ ἐνετείλατο εἰς χιλίας γενεὰς,"
+     },
+     {
+      "ref": "1CH 16:15",
+      "text": "Μνημονεύωμεν εἰς αἰῶνα διαθήκης αὐτοῦ, λόγον αὐτοῦ ὃν ἐνετείλατο εἰς χιλίας γενεὰς,"
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "PSA 104:8",
+      "text": "He has remembered his covenant for ever, the word which he commanded for a thousand generations:"
+     },
+     {
+      "ref": "1CH 16:15",
+      "text": "Let us remember his covenant for ever, his word which he commanded to a thousand generations,"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ps-111-7",
+   "ref": "Psalm 111:7-8",
+   "kjv": "PSA 111:7-8",
+   "lxx": "PSA 110:7-8",
+   "speaker": "psalmist",
+   "role": "claim",
+   "categories": [
+    "permanence"
+   ],
+   "object": "all his commandments",
+   "claim": "All his commandments are sure; they stand fast for ever and ever.",
+   "mt_lxx": "The Hebrew \"upheld for ever and ever\" (סְמוּכִים לָעַד לְעוֹלָם) becomes \"established for ever and ever\" (ἐστηριγμέναι).",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "PSA 111:7",
+      "text": "מַעֲשֵׂי יָדָיו אֱמֶת וּמִשְׁפָּט נֶאֱמָנִים כָּל־פִּקּוּדָֽיו ׃"
+     },
+     {
+      "ref": "PSA 111:8",
+      "text": "סְמוּכִים לָעַד לְעוֹלָם עֲשׂוּיִם בֶּאֱמֶת וְיָשָֽׁר׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "PSA 111:7",
+      "text": "The works of his hands [are] verity and judgment; all his commandments [are] sure."
+     },
+     {
+      "ref": "PSA 111:8",
+      "text": "They stand fast for ever and ever, [and are] done in truth and uprightness."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "PSA 110:7",
+      "text": "Ἔργα χειρῶν αὐτοῦ, ἀλήθεια καὶ κρίσις· πισταὶ πᾶσαι αἱ ἐντολαὶ αὐτοῦ,"
+     },
+     {
+      "ref": "PSA 110:8",
+      "text": "ἐστηριγμέναι εἰς τὸν αἰῶνα τοῦ αἰῶνος, πεποιημέναι ἐν ἀληθείᾳ καὶ εὐθύτητι."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "PSA 110:7",
+      "text": "The works of his hands are truth and judgment: all his commandments are sure:"
+     },
+     {
+      "ref": "PSA 110:8",
+      "text": "established for ever and ever, done in truth and uprightness."
+     }
+    ]
+   }
+  },
+  {
+   "id": "ps-117-2",
+   "ref": "Psalm 117:2",
+   "kjv": "PSA 117:2",
+   "lxx": "PSA 116:2",
+   "speaker": "psalmist",
+   "role": "claim",
+   "categories": [
+    "permanence"
+   ],
+   "object": "the truth of the LORD",
+   "claim": "The truth of the LORD endureth for ever.",
+   "mt_lxx": "The Hebrew has no verb (\"the truth of the LORD is for ever\"); the Greek supplies \"abides\" (μένει), again the verb of Isaiah 40:8 in the Greek.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "PSA 117:2",
+      "text": "כִּי גָבַר עָלֵינוּ ׀ חַסְדּוֹ וֶֽאֱמֶת־יְהוָה לְעוֹלָם הַֽלְלוּ־יָֽהּ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "PSA 117:2",
+      "text": "For his merciful kindness is great toward us: and the truth of the LORD [endureth] for ever. Praise ye the LORD."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "PSA 116:2",
+      "text": "Ὅτι ἐκραταιώθη τὸ ἔλεος αὐτοῦ ἐφʼ ἡμᾶς, καὶ ἡ ἀλήθεια τοῦ Κυρίου μένει εἰς τὸν αἰῶνα."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "PSA 116:2",
+      "text": "For his mercy has been abundant toward us: and the truth of the Lord endures for ever."
+     }
+    ]
+   }
+  },
+  {
+   "id": "ps-119-89",
+   "ref": "Psalm 119:89-91",
+   "kjv": "PSA 119:89-91",
+   "lxx": "PSA 118:89-91",
+   "speaker": "psalmist",
+   "role": "claim",
+   "categories": [
+    "permanence"
+   ],
+   "object": "thy word",
+   "claim": "For ever, O LORD, thy word is settled in heaven.",
+   "mt_lxx": "The Hebrew \"stands firm\" (נִצָּב) becomes \"abides\" (διαμένει), and the Greek repeats διαμένει of the earth (v. 90) and the day (v. 91).",
+   "notes": "The word is said to stand \"in heaven\". The verse locates the word's\npermanence with God, not in a copy on earth. **[inferred]**\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "PSA 119:89",
+      "text": "לְעוֹלָם יְהוָה דְּבָרְךָ נִצָּב בַּשָּׁמָֽיִם׃"
+     },
+     {
+      "ref": "PSA 119:90",
+      "text": "לְדֹר וָדֹר אֱמֽוּנָתֶךָ כּוֹנַנְתָּ אֶרֶץ וַֽתַּעֲמֹֽד׃"
+     },
+     {
+      "ref": "PSA 119:91",
+      "text": "לְֽמִשְׁפָּטֶיךָ עָמְדוּ הַיּוֹם כִּי הַכֹּל עֲבָדֶֽיךָ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "PSA 119:89",
+      "text": "For ever, O LORD, thy word is settled in heaven."
+     },
+     {
+      "ref": "PSA 119:90",
+      "text": "Thy faithfulness [is] unto all generations: thou hast established the earth, and it abideth."
+     },
+     {
+      "ref": "PSA 119:91",
+      "text": "They continue this day according to thine ordinances: for all [are] thy servants."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "PSA 118:89",
+      "text": "Εἰς τὸν αἰῶνα, Κύριε, ὁ λόγος σου διαμένει ἐν τῷ οὐρανῷ,"
+     },
+     {
+      "ref": "PSA 118:90",
+      "text": "εἰς γενεὰν καὶ γενεὰν ἡ ἀλήθειά σου· ἐθεμελίωσας τὴν γῆν καὶ διαμένει."
+     },
+     {
+      "ref": "PSA 118:91",
+      "text": "Τῇ διατάξει σου διαμένει ἡμέρα, ὅτι τὰ σύμπαντα δοῦλα σά."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "PSA 118:89",
+      "text": "Thy word, O Lord, abides in heaven for ever."
+     },
+     {
+      "ref": "PSA 118:90",
+      "text": "Thy truth [endures] to all generations; thou hast founded the earth, and it abides."
+     },
+     {
+      "ref": "PSA 118:91",
+      "text": "The day continues by thy arrangement; for all things are thy servants."
+     }
+    ]
+   }
+  },
+  {
+   "id": "ps-119-140",
+   "ref": "Psalm 119:140",
+   "kjv": "PSA 119:140",
+   "lxx": "PSA 118:140",
+   "speaker": "psalmist",
+   "role": "claim",
+   "categories": [
+    "purity"
+   ],
+   "object": "thy word",
+   "claim": "Thy word is very pure.",
+   "mt_lxx": "The Hebrew \"refined\" (צְרוּפָה) is the Greek \"tried in the fire\" (πεπυρωμένον), as in Psalm 18:30.",
+   "notes": "Cited with Psalm 12:6 by the Westminster Larger Catechism (Q. 4) for the purity of Scripture.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "PSA 119:140",
+      "text": "צְרוּפָה אִמְרָתְךָ מְאֹד וְֽעַבְדְּךָ אֲהֵבָֽהּ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "PSA 119:140",
+      "text": "Thy word [is] very pure: therefore thy servant loveth it."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "PSA 118:140",
+      "text": "Πεπυρωμένον τὸ λόγιόν σου σφόδρα, καὶ ὁ δοῦλός σου ἠγάπησεν αὐτό."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "PSA 118:140",
+      "text": "Thy word [has been] very fully tried; and thy servant loves it."
+     }
+    ]
+   }
+  },
+  {
+   "id": "ps-119-152",
+   "ref": "Psalm 119:152, 160",
+   "kjv": "PSA 119:152, PSA 119:160",
+   "lxx": "PSA 118:152, PSA 118:160",
+   "speaker": "psalmist",
+   "role": "claim",
+   "categories": [
+    "permanence"
+   ],
+   "object": "thy testimonies; thy righteous judgments",
+   "claim": "Thy testimonies thou hast founded for ever; every one of thy righteous judgments endureth for ever.",
+   "mt_lxx": "Close. In 160 the Hebrew \"the sum (רֹאשׁ, head) of thy word is truth\"\n(KJV \"from the beginning\") is the Greek \"the beginning (Ἀρχὴ) of thy words\nis truth\".\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "PSA 119:152",
+      "text": "קֶדֶם יָדַעְתִּי מֵעֵדֹתֶיךָ כִּי לְעוֹלָם יְסַדְתָּֽם׃"
+     },
+     {
+      "ref": "PSA 119:160",
+      "text": "רֹאשׁ־דְּבָרְךָ אֱמֶת וּלְעוֹלָם כָּל־מִשְׁפַּט צִדְקֶֽךָ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "PSA 119:152",
+      "text": "Concerning thy testimonies, I have known of old that thou hast founded them for ever."
+     },
+     {
+      "ref": "PSA 119:160",
+      "text": "Thy word [is] true [from] the beginning: and every one of thy righteous judgments [endureth] for ever."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "PSA 118:152",
+      "text": "Κατʼ ἀρχὰς ἔγνων ἐκ τῶν μαρτυρίων σου, ὅτι εἰς τὸν αἰῶνα ἐθεμελίωσας αὐτά."
+     },
+     {
+      "ref": "PSA 118:160",
+      "text": "Ἀρχὴ τῶν λόγων σου ἀλήθεια, καὶ εἰς τὸν αἰῶνα πάντα τὰ κρίματα τῆς δικαιοσύνης σου."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "PSA 118:152",
+      "text": "I have known of old concerning thy testimonies, that thou hast founded them for ever."
+     },
+     {
+      "ref": "PSA 118:160",
+      "text": "The beginning of thy words is truth; and all the judgments of thy righteousness [endure] for ever."
+     }
+    ]
+   }
+  },
+  {
+   "id": "ps-138-2",
+   "ref": "Psalm 138:2",
+   "kjv": "PSA 138:2",
+   "lxx": "PSA 137:2",
+   "speaker": "psalmist",
+   "role": "claim",
+   "categories": [
+    "exaltation"
+   ],
+   "object": "thy word (Hebrew only)",
+   "claim": "Thou hast magnified thy word above all thy name.",
+   "mt_lxx": "The Hebrew: \"thou hast magnified thy word (אִמְרָתֶךָ) above all thy name.\"\nThe Greek: \"thou hast magnified thy holy name above every thing\"\n(ἐμεγάλυνας ἐπὶ πᾶν τὸ ὄνομα τὸ ἅγιόν σου). The Greek has no \"word\" in the\nclause at all. The well-known English reading rests on the Hebrew alone.\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "PSA 138:2",
+      "text": "אֶשְׁתַּחֲוֶה אֶל־הֵיכַל קָדְשְׁךָ וְאוֹדֶה אֶת־שְׁמֶךָ עַל־חַסְדְּךָ וְעַל־אֲמִתֶּךָ כִּֽי־הִגְדַּלְתָּ עַל־כָּל־שִׁמְךָ אִמְרָתֶֽךָ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "PSA 138:2",
+      "text": "I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "PSA 137:2",
+      "text": "Προσκυνήσω πρὸς ναὸν ἅγιόν σου, καὶ ἐξομολογήσομαι τῷ ὀνόματί σου, ἐπὶ τῷ ἐλέει σου καὶ τῇ ἀληθείᾳ σου· ὅτι ἐμεγάλυνας ἐπὶ πᾶν τὸ ὄνομα τὸ ἅγιόν σου."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "PSA 137:2",
+      "text": "I will worship toward thy holy temple, and give thanks to thy name, on account of thy mercy and thy truth; for thou hast magnified thy holy name above every thing."
+     }
+    ]
+   }
+  },
+  {
+   "id": "ps-145-13",
+   "ref": "Psalm 145:13",
+   "kjv": "PSA 145:13",
+   "lxx": "PSA 144:13",
+   "speaker": "psalmist",
+   "role": "claim",
+   "categories": [
+    "fulfilment"
+   ],
+   "object": "his words (in the line missing from the Hebrew)",
+   "claim": "The LORD is faithful in all his words, and holy in all his works: a line missing from the Masoretic Text.",
+   "mt_lxx": "Psalm 145 is an acrostic, each verse beginning with the next letter of\nthe alphabet, and in the Masoretic Text the line for the letter *nun* is\nmissing between verses 13 and 14. **[context]** The line is present in the\nPsalms Scroll from Qumran (11QPs^a: נאמן אלוהים בדבריו וחסיד בכול\nמעשיו, \"God is faithful in his words and gracious in all his works\") and in\nmany Greek manuscripts (πιστὸς κύριος ἐν τοῖς λόγοις αὐτοῦ καὶ ὅσιος ἐν\nπᾶσι τοῖς ἔργοις αὐτοῦ). It is **absent from Brenton's Greek** as well, which\nfollows Codex Vaticanus here, so neither text below contains it; the\ntexts are given to show the gap. The KJV, following the Hebrew, also\nlacks it.\n",
+   "notes": "A claim about the faithfulness of God's words that is itself attested\nunevenly in the transmitted texts. The companion study\n[preservation-hebrew-and-greek.md](../../analysis/preservation-hebrew-and-greek.md#42-before-the-masoretes-several-hebrew-editions)\ndiscusses it as evidence of more than one Hebrew edition of the Psalms.\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "PSA 145:13",
+      "text": "מַֽלְכוּתְךָ מַלְכוּת כָּל־עֹֽלָמִים וּמֶֽמְשֶׁלְתְּךָ בְּכָל־דּוֹר וָדֽוֹר׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "PSA 145:13",
+      "text": "Thy kingdom [is] an everlasting kingdom, and thy dominion [endureth] throughout all generations."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "PSA 144:13",
+      "text": "Ἡ βασιλεία σου βασιλεία πάντων τῶν αἰώνων, καὶ ἡ δεσποτία σου ἐν πάσῃ γενεᾷ καὶ γενεᾷ·"
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "PSA 144:13",
+      "text": "Thy kingdom is an everlasting kingdom, and thy dominion [endures] through all generations."
+     }
+    ]
+   }
+  },
+  {
+   "id": "prov-30-5",
+   "ref": "Proverbs 30:5-6",
+   "kjv": "PRO 30:5-6",
+   "lxx": "PRO 24:22k, PRO 24:22l",
+   "speaker": "sage",
+   "role": "command",
+   "categories": [
+    "purity",
+    "no-alteration"
+   ],
+   "object": "every word of God",
+   "claim": "Every word of God is pure; add thou not unto his words, lest he reprove thee, and thou be found a liar.",
+   "mt_lxx": "The sense is the same (\"all the words of God are tried\", πάντες λόγοι\nθεοῦ πεπυρωμένοι; \"add not to his words\", μὴ προσθῇς τοῖς λόγοις αὐτοῦ),\nbut the Greek places the words of Agur in chapter 24, where Brenton numbers\nthem 24:22k–l. The Hebrew \"God\" here is the rare אֱלוֹהַּ.\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "PRO 30:5",
+      "text": "כָּל־אִמְרַת אֱלוֹהַּ צְרוּפָה מָגֵן הוּא לַֽחֹסִים בּֽוֹ׃"
+     },
+     {
+      "ref": "PRO 30:6",
+      "text": "אַל־תּוֹסְףְּ עַל־דְּבָרָיו פֶּן־יוֹכִיחַ בְּךָ וְנִכְזָֽבְתָּ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "PRO 30:5",
+      "text": "Every word of God [is] pure: he [is] a shield unto them that put their trust in him."
+     },
+     {
+      "ref": "PRO 30:6",
+      "text": "Add thou not unto his words, lest he reprove thee, and thou be found a liar."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "PRO 24:22k",
+      "text": "Πάντες γὰρ λόγοι Θεοῦ πεπυρωμένοι, ὑπερασπίζει δὲ αὐτὸς τῶν εὐλαβουμένων αὐτόν."
+     },
+     {
+      "ref": "PRO 24:22l",
+      "text": "Μὴ προσθῇς τοῖς λόγοις αὐτοῦ, ἵνα μὴ ἐλέγξῃ σε, καὶ ψευδὴς γένῃ."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "PRO 24:22k",
+      "text": "For all the words of God are tried in the fire, and he defends those that reverence him."
+     },
+     {
+      "ref": "PRO 24:22l",
+      "text": "Add not unto his words, lest he reprove thee, and thou be made a liar."
+     }
+    ]
+   }
+  },
+  {
+   "id": "isa-8-16",
+   "ref": "Isaiah 8:16, 20",
+   "kjv": "ISA 8:16, ISA 8:20",
+   "speaker": "god-through-prophet",
+   "role": "means",
+   "categories": [
+    "custody"
+   ],
+   "object": "the testimony and the law",
+   "claim": "Bind up the testimony, seal the law among my disciples. To the law and to the testimony; if they speak not according to this word, it is because there is no light in them.",
+   "mt_lxx": "The two texts have different meanings. The Hebrew of 8:16 commands the\ntestimony to be bound and sealed \"among my disciples\" (בְּלִמֻּדָי). The\nGreek reads \"Then shall those who seal up the law, that they may not learn\nit, be made manifest.\" In 8:20 the Greek has \"he has given the law for a\nhelp\", not the Hebrew's appeal \"to the law and to the testimony\".\n",
+   "notes": "Westminster cites 8:20 (WCF 1.1, 1.8; WLC Q. 3) for the appeal to Scripture; that reading depends on the Hebrew.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "ISA 8:16",
+      "text": "צוֹר תְּעוּדָה חֲתוֹם תּוֹרָה בְּלִמֻּדָֽי׃"
+     },
+     {
+      "ref": "ISA 8:20",
+      "text": "לְתוֹרָה וְלִתְעוּדָה אִם־לֹא יֹֽאמְרוּ כַּדָּבָר הַזֶּה אֲשֶׁר אֵֽין־לוֹ שָֽׁחַר׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "ISA 8:16",
+      "text": "Bind up the testimony, seal the law among my disciples."
+     },
+     {
+      "ref": "ISA 8:20",
+      "text": "To the law and to the testimony: if they speak not according to this word, [it is] because [there is] no light in them."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "ISA 8:16",
+      "text": "Τότε φανεροὶ ἔσονται οἱ σφραγιζόμενοι τὸν νόμον τοῦ μὴ μαθεῖν."
+     },
+     {
+      "ref": "ISA 8:20",
+      "text": "Νόμον γὰρ εἰς βοήθειαν ἔδωκεν, ἵνα εἴπωσιν οὐχ ὡς τὸ ῥῆμα τοῦτο, περὶ οὗ οὐκ ἔστι δῶρα δοῦναι περὶ αὐτοῦ."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "ISA 8:16",
+      "text": "Then shall those who seal themselves that they may not learn the law be made manifest."
+     },
+     {
+      "ref": "ISA 8:20",
+      "text": "For he has given the law for a help, that they should not speak according to this word, concerning which there are no gifts to give for it."
+     }
+    ]
+   }
+  },
+  {
+   "id": "isa-30-8",
+   "ref": "Isaiah 30:8",
+   "kjv": "ISA 30:8",
+   "speaker": "god-through-prophet",
+   "role": "means",
+   "categories": [
+    "inscripturation"
+   ],
+   "object": "the prophecy against trust in Egypt",
+   "claim": "Write it in a table, note it in a book, that it may be for the time to come for ever and ever.",
+   "mt_lxx": "The Hebrew consonants לעד are pointed in the Masoretic Text as לָעַד, \"for\never\", giving \"for the latter day, for ever, to eternity\". Read as לְעֵד, the\nsame letters mean \"for a witness\", which many modern versions adopt\n**[context]**. The Greek has \"for many days, and even for ever\" (εἰς\nἡμέρας … καὶ ἕως εἰς τὸν αἰῶνα). The verse is an example of a reading that\nturns on vowels the consonantal text does not carry.\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "ISA 30:8",
+      "text": "עַתָּה בּוֹא כָתְבָהּ עַל־לוּחַ אִתָּם וְעַל־סֵפֶר חֻקָּהּ וּתְהִי לְיוֹם אַחֲרוֹן לָעַד עַד־עוֹלָֽם׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "ISA 30:8",
+      "text": "¶ Now go, write it before them in a table, and note it in a book, that it may be for the time to come for ever and ever:"
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "ISA 30:8",
+      "text": "Νῦν οὖν καθίσας γράψον ἐπὶ πυξίου ταῦτα καὶ εἰς βιβλίον, ὅτι ἔσται εἰς ἡμέρας ταῦτα καιρῷ, καὶ ἕως εἰς τὸν αἰῶνα."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "ISA 30:8",
+      "text": "Now then sit down and write these words on a tablet, and in a book; for these things shall be for [many long] days, and even for ever."
+     }
+    ]
+   }
+  },
+  {
+   "id": "isa-31-2",
+   "ref": "Isaiah 31:2",
+   "kjv": "ISA 31:2",
+   "speaker": "mediator",
+   "role": "claim",
+   "categories": [
+    "fulfilment"
+   ],
+   "object": "his words",
+   "claim": "He will bring evil, and will not call back his words.",
+   "mt_lxx": "The Hebrew \"has not removed (or turned aside) his words\" (לֹא הֵסִיר) becomes \"his word shall not be set aside\" (οὐ μὴ ἀθετηθῇ).",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "ISA 31:2",
+      "text": "וְגַם־הוּא חָכָם וַיָּבֵא רָע וְאֶת־דְּבָרָיו לֹא הֵסִיר וְקָם עַל־בֵּית מְרֵעִים וְעַל־עֶזְרַת פֹּעֲלֵי אָֽוֶן׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "ISA 31:2",
+      "text": "Yet he also [is] wise, and will bring evil, and will not call back his words: but will arise against the house of the evildoers, and against the help of them that work iniquity."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "ISA 31:2",
+      "text": "Καὶ αὐτὸς σοφῶς ἦγεν ἐπʼ αὐτοὺς κακά, καὶ ὁ λόγος αὐτοῦ οὐ μὴ ἀθετηθῇ, καὶ ἐπαναστήσεται ἐπʼ οἴκους ἀνθρώπων πονηρῶν, καὶ ἐπὶ τὴν ἐλπίδα αὐτῶν τὴν ματαίαν,"
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "ISA 31:2",
+      "text": "Therefore he has wisely brought evils upon them, and his word shall not be frustrated; and he shall rise up against the houses of wicked men, and against their vain hope,"
+     }
+    ]
+   }
+  },
+  {
+   "id": "isa-34-16",
+   "ref": "Isaiah 34:16",
+   "kjv": "ISA 34:16",
+   "speaker": "mediator",
+   "role": "claim",
+   "categories": [
+    "fulfilment",
+    "inscripturation"
+   ],
+   "object": "the book of the LORD",
+   "claim": "Seek ye out of the book of the LORD, and read; no one of these shall fail.",
+   "mt_lxx": "The Hebrew tells the reader to \"seek out of the book of the LORD, and\nread\". The Greek has no reference to a book: \"They passed by in number,\nand not one of them perished.\" Only the Hebrew contains the appeal to a\nwritten book.\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "ISA 34:16",
+      "text": "דִּרְשׁוּ מֵֽעַל־סֵפֶר יְהוָה וּֽקְרָאוּ אַחַת מֵהֵנָּה לֹא נֶעְדָּרָה אִשָּׁה רְעוּתָהּ לֹא פָקָדוּ כִּֽי־פִי הוּא צִוָּה וְרוּחוֹ הוּא קִבְּצָֽן׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "ISA 34:16",
+      "text": "¶ Seek ye out of the book of the LORD, and read: no one of these shall fail, none shall want her mate: for my mouth it hath commanded, and his spirit it hath gathered them."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "ISA 34:16",
+      "text": "Ἀριθμῷ παρῆλθον, καὶ μία αὐτῶν οὐκ ἀπώλετο· ἑτέρα τὴν ἑτέραν οὐκ ἐζήτησαν, ὅτι ὁ Κύριος αὐτοῖς ἐνετείλατο, καὶ τὸ πνεῦμα αὐτοῦ συνήγαγεν αὐτά."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "ISA 34:16",
+      "text": "They passed by in [full] number, and not one of them perished: they sought not one another; for the Lord commanded them, and his Spirit gathered them."
+     }
+    ]
+   }
+  },
+  {
+   "id": "isa-40-8",
+   "ref": "Isaiah 40:6-8",
+   "kjv": "ISA 40:6-8",
+   "speaker": "heavenly-voice",
+   "role": "claim",
+   "categories": [
+    "permanence"
+   ],
+   "object": "the word of our God",
+   "claim": "The grass withereth, the flower fadeth; but the word of our God shall stand for ever.",
+   "mt_lxx": "- **Length.** The Greek lacks most of verse 7 (\"because the spirit of the\n  LORD bloweth upon it: surely the people is grass\") and the repetition\n  at the start of verse 8. It reads simply: \"the grass withered, and the\n  flower fell; but the word of our God abides for ever.\"\n- **Verse 6.** The Hebrew \"all its goodliness\" (חַסְדּוֹ) is the Greek \"all\n  the glory of man\" (πᾶσα δόξα ἀνθρώπου).\n- **The verb.** The Hebrew \"shall stand\" (יָקוּם) is the Greek \"abides\"\n  (μένει).\n",
+   "nt_use": [
+    "1PE 1:24-25"
+   ],
+   "notes": "The voice of 40:6 is unidentified (\"the voice said, Cry\"), within an oracle\nintroduced as God's (40:1). 1 Peter 1:24–25 quotes the Greek, not the\nHebrew: it has the shorter text, \"glory\", and \"abides\". See the\n1 Peter entry for how the Greek New Testament editions differ on this.\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "ISA 40:6",
+      "text": "קוֹל אֹמֵר קְרָא וְאָמַר מָה אֶקְרָא כָּל־הַבָּשָׂר חָצִיר וְכָל־חַסְדּוֹ כְּצִיץ הַשָּׂדֶֽה׃"
+     },
+     {
+      "ref": "ISA 40:7",
+      "text": "יָבֵשׁ חָצִיר נָבֵֽל צִיץ כִּי רוּחַ יְהוָה נָשְׁבָה בּוֹ אָכֵן חָצִיר הָעָֽם׃"
+     },
+     {
+      "ref": "ISA 40:8",
+      "text": "יָבֵשׁ חָצִיר נָבֵֽל צִיץ וּדְבַר־אֱלֹהֵינוּ יָקוּם לְעוֹלָֽם׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "ISA 40:6",
+      "text": "The voice said, Cry. And he said, What shall I cry? All flesh [is] grass, and all the goodliness thereof [is] as the flower of the field:"
+     },
+     {
+      "ref": "ISA 40:7",
+      "text": "The grass withereth, the flower fadeth: because the spirit of the LORD bloweth upon it: surely the people [is] grass."
+     },
+     {
+      "ref": "ISA 40:8",
+      "text": "The grass withereth, the flower fadeth: but the word of our God shall stand for ever."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "ISA 40:6",
+      "text": "Φωνὴ λέγοντος, βόησον· καὶ εἶπα, τί βοήσω; πᾶσα σὰρξ χορτὸς, καὶ πᾶσα δόξα ἀνθρώπου ὡς ἄνθος χόρτου·"
+     },
+     {
+      "ref": "ISA 40:7",
+      "text": "Ἐξηράνθη ὁ χόρτος, καὶ τὸ ἄνθος ἐξέπεσε·"
+     },
+     {
+      "ref": "ISA 40:8",
+      "text": "τὸ δὲ ῥῆμα τοῦ Θεοῦ ἡμῶν μένει εἰς τὸν αἰῶνα."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "ISA 40:6",
+      "text": "The voice of one saying, Cry; and I said, What shall I cry? All flesh is grass, and all the glory of man as the flower of grass."
+     },
+     {
+      "ref": "ISA 40:7",
+      "text": "The grass withers, and the flower fades:"
+     },
+     {
+      "ref": "ISA 40:8",
+      "text": "but the word of our God abides for ever."
+     }
+    ]
+   }
+  },
+  {
+   "id": "isa-45-23",
+   "ref": "Isaiah 45:23",
+   "kjv": "ISA 45:23",
+   "speaker": "god-through-prophet",
+   "role": "claim",
+   "categories": [
+    "fulfilment"
+   ],
+   "object": "the word gone out of God's mouth",
+   "claim": "I have sworn by myself, the word is gone out of my mouth in righteousness, and shall not return.",
+   "mt_lxx": "The Hebrew: \"a word in righteousness has gone out of my mouth, and shall\nnot return\" (וְלֹא יָשׁוּב). The Greek divides it: \"righteousness shall go\nout of my mouth; my words shall not be turned back\" (οἱ λόγοι μου οὐκ\nἀποστραφήσονται).\n",
+   "nt_use": [
+    "ROM 14:11",
+    "PHP 2:10-11"
+   ],
+   "notes": "The New Testament quotes the second half (every knee shall bow), not the clause about the word.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "ISA 45:23",
+      "text": "בִּי נִשְׁבַּעְתִּי יָצָא מִפִּי צְדָקָה דָּבָר וְלֹא יָשׁוּב כִּי־לִי תִּכְרַע כָּל־בֶּרֶךְ תִּשָּׁבַע כָּל־לָשֽׁוֹן׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "ISA 45:23",
+      "text": "I have sworn by myself, the word is gone out of my mouth [in] righteousness, and shall not return, That unto me every knee shall bow, every tongue shall swear."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "ISA 45:23",
+      "text": "Κατʼ ἐμαυτοῦ ὀμνύω, εἰ μὴ ἐξελεύσεται ἐκ τοῦ στόματός μου δικαιοσύνη, οἱ λόγοι μου οὐκ ἀποστραφήσονται· Ὅτι ἐμοὶ κάμψει πᾶν γόνυ, καὶ ὀμεῖται πᾶσα γλῶσσα τὸν Θεὸν,"
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "ISA 45:23",
+      "text": "By myself I swear, righteousness shall surely proceed out of my mouth; my words shall not be frustrated; that to me every knee shall bend, and every tongue shall swear by God,"
+     }
+    ]
+   }
+  },
+  {
+   "id": "isa-46-10",
+   "ref": "Isaiah 46:10-11",
+   "kjv": "ISA 46:10-11",
+   "speaker": "god-through-prophet",
+   "role": "claim",
+   "categories": [
+    "fulfilment"
+   ],
+   "object": "my counsel; what I have spoken",
+   "claim": "My counsel shall stand; I have spoken it, I will also bring it to pass.",
+   "mt_lxx": "The same in substance; the Greek \"all my counsel shall stand\" (πᾶσα ἡ βουλή μου στήσεται).",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "ISA 46:10",
+      "text": "מַגִּיד מֵֽרֵאשִׁית אַחֲרִית וּמִקֶּדֶם אֲשֶׁר לֹא־נַעֲשׂוּ אֹמֵר עֲצָתִי תָקוּם וְכָל־חֶפְצִי אֶעֱשֶֽׂה׃"
+     },
+     {
+      "ref": "ISA 46:11",
+      "text": "קֹרֵא מִמִּזְרָח עַיִט מֵאֶרֶץ מֶרְחָק אִישׁ עצתו אַף־דִּבַּרְתִּי אַף־אֲבִיאֶנָּה יָצַרְתִּי אַף־אֶעֱשֶֽׂנָּה׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "ISA 46:10",
+      "text": "Declaring the end from the beginning, and from ancient times [the things] that are not [yet] done, saying, My counsel shall stand, and I will do all my pleasure:"
+     },
+     {
+      "ref": "ISA 46:11",
+      "text": "Calling a ravenous bird from the east, the man that executeth my counsel from a far country: yea, I have spoken [it], I will also bring it to pass; I have purposed [it], I will also do it."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "ISA 46:10",
+      "text": "ἀναγγέλλων πρότερον τὰ ἔσχατα πρὶν γενέσθαι, καὶ ἅμα συνετελέσθη· καὶ εἶπα, πᾶσα ἡ βουλή μου στήσεται, καὶ πάντα ὅσα βεβούλευμαι, ποιήσω·"
+     },
+     {
+      "ref": "ISA 46:11",
+      "text": "Καλῶν ἀπὸ ἀνατολῶν πετεινὸν, καὶ ἀπὸ γῆς πόῤῥωθεν περὶ ὧν βεβούλευμαι, ἐλάλησα, καὶ ἤγαγον, ἔκτισα καὶ ἐποίησα, ἤγαγον αὐτὸν, καὶ εὐώδωσα τὴν ὁδὸν αὐτοῦ."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "ISA 46:10",
+      "text": "telling beforehand the latter events before they come to pass, and they are accomplished together: and I said, All my counsel shall stand, and I will do all things that I have planned:"
+     },
+     {
+      "ref": "ISA 46:11",
+      "text": "calling a bird from the east, and from a land afar off, for the things which I have planned: I have spoken, and brought [him]; I have created and made [him]; I have brought him, and prospered his way."
+     }
+    ]
+   }
+  },
+  {
+   "id": "isa-55-11",
+   "ref": "Isaiah 55:10-11",
+   "kjv": "ISA 55:10-11",
+   "speaker": "god-through-prophet",
+   "role": "claim",
+   "categories": [
+    "fulfilment",
+    "efficacy"
+   ],
+   "object": "my word that goeth forth out of my mouth",
+   "claim": "My word shall not return unto me void, but shall accomplish that which I please.",
+   "mt_lxx": "The Hebrew \"shall not return to me empty\" (לֹא־יָשׁוּב אֵלַי רֵיקָם); Brenton's\nGreek has \"shall not return (οὐ μὴ ἀποστραφῇ) until all that I willed is\naccomplished\", without \"empty\", and adds \"and I will prosper thy ways and\nmy commandments\".\n",
+   "notes": "A claim about the word's effect in the world, not about its text.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "ISA 55:10",
+      "text": "כִּי כַּאֲשֶׁר יֵרֵד הַגֶּשֶׁם וְהַשֶּׁלֶג מִן־הַשָּׁמַיִם וְשָׁמָּה לֹא יָשׁוּב כִּי אִם־הִרְוָה אֶת־הָאָרֶץ וְהוֹלִידָהּ וְהִצְמִיחָהּ וְנָתַן זֶרַע לַזֹּרֵעַ וְלֶחֶם לָאֹכֵֽל׃"
+     },
+     {
+      "ref": "ISA 55:11",
+      "text": "כֵּן יִֽהְיֶה דְבָרִי אֲשֶׁר יֵצֵא מִפִּי לֹֽא־יָשׁוּב אֵלַי רֵיקָם כִּי אִם־עָשָׂה אֶת־אֲשֶׁר חָפַצְתִּי וְהִצְלִיחַ אֲשֶׁר שְׁלַחְתִּֽיו׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "ISA 55:10",
+      "text": "For as the rain cometh down, and the snow from heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, that it may give seed to the sower, and bread to the eater:"
+     },
+     {
+      "ref": "ISA 55:11",
+      "text": "So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper [in the thing] whereto I sent it."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "ISA 55:10",
+      "text": "Ὡς γὰρ ἂν καταβῇ ὁ ὑετὸς ἢ χιὼν ἐκ τοῦ οὐρανοῦ, καὶ οὐ μὴ ἀποστραφῇ ἕως ἂν μεθύσῃ τὴν γῆν, καὶ ἐκτέκῃ, καὶ ἐκβλαστήσῃ, καὶ δῷ σπέρμα τῷ σπείροντι, καὶ ἄρτον εἰς βρῶσιν·"
+     },
+     {
+      "ref": "ISA 55:11",
+      "text": "οὕτως ἔσται τὸ ῥῆμά μου, ὃ ἐὰν ἐξέλθῃ ἐκ τοῦ στόματός μου, οὐ μὴ ἀποστραφῇ, ἕως ἂν τελεσθῇ ὅσα ἂν ἠθέλησα, καὶ εὐοδώσω τὰς ὁδούς σου, καὶ τὰ ἐντάλματά μου."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "ISA 55:10",
+      "text": "For as rain shall come down, or snow, from heaven, and shall not return until it have saturated the earth, and it bring forth, and bud, and give seed to the sower, and bread for food:"
+     },
+     {
+      "ref": "ISA 55:11",
+      "text": "so shall my word be, whatever shall proceed out of my mouth, it shall by no means turn back, until all the things which I willed shall have been accomplished; and I will make thy ways prosperous, and [will effect] my commands."
+     }
+    ]
+   }
+  },
+  {
+   "id": "isa-59-21",
+   "ref": "Isaiah 59:21",
+   "kjv": "ISA 59:21",
+   "speaker": "god-through-prophet",
+   "role": "claim",
+   "categories": [
+    "transmission"
+   ],
+   "object": "my spirit and my words put in thy mouth",
+   "claim": "My words which I have put in thy mouth shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed's seed, from henceforth and for ever.",
+   "mt_lxx": "- The Hebrew verb is plural, \"they shall not depart\" (לֹא־יָמוּשׁוּ, the\n  spirit and the words together); the Greek is singular (οὐ μὴ ἐκλίπῃ).\n- The Greek lacks \"nor out of the mouth of thy seed's seed\".\n- The Greek attaches \"from henceforth and for ever\" to \"for the Lord has\n  said it\" (εἶπε γὰρ Κύριος ἀπὸ τοῦ νῦν καὶ εἰς τὸν αἰῶνα).\n",
+   "nt_use": [
+    "ROM 11:26-27"
+   ],
+   "notes": "The strongest Old Testament promise of preservation in transmission: the\nwords are to remain in the mouths of a succession of generations. It is a\ncovenant promise to the redeemed of Zion (59:20); Romans 11:27 quotes the\ncovenant clause. It speaks of words in mouths, not of a written copy.\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "ISA 59:21",
+      "text": "וַאֲנִי זֹאת בְּרִיתִי אוֹתָם אָמַר יְהוָה רוּחִי אֲשֶׁר עָלֶיךָ וּדְבָרַי אֲשֶׁר־שַׂמְתִּי בְּפִיךָ לֹֽא־יָמוּשׁוּ מִפִּיךָ וּמִפִּי זַרְעֲךָ וּמִפִּי זֶרַע זַרְעֲךָ אָמַר יְהוָה מֵעַתָּה וְעַד־עוֹלָֽם׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "ISA 59:21",
+      "text": "As for me, this [is] my covenant with them, saith the LORD; My spirit that [is] upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the LORD, from henceforth and for ever."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "ISA 59:21",
+      "text": "Καὶ αὕτη αὐτοῖς ἡ παρʼ ἐμοῦ διαθήκη, εἶπε Κύριος· τὸ πνεῦμα τὸ ἐμὸν, ὅ ἐστιν ἐπὶ σοί, καὶ τὰ ῥήματα, ἃ ἔδωκα εἰς τὸ στόμα σου, οὐ μὴ ἐκλίπῃ ἐκ τοῦ στόματός σου, καὶ ἐκ τοῦ στόματος τοῦ σπέρματός σου· εἶπε γὰρ Κύριος ἀπὸ τοῦ νῦν καὶ εἰς τὸν αἰῶνα."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "ISA 59:21",
+      "text": "And this shall be my covenant with them, said the Lord; My Spirit which is upon thee, and the words which I have put in thy mouth, shall never fail from thy mouth, nor from the mouth of thy seed, for the Lord has spoken it, henceforth and for ever."
+     }
+    ]
+   }
+  },
+  {
+   "id": "jer-1-12",
+   "ref": "Jeremiah 1:12",
+   "kjv": "JER 1:12",
+   "speaker": "god-through-prophet",
+   "role": "claim",
+   "categories": [
+    "fulfilment"
+   ],
+   "object": "my word",
+   "claim": "I will hasten (watch over) my word to perform it.",
+   "mt_lxx": "The Hebrew is a pun: the prophet sees an almond rod (שָׁקֵד) and God says he\nis watching (שֹׁקֵד) over his word. The Greek has \"a rod of walnut\"\n(καρυΐνην) and \"I have watched\" (ἐγρήγορα); the pun is lost.\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "JER 1:12",
+      "text": "וַיֹּאמֶר יְהוָה אֵלַי הֵיטַבְתָּ לִרְאוֹת כִּֽי־שֹׁקֵד אֲנִי עַל־דְּבָרִי לַעֲשֹׂתֽוֹ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "JER 1:12",
+      "text": "Then said the LORD unto me, Thou hast well seen: for I will hasten my word to perform it."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "JER 1:12",
+      "text": "Καὶ εἶπε Κύριος πρὸς μὲ, καλῶς ἑώρακας, διότι ἐγρήγορα ἐγὼ ἐπὶ τοὺς λόγους μου τοῦ ποιῆσαι αὐτούς."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "JER 1:12",
+      "text": "And the Lord said to me, Thou hast well seen: for I have watched over my words to perform them."
+     }
+    ]
+   }
+  },
+  {
+   "id": "jer-8-8",
+   "ref": "Jeremiah 8:8",
+   "kjv": "JER 8:8",
+   "speaker": "god-through-prophet",
+   "role": "warning",
+   "categories": [
+    "corruption"
+   ],
+   "object": "the law of the LORD in the scribes' hands",
+   "claim": "The law of the LORD is with us? Lo, the lying pen of the scribes has made it into a lie.",
+   "mt_lxx": "The Hebrew: \"Surely, behold, the lying pen of the scribes has wrought\nfalsely\" (לַשֶּׁקֶר עָשָׂה עֵט שֶׁקֶר סֹפְרִים). The Greek: \"In vain have the\nscribes used a false pen\" (εἰς μάτην ἐγενήθη σχοῖνος ψευδὴς\nγραμματεῦσιν; σχοῖνος is a reed or measuring line). The KJV's \"in vain\nmade he it; the pen of the scribes is in vain\" follows a different\nconstrual.\n",
+   "notes": "Scripture's own acknowledgement that the written law could be falsified\nby those charged with it. Whether the charge is of altering the text or\nof false teaching from it is disputed. **[context]**\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "JER 8:8",
+      "text": "אֵיכָה תֹֽאמְרוּ חֲכָמִים אֲנַחְנוּ וְתוֹרַת יְהוָה אִתָּנוּ אָכֵן הִנֵּה לַשֶּׁקֶר עָשָׂה עֵט שֶׁקֶר סֹפְרִֽים׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "JER 8:8",
+      "text": "How do ye say, We [are] wise, and the law of the LORD [is] with us? Lo, certainly in vain made he [it;] the pen of the scribes [is] in vain."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "JER 8:8",
+      "text": "Πῶς ἐρεῖτε, ὅτι σοφοί ἐσμεν ἡμεῖς, καὶ νόμος Κυρίου μεθʼ ἡμῶν ἐστιν; εἰς μάτην ἐγενήθη σχοῖνος ψευδὴς γραμματεῦσιν."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "JER 8:8",
+      "text": "How will ye say, We are wise, and the law of the Lord is with us? In vain have the scribes used a false pen."
+     }
+    ]
+   }
+  },
+  {
+   "id": "jer-23-28",
+   "ref": "Jeremiah 23:28-29, 36",
+   "kjv": "JER 23:28-29, JER 23:36",
+   "speaker": "god-through-prophet",
+   "role": "warning",
+   "categories": [
+    "corruption",
+    "efficacy"
+   ],
+   "object": "my word",
+   "claim": "He that hath my word, let him speak my word faithfully; is not my word like as a fire? Ye have perverted the words of the living God.",
+   "mt_lxx": "- In 23:28 the Greek adds \"so are my words\" after \"what is the chaff to\n  the wheat?\"\n- In 23:36 the Greek lacks the last clause, \"for ye have perverted\n  (וַהֲפַכְתֶּם) the words of the living God, of the LORD of hosts our God\".\n  **[context]** The Greek Jeremiah is roughly one-seventh shorter than the\n  Hebrew and arranges the book differently; Hebrew fragments from\n  Qumran (4QJer^b,d) agree with the shorter form.\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "JER 23:28",
+      "text": "הַנָּבִיא אֲשֶׁר־אִתּוֹ חֲלוֹם יְסַפֵּר חֲלוֹם וַאֲשֶׁר דְּבָרִי אִתּוֹ יְדַבֵּר דְּבָרִי אֱמֶת מַה־לַתֶּבֶן אֶת־הַבָּר נְאֻם־יְהוָֽה׃"
+     },
+     {
+      "ref": "JER 23:29",
+      "text": "הֲלוֹא כֹה דְבָרִי כָּאֵשׁ נְאֻם־יְהוָה וּכְפַטִּישׁ יְפֹצֵֽץ סָֽלַע׃"
+     },
+     {
+      "ref": "JER 23:36",
+      "text": "וּמַשָּׂא יְהוָה לֹא תִזְכְּרוּ־עוֹד כִּי הַמַּשָּׂא יִֽהְיֶה לְאִישׁ דְּבָרוֹ וַהֲפַכְתֶּם אֶת־דִּבְרֵי אֱלֹהִים חַיִּים יְהוָה צְבָאוֹת אֱלֹהֵֽינוּ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "JER 23:28",
+      "text": "The prophet that hath a dream, let him tell a dream; and he that hath my word, let him speak my word faithfully. What [is] the chaff to the wheat? saith the LORD."
+     },
+     {
+      "ref": "JER 23:29",
+      "text": "[Is] not my word like as a fire? saith the LORD; and like a hammer [that] breaketh the rock in pieces?"
+     },
+     {
+      "ref": "JER 23:36",
+      "text": "And the burden of the LORD shall ye mention no more: for every man’s word shall be his burden; for ye have perverted the words of the living God, of the LORD of hosts our God."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "JER 23:28",
+      "text": "Ὁ προφήτης ἐν ᾧ τὸ ἐνύπνιόν ἐστι, διηγησάσθω τὸ ἐνύπνιον αὐτοῦ, καὶ ἐν ᾧ ὁ λόγος μου πρὸς αὐτὸν, διηγησάσθω τὸν λόγον μου ἐπʼ ἀληθείας· τί τὸ ἄχυρον πρὸς τὸν σῖτον; οὕτως οἱ λόγοι μου, λέγει Κύριος."
+     },
+     {
+      "ref": "JER 23:29",
+      "text": "Οὐκ ἰδοὺ οἱ λόγοι μου, ὥσπερ πῦρ, λέγει Κύριος, καὶ ὡς πέλυξ κόπτων πέτραν;"
+     },
+     {
+      "ref": "JER 23:36",
+      "text": "Καὶ λῆμμα Κυρίου μὴ ὀνομάζετε ἔτι, ὅτι τὸ λῆμμα τῷ ἀνθρώπῳ ἔσται ὁ λόγος αὐτοῦ."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "JER 23:28",
+      "text": "The prophet who has a dream, let him tell his dream; and [he] in whom is my word [spoken] to him, let him tell my word truly: what is the chaff to the corn? so are my words, saith the Lord."
+     },
+     {
+      "ref": "JER 23:29",
+      "text": "Behold, are not my words as fire? saith the Lord; and as an axe cutting the rock?"
+     },
+     {
+      "ref": "JER 23:36",
+      "text": "And do ye name no more the burden of the Lord; for his own word shall be a man's burden."
+     }
+    ]
+   }
+  },
+  {
+   "id": "jer-26-2",
+   "ref": "Jeremiah 26:2",
+   "kjv": "JER 26:2",
+   "lxx": "JER 33:2",
+   "speaker": "god-through-prophet",
+   "role": "command",
+   "categories": [
+    "no-alteration"
+   ],
+   "object": "all the words I command thee",
+   "claim": "Speak all the words that I command thee; diminish not a word.",
+   "mt_lxx": "The same (\"diminish not a word\", אַל־תִּגְרַע דָּבָר / μὴ ἀφέλῃς ῥῆμα). The chapter is 33 in the Greek.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "JER 26:2",
+      "text": "כֹּה ׀ אָמַר יְהוָה עֲמֹד בַּחֲצַר בֵּית־יְהוָה וְדִבַּרְתָּ עַל־כָּל־עָרֵי יְהוּדָה הַבָּאִים לְהִשְׁתַּחֲוֺת בֵּית־יְהוָה אֵת כָּל־הַדְּבָרִים אֲשֶׁר צִוִּיתִיךָ לְדַבֵּר אֲלֵיהֶם אַל־תִּגְרַע דָּבָֽר׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "JER 26:2",
+      "text": "Thus saith the LORD; Stand in the court of the LORD’s house, and speak unto all the cities of Judah, which come to worship in the LORD’s house, all the words that I command thee to speak unto them; diminish not a word:"
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "JER 33:2",
+      "text": "Οὕτως εἶπε Κύριος, στῆθι ἐν αὐλῇ οἴκου Κυρίου, καὶ χρηματιεῖς ἅπασι τοῖς Ἰουδαίοις, καὶ πᾶσι τοῖς ἐρχομένοις προσκυνεῖν ἐν οἴκῳ Κυρίου, ἅπαντας τοὺς λόγους οὓς συνέταξά σοι χρηματίσαι αὐτοῖς, μὴ ἀφέλῃς ῥῆμα."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "JER 33:2",
+      "text": "Thus said the Lord; Stand in the court of the Lord's house, and thou shalt declare to all the Jews, and to all that come to worship in the house of the Lord, all the words which I commanded thee to speak to them; abate not one word."
+     }
+    ]
+   }
+  },
+  {
+   "id": "jer-30-2",
+   "ref": "Jeremiah 30:2",
+   "kjv": "JER 30:2",
+   "lxx": "JER 37:2",
+   "speaker": "god-through-prophet",
+   "role": "means",
+   "categories": [
+    "inscripturation"
+   ],
+   "object": "all the words I have spoken",
+   "claim": "Write thee all the words that I have spoken unto thee in a book.",
+   "mt_lxx": "The same. The chapter is 37 in the Greek.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "JER 30:2",
+      "text": "כֹּֽה־אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל לֵאמֹר כְּתָב־לְךָ אֵת כָּל־הַדְּבָרִים אֲשֶׁר־דִּבַּרְתִּי אֵלֶיךָ אֶל־סֵֽפֶר׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "JER 30:2",
+      "text": "Thus speaketh the LORD God of Israel, saying, Write thee all the words that I have spoken unto thee in a book."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "JER 37:2",
+      "text": "Οὕτως εἶπε Κύριος ὁ Θεὸς Ἰσραὴλ, λέγων, Γράψον πάντας τοὺς λόγους οὓς ἐχρημάτισα πρὸς σὲ ἐπὶ βιβλίου."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "JER 37:2",
+      "text": "Thus speaks the Lord God of Israel, saying, Write all the words which I have spoken to thee in a book."
+     }
+    ]
+   }
+  },
+  {
+   "id": "jer-36",
+   "ref": "Jeremiah 36:2, 27-28, 32",
+   "kjv": "JER 36:2, JER 36:27-28, JER 36:32",
+   "lxx": "JER 43:2, JER 43:27-28, JER 43:32",
+   "speaker": "god-through-prophet",
+   "role": "means",
+   "categories": [
+    "inscripturation",
+    "restoration"
+   ],
+   "object": "the scroll Jehoiakim burned",
+   "claim": "After the king burns the scroll, God commands that all the former words be written again; and \"there were added besides unto them many like words.\"",
+   "mt_lxx": "The chapter is 43 in the Greek. In 36:32 the Hebrew has Jeremiah take\nanother scroll and give it to Baruch; the Greek has Baruch take it.\nBoth end with the words added.\n",
+   "notes": "The second narrative of a destroyed text restored. Here the restoration\nis by dictation through the prophet, and the restored book is longer than\nthe first.\n",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "JER 36:2",
+      "text": "קַח־לְךָ מְגִלַּת־סֵפֶר וְכָתַבְתָּ אֵלֶיהָ אֵת כָּל־הַדְּבָרִים אֲשֶׁר־דִּבַּרְתִּי אֵלֶיךָ עַל־יִשְׂרָאֵל וְעַל־יְהוּדָה וְעַל־כָּל־הַגּוֹיִם מִיּוֹם דִּבַּרְתִּי אֵלֶיךָ מִימֵי יֹאשִׁיָּהוּ וְעַד הַיּוֹם הַזֶּֽה׃"
+     },
+     {
+      "ref": "JER 36:27",
+      "text": "וַיְהִי דְבַר־יְהוָה אֶֽל־יִרְמְיָהוּ אַחֲרֵי ׀ שְׂרֹף הַמֶּלֶךְ אֶת־הַמְּגִלָּה וְאֶת־הַדְּבָרִים אֲשֶׁר כָּתַב בָּרוּךְ מִפִּי יִרְמְיָהוּ לֵאמֹֽר׃"
+     },
+     {
+      "ref": "JER 36:28",
+      "text": "שׁוּב קַח־לְךָ מְגִלָּה אַחֶרֶת וּכְתֹב עָלֶיהָ אֵת כָּל־הַדְּבָרִים הָרִאשֹׁנִים אֲשֶׁר הָיוּ עַל־הַמְּגִלָּה הָרִאשֹׁנָה אֲשֶׁר שָׂרַף יְהוֹיָקִים מֶֽלֶךְ־יְהוּדָֽה׃"
+     },
+     {
+      "ref": "JER 36:32",
+      "text": "וְיִרְמְיָהוּ לָקַח ׀ מְגִלָּה אַחֶרֶת וַֽיִּתְּנָהּ אֶל־בָּרוּךְ בֶּן־נֵרִיָּהוּ הַסֹּפֵר וַיִּכְתֹּב עָלֶיהָ מִפִּי יִרְמְיָהוּ אֵת כָּל־דִּבְרֵי הַסֵּפֶר אֲשֶׁר שָׂרַף יְהוֹיָקִים מֶֽלֶךְ־יְהוּדָה בָּאֵשׁ וְעוֹד נוֹסַף עֲלֵיהֶם דְּבָרִים רַבִּים כָּהֵֽמָּה׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "JER 36:2",
+      "text": "Take thee a roll of a book, and write therein all the words that I have spoken unto thee against Israel, and against Judah, and against all the nations, from the day I spake unto thee, from the days of Josiah, even unto this day."
+     },
+     {
+      "ref": "JER 36:27",
+      "text": "¶ Then the word of the LORD came to Jeremiah, after that the king had burned the roll, and the words which Baruch wrote at the mouth of Jeremiah, saying,"
+     },
+     {
+      "ref": "JER 36:28",
+      "text": "Take thee again another roll, and write in it all the former words that were in the first roll, which Jehoiakim the king of Judah hath burned."
+     },
+     {
+      "ref": "JER 36:32",
+      "text": "¶ Then took Jeremiah another roll, and gave it to Baruch the scribe, the son of Neriah; who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire: and there were added besides unto them many like words."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "JER 43:2",
+      "text": "Λάβε σεαυτῷ χαρτίον βιβλίου, καὶ γράψον ἐπʼ αὐτοῦ πάντας τοὺς λόγους οὓς ἐλάλησα πρὸς σὲ ἐπὶ Ἱερουσαλὴμ, καὶ ἐπὶ Ἰούδα, καὶ ἐπὶ πάντα τὰ ἔθνη, ἀφʼ ἧς ἡμέρας λαλήσαντός μου πρὸς σὲ ἀφʼ ἡμερῶν Ἰωσία βασιλέως Ἰούδα, καὶ ἕως τῆς ἡμέρας ταύτης."
+     },
+     {
+      "ref": "JER 43:27",
+      "text": "Καὶ ἐγένετο λόγος Κυρίου πρὸς Ἱερεμίαν, μετὰ τὸ κατακαῦσαι τὸν βασιλέα τὸ χαρτίον, πάντας τοὺς λόγους, οὓς ἔγραψε Βαροὺχ ἀπὸ στόματος Ἱερεμίου, λέγων,"
+     },
+     {
+      "ref": "JER 43:28",
+      "text": "πάλιν λάβε σὺ χαρτίον ἕτερον, καὶ γράψον πάντας τοὺς λόγους, τοὺς ὄντας ἐπὶ τοῦ χαρτίου, οὓς κατέκαυσεν ὁ βασιλεὺς Ἰωακεὶμ,"
+     },
+     {
+      "ref": "JER 43:32",
+      "text": "Καὶ ἔλαβε Βαροὺχ χαρτίον ἕτερον, καὶ ἔγραψεν ἐπʼ αὐτῷ ἀπὸ στόματος Ἱερεμίου ἅπαντας τοὺς λόγους τοῦ βιβλίου, οὓς κατέκαυσεν Ἰωακείμ· καὶ ἔτι προσετέθησαν αὐτῷ λόγοι πλείονες, ὡς οὗτοι."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "JER 43:2",
+      "text": "Take thee a roll of a book, and write upon it all the words which I spoke to thee against Jerusalem, and against Juda, and against all the nations, from the day when I spoke to thee, from the days of Josias king of Juda, even to this day."
+     },
+     {
+      "ref": "JER 43:27",
+      "text": "Then the word of the Lord came to Jeremias, after the king had burnt the roll, [even] all the words which Baruch wrote from the mouth of Jeremias, saying,"
+     },
+     {
+      "ref": "JER 43:28",
+      "text": "Again take thou another roll, and write all the words that were on the roll, which king Joakim has burnt."
+     },
+     {
+      "ref": "JER 43:32",
+      "text": "And Baruch took another roll, and wrote upon it from the mouth of Jeremias all the words of the book which Joakim had burnt: and there were yet more words added to it like the former."
+     }
+    ]
+   }
+  },
+  {
+   "id": "ezek-12-25",
+   "ref": "Ezekiel 12:25, 28",
+   "kjv": "EZE 12:25, EZE 12:28",
+   "speaker": "god-through-prophet",
+   "role": "claim",
+   "categories": [
+    "fulfilment"
+   ],
+   "object": "the word that I shall speak",
+   "claim": "I will speak, and the word that I shall speak shall come to pass; it shall be no more prolonged.",
+   "mt_lxx": "Substantially the same.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "EZE 12:25",
+      "text": "כִּי ׀ אֲנִי יְהוָה אֲדַבֵּר אֵת אֲשֶׁר אֲדַבֵּר דָּבָר וְיֵעָשֶׂה לֹא תִמָּשֵׁךְ עוֹד כִּי בִֽימֵיכֶם בֵּית הַמֶּרִי אֲדַבֵּר דָּבָר וַעֲשִׂיתִיו נְאֻם אֲדֹנָי יְהוִֽה׃"
+     },
+     {
+      "ref": "EZE 12:28",
+      "text": "לָכֵן אֱמֹר אֲלֵיהֶם כֹּה אָמַר אֲדֹנָי יְהוִה לֹא־תִמָּשֵׁךְ עוֹד כָּל־דְּבָרָי אֲשֶׁר אֲדַבֵּר דָּבָר וְיֵעָשֶׂה נְאֻם אֲדֹנָי יְהוִֽה׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "EZE 12:25",
+      "text": "For I [am] the LORD: I will speak, and the word that I shall speak shall come to pass; it shall be no more prolonged: for in your days, O rebellious house, will I say the word, and will perform it, saith the Lord GOD."
+     },
+     {
+      "ref": "EZE 12:28",
+      "text": "Therefore say unto them, Thus saith the Lord GOD; There shall none of my words be prolonged any more, but the word which I have spoken shall be done, saith the Lord GOD."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "EZE 12:25",
+      "text": "Διότι ἐγὼ Κύριος λαλήσω τοὺς λόγους μου, λαλήσω καὶ ποιήσω, καὶ οὐ μὴ μηκύνω ἔτι· ὅτι ἐν ταῖς ἡμέραις ὑμῶν οἶκος ὁ παραπικραίνων, λαλήσω λόγον καὶ ποιήσω, λέγει Κύριος."
+     },
+     {
+      "ref": "EZE 12:28",
+      "text": "Διατοῦτο εἰπὸν πρὸς αὐτοὺς, Τάδε λέγει Κύριος, οὐ μὴ μηκύνωσιν οὐκέτι πάντες οἱ λόγοι μου, οὓς ἂν λαλήσω· λαλήσω καὶ ποιήσω, λέγει Κύριος."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "EZE 12:25",
+      "text": "For I the Lord will speak my words; I will speak and perform [them], and will no more delay, for in your days, O provoking house, I will speak the word, and will perform [it], saith the Lord."
+     },
+     {
+      "ref": "EZE 12:28",
+      "text": "Therefore say to them, Thus saith the Lord; Henceforth none of my words shall linger, which I shall speak: I will speak and do, saith the Lord."
+     }
+    ]
+   }
+  },
+  {
+   "id": "dan-12-4",
+   "ref": "Daniel 12:4, 9",
+   "kjv": "DAN 12:4, DAN 12:9",
+   "lxx": "DNG 12:4, DNG 12:9",
+   "speaker": "heavenly-voice",
+   "role": "means",
+   "categories": [
+    "custody"
+   ],
+   "object": "the words of the book",
+   "claim": "Shut up the words, and seal the book, even to the time of the end.",
+   "mt_lxx": "Substantially the same. Brenton's Greek Daniel is Theodotion's version, not the Old Greek.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "DAN 12:4",
+      "text": "וְאַתָּה דָֽנִיֵּאל סְתֹם הַדְּבָרִים וַחֲתֹם הַסֵּפֶר עַד־עֵת קֵץ יְשֹׁטְטוּ רַבִּים וְתִרְבֶּה הַדָּֽעַת׃"
+     },
+     {
+      "ref": "DAN 12:9",
+      "text": "וַיֹּאמֶר לֵךְ דָּנִיֵּאל כִּֽי־סְתֻמִים וַחֲתֻמִים הַדְּבָרִים עַד־עֵת קֵֽץ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "DAN 12:4",
+      "text": "But thou, O Daniel, shut up the words, and seal the book, [even] to the time of the end: many shall run to and fro, and knowledge shall be increased."
+     },
+     {
+      "ref": "DAN 12:9",
+      "text": "And he said, Go thy way, Daniel: for the words [are] closed up and sealed till the time of the end."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "DNG 12:4",
+      "text": "Καὶ σὺ Δανιὴλ ἔμφραξον τοὺς λόγους, καὶ σφράγισον τὸ βιβλίον ἕως καιροῦ συντελείας, ἕως διδαχθῶσι πολλοὶ καὶ πληθυνθῇ ἡ γνῶσις."
+     },
+     {
+      "ref": "DNG 12:9",
+      "text": "Καὶ εἶπε, δεῦρο Δανιὴλ, ὅτι ἐμπεφραγμένοι καὶ ἐσφραγισμένοι οἱ λόγοι ἕως καιροῦ πέρας."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "DNG 12:4",
+      "text": "And thou, Daniel, close the words, and seal the book to the time of the end; until many are taught, and knowledge is increased."
+     },
+     {
+      "ref": "DNG 12:9",
+      "text": "And he said, Go, Daniel: for the words are closed and sealed up to the time of the end."
+     }
+    ]
+   }
+  },
+  {
+   "id": "amos-8-11",
+   "ref": "Amos 8:11-12",
+   "kjv": "AMO 8:11-12",
+   "speaker": "god-through-prophet",
+   "role": "warning",
+   "categories": [
+    "withdrawal"
+   ],
+   "object": "the words of the LORD",
+   "claim": "I will send a famine of hearing the words of the LORD; they shall seek the word of the LORD, and shall not find it.",
+   "mt_lxx": "The Hebrew has \"the words (plural) of the LORD\" in 8:11; the Greek has\nthe singular. In 8:12 the Hebrew \"they shall wander from sea to sea\" is\nthe Greek \"the waters shall be shaken from sea to sea\" (σαλευθήσονται\nὕδατα).\n",
+   "notes": "A threat that the word may be withheld from a people for a time. It speaks of hearing, not of the existence of a text.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "AMO 8:11",
+      "text": "הִנֵּה ׀ יָמִים בָּאִים נְאֻם אֲדֹנָי יְהוִה וְהִשְׁלַחְתִּי רָעָב בָּאָרֶץ לֹֽא־רָעָב לַלֶּחֶם וְלֹֽא־צָמָא לַמַּיִם כִּי אִם־לִשְׁמֹעַ אֵת דִּבְרֵי יְהוָֽה׃"
+     },
+     {
+      "ref": "AMO 8:12",
+      "text": "וְנָעוּ מִיָּם עַד־יָם וּמִצָּפוֹן וְעַד־מִזְרָח יְשֽׁוֹטְטוּ לְבַקֵּשׁ אֶת־דְּבַר־יְהוָה וְלֹא יִמְצָֽאוּ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "AMO 8:11",
+      "text": "¶ Behold, the days come, saith the Lord GOD, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the LORD:"
+     },
+     {
+      "ref": "AMO 8:12",
+      "text": "And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the LORD, and shall not find [it]."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "AMO 8:11",
+      "text": "Ἰδοὺ ἡμέραι ἔρχονται, λέγει Κύριος, καὶ ἐξαποστελῶ λιμὸν ἐπὶ τὴν γῆν, οὐ λιμὸν ἄρτων, οὐδὲ δίψαν ὕδατος, ἀλλὰ λιμὸν τοῦ ἀκοῦσαι τὸν λόγον Κυρίου."
+     },
+     {
+      "ref": "AMO 8:12",
+      "text": "Καὶ σαλευθήσονται ὕδατα ἀπὸ τῆς θαλάσσης ἕως θαλάσσης, καὶ ἀπὸ Βοῤῥᾶ ἕως ἀνατολῶν περιδραμοῦνται ζητοῦντες τὸν λόγον τοῦ Κυρίου, καὶ οὐ μὴ εὕρωσιν."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "AMO 8:11",
+      "text": "Behold, the days come, saith the Lord, that I will send forth a famine on the land, not a famine of bread, nor a thirst for water, but a famine of hearing the word of the Lord."
+     },
+     {
+      "ref": "AMO 8:12",
+      "text": "And the waters shall be troubled from sea to sea, and from the north to the east shall [men] run hither and thither, seeking the word of the Lord, and they shall not find [it]."
+     }
+    ]
+   }
+  },
+  {
+   "id": "hab-2-2",
+   "ref": "Habakkuk 2:2-3",
+   "kjv": "HAB 2:2-3",
+   "speaker": "god",
+   "role": "means",
+   "categories": [
+    "inscripturation",
+    "fulfilment"
+   ],
+   "object": "the vision",
+   "claim": "Write the vision, and make it plain upon tables; it shall surely come, it will not tarry.",
+   "mt_lxx": "The Hebrew \"it shall not lie\" (וְלֹא יְכַזֵּב) is the Greek \"and not in vain\"\n(οὐκ εἰς κενόν). The Hebrew \"it will surely come\" refers to the vision;\nthe Greek \"the coming one will come\" (ἐρχόμενος ἥξει) can be read of a\nperson, which is how Hebrews 10:37 uses it.\n",
+   "nt_use": [
+    "HEB 10:37-38",
+    "ROM 1:17"
+   ],
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "HAB 2:2",
+      "text": "וַיַּעֲנֵנִי יְהוָה וַיֹּאמֶר כְּתוֹב חָזוֹן וּבָאֵר עַל־הַלֻּחוֹת לְמַעַן יָרוּץ קוֹרֵא בֽוֹ׃"
+     },
+     {
+      "ref": "HAB 2:3",
+      "text": "כִּי עוֹד חָזוֹן לַמּוֹעֵד וְיָפֵחַ לַקֵּץ וְלֹא יְכַזֵּב אִם־יִתְמַהְמָהּ חַכֵּה־לוֹ כִּֽי־בֹא יָבֹא לֹא יְאַחֵֽר׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "HAB 2:2",
+      "text": "And the LORD answered me, and said, Write the vision, and make [it] plain upon tables, that he may run that readeth it."
+     },
+     {
+      "ref": "HAB 2:3",
+      "text": "For the vision [is] yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "HAB 2:2",
+      "text": "Καὶ ἀπεκρίθη πρὸς μὲ Κύριος, καὶ εἶπε, γράψον ὅρασιν, καὶ σαφῶς εἰς πυξίον, ὅπως διώκῃ ὁ ἀναγινώσκων αὐτά."
+     },
+     {
+      "ref": "HAB 2:3",
+      "text": "Διότι ἔτι ὅρασις εἰς καιρὸν, καὶ ἀνατελεῖ εἰς πέρας, καὶ οὐκ εἰς κενόν· ἐὰν ὑστερήσῃ, ὑπὸμεινον αὐτὸν, ὅτι ἐρχόμενος ἥξει, καὶ οὐ μὴ χρονίσῃ."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "HAB 2:2",
+      "text": "And the Lord answered me and said, Write the vision, and [that] plainly on a tablet, that he that reads it may run."
+     },
+     {
+      "ref": "HAB 2:3",
+      "text": "For the vision [is] yet for a time, and it shall shoot forth at the end, and not in vain: though he should tarry, wait for him; for he will surely come, and will not tarry."
+     }
+    ]
+   }
+  },
+  {
+   "id": "zech-1-5",
+   "ref": "Zechariah 1:5-6",
+   "kjv": "ZEC 1:5-6",
+   "speaker": "god-through-prophet",
+   "role": "claim",
+   "categories": [
+    "fulfilment",
+    "permanence"
+   ],
+   "object": "my words and my statutes",
+   "claim": "Your fathers, where are they? and the prophets, do they live for ever? But my words and my statutes, did they not take hold of your fathers?",
+   "mt_lxx": "The Hebrew asks a question: \"did they not overtake (הִשִּׂיגוּ) your\nfathers?\" The Greek gives a command: \"But receive ye (δέχεσθε) my words\nand my ordinances, all that I command by my Spirit to my servants the\nprophets\", adding \"by my Spirit\".\n",
+   "notes": "The prophets die; the words outlast them. The claim is about the words' fulfilment on a later generation.",
+   "testament": "OT",
+   "texts": {
+    "mt": [
+     {
+      "ref": "ZEC 1:5",
+      "text": "אֲבֽוֹתֵיכֶם אַיֵּה־הֵם וְהַנְּבִאִים הַלְעוֹלָם יִֽחְיֽוּ׃"
+     },
+     {
+      "ref": "ZEC 1:6",
+      "text": "אַךְ ׀ דְּבָרַי וְחֻקַּי אֲשֶׁר צִוִּיתִי אֶת־עֲבָדַי הַנְּבִיאִים הֲלוֹא הִשִּׂיגוּ אֲבֹתֵיכֶם וַיָּשׁוּבוּ וַיֹּאמְרוּ כַּאֲשֶׁר זָמַם יְהוָה צְבָאוֹת לַעֲשׂוֹת לָנוּ כִּדְרָכֵינוּ וּכְמַעֲלָלֵינוּ כֵּן עָשָׂה אִתָּֽנוּ׃"
+     }
+    ],
+    "kjv": [
+     {
+      "ref": "ZEC 1:5",
+      "text": "Your fathers, where [are] they? and the prophets, do they live for ever?"
+     },
+     {
+      "ref": "ZEC 1:6",
+      "text": "But my words and my statutes, which I commanded my servants the prophets, did they not take hold of your fathers? and they returned and said, Like as the LORD of hosts thought to do unto us, according to our ways, and according to our doings, so hath he dealt with us."
+     }
+    ],
+    "lxx": [
+     {
+      "ref": "ZEC 1:5",
+      "text": "Οἱ πατέρες ὑμῶν ποῦ εἰσι καὶ οἱ προφῆται; μὴ τὸν αἰῶνα ζήσονται;"
+     },
+     {
+      "ref": "ZEC 1:6",
+      "text": "Πλὴν τοὺς λόγους μου καὶ τὰ νόμιμά μου δέχεσθε, ὅσα ἐγὼ ἐντέλλομαι ἐν πνεύματί μου τοῖς δούλοις μου τοῖς προφήταις, οἳ κατελάβοσαν τοὺς πατέρας ὑμῶν· καὶ ἀπεκρίθησαν, καὶ εἶπαν, καθὼς παρατέτακται Κύριος παντοκράτωρ τοῦ ποιῆσαι ἡμῖν κατὰ τὰς ὁδοὺς ἡμῶν καὶ κατὰ τὰ ἐπιτηδεύματα ἡμῶν, οὕτως ἐποίησεν ἡμῖν."
+     }
+    ],
+    "lxx_en": [
+     {
+      "ref": "ZEC 1:5",
+      "text": "Where are your fathers, and the prophets? Will they live for ever?"
+     },
+     {
+      "ref": "ZEC 1:6",
+      "text": "But do ye receive my words and mine ordinances, all that I command by my Spirit to my servants the prophets, who lived in the days of your fathers; and they answered and said, As the Lord Almighty determined to do to us, according to our ways, and according to our practices, so has he done to us."
+     }
+    ]
+   }
+  },
+  {
+   "id": "matt-5-18",
+   "ref": "Matthew 5:17-19",
+   "kjv": "MAT 5:17-19",
+   "speaker": "jesus",
+   "role": "claim",
+   "categories": [
+    "inviolability",
+    "fulfilment"
+   ],
+   "object": "the law (and the prophets, v. 17)",
+   "claim": "Until heaven and earth pass away, one iota or one horn shall by no means pass away from the law, until all things take place (ἰῶτα ἓν ἢ μία κεραία οὐ μὴ παρέλθῃ ἀπὸ τοῦ νόμου).",
+   "variants": "The three Greek editions agree.",
+   "notes": "- ἰῶτα is the Greek letter iota, the smallest letter of the alphabet the\n  Gospel's readers used; κεραία, \"horn\", is the hook or stroke of a\n  letter and, proverbially, the least detail. \"One iota or one horn\" is\n  an idiom of totality, \"not the least particle\". That it stands for the\n  Hebrew *yod* is a reconstruction of the saying's Aramaic background,\n  not something the Greek says. **[context]**\n- The verb is the one used in the same sentence of heaven and earth:\n  παρέλθῃ, \"pass away\", cease to stand. Luke's parallel has πεσεῖν,\n  \"fall\", the idiom for a word that loses its force (Luke 16:17).\n- Verse 19 draws the consequence with \"therefore\" (οὖν): whoever\n  \"loosens\" (λύσῃ) one of the least commandments. What does not pass\n  away is the binding force of every part of the law, down to its least\n  commandment. The saying is not about the copying of a text in any\n  language. **[inferred]**, following\n  [preservation-hebrew-and-greek.md §1.1](../../analysis/preservation-hebrew-and-greek.md#11-matthew-518-read-in-the-greek).\n- It has two time limits: \"until heaven and earth pass away\" and \"until\n  all things take place\" (ἕως ἂν πάντα γένηται). Matthew 24:35 sets\n  Jesus's own words beyond the first limit.\n- The Westminster Confession (1.8) and the Savoy Declaration (1.8) cite\n  it as the sole proof for \"kept pure in all ages\"; see\n  [confessions.md](../../analysis/preservation-of-scripture/confessions.md#westminster-confession-18-kept-pure-in-all-ages).\n",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "MAT 5:17",
+      "text": "Μὴ νομίσητε ὅτι ἦλθον καταλῦσαι τὸν νόμον ἢ τοὺς προφήτας· οὐκ ἦλθον καταλῦσαι ἀλλὰ πληρῶσαι."
+     },
+     {
+      "ref": "MAT 5:18",
+      "text": "Ἀμὴν γὰρ λέγω ὑμῖν, ἕως ἂν παρέλθῃ ὁ οὐρανὸς καὶ ἡ γῆ, ἰῶτα ἓν ἢ μία κεραία οὐ μὴ παρέλθῃ ἀπὸ τοῦ νόμου, ἕως ἂν πάντα γένηται."
+     },
+     {
+      "ref": "MAT 5:19",
+      "text": "Ὃς ἐὰν οὖν λύσῃ μίαν τῶν ἐντολῶν τούτων τῶν ἐλαχίστων, καὶ διδάξῃ οὕτω τοὺς ἀνθρώπους, ἐλάχιστος κληθήσεται ἐν τῇ βασιλείᾳ τῶν οὐρανῶν· ὃς δ᾿ ἂν ποιήσῃ καὶ διδάξῃ, οὗτος μέγας κληθήσεται ἐν τῇ βασιλείᾳ τῶν οὐρανῶν."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "MAT 5:17",
+      "text": "Μὴ νομίσητε ὅτι ἦλθον καταλῦσαι τὸν νόμον ἢ τοὺς προφήτας· οὐκ ἦλθον καταλῦσαι, ἀλλὰ πληρῶσαι."
+     },
+     {
+      "ref": "MAT 5:18",
+      "text": "ἀμὴν γὰρ λέγω ὑμῖν, ἕως ἂν παρέλθῃ ὁ οὐρανὸς καὶ ἡ γῆ, ἰῶτα ἓν ἢ μία κεραία οὐ μὴ παρέλθῃ ἀπὸ τοῦ νόμου ἕως ἂν πάντα γένηται."
+     },
+     {
+      "ref": "MAT 5:19",
+      "text": "ὃς ἐὰν οὖν λύσῃ μίαν τῶν ἐντολῶν τούτων τῶν ἐλαχίστων καὶ διδάξῃ οὕτω τοὺς ἀνθρώπους, ἐλάχιστος κληθήσεται ἐν τῇ βασιλείᾳ τῶν οὐρανῶν· ὃς δ᾽ ἂν ποιήσῃ καὶ διδάξῃ, οὗτος μέγας κληθήσεται ἐν τῇ βασιλείᾳ τῶν οὐρανῶν."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "MAT 5:17",
+      "text": "Μὴ νομίσητε ὅτι ἦλθον καταλῦσαι τὸν νόμον ἢ τοὺς προφήτας· οὐκ ἦλθον καταλῦσαι ἀλλὰ πληρῶσαι·"
+     },
+     {
+      "ref": "MAT 5:18",
+      "text": "ἀμὴν γὰρ λέγω ὑμῖν, ἕως ἂν παρέλθῃ ὁ οὐρανὸς καὶ ἡ γῆ, ἰῶτα ἓν ἢ μία κεραία οὐ μὴ παρέλθῃ ἀπὸ τοῦ νόμου, ἕως ἂν πάντα γένηται."
+     },
+     {
+      "ref": "MAT 5:19",
+      "text": "ὃς ἐὰν οὖν λύσῃ μίαν τῶν ἐντολῶν τούτων τῶν ἐλαχίστων καὶ διδάξῃ οὕτως τοὺς ἀνθρώπους, ἐλάχιστος κληθήσεται ἐν τῇ βασιλείᾳ τῶν οὐρανῶν· ὃς δʼ ἂν ποιήσῃ καὶ διδάξῃ, οὗτος μέγας κληθήσεται ἐν τῇ βασιλείᾳ τῶν οὐρανῶν."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "MAT 5:17",
+      "text": "¶ Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil."
+     },
+     {
+      "ref": "MAT 5:18",
+      "text": "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled."
+     },
+     {
+      "ref": "MAT 5:19",
+      "text": "Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach [them], the same shall be called great in the kingdom of heaven."
+     }
+    ]
+   }
+  },
+  {
+   "id": "luke-16-17",
+   "ref": "Luke 16:17",
+   "kjv": "LUK 16:17",
+   "speaker": "jesus",
+   "role": "claim",
+   "categories": [
+    "inviolability"
+   ],
+   "object": "the law",
+   "claim": "It is easier for heaven and earth to pass away than for one horn of the law to fall (μίαν κεραίαν πεσεῖν).",
+   "variants": "The three Greek editions agree.",
+   "notes": "\"To fail\" is πεσεῖν, \"to fall\", the Old Testament idiom for an unfulfilled\nword (Joshua 21:45; 23:14; 1 Samuel 3:19; 2 Kings 10:10). The next verse\n(16:18) applies the law on divorce more strictly, not less.\n",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "LUK 16:17",
+      "text": "Εὐκοπώτερον δέ ἐστι τὸν οὐρανὸν καὶ τὴν γῆν παρελθεῖν, ἢ τοῦ νόμου μίαν κεραίαν πεσεῖν."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "LUK 16:17",
+      "text": "εὐκοπώτερον δέ ἐστι τὸν οὐρανὸν καὶ τὴν γῆν παρελθεῖν ἢ τοῦ νόμου μίαν κεραίαν πεσεῖν."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "LUK 16:17",
+      "text": "Εὐκοπώτερον δέ ἐστιν τὸν οὐρανὸν καὶ τὴν γῆν παρελθεῖν ἢ τοῦ νόμου μίαν κεραίαν πεσεῖν."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "LUK 16:17",
+      "text": "And it is easier for heaven and earth to pass, than one tittle of the law to fail."
+     }
+    ]
+   }
+  },
+  {
+   "id": "matt-24-35",
+   "ref": "Matthew 24:35; Mark 13:31; Luke 21:33",
+   "kjv": "MAT 24:35, MAR 13:31, LUK 21:33",
+   "speaker": "jesus",
+   "role": "claim",
+   "categories": [
+    "permanence"
+   ],
+   "object": "my words",
+   "claim": "Heaven and earth shall pass away, but my words shall not pass away.",
+   "variants": "The Textus Receptus and the Byzantine text have \"shall not pass away\"\nas an emphatic subjunctive (οὐ μὴ παρέλθωσι) in all three Gospels. The\nSBL text has the subjunctive in Matthew but the future indicative in Mark\nand Luke (οὐ μὴ παρελεύσονται), and the singular \"heaven and earth shall\npass\" (παρελεύσεται) in Matthew. The sense is the same.\n",
+   "notes": "Jesus's own words, not the law, are the object, and they are set beyond\nthe life of the created order. The strongest permanence claim in the\ncollection. **[inferred]** It is a claim about what Jesus said, not about\nthe copies or translations in which it is transmitted.\n",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "MAT 24:35",
+      "text": "Ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσονται, οἱ δὲ λόγοι μου οὐ μὴ παρέλθωσι."
+     },
+     {
+      "ref": "MAR 13:31",
+      "text": "Ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσονται, οἱ δὲ λόγοι μου οὐ μὴ παρέλθωσι."
+     },
+     {
+      "ref": "LUK 21:33",
+      "text": "Ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσονται, οἱ δὲ λόγοι μου οὐ μὴ παρέλθωσι."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "MAT 24:35",
+      "text": "ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσονται, οἱ δὲ λόγοι μου οὐ μὴ παρέλθωσι."
+     },
+     {
+      "ref": "MAR 13:31",
+      "text": "ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσονται, οἱ δὲ ἐμοὶ λόγοι οὐ μὴ παρελεύσονται."
+     },
+     {
+      "ref": "LUK 21:33",
+      "text": "ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσονται, οἱ δὲ λόγοι μου οὐ μὴ παρέλθωσι."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "MAT 24:35",
+      "text": "ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσεται οἱ δὲ λόγοι μου οὐ μὴ παρέλθωσιν."
+     },
+     {
+      "ref": "MAR 13:31",
+      "text": "ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσονται οἱ δὲ λόγοι μου οὐ μὴ παρελεύσονται"
+     },
+     {
+      "ref": "LUK 21:33",
+      "text": "ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσονται οἱ δὲ λόγοι μου οὐ μὴ παρελεύσονται."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "MAT 24:35",
+      "text": "Heaven and earth shall pass away, but my words shall not pass away."
+     },
+     {
+      "ref": "MAR 13:31",
+      "text": "Heaven and earth shall pass away: but my words shall not pass away."
+     },
+     {
+      "ref": "LUK 21:33",
+      "text": "Heaven and earth shall pass away: but my words shall not pass away."
+     }
+    ]
+   }
+  },
+  {
+   "id": "john-10-35",
+   "ref": "John 10:35",
+   "kjv": "JOH 10:35",
+   "speaker": "jesus",
+   "role": "claim",
+   "categories": [
+    "inviolability"
+   ],
+   "object": "the scripture",
+   "claim": "The scripture cannot be loosed (οὐ δύναται λυθῆναι ἡ γραφή), that is, annulled.",
+   "variants": "The editions agree.",
+   "notes": "\"Broken\" is λυθῆναι, \"loosed, annulled\", the verb of Matthew 5:19. Spoken\nof a single phrase of Psalm 82:6 (\"I said, Ye are gods\"), which Jesus\ntreats as binding because it is written.\n",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "JOH 10:35",
+      "text": "Εἰ ἐκείνους εἶπε θεούς, πρὸς οὓς ὁ λόγος τοῦ Θεοῦ ἐγένετο — καὶ οὐ δύναται λυθῆναι ἡ γραφή —"
+     }
+    ],
+    "byz": [
+     {
+      "ref": "JOH 10:35",
+      "text": "εἰ ἐκείνους εἶπε θεούς, πρὸς οὓς ὁ λόγος τοῦ Θεοῦ ἐγένετο, καὶ οὐ δύναται λυθῆναι ἡ γραφή,"
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "JOH 10:35",
+      "text": "εἰ ἐκείνους εἶπεν θεοὺς πρὸς οὓς ὁ λόγος τοῦ θεοῦ ἐγένετο, καὶ οὐ δύναται λυθῆναι ἡ γραφή,"
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "JOH 10:35",
+      "text": "If he called them gods, unto whom the word of God came, and the scripture cannot be broken;"
+     }
+    ]
+   }
+  },
+  {
+   "id": "john-12-48",
+   "ref": "John 12:48",
+   "kjv": "JOH 12:48",
+   "speaker": "jesus",
+   "role": "claim",
+   "categories": [
+    "permanence"
+   ],
+   "object": "the word that I have spoken",
+   "claim": "The word that I have spoken, the same shall judge him in the last day.",
+   "variants": "The editions agree.",
+   "notes": "The word Jesus spoke is to be present and in force at the last judgment.",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "JOH 12:48",
+      "text": "Ὁ ἀθετῶν ἐμὲ καὶ μὴ λαμβάνων τὰ ῥήματά μου, ἔχει τὸν κρίνοντα αὐτόν· ὁ λόγος ὃν ἐλάλησα, ἐκεῖνος κρινεῖ αὐτὸν ἐν τῇ ἐσχάτῃ ἡμέρᾳ."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "JOH 12:48",
+      "text": "ὁ ἀθετῶν ἐμὲ καὶ μὴ λαμβάνων τὰ ῥήματά μου, ἔχει τὸν κρίνοντα αὐτόν· ὁ λόγος ὃν ἐλάλησα, ἐκεῖνος κρινεῖ αὐτὸν ἐν τῇ ἐσχάτῃ ἡμέρᾳ·"
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "JOH 12:48",
+      "text": "ὁ ἀθετῶν ἐμὲ καὶ μὴ λαμβάνων τὰ ῥήματά μου ἔχει τὸν κρίνοντα αὐτόν· ὁ λόγος ὃν ἐλάλησα ἐκεῖνος κρινεῖ αὐτὸν ἐν τῇ ἐσχάτῃ ἡμέρᾳ·"
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "JOH 12:48",
+      "text": "He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day."
+     }
+    ]
+   }
+  },
+  {
+   "id": "john-14-26",
+   "ref": "John 14:26; 16:13",
+   "kjv": "JOH 14:26, JOH 16:13",
+   "speaker": "jesus",
+   "role": "means",
+   "categories": [
+    "transmission"
+   ],
+   "object": "all things that I have said",
+   "claim": "The Holy Ghost shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you; he will guide you into all truth.",
+   "variants": "In 16:13 the Textus Receptus and the Byzantine text have \"into all the truth\" (εἰς πᾶσαν τὴν ἀλήθειαν); SBL has \"in all the truth\" (ἐν τῇ ἀληθείᾳ πάσῃ).",
+   "notes": "The means by which Jesus's spoken words were to reach the apostolic record. A promise to the apostles. **[inferred]**",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "JOH 14:26",
+      "text": "Ὁ δὲ παράκλητος, τὸ πνεῦμα τὸ ἅγιον, ὃ πέμψει ὁ πατὴρ ἐν τῷ ὀνόματί μου, ἐκεῖνος ὑμᾶς διδάξει πάντα, καὶ ὑπομνήσει ὑμᾶς πάντα ἃ εἶπον ὑμῖν."
+     },
+     {
+      "ref": "JOH 16:13",
+      "text": "Ὅταν δὲ ἔλθῃ ἐκεῖνος, τὸ πνεῦμα τῆς ἀληθείας, ὁδηγήσει ὑμᾶς εἰς πᾶσαν τὴν ἀλήθειαν· οὐ γὰρ λαλήσει ἀφ᾿ ἑαυτοῦ, ἀλλ᾿ ὅσα ἂν ἀκούσῃ λαλήσει, καὶ τὰ ἐρχόμενα ἀναγγελεῖ ὑμῖν."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "JOH 14:26",
+      "text": "ὁ δὲ παράκλητος, τὸ Πνεῦμα τὸ Ἅγιον ὃ πέμψει ὁ πατὴρ ἐν τῷ ὀνόματί μου, ἐκεῖνος ὑμᾶς διδάξει πάντα καὶ ὑπομνήσει ὑμᾶς πάντα ἃ εἶπον ὑμῖν."
+     },
+     {
+      "ref": "JOH 16:13",
+      "text": "ὅταν δὲ ἔλθῃ ἐκεῖνος, τὸ Πνεῦμα τῆς ἀληθείας, ὁδηγήσει ὑμᾶς εἰς πᾶσαν τὴν ἀλήθειαν· οὐ γὰρ λαλήσει ἀφ᾽ ἑαυτοῦ, ἀλλ᾽ ὅσα ἂν ἀκούσῃ λαλήσει, καὶ τὰ ἐρχόμενα ἀναγγελεῖ ὑμῖν."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "JOH 14:26",
+      "text": "ὁ δὲ παράκλητος, τὸ πνεῦμα τὸ ἅγιον ὃ πέμψει ὁ πατὴρ ἐν τῷ ὀνόματί μου, ἐκεῖνος ὑμᾶς διδάξει πάντα καὶ ὑπομνήσει ὑμᾶς πάντα ἃ εἶπον ὑμῖν"
+     },
+     {
+      "ref": "JOH 16:13",
+      "text": "ὅταν δὲ ἔλθῃ ἐκεῖνος, τὸ πνεῦμα τῆς ἀληθείας, ὁδηγήσει ὑμᾶς ἐν τῇ ἀληθείᾳ πάσῃ, οὐ γὰρ λαλήσει ἀφʼ ἑαυτοῦ, ἀλλʼ ὅσα ἀκούσει λαλήσει, καὶ τὰ ἐρχόμενα ἀναγγελεῖ ὑμῖν."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "JOH 14:26",
+      "text": "But the Comforter, [which is] the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you."
+     },
+     {
+      "ref": "JOH 16:13",
+      "text": "Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, [that] shall he speak: and he will shew you things to come."
+     }
+    ]
+   }
+  },
+  {
+   "id": "john-17-17",
+   "ref": "John 17:17",
+   "kjv": "JOH 17:17",
+   "speaker": "jesus",
+   "role": "claim",
+   "categories": [
+    "purity"
+   ],
+   "object": "thy word",
+   "claim": "Thy word is truth.",
+   "variants": "The Textus Receptus and Byzantine text have \"in thy truth\" (ἐν τῇ ἀληθείᾳ σου); SBL has \"in the truth\".",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "JOH 17:17",
+      "text": "Ἁγίασον αὐτοὺς ἐν τῇ ἀληθείᾳ σου· ὁ λόγος ὁ σὸς ἀλήθειά ἐστι."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "JOH 17:17",
+      "text": "ἁγίασον αὐτοὺς ἐν τῇ ἀληθείᾳ σου· ὁ λόγος ὁ σὸς ἀλήθειά ἐστι."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "JOH 17:17",
+      "text": "ἁγίασον αὐτοὺς ἐν τῇ ἀληθείᾳ ὁ λόγος ὁ σὸς ἀλήθειά ἐστιν."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "JOH 17:17",
+      "text": "Sanctify them through thy truth: thy word is truth."
+     }
+    ]
+   }
+  },
+  {
+   "id": "matt-4-4",
+   "ref": "Matthew 4:4",
+   "kjv": "MAT 4:4",
+   "speaker": "jesus",
+   "role": "claim",
+   "categories": [
+    "efficacy"
+   ],
+   "object": "every word proceeding out of the mouth of God",
+   "claim": "Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.",
+   "variants": "SBL adds the article before \"man\"; minor.",
+   "notes": "Quotes Deuteronomy 8:3 in the Greek wording, which supplies \"word\" where the Hebrew has none.",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "MAT 4:4",
+      "text": "Ὁ δὲ ἀποκριθεὶς εἶπε, Γέγραπται, Οὐκ ἐπ᾿ ἄρτῳ μόνῳ ζήσεται ἄνθρωπος, ἀλλ᾿ ἐπὶ παντὶ ῥήματι ἐκπορευομένῳ διὰ στόματος Θεοῦ."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "MAT 4:4",
+      "text": "ὁ δὲ ἀποκριθεὶς εἶπε· γέγραπται, οὐκ ἐπ᾽ ἄρτῳ μόνῳ ζήσεται ἄνθρωπος, ἀλλ᾽ ἐπὶ παντὶ ῥήματι ἐκπορευομένῳ διὰ στόματος Θεοῦ."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "MAT 4:4",
+      "text": "ὁ δὲ ἀποκριθεὶς εἶπεν· Γέγραπται· Οὐκ ἐπʼ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος, ἀλλʼ ἐπὶ παντὶ ῥήματι ἐκπορευομένῳ διὰ στόματος θεοῦ."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "MAT 4:4",
+      "text": "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God."
+     }
+    ]
+   }
+  },
+  {
+   "id": "matt-15-6",
+   "ref": "Matthew 15:6; Mark 7:13",
+   "kjv": "MAT 15:6, MAR 7:13",
+   "speaker": "jesus",
+   "role": "warning",
+   "categories": [
+    "corruption"
+   ],
+   "object": "the commandment / word of God",
+   "claim": "Ye have made the commandment of God of none effect by your tradition.",
+   "variants": "In Matthew 15:6 the Textus Receptus and the Byzantine text read \"the\ncommandment of God\" (τὴν ἐντολὴν); SBL reads \"the word of God\" (τὸν λόγον).\nMark 7:13 has \"the word\" in all three. The verb is ἀκυρόω, \"to make void,\nannul\".\n",
+   "notes": "The word can be nullified in practice by a tradition that overrides it, while its text remains.",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "MAT 15:6",
+      "text": "καὶ ἠκυρώσατε τὴν ἐντολὴν τοῦ Θεοῦ διὰ τὴν παράδοσιν ὑμῶν·"
+     },
+     {
+      "ref": "MAR 7:13",
+      "text": "ἀκυροῦντες τὸν λόγον τοῦ Θεοῦ τῇ παραδόσει ὑμῶν ᾗ παρεδώκατε· καὶ παρόμοια τοιαῦτα πολλὰ ποιεῖτε."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "MAT 15:6",
+      "text": "καὶ ἠκυρώσατε τὴν ἐντολὴν τοῦ Θεοῦ διὰ τὴν παράδοσιν ὑμῶν."
+     },
+     {
+      "ref": "MAR 7:13",
+      "text": "ἀκυροῦντες τὸν λόγον τοῦ Θεοῦ τῇ παραδόσει ὑμῶν ᾗ παρεδώκατε· καὶ παρόμοια τοιαῦτα πολλὰ ποιεῖτε."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "MAT 15:6",
+      "text": "οὐ μὴ τιμήσει τὸν πατέρα αὐτοῦ καὶ ἠκυρώσατε τὸν λόγον τοῦ θεοῦ διὰ τὴν παράδοσιν ὑμῶν."
+     },
+     {
+      "ref": "MAR 7:13",
+      "text": "ἀκυροῦντες τὸν λόγον τοῦ θεοῦ τῇ παραδόσει ὑμῶν ᾗ παρεδώκατε· καὶ παρόμοια τοιαῦτα πολλὰ ποιεῖτε."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "MAT 15:6",
+      "text": "And honour not his father or his mother, [he shall be free]. Thus have ye made the commandment of God of none effect by your tradition."
+     },
+     {
+      "ref": "MAR 7:13",
+      "text": "Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye."
+     }
+    ]
+   }
+  },
+  {
+   "id": "luke-1-37",
+   "ref": "Luke 1:37",
+   "kjv": "LUK 1:37",
+   "speaker": "heavenly-voice",
+   "role": "claim",
+   "categories": [
+    "fulfilment"
+   ],
+   "object": "every word (ῥῆμα) from God",
+   "claim": "No word from God shall be without power (οὐκ ἀδυνατήσει παρὰ τοῦ θεοῦ πᾶν ῥῆμα).",
+   "variants": "TR and Byz read παρὰ τῷ θεῷ, \"with God\"; SBL reads παρὰ τοῦ θεοῦ, \"from God\".",
+   "notes": "Gabriel's answer to Mary. ῥῆμα can mean \"word\" or \"thing\", so the KJV has\n\"with God nothing shall be impossible\". The phrase echoes the Greek of\nGenesis 18:14, μὴ ἀδυνατήσει παρὰ τῷ θεῷ ῥῆμα; \"Is any thing too hard for the\nLORD?\". With the reading \"from God\" (SBL) it is a claim that no word God\nspeaks fails of its effect, which Mary's reply takes up: \"be it unto me\naccording to thy word\" (κατὰ τὸ ῥῆμά σου, 1:38). **[inferred]**\n",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "LUK 1:37",
+      "text": "Ὅτι οὐκ ἀδυνατήσει παρὰ τῷ Θεῷ πᾶν ῥῆμα."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "LUK 1:37",
+      "text": "ὅτι οὐκ ἀδυνατήσει παρὰ τῷ Θεῷ πᾶν ῥῆμα."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "LUK 1:37",
+      "text": "ὅτι οὐκ ἀδυνατήσει παρὰ τοῦ θεοῦ πᾶν ῥῆμα."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "LUK 1:37",
+      "text": "For with God nothing shall be impossible."
+     }
+    ]
+   }
+  },
+  {
+   "id": "luke-24-44",
+   "ref": "Luke 24:44",
+   "kjv": "LUK 24:44",
+   "speaker": "jesus",
+   "role": "claim",
+   "categories": [
+    "fulfilment"
+   ],
+   "object": "all things written in the law, the prophets and the psalms",
+   "claim": "All things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.",
+   "variants": "SBL adds \"my\" (\"these are my words\").",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "LUK 24:44",
+      "text": "Εἶπε δὲ αὐτοῖς, Οὗτοι οἱ λόγοι οὓς ἐλάλησα πρὸς ὑμᾶς ἔτι ὢν σὺν ὑμῖν, ὅτι δεῖ πληρωθῆναι πάντα τὰ γεγραμμένα ἐν τῷ νόμῳ Μωσέως καὶ προφήταις καὶ ψαλμοῖς περὶ ἐμοῦ."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "LUK 24:44",
+      "text": "εἶπε δὲ αὐτοῖς· οὗτοι οἱ λόγοι οὓς ἐλάλησα πρὸς ὑμᾶς ἔτι ὢν σὺν ὑμῖν, ὅτι δεῖ πληρωθῆναι πάντα τὰ γεγραμμένα ἐν τῷ νόμῳ Μωϋσέως καὶ προφήταις καὶ ψαλμοῖς περὶ ἐμοῦ."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "LUK 24:44",
+      "text": "Εἶπεν δὲ πρὸς αὐτούς · Οὗτοι οἱ λόγοι μου οὓς ἐλάλησα πρὸς ὑμᾶς ἔτι ὢν σὺν ὑμῖν, ὅτι δεῖ πληρωθῆναι πάντα τὰ γεγραμμένα ἐν τῷ νόμῳ Μωϋσέως καὶ προφήταις καὶ ψαλμοῖς περὶ ἐμοῦ."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "LUK 24:44",
+      "text": "And he said unto them, These [are] the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and [in] the prophets, and [in] the psalms, concerning me."
+     }
+    ]
+   }
+  },
+  {
+   "id": "rev-1-19",
+   "ref": "Revelation 1:19",
+   "kjv": "REV 1:19",
+   "speaker": "jesus",
+   "role": "means",
+   "categories": [
+    "inscripturation"
+   ],
+   "object": "what John has seen",
+   "claim": "Write the things which thou hast seen.",
+   "variants": "SBL and the Byzantine text add \"therefore\" (οὖν).",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "REV 1:19",
+      "text": "Γράψον ἃ εἶδες, καὶ ἅ εἰσι, καὶ ἃ μέλλει γίνεσθαι μετὰ ταῦτα·"
+     }
+    ],
+    "byz": [
+     {
+      "ref": "REV 1:19",
+      "text": "γράψον οὖν ἃ εἶδες, καὶ ἅ εἰσι καὶ ἃ μέλλει γίνεσθαι μετὰ ταῦτα·"
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "REV 1:19",
+      "text": "γράψον οὖν ἃ εἶδες καὶ ἃ εἰσὶν καὶ ἃ μέλλει γίνεσθαι μετὰ ταῦτα."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "REV 1:19",
+      "text": "Write the things which thou hast seen, and the things which are, and the things which shall be hereafter;"
+     }
+    ]
+   }
+  },
+  {
+   "id": "rev-22-18",
+   "ref": "Revelation 22:18-19",
+   "kjv": "REV 22:18-19",
+   "speaker": "jesus",
+   "role": "command",
+   "categories": [
+    "no-alteration"
+   ],
+   "object": "the words of the prophecy of this book",
+   "claim": "If any man shall add unto these things, God shall add unto him the plagues; if any man shall take away from the words of this book, God shall take away his part.",
+   "variants": "- 22:18: the Textus Receptus has \"For I testify together\" (Συμμαρτυροῦμαι\n  γὰρ); the Byzantine and SBL texts have \"I testify\" (Μαρτυρῶ ἐγὼ).\n- 22:19: the Textus Receptus has \"out of the **book** of life\" (ἀπὸ\n  Βίβλου τῆς ζωῆς); the Byzantine and SBL texts have \"from the **tree**\n  of life\" (ἀπὸ τοῦ ξύλου τῆς ζωῆς). **[context]** Erasmus's only Greek\n  manuscript of Revelation lacked the book's last verses, which he\n  supplied by translating the Latin Vulgate back into Greek; the Latin\n  tradition he used read *libro*. The Textus Receptus reading has little\n  or no Greek manuscript support.\n",
+   "notes": "The speaker is the one who \"testifieth these things\" (22:20), Jesus. A\ncurse on altering this book, not a promise that it will not be altered.\nThe passage that warns against changing the text is itself one of the\nplaces where the printed Greek texts differ most.\n",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "REV 22:18",
+      "text": "Συμμαρτυροῦμαι γὰρ παντὶ ἀκούοντι τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου, ἐάν τις ἐπιτιθῇ πρὸς ταῦτα, ἐπιθήσει ὁ Θεὸς ἐπ᾿ αὐτὸν τὰς πληγὰς τὰς γεγραμμένας ἐν βιβλίῳ τούτῳ·"
+     },
+     {
+      "ref": "REV 22:19",
+      "text": "καὶ ἐάν τις ἀφαιρῇ ἀπὸ τῶν λόγων βίβλου τῆς προφητείας ταύτης, ἀφαιρήσει ὁ Θεὸς τὸ μέρος αὐτοῦ ἀπὸ Βίβλου τῆς ζωῆς, καὶ ἐκ τῆς πόλεως τῆς ἁγίας, καὶ τῶν γεγραμμένων ἐν βιβλίῳ τούτῳ."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "REV 22:18",
+      "text": "Μαρτυρῶ ἐγὼ παντὶ τῷ ἀκούοντι τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου. ἐάν τις ἐπιθῇ ἐπὶ ταῦτα, ἐπιθήσει ὁ Θεὸς ἐπ᾽ αὐτὸν τὰς πληγὰς τὰς γεγραμμένας ἐν τῷ βιβλίῳ τούτῳ·"
+     },
+     {
+      "ref": "REV 22:19",
+      "text": "καὶ ἐάν τις ἀφέλῃ ἀπὸ τῶν λόγων τοῦ βιβλίου τῆς προφητείας ταύτης, ἀφελεῖ ὁ Θεὸς τὸ μέρος αὐτοῦ ἀπὸ τοῦ ξύλου τῆς ζωῆς καὶ ἐκ τῆς πόλεως τῆς ἁγίας, τῶν γεγραμμένων ἐν τῷ βιβλίῳ τούτῳ."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "REV 22:18",
+      "text": "Μαρτυρῶ ἐγὼ παντὶ τῷ ἀκούοντι τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου· ἐάν τις ἐπιθῇ ἐπʼ αὐτά, ἐπιθήσει ὁ θεὸς ἐπʼ αὐτὸν τὰς πληγὰς τὰς γεγραμμένας ἐν τῷ βιβλίῳ τούτῳ·"
+     },
+     {
+      "ref": "REV 22:19",
+      "text": "καὶ ἐάν τις ἀφέλῃ ἀπὸ τῶν λόγων τοῦ βιβλίου τῆς προφητείας ταύτης, ἀφελεῖ ὁ θεὸς τὸ μέρος αὐτοῦ ἀπὸ τοῦ ξύλου τῆς ζωῆς καὶ ἐκ τῆς πόλεως τῆς ἁγίας, τῶν γεγραμμένων ἐν τῷ βιβλίῳ τούτῳ."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "REV 22:18",
+      "text": "For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:"
+     },
+     {
+      "ref": "REV 22:19",
+      "text": "And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and [from] the things which are written in this book."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1pet-1-23",
+   "ref": "1 Peter 1:23-25",
+   "kjv": "1PE 1:23-25",
+   "speaker": "apostle",
+   "role": "claim",
+   "categories": [
+    "permanence"
+   ],
+   "object": "the word of God; the word preached to you",
+   "claim": "Born again by the word of God, which liveth and abideth for ever; the word of the Lord endureth for ever, and this is the word which by the gospel is preached unto you.",
+   "variants": "- 1:23: the Textus Receptus and Byzantine text end \"which liveth and\n  abideth **for ever**\" (μένοντος εἰς τὸν αἰῶνα); SBL omits \"for ever\".\n- 1:24: the Textus Receptus and Byzantine text read \"all the glory **of\n  man**\" (ἀνθρώπου), agreeing with the Greek of Isaiah; SBL reads \"all\n  **its** glory\" (αὐτῆς), which corresponds to the Hebrew suffix (חַסְדּוֹ,\n  \"its goodliness\").\n- 1:25: all three read \"the word **of the Lord**\" (ῥῆμα κυρίου), where the\n  Greek of Isaiah has \"the word **of our God**\" (τοῦ θεοῦ ἡμῶν).\n",
+   "notes": "- Peter quotes Isaiah 40 in the Greek's shorter form and with its verb\n  \"abides\" (μένει).\n- The Greek of 1:23 can be read \"the word of the living and abiding God\"\n  (taking both participles with θεοῦ, as the Vulgate does) or \"the living\n  and abiding word of God\".\n- Peter applies the endurance to \"the word which by the gospel is preached\n  unto you\", the proclamation, without distinguishing it from a text.\n",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "1PE 1:23",
+      "text": "ἀναγεγεννημένοι οὐκ ἐκ σπορᾶς φθαρτῆς, ἀλλὰ ἀφθάρτου, διὰ λόγου ζῶντος Θεοῦ καὶ μένοντος εἰς τὸν αἰῶνα."
+     },
+     {
+      "ref": "1PE 1:24",
+      "text": "Διότι, Πᾶσα σὰρξ ὡς χόρτος, καὶ πᾶσα δόξα ἀνθρώπου ὡς ἄνθος χόρτου. Ἐξηράνθη ὁ χόρτος, καὶ τὸ ἄνθος αὐτοῦ ἐξέπεσε·"
+     },
+     {
+      "ref": "1PE 1:25",
+      "text": "τὸ δὲ ῥῆμα Κυρίου μένει εἰς τὸν αἰῶνα. Τοῦτο δέ ἐστι τὸ ῥῆμα τὸ εὐαγγελισθὲν εἰς ὑμᾶς."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "1PE 1:23",
+      "text": "ἀναγεγεννημένοι οὐκ ἐκ σπορᾶς φθαρτῆς, ἀλλὰ ἀφθάρτου, διὰ λόγου ζῶντος Θεοῦ καὶ μένοντος εἰς τὸν αἰῶνα·"
+     },
+     {
+      "ref": "1PE 1:24",
+      "text": "διότι πᾶσα σὰρξ ὡς χόρτος, καὶ πᾶσα δόξα ἀνθρώπου ὡς ἄνθος χόρτου· ἐξηράνθη ὁ χόρτος, καὶ τὸ ἄνθος αὐτοῦ ἐξέπεσε·"
+     },
+     {
+      "ref": "1PE 1:25",
+      "text": "τὸ δὲ ῥῆμα Κυρίου μένει εἰς τὸν αἰῶνα. τοῦτο δέ ἐστι τὸ ῥῆμα τὸ εὐαγγελισθὲν εἰς ὑμᾶς."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "1PE 1:23",
+      "text": "ἀναγεγεννημένοι οὐκ ἐκ σπορᾶς φθαρτῆς ἀλλὰ ἀφθάρτου, διὰ λόγου ζῶντος θεοῦ καὶ μένοντος"
+     },
+     {
+      "ref": "1PE 1:24",
+      "text": "διότι πᾶσα σὰρξ ὡς χόρτος, καὶ πᾶσα δόξα αὐτῆς ὡς ἄνθος χόρτου· ἐξηράνθη ὁ χόρτος, καὶ τὸ ἄνθος ἐξέπεσεν·"
+     },
+     {
+      "ref": "1PE 1:25",
+      "text": "τὸ δὲ ῥῆμα κυρίου μένει εἰς τὸν αἰῶνα. τοῦτο δέ ἐστιν τὸ ῥῆμα τὸ εὐαγγελισθὲν εἰς ὑμᾶς."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "1PE 1:23",
+      "text": "Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever."
+     },
+     {
+      "ref": "1PE 1:24",
+      "text": "For all flesh [is] as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away:"
+     },
+     {
+      "ref": "1PE 1:25",
+      "text": "But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1pet-2-2",
+   "ref": "1 Peter 2:2",
+   "kjv": "1PE 2:2",
+   "speaker": "apostle",
+   "role": "claim",
+   "categories": [
+    "purity"
+   ],
+   "object": "the milk of the word",
+   "claim": "As newborn babes, desire the sincere milk of the word.",
+   "variants": "SBL adds \"unto salvation\" (εἰς σωτηρίαν) at the end of the verse.",
+   "notes": "\"Sincere\" is ἄδολος, \"unadulterated\", the negative of the verb Paul uses\nfor \"handling deceitfully\" (δολοῦντες) in 2 Corinthians 4:2. It follows\ndirectly on 1:23–25. \"Of the word\" is λογικόν, which can also mean\n\"spiritual\" or \"rational\". The New Testament's one description of God's\nword as free of adulteration is applied to what believers are to desire,\nnot to a text's transmission. **[inferred]**\n",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "1PE 2:2",
+      "text": "ὡς ἀρτιγέννητα βρέφη, τὸ λογικὸν ἄδολον γάλα ἐπιποθήσατε, ἵνα ἐν αὐτῷ αὐξηθῆτε,"
+     }
+    ],
+    "byz": [
+     {
+      "ref": "1PE 2:2",
+      "text": "ὡς ἀρτιγέννητα βρέφη τὸ λογικὸν ἄδολον γάλα ἐπιποθήσατε, ἵνα ἐν αὐτῷ αὐξηθῆτε [εἰς σωτηρίαν],"
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "1PE 2:2",
+      "text": "ὡς ἀρτιγέννητα βρέφη τὸ λογικὸν ἄδολον γάλα ἐπιποθήσατε, ἵνα ἐν αὐτῷ αὐξηθῆτε εἰς σωτηρίαν,"
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "1PE 2:2",
+      "text": "As newborn babes, desire the sincere milk of the word, that ye may grow thereby:"
+     }
+    ]
+   }
+  },
+  {
+   "id": "rom-3-2",
+   "ref": "Romans 3:2",
+   "kjv": "ROM 3:2",
+   "speaker": "apostle",
+   "role": "means",
+   "categories": [
+    "custody"
+   ],
+   "object": "the oracles of God",
+   "claim": "Unto them [the Jews] were committed the oracles of God.",
+   "variants": "The editions agree.",
+   "notes": "The Jews were \"entrusted\" (ἐπιστεύθησαν) with the oracles (τὰ λόγια).\nThe Second London Confession cites this verse in its proofs for 1.8.\nPaul's next verse asks whether their unbelief makes God's faithfulness\nvoid, and answers no.\n",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "ROM 3:2",
+      "text": "Πολὺ κατὰ πάντα τρόπον· πρῶτον μὲν γὰρ ὅτι ἐπιστεύθησαν τὰ λόγια τοῦ Θεοῦ."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "ROM 3:2",
+      "text": "πολὺ κατὰ πάντα τρόπον. πρῶτον μὲν γὰρ ὅτι ἐπιστεύθησαν τὰ λόγια τοῦ Θεοῦ."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "ROM 3:2",
+      "text": "πολὺ κατὰ πάντα τρόπον. πρῶτον μὲν γὰρ ὅτι ἐπιστεύθησαν τὰ λόγια τοῦ θεοῦ."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "ROM 3:2",
+      "text": "Much every way: chiefly, because that unto them were committed the oracles of God."
+     }
+    ]
+   }
+  },
+  {
+   "id": "rom-9-6",
+   "ref": "Romans 9:6",
+   "kjv": "ROM 9:6",
+   "speaker": "apostle",
+   "role": "claim",
+   "categories": [
+    "fulfilment"
+   ],
+   "object": "the word of God",
+   "claim": "Not as though the word of God hath taken none effect.",
+   "variants": "The editions agree.",
+   "notes": "\"Taken none effect\" is ἐκπέπτωκεν, \"has fallen\", the verb the Greek of\nIsaiah 40:7 and 1 Peter 1:24 use for the flower that \"fell\".\n",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "ROM 9:6",
+      "text": "Οὐχ οἷον δὲ ὅτι ἐκπέπτωκεν ὁ λόγος τοῦ Θεοῦ. Οὐ γὰρ πάντες οἱ ἐξ Ἰσραήλ, οὗτοι Ἰσραήλ·"
+     }
+    ],
+    "byz": [
+     {
+      "ref": "ROM 9:6",
+      "text": "Οὐχ οἷον δὲ ὅτι ἐκπέπτωκεν ὁ λόγος τοῦ Θεοῦ. οὐ γὰρ πάντες οἱ ἐξ Ἰσραήλ, οὗτοι Ἰσραήλ,"
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "ROM 9:6",
+      "text": "Οὐχ οἷον δὲ ὅτι ἐκπέπτωκεν ὁ λόγος τοῦ θεοῦ. οὐ γὰρ πάντες οἱ ἐξ Ἰσραήλ, οὗτοι Ἰσραήλ·"
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "ROM 9:6",
+      "text": "Not as though the word of God hath taken none effect. For they [are] not all Israel, which are of Israel:"
+     }
+    ]
+   }
+  },
+  {
+   "id": "rom-15-4",
+   "ref": "Romans 15:4; 1 Corinthians 10:11",
+   "kjv": "ROM 15:4, 1CO 10:11",
+   "speaker": "apostle",
+   "role": "claim",
+   "categories": [
+    "transmission"
+   ],
+   "object": "whatsoever things were written aforetime",
+   "claim": "Whatsoever things were written aforetime were written for our learning; they are written for our admonition, upon whom the ends of the world are come.",
+   "variants": "In Romans 15:4 SBL has \"were written\" (ἐγράφη) for the second \"were written aforetime\" (προεγράφη).",
+   "notes": "The Old Testament writings were written for a later generation, which presupposes they would reach it.",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "ROM 15:4",
+      "text": "Ὅσα γὰρ προεγράφη, εἰς τὴν ἡμετέραν διδασκαλίαν προεγράφη, ἵνα διὰ τῆς ὑπομονῆς καὶ τῆς παρακλήσεως τῶν γραφῶν τὴν ἐλπίδα ἔχωμεν."
+     },
+     {
+      "ref": "1CO 10:11",
+      "text": "Ταῦτα δὲ πάντα τύποι συνέβαινον ἐκείνοις· ἐγράφη δὲ πρὸς νουθεσίαν ἡμῶν, εἰς οὓς τὰ τέλη τῶν αἰώνων κατήντησεν."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "ROM 15:4",
+      "text": "ὅσα γὰρ προεγράφη, εἰς τὴν ἡμετέραν διδασκαλίαν προεγράφη, ἵνα διὰ τῆς ὑπομονῆς καὶ τῆς παρακλήσεως τῶν γραφῶν τὴν ἐλπίδα ἔχωμεν."
+     },
+     {
+      "ref": "1CO 10:11",
+      "text": "ταῦτα δὲ πάντα τύποι συνέβαινον ἐκείνοις, ἐγράφη δὲ πρὸς νουθεσίαν ἡμῶν, εἰς οὓς τὰ τέλη τῶν αἰώνων κατήντησεν."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "ROM 15:4",
+      "text": "ὅσα γὰρ προεγράφη, εἰς τὴν ἡμετέραν διδασκαλίαν ἐγράφη ἵνα διὰ τῆς ὑπομονῆς καὶ διὰ τῆς παρακλήσεως τῶν γραφῶν τὴν ἐλπίδα ἔχωμεν."
+     },
+     {
+      "ref": "1CO 10:11",
+      "text": "ταῦτα δὲ τυπικῶς συνέβαινεν ἐκείνοις, ἐγράφη δὲ πρὸς νουθεσίαν ἡμῶν, εἰς οὓς τὰ τέλη τῶν αἰώνων κατήντηκεν"
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "ROM 15:4",
+      "text": "For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope."
+     },
+     {
+      "ref": "1CO 10:11",
+      "text": "Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2tim-3-16",
+   "ref": "2 Timothy 3:15-16",
+   "kjv": "2TI 3:15-16",
+   "speaker": "apostle",
+   "role": "claim",
+   "categories": [
+    "origin"
+   ],
+   "object": "all scripture; the holy scriptures Timothy knew from a child",
+   "claim": "All scripture is given by inspiration of God (θεόπνευστος), and is profitable.",
+   "variants": "SBL omits the article before \"holy writings\" (ἱερὰ γράμματα) and reads ἐλεγμόν for ἔλεγχον (\"reproof\").",
+   "notes": "A claim about the origin and use of Scripture, not its preservation. It\nis included because it is cited everywhere alongside the preservation\ntexts. **[inferred]** The \"holy writings\" Timothy knew from a child were\ncopies, not autographs, and the verse calls them able to make him wise\nunto salvation.\n",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "2TI 3:15",
+      "text": "καὶ ὅτι ἀπὸ βρέφους τὰ ἱερὰ γράμματα οἶδας, τὰ δυνάμενά σε σοφίσαι εἰς σωτηρίαν διὰ πίστεως τῆς ἐν Χριστῷ Ἰησοῦ."
+     },
+     {
+      "ref": "2TI 3:16",
+      "text": "Πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἔλεγχον, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ·"
+     }
+    ],
+    "byz": [
+     {
+      "ref": "2TI 3:15",
+      "text": "καὶ ὅτι ἀπὸ βρέφους τὰ ἱερὰ γράμματα οἶδας, τὰ δυνάμενά σε σοφίσαι εἰς σωτηρίαν διὰ πίστεως τῆς ἐν Χριστῷ Ἰησοῦ."
+     },
+     {
+      "ref": "2TI 3:16",
+      "text": "πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἔλεγχον, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ,"
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "2TI 3:15",
+      "text": "καὶ ὅτι ἀπὸ βρέφους ἱερὰ γράμματα οἶδας, τὰ δυνάμενά σε σοφίσαι εἰς σωτηρίαν διὰ πίστεως τῆς ἐν Χριστῷ Ἰησοῦ·"
+     },
+     {
+      "ref": "2TI 3:16",
+      "text": "πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ,"
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "2TI 3:15",
+      "text": "And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus."
+     },
+     {
+      "ref": "2TI 3:16",
+      "text": "All scripture [is] given by inspiration of God, and [is] profitable for doctrine, for reproof, for correction, for instruction in righteousness:"
+     }
+    ]
+   }
+  },
+  {
+   "id": "2pet-1-19",
+   "ref": "2 Peter 1:19-21",
+   "kjv": "2PE 1:19-21",
+   "speaker": "apostle",
+   "role": "claim",
+   "categories": [
+    "origin"
+   ],
+   "object": "the prophetic word",
+   "claim": "We have a more sure word of prophecy; prophecy came not by the will of man, but holy men of God spake as they were moved by the Holy Ghost.",
+   "variants": "In 1:21 the Textus Receptus has \"holy men of God\" (οἱ ἅγιοι Θεοῦ ἄνθρωποι); SBL has \"men spoke from God\" (ἀπὸ θεοῦ ἄνθρωποι).",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "2PE 1:19",
+      "text": "Καὶ ἔχομεν βεβαιότερον τὸν προφητικὸν λόγον, ᾧ καλῶς ποιεῖτε προσέχοντες, ὡς λύχνῳ φαίνοντι ἐν αὐχμηρῷ τόπῳ, ἕως οὗ ἡμέρα διαυγάσῃ, καὶ φωσφόρος ἀνατείλῃ ἐν ταῖς καρδίαις ὑμῶν·"
+     },
+     {
+      "ref": "2PE 1:20",
+      "text": "τοῦτο πρῶτον γινώσκοντες, ὅτι πᾶσα προφητεία γραφῆς ἰδίας ἐπιλύσεως οὐ γίνεται."
+     },
+     {
+      "ref": "2PE 1:21",
+      "text": "Οὐ γὰρ θελήματι ἀνθρώπου ἠνέχθη ποτὲ προφητεία, ἀλλ᾿ ὑπὸ πνεύματος ἁγίου φερόμενοι ἐλάλησαν οἱ ἅγιοι Θεοῦ ἄνθρωποι."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "2PE 1:19",
+      "text": "καὶ ἔχομεν βεβαιότερον τὸν προφητικὸν λόγον, ᾧ καλῶς ποιεῖτε προσέχοντες ὡς λύχνῳ φαίνοντι ἐν αὐχμηρῷ τόπῳ, ἕως οὗ ἡμέρα διαυγάσῃ καὶ φωσφόρος ἀνατείλῃ ἐν ταῖς καρδίαις ὑμῶν,"
+     },
+     {
+      "ref": "2PE 1:20",
+      "text": "τοῦτο πρῶτον γινώσκοντες, ὅτι πᾶσα προφητεία γραφῆς ἰδίας ἐπιλύσεως οὐ γίνεται."
+     },
+     {
+      "ref": "2PE 1:21",
+      "text": "οὐ γὰρ θελήματι ἀνθρώπου ἠνέχθη ποτὲ προφητεία, ἀλλ᾽ ὑπὸ Πνεύματος Ἁγίου φερόμενοι ἐλάλησαν ἅγιοι Θεοῦ ἄνθρωποι."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "2PE 1:19",
+      "text": "καὶ ἔχομεν βεβαιότερον τὸν προφητικὸν λόγον, ᾧ καλῶς ποιεῖτε προσέχοντες ὡς λύχνῳ φαίνοντι ἐν αὐχμηρῷ τόπῳ, ἕως οὗ ἡμέρα διαυγάσῃ καὶ φωσφόρος ἀνατείλῃ ἐν ταῖς καρδίαις ὑμῶν·"
+     },
+     {
+      "ref": "2PE 1:20",
+      "text": "τοῦτο πρῶτον γινώσκοντες ὅτι πᾶσα προφητεία γραφῆς ἰδίας ἐπιλύσεως οὐ γίνεται,"
+     },
+     {
+      "ref": "2PE 1:21",
+      "text": "οὐ γὰρ θελήματι ἀνθρώπου ἠνέχθη προφητεία ποτέ, ἀλλὰ ὑπὸ πνεύματος ἁγίου φερόμενοι ἐλάλησαν ἀπὸ θεοῦ ἄνθρωποι."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "2PE 1:19",
+      "text": "We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts:"
+     },
+     {
+      "ref": "2PE 1:20",
+      "text": "Knowing this first, that no prophecy of the scripture is of any private interpretation."
+     },
+     {
+      "ref": "2PE 1:21",
+      "text": "For the prophecy came not in old time by the will of man: but holy men of God spake [as they were] moved by the Holy Ghost."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2tim-2-9",
+   "ref": "2 Timothy 2:9",
+   "kjv": "2TI 2:9",
+   "speaker": "apostle",
+   "role": "claim",
+   "categories": [
+    "efficacy"
+   ],
+   "object": "the word of God",
+   "claim": "The word of God is not bound.",
+   "variants": "The editions agree.",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "2TI 2:9",
+      "text": "ἐν ᾧ κακοπαθῶ μέχρι δεσμῶν, ὡς κακοῦργος· ἀλλ᾿ ὁ λόγος τοῦ Θεοῦ οὐ δέδεται."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "2TI 2:9",
+      "text": "ἐν ᾧ κακοπαθῶ μέχρι δεσμῶν ὡς κακοῦργος· ἀλλ᾽ ὁ λόγος τοῦ Θεοῦ οὐ δέδεται."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "2TI 2:9",
+      "text": "ἐν ᾧ κακοπαθῶ μέχρι δεσμῶν ὡς κακοῦργος. ἀλλὰ ὁ λόγος τοῦ θεοῦ οὐ δέδεται·"
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "2TI 2:9",
+      "text": "Where in I suffer trouble, as an evil doer, [even] unto bonds; but the word of God is not bound."
+     }
+    ]
+   }
+  },
+  {
+   "id": "heb-4-12",
+   "ref": "Hebrews 4:12",
+   "kjv": "HEB 4:12",
+   "speaker": "apostle",
+   "role": "claim",
+   "categories": [
+    "efficacy"
+   ],
+   "object": "the word of God",
+   "claim": "The word of God is quick, and powerful.",
+   "variants": "SBL reads \"soul and spirit\" (καὶ) for \"both soul and spirit\" (τε καὶ).",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "HEB 4:12",
+      "text": "Ζῶν γὰρ ὁ λόγος τοῦ Θεοῦ, καὶ ἐνεργής, καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον, καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς τε καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "HEB 4:12",
+      "text": "Ζῶν γὰρ ὁ λόγος τοῦ Θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς τε καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας,"
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "HEB 4:12",
+      "text": "Ζῶν γὰρ ὁ λόγος τοῦ θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας·"
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "HEB 4:12",
+      "text": "For the word of God [is] quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and [is] a discerner of the thoughts and intents of the heart."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1thess-2-13",
+   "ref": "1 Thessalonians 2:13",
+   "kjv": "1TH 2:13",
+   "speaker": "apostle",
+   "role": "claim",
+   "categories": [
+    "efficacy"
+   ],
+   "object": "the word of God heard from the apostles",
+   "claim": "Ye received it not as the word of men, but as it is in truth, the word of God, which effectually worketh in you.",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "1TH 2:13",
+      "text": "Διὰ τοῦτο καὶ ἡμεῖς εὐχαριστοῦμεν τῷ Θεῷ ἀδιαλείπτως, ὅτι παραλαβόντες λόγον ἀκοῆς παρ᾿ ἡμῶν τοῦ Θεοῦ, ἐδέξασθε οὐ λόγον ἀνθρώπων, ἀλλὰ καθώς ἐστιν ἀληθῶς, λόγον Θεοῦ, ὃς καὶ ἐνεργεῖται ἐν ὑμῖν τοῖς πιστεύουσιν."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "1TH 2:13",
+      "text": "Διὰ τοῦτο καὶ ἡμεῖς εὐχαριστοῦμεν τῷ Θεῷ ἀδιαλείπτως, ὅτι παραλαβόντες λόγον ἀκοῆς παρ᾽ ἡμῶν τοῦ Θεοῦ ἐδέξασθε οὐ λόγον ἀνθρώπων, ἀλλὰ καθώς ἐστιν ἀληθῶς, λόγον Θεοῦ, ὃς καὶ ἐνεργεῖται ἐν ὑμῖν τοῖς πιστεύουσιν."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "1TH 2:13",
+      "text": "Καὶ διὰ τοῦτο καὶ ἡμεῖς εὐχαριστοῦμεν τῷ θεῷ ἀδιαλείπτως, ὅτι παραλαβόντες λόγον ἀκοῆς παρʼ ἡμῶν τοῦ θεοῦ ἐδέξασθε οὐ λόγον ἀνθρώπων ἀλλὰ καθὼς ἀληθῶς ἐστὶν λόγον θεοῦ, ὃς καὶ ἐνεργεῖται ἐν ὑμῖν τοῖς πιστεύουσιν."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "1TH 2:13",
+      "text": "For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received [it] not [as] the word of men, but as it is in truth, the word of God, which effectually worketh also in you that believe."
+     }
+    ]
+   }
+  },
+  {
+   "id": "acts-7-38",
+   "ref": "Acts 7:38",
+   "kjv": "ACT 7:38",
+   "speaker": "other",
+   "role": "claim",
+   "categories": [
+    "efficacy",
+    "transmission"
+   ],
+   "object": "the lively oracles given at Sinai",
+   "claim": "Moses received the lively oracles (λόγια ζῶντα) to give unto us.",
+   "variants": "The Textus Receptus and Byzantine text have \"to give unto us\" (ἡμῖν); SBL has \"unto you\" (ὑμῖν).",
+   "notes": "Stephen is the speaker, in his speech before the council.",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "ACT 7:38",
+      "text": "Οὗτός ἐστιν ὁ γενόμενος ἐν τῇ ἐκκλησίᾳ ἐν τῇ ἐρήμῳ μετὰ τοῦ ἀγγέλου τοῦ λαλοῦντος αὐτῷ ἐν τῷ ὄρει Σινᾶ καὶ τῶν πατέρων ἡμῶν· ὃς ἐδέξατο λόγια ζῶντα δοῦναι ἡμῖν·"
+     }
+    ],
+    "byz": [
+     {
+      "ref": "ACT 7:38",
+      "text": "οὗτός ἐστιν ὁ γενόμενος ἐν τῇ ἐκκλησίᾳ ἐν τῇ ἐρήμῳ μετὰ τοῦ ἀγγέλου τοῦ λαλοῦντος αὐτῷ ἐν τῷ ὄρει Σινᾶ καὶ τῶν πατέρων ἡμῶν, ὃς ἐδέξατο λόγια ζῶντα δοῦναι ἡμῖν."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "ACT 7:38",
+      "text": "οὗτός ἐστιν ὁ γενόμενος ἐν τῇ ἐκκλησίᾳ ἐν τῇ ἐρήμῳ μετὰ τοῦ ἀγγέλου τοῦ λαλοῦντος αὐτῷ ἐν τῷ ὄρει Σινᾶ καὶ τῶν πατέρων ἡμῶν, ὃς ἐδέξατο λόγια ζῶντα δοῦναι ἡμῖν"
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "ACT 7:38",
+      "text": "This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and [with] our fathers: who received the lively oracles to give unto us:"
+     }
+    ]
+   }
+  },
+  {
+   "id": "jude-3",
+   "ref": "Jude 3",
+   "kjv": "JUD 1:3",
+   "speaker": "apostle",
+   "role": "claim",
+   "categories": [
+    "transmission"
+   ],
+   "object": "the faith once delivered",
+   "claim": "Contend for the faith which was once delivered unto the saints.",
+   "notes": "\"Once\" (ἅπαξ) means once for all. The object is the faith, the body of teaching, not a text.",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "JUD 1:3",
+      "text": "Ἀγαπητοί, πᾶσαν σπουδὴν ποιούμενος γράφειν ὑμῖν περὶ τῆς κοινῆς σωτηρίας, ἀνάγκην ἔσχον γράψαι ὑμῖν, παρακαλῶν ἐπαγωνίζεσθαι τῇ ἅπαξ παραδοθείσῃ τοῖς ἁγίοις πίστει."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "JUD 1:3",
+      "text": "Ἀγαπητοί, πᾶσαν σπουδὴν ποιούμενος γράφειν ὑμῖν περὶ τῆς κοινῆς σωτηρίας, ἀνάγκην ἔσχον γράψαι ὑμῖν παρακαλῶν ἐπαγωνίζεσθαι τῇ ἅπαξ παραδοθείσῃ τοῖς ἁγίοις πίστει."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "JUD 1:3",
+      "text": "Ἀγαπητοί, πᾶσαν σπουδὴν ποιούμενος γράφειν ὑμῖν περὶ τῆς κοινῆς ἡμῶν σωτηρίας ἀνάγκην ἔσχον γράψαι ὑμῖν παρακαλῶν ἐπαγωνίζεσθαι τῇ ἅπαξ παραδοθείσῃ τοῖς ἁγίοις πίστει."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "JUD 1:3",
+      "text": "Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort [you] that ye should earnestly contend for the faith which was once delivered unto the saints."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2cor-2-17",
+   "ref": "2 Corinthians 2:17; 4:2",
+   "kjv": "2CO 2:17, 2CO 4:2",
+   "speaker": "apostle",
+   "role": "warning",
+   "categories": [
+    "corruption"
+   ],
+   "object": "the word of God",
+   "claim": "We are not as many, which corrupt the word of God; not handling the word of God deceitfully.",
+   "variants": "In 2:17 the Byzantine text has \"the rest\" (οἱ λοιποί) for \"many\" (οἱ πολλοί).",
+   "notes": "\"Corrupt\" is καπηλεύοντες, \"peddling\" (used of wine-sellers who\nadulterate their wares); \"handling deceitfully\" is δολοῦντες,\n\"adulterating\". Paul admits that some in his day were corrupting the word\nin their handling of it.\n",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "2CO 2:17",
+      "text": "Οὐ γάρ ἐσμεν ὡς οἱ πολλοί, καπηλεύοντες τὸν λόγον τοῦ Θεοῦ· ἀλλ᾿ ὡς ἐξ εἰλικρινείας, ἀλλ᾿ ὡς ἐκ Θεοῦ, κατενώπιον τοῦ Θεοῦ, ἐν Χριστῷ λαλοῦμεν."
+     },
+     {
+      "ref": "2CO 4:2",
+      "text": "ἀλλ᾿ ἀπειπάμεθα τὰ κρυπτὰ τῆς αἰσχύνης, μὴ περιπατοῦντες ἐν πανουργίᾳ μηδὲ δολοῦντες τὸν λόγον τοῦ Θεοῦ, ἀλλὰ τῇ φανερώσει τῆς ἀληθείας συνιστῶντες ἑαυτοὺς πρὸς πᾶσαν συνείδησιν ἀνθρώπων ἐνώπιον τοῦ Θεοῦ."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "2CO 2:17",
+      "text": "οὐ γάρ ἐσμεν ὡς οἱ λοιποὶ καπηλεύοντες τὸν λόγον τοῦ Θεοῦ, ἀλλ᾽ ὡς ἐξ εἰλικρινείας, ἀλλ᾽ ὡς ἐκ Θεοῦ κατενώπιον τοῦ Θεοῦ ἐν Χριστῷ λαλοῦμεν."
+     },
+     {
+      "ref": "2CO 4:2",
+      "text": "ἀλλ᾽ ἀπειπάμεθα τὰ κρυπτὰ τῆς αἰσχύνης, μὴ περιπατοῦντες ἐν πανουργίᾳ μηδὲ δολοῦντες τὸν λόγον τοῦ Θεοῦ, ἀλλὰ τῇ φανερώσει τῆς ἀληθείας συνιστῶντες ἑαυτοὺς πρὸς πᾶσαν συνείδησιν ἀνθρώπων ἐνώπιον τοῦ Θεοῦ."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "2CO 2:17",
+      "text": "οὐ γάρ ἐσμεν ὡς οἱ πολλοὶ καπηλεύοντες τὸν λόγον τοῦ θεοῦ, ἀλλʼ ὡς ἐξ εἰλικρινείας, ἀλλʼ ὡς ἐκ θεοῦ κατέναντι θεοῦ ἐν Χριστῷ λαλοῦμεν."
+     },
+     {
+      "ref": "2CO 4:2",
+      "text": "ἀλλὰ ἀπειπάμεθα τὰ κρυπτὰ τῆς αἰσχύνης, μὴ περιπατοῦντες ἐν πανουργίᾳ μηδὲ δολοῦντες τὸν λόγον τοῦ θεοῦ, ἀλλὰ τῇ φανερώσει τῆς ἀληθείας συνιστάνοντες ἑαυτοὺς πρὸς πᾶσαν συνείδησιν ἀνθρώπων ἐνώπιον τοῦ θεοῦ."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "2CO 2:17",
+      "text": "For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ."
+     },
+     {
+      "ref": "2CO 4:2",
+      "text": "But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2pet-3-16",
+   "ref": "2 Peter 3:16",
+   "kjv": "2PE 3:16",
+   "speaker": "apostle",
+   "role": "warning",
+   "categories": [
+    "corruption"
+   ],
+   "object": "Paul's epistles and \"the other scriptures\"",
+   "claim": "The unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.",
+   "variants": "Minor; SBL reads \"in which\" (αἷς, the epistles) for \"in which things\" (οἷς).",
+   "notes": "Corruption by interpretation (\"wrest\", στρεβλοῦσιν, \"twist\") rather than by alteration of the text. Paul's letters are counted among \"the scriptures\".",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "2PE 3:16",
+      "text": "ὡς καὶ ἐν πάσαις ταῖς ἐπιστολαῖς, λαλῶν ἐν αὐταῖς περὶ τούτων· ἐν οἷς ἔστι δυσνόητά τινα, ἃ οἱ ἀμαθεῖς καὶ ἀστήρικτοι στρεβλοῦσιν, ὡς καὶ τὰς λοιπὰς γραφάς, πρὸς τὴν ἰδίαν αὐτῶν ἀπώλειαν."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "2PE 3:16",
+      "text": "ὡς καὶ ἐν πάσαις ταῖς ἐπιστολαῖς λαλῶν ἐν αὐταῖς περὶ τούτων, ἐν οἷς ἐστι δυσνόητά τινα, ἃ οἱ ἀμαθεῖς καὶ ἀστήρικτοι στρεβλοῦσιν ὡς καὶ τὰς λοιπὰς γραφὰς πρὸς τὴν ἰδίαν αὐτῶν ἀπώλειαν."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "2PE 3:16",
+      "text": "ὡς καὶ ἐν πάσαις ταῖς ἐπιστολαῖς λαλῶν ἐν αὐταῖς περὶ τούτων, ἐν αἷς ἐστιν δυσνόητά τινα, ἃ οἱ ἀμαθεῖς καὶ ἀστήρικτοι στρεβλοῦσιν ὡς καὶ τὰς λοιπὰς γραφὰς πρὸς τὴν ἰδίαν αὐτῶν ἀπώλειαν."
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "2PE 3:16",
+      "text": "As also in all [his] epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as [they do] also the other scriptures, unto their own destruction."
+     }
+    ]
+   }
+  },
+  {
+   "id": "heb-6-18",
+   "ref": "Hebrews 6:17-18; Titus 1:2",
+   "kjv": "HEB 6:17-18, TIT 1:2",
+   "speaker": "apostle",
+   "role": "ground",
+   "categories": [
+    "fulfilment"
+   ],
+   "object": "God's counsel and oath; his promise",
+   "claim": "The immutability of his counsel; it was impossible for God to lie; God, that cannot lie, promised.",
+   "variants": "The editions agree.",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "HEB 6:17",
+      "text": "Ἐν ᾧ περισσότερον βουλόμενος ὁ Θεὸς ἐπιδεῖξαι τοῖς κληρονόμοις τῆς ἐπαγγελίας τὸ ἀμετάθετον τῆς βουλῆς αὐτοῦ, ἐμεσίτευσεν ὅρκῳ,"
+     },
+     {
+      "ref": "HEB 6:18",
+      "text": "ἵνα διὰ δύο πραγμάτων ἀμεταθέτων, ἐν οἷς ἀδύνατον ψεύσασθαι Θεόν, ἰσχυρὰν παράκλησιν ἔχωμεν οἱ καταφυγόντες κρατῆσαι τῆς προκειμένης ἐλπίδος·"
+     },
+     {
+      "ref": "TIT 1:2",
+      "text": "ἐπ᾿ ἐλπίδι ζωῆς αἰωνίου, ἣν ἐπηγγείλατο ὁ ἀψευδὴς Θεὸς πρὸ χρόνων αἰωνίων,"
+     }
+    ],
+    "byz": [
+     {
+      "ref": "HEB 6:17",
+      "text": "ἐν ᾧ περισσότερον βουλόμενος ὁ Θεὸς ἐπιδεῖξαι τοῖς κληρονόμοις τῆς ἐπαγγελίας τὸ ἀμετάθετον τῆς βουλῆς αὐτοῦ, ἐμεσίτευσεν ὅρκῳ,"
+     },
+     {
+      "ref": "HEB 6:18",
+      "text": "ἵνα διὰ δύο πραγμάτων ἀμεταθέτων, ἐν οἷς ἀδύνατον ψεύσασθαι Θεόν, ἰσχυρὰν παράκλησιν ἔχωμεν οἱ καταφυγόντες κρατῆσαι τῆς προκειμένης ἐλπίδος·"
+     },
+     {
+      "ref": "TIT 1:2",
+      "text": "ἐπ᾽ ἐλπίδι ζωῆς αἰωνίου, ἣν ἐπηγγείλατο ὁ ἀψευδὴς Θεὸς πρὸ χρόνων αἰωνίων,"
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "HEB 6:17",
+      "text": "ἐν ᾧ περισσότερον βουλόμενος ὁ θεὸς ἐπιδεῖξαι τοῖς κληρονόμοις τῆς ἐπαγγελίας τὸ ἀμετάθετον τῆς βουλῆς αὐτοῦ ἐμεσίτευσεν ὅρκῳ,"
+     },
+     {
+      "ref": "HEB 6:18",
+      "text": "ἵνα διὰ δύο πραγμάτων ἀμεταθέτων, ἐν οἷς ἀδύνατον ψεύσασθαι θεόν ἰσχυρὰν παράκλησιν ἔχωμεν οἱ καταφυγόντες κρατῆσαι τῆς προκειμένης ἐλπίδος·"
+     },
+     {
+      "ref": "TIT 1:2",
+      "text": "ἐπʼ ἐλπίδι ζωῆς αἰωνίου, ἣν ἐπηγγείλατο ὁ ἀψευδὴς θεὸς πρὸ χρόνων αἰωνίων"
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "HEB 6:17",
+      "text": "Where in God, willing more abundantly to shew unto the heirs of promise the immutability of his counsel, confirmed [it] by an oath:"
+     },
+     {
+      "ref": "HEB 6:18",
+      "text": "That by two immutable things, in which [it was] impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us:"
+     },
+     {
+      "ref": "TIT 1:2",
+      "text": "In hope of eternal life, which God, that cannot lie, promised before the world began;"
+     }
+    ]
+   }
+  },
+  {
+   "id": "rev-22-6",
+   "ref": "Revelation 22:6",
+   "kjv": "REV 22:6",
+   "speaker": "heavenly-voice",
+   "role": "claim",
+   "categories": [
+    "purity"
+   ],
+   "object": "these sayings",
+   "claim": "These sayings are faithful and true.",
+   "variants": "The Textus Receptus has \"the Lord God of the holy prophets\"; the Byzantine and SBL texts have \"the Lord, the God of the spirits of the prophets\".",
+   "testament": "NT",
+   "texts": {
+    "tr": [
+     {
+      "ref": "REV 22:6",
+      "text": "Καὶ εἶπέ μοι, Οὗτοι οἱ λόγοι πιστοὶ καὶ ἀληθινοί· καὶ Κύριος ὁ Θεὸς τῶν ἁγίων προφητῶν ἀπέστειλε τὸν ἄγγελον αὐτοῦ δεῖξαι τοῖς δούλοις αὐτοῦ ἃ δεῖ γενέσθαι ἐν τάχει."
+     }
+    ],
+    "byz": [
+     {
+      "ref": "REV 22:6",
+      "text": "Καὶ λέγει μοι· οὗτοι οἱ λόγοι πιστοὶ καὶ ἀληθινοί, καὶ Κύριος ὁ Θεὸς τῶν πνευμάτων τῶν προφητῶν ἀπέστειλε τὸν ἄγγελον αὐτοῦ δεῖξαι τοῖς δούλοις αὐτοῦ ἃ δεῖ γενέσθαι ἐν τάχει."
+     }
+    ],
+    "sbl": [
+     {
+      "ref": "REV 22:6",
+      "text": "Καὶ εἶπέν μοι· Οὗτοι οἱ λόγοι πιστοὶ καὶ ἀληθινοί, καὶ ὁ κύριος, ὁ θεὸς τῶν πνευμάτων τῶν προφητῶν, ἀπέστειλεν τὸν ἄγγελον αὐτοῦ δεῖξαι τοῖς δούλοις αὐτοῦ ἃ δεῖ γενέσθαι ἐν τάχει·"
+     }
+    ],
+    "kjv_nt": [
+     {
+      "ref": "REV 22:6",
+      "text": "And he said unto me, These sayings [are] faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done."
+     }
+    ]
+   }
+  }
+ ]
+}

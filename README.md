@@ -43,19 +43,38 @@ for the study of them. It is separate from the study of the confessions,
 
 ## Preservation of Scripture
 
-[analysis/preservation-hebrew-and-greek.md](analysis/preservation-hebrew-and-greek.md)
-weighs Scripture's claims that God's word endures against the history of the
-Old Testament text, and compares how strong those claims are when grounded in
-the Hebrew (Masoretic) text and when grounded in the Greek Septuagint.
+[scripture/preservation/](scripture/preservation/README.md) collects every
+passage in which Scripture claims that God's word endures, does not pass
+away, cannot be annulled, or is kept, with the Hebrew and Greek of the Old
+Testament and three Greek editions of the New.
+
+- [analysis/preservation-of-scripture/](analysis/preservation-of-scripture/README.md)
+  categorizes and assesses those claims, compares the Hebrew with the Greek
+  and the Greek of the two Testaments, and measures every confession in the
+  repository against them.
+- [analysis/preservation-hebrew-and-greek.md](analysis/preservation-hebrew-and-greek.md)
+  weighs the same claims against the history of the Old Testament text, and
+  compares how strong they are when grounded in the Hebrew (Masoretic) text
+  and when grounded in the Greek Septuagint.
+
+## Index
+
+[INDEX.md](INDEX.md) lists every confession, collection and study, and shows
+which studies cover which confessions. It is generated from
+[catalog.yaml](catalog.yaml); when a confession is added to the catalog, the
+index lists the studies that have not yet taken it into account.
 
 ## Layout
 
 ```
 confessions/          rendered Markdown, one file per document, by tradition
 theologians/          the teachers' writings on the canon and text, by tradition and author
+scripture/            collections of Scripture passages, with Hebrew, Greek and English texts
 analysis/             studies of the canon, and of the preservation of the text
 sources/              vendored upstream data the Markdown is built from, with its license
-tools/                scripts that regenerate confessions/ from sources/
+tools/                scripts that regenerate the generated files
+catalog.yaml          every document, collection and study, and what each study covers
+INDEX.md              the master index, generated from catalog.yaml
 SOURCES.md            provenance, translation, and license for every text
 ```
 
@@ -70,4 +89,12 @@ To regenerate the Book of Concord from thebookofconcord.org:
 
 ```
 python3 tools/build_book_of_concord.py
+```
+
+To regenerate the preservation passages, their confessional citations, and
+the index:
+
+```
+python3 tools/build_preservation.py
+python3 tools/build_index.py
 ```

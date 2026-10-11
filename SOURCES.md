@@ -155,16 +155,31 @@ translation rather than from volume IV (1931).
   his *Apology* (II.26–32); those summaries and notes are reproduced as
   printed, and labelled.
 
-## Biblical texts quoted in the analyses (`analysis/`)
+## Biblical texts (`scripture/` and `analysis/`)
 
-The studies quote short passages of the Hebrew and Greek Bible for comment.
-The original-language texts used are:
+The collection in [scripture/preservation/](scripture/preservation/README.md)
+prints its passages in full from the editions below, and the studies in
+`analysis/` quote them for comment. All are downloaded from eBible.org's
+verse-per-line files by `tools/build_preservation.py`.
 
 | Text | Edition | Source | License |
 | --- | --- | --- | --- |
 | Hebrew Old Testament | Westminster Leningrad Codex (transcription of the Leningrad Codex, 1008/1009) | eBible.org, `hboWLC` | Public domain |
 | Greek Old Testament (Septuagint) | Greek text of L. C. L. Brenton, *The Septuagint Version of the Old Testament* (London: Bagster, 1844–1851), after the Sixtine edition of Codex Vaticanus | eBible.org, `grcbrent` | Public domain |
-| Greek New Testament | *The Greek New Testament: SBL Edition*, ed. Michael W. Holmes (Society of Biblical Literature and Logos Bible Software, 2010) | eBible.org, `grcsbl` | CC BY 4.0 |
+| English of the Septuagint | L. C. L. Brenton, *The Septuagint Version of the Old Testament* (London: Bagster, 1851) | eBible.org, `eng-Brenton` | Public domain |
+| English Bible | King James Version, 1769 Oxford text | eBible.org, `eng-kjv2006` | Public domain |
+| Greek New Testament (Textus Receptus) | The majority reading of Stephanus 1550, Elzevir 1624 and Scrivener 1881 | eBible.org, `grctr` | Public domain |
+| Greek New Testament (Byzantine) | The 1904 Patriarchal (Antoniades) edition | eBible.org, `grcbyz` | Public domain |
+| Greek New Testament (critical) | *The Greek New Testament: SBL Edition*, ed. Michael W. Holmes (Society of Biblical Literature and Logos Bible Software, 2010) | eBible.org, `grcsbl` | CC BY 4.0 |
 
-Translations of these passages in the analyses are the analyses' own.
-Passages of the Talmud are paraphrased, not quoted, and cited by folio.
+The SBL Greek New Testament is used under the Creative Commons Attribution
+4.0 license: *The Greek New Testament: SBL Edition*, copyright 2010 Society of
+Biblical Literature and Logos Bible Software, http://www.sblgnt.com. In
+[passages.md](scripture/preservation/passages.md) and
+[passages.json](scripture/preservation/passages.json) its text-critical signs
+are removed; the words are unchanged. The Hebrew is printed without
+cantillation marks.
+
+Translations of passages in the analyses, where not from the KJV or Brenton,
+are the analyses' own. Passages of the Talmud are paraphrased, not quoted,
+and cited by folio.

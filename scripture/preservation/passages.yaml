@@ -1,0 +1,1184 @@
+# Passages in which Scripture claims that God's Word endures, does not pass
+# away, does not fail, is not to be altered, or is kept; together with the
+# passages that describe how it was kept and those that admit its corruption
+# or loss among men.
+#
+# This file is the curated input. scripture/preservation/passages.md and
+# passages.json are generated from it, with the Hebrew, Greek and English
+# texts filled in, by tools/build_preservation.py. Edit this file, then re-run
+# the tool; do not edit the generated files by hand.
+#
+# Fields
+#   id          stable identifier, used for links and by other studies
+#   ref         display reference, English (KJV) chapter and verse
+#   kjv         the same reference in USFM book codes (also used for the NT
+#               Greek editions)
+#   mt          Masoretic Text reference where its numbering differs
+#   lxx         Septuagint reference (Brenton's numbering) where it differs
+#               References may be ranges ("PSA 12:6-7") or comma-separated
+#               lists ("DEU 10:2, DEU 10:4").
+#   speaker     who makes the claim in the text: god, god-through-prophet,
+#               jesus, mediator (Moses or a prophet speaking for God in his
+#               own voice), psalmist, sage, narrator, apostle, heavenly-voice,
+#               other (another named speaker; see the notes)
+#   role        claim: asserts something about the Word's endurance,
+#                      reliability, or inviolability
+#               command: forbids altering it or commands that it be kept
+#               means: describes how it is kept (writing, deposit, custody,
+#                      restoration, the Spirit's recall)
+#               warning: admits or threatens its corruption, perversion,
+#                      nullification or withdrawal among men
+#               ground: the attribute of God on which the other claims rest
+#   categories  one or more of the categories defined in
+#               analysis/preservation-of-scripture/README.md
+#   object      what the passage says endures (word, words, law, ...)
+#   claim       one-line summary of what the passage claims
+#   mt_lxx      (OT) how the Hebrew and the Greek differ, where they do
+#   variants    (NT) differences among the Greek editions used
+#   nt_use      New Testament passages that quote or echo this one
+#   notes       anything else the analysis relies on
+#
+# Notes marked [context] rest on history outside the text quoted. Notes
+# marked [inferred] are this study's reading rather than what the text says
+# in so many words.
+
+passages:
+
+# ---------------------------------------------------------------- Law
+
+- id: exod-17-14
+  ref: Exodus 17:14
+  kjv: EXO 17:14
+  speaker: god
+  role: means
+  categories: [inscripturation]
+  object: a record of the war with Amalek
+  claim: God commands Moses to write a memorial "in a book" (בַּסֵּפֶר) and rehearse it to Joshua.
+  mt_lxx: Substantially the same. The Greek names Joshua Ἰησοῦς, the same name as Jesus.
+  notes: The first divine command to write in a book. Writing is given as the means of memory across generations.
+
+- id: exod-34-1
+  ref: Exodus 34:1; Deuteronomy 10:2, 4
+  kjv: EXO 34:1, DEU 10:2, DEU 10:4
+  speaker: god
+  role: means
+  categories: [inscripturation, restoration]
+  object: the words on the first tables
+  claim: After Moses breaks the first tables, God rewrites "the words that were in the first tables" on new ones, "according to the first writing."
+  mt_lxx: |
+    In Deuteronomy 10:2 the Hebrew has God say "I will write" (וְאֶכְתֹּב); the
+    Greek has "thou shalt write" (καὶ γράψεις). Both agree in 10:4 that God
+    wrote. Exodus 34:1 in the Greek adds "and come up to me to the mountain"
+    (from 34:2 and Deut 10:1).
+  notes: |
+    The one narrative in which a destroyed autograph is replaced with an
+    identical text. The restoration is by God's own act, not by the
+    community's copying.
+
+- id: num-23-19
+  ref: Numbers 23:19
+  kjv: NUM 23:19
+  speaker: god-through-prophet
+  role: ground
+  categories: [fulfilment]
+  object: what God has said and spoken
+  claim: God is not a man that he should lie; what he has spoken he will make good.
+  mt_lxx: |
+    The Hebrew: "God is not a man, that he should lie (וִיכַזֵּב) … hath he
+    spoken, and shall he not make it stand (יְקִימֶנָּה)?" The Greek: "God is
+    not as man to waver (διαρτηθῆναι), nor as the son of man to be threatened
+    (ἀπειληθῆναι) … shall he speak and not abide by it (οὐχὶ ἐμμενεῖ)?" The
+    Greek turns "lie … repent" into "waver … be threatened", and "establish"
+    into "abide by".
+  notes: Balaam's oracle, given as the word God "put in his mouth" (23:16).
+
+- id: deut-4-2
+  ref: Deuteronomy 4:2; 12:32
+  kjv: DEU 4:2, DEU 12:32
+  mt: DEU 4:2, DEU 13:1
+  lxx: DEU 4:2, DEU 13:1
+  speaker: mediator
+  role: command
+  categories: [no-alteration]
+  object: the word Moses commands
+  claim: Ye shall not add unto the word, neither diminish from it.
+  mt_lxx: |
+    The same command in both: לֹא תֹסִפוּ … וְלֹא תִגְרְעוּ / οὐ προσθήσετε …
+    οὐκ ἀφελεῖτε. In 4:2 the Greek reads "the Lord our God" for "the LORD your
+    God" and adds "this day" (σήμερον). Deuteronomy 12:32 in English Bibles is
+    13:1 in the Hebrew and the Greek.
+  nt_use: [REV 22:18-19]
+  notes: |
+    A command to Israel, not a promise. It presupposes that adding and taking
+    away are possible. The verbs recur in Revelation 22:18–19 (ἀφαιρέω in
+    both; the Greek of Deuteronomy uses προστίθημι for "add", Revelation
+    ἐπιτίθημι).
+
+- id: deut-8-3
+  ref: Deuteronomy 8:3
+  kjv: DEU 8:3
+  speaker: mediator
+  role: claim
+  categories: [efficacy]
+  object: every word that proceeds from God's mouth
+  claim: Man lives by every word that proceeds out of the mouth of the LORD.
+  mt_lxx: |
+    The Hebrew has no noun "word": "by everything that proceeds from the mouth
+    of the LORD" (כָּל־מוֹצָא פִי־יְהוָה). The Greek supplies one: "by every
+    word (παντὶ ῥήματι) that proceeds through the mouth of God." Jesus's
+    answer in Matthew 4:4 follows the Greek wording.
+  nt_use: [MAT 4:4, LUK 4:4]
+
+- id: deut-18-18
+  ref: Deuteronomy 18:18-19
+  kjv: DEU 18:18-19
+  speaker: god
+  role: means
+  categories: [transmission]
+  object: God's words in the prophet's mouth
+  claim: God will put his words in the mouth of a prophet like Moses, and require it of whoever will not hear them.
+  mt_lxx: Substantially the same.
+  nt_use: [ACT 3:22-23, ACT 7:37, JOH 17:8]
+  notes: The model of transmission the prophets and Isaiah 59:21 build on, applied to Christ in Acts 3:22.
+
+- id: deut-29-29
+  ref: Deuteronomy 29:29
+  kjv: DEU 29:29
+  mt: DEU 29:28
+  speaker: mediator
+  role: claim
+  categories: [transmission]
+  object: the things revealed
+  claim: The things revealed belong to us and to our children for ever (עַד־עוֹלָם / εἰς τὸν αἰῶνα).
+  mt_lxx: |
+    The sense is the same. In the Hebrew manuscripts, including the Leningrad
+    Codex, the words "unto us and to our children" (לָנוּ וּלְבָנֵינוּ) carry
+    *puncta extraordinaria*, scribal dots over the letters; the Greek has no
+    counterpart. **[context]** The dots are one of fifteen places where the
+    Masoretic tradition marks letters as doubtful or to be read with special
+    caution; their meaning was already debated in the rabbinic sources.
+  notes: The verse is 29:28 in the Hebrew and 29:29 in Brenton's Greek.
+
+- id: deut-31-24
+  ref: Deuteronomy 31:24-26
+  kjv: DEU 31:24-26
+  speaker: mediator
+  role: means
+  categories: [inscripturation, custody]
+  object: the book of the law
+  claim: Moses writes the law in a book "until they were finished" and has the Levites lay it beside the ark as a witness.
+  mt_lxx: The Greek reads "all the words" and "even to the end" (ἕως εἰς τέλος) for the Hebrew "until they were finished" (עַד תֻּמָּם).
+  notes: Custody of the written text is assigned to the Levites and its place is the sanctuary.
+
+# ---------------------------------------------------------------- Former Prophets
+
+- id: josh-1-8
+  ref: Joshua 1:8
+  kjv: JOS 1:8
+  speaker: god
+  role: command
+  categories: [transmission]
+  object: the book of the law
+  claim: This book of the law shall not depart (לֹא־יָמוּשׁ / οὐκ ἀποστήσεται) out of thy mouth.
+  mt_lxx: Substantially the same. The Greek adds "and then thou shalt understand" for "then thou shalt have good success" (תַּשְׂכִּיל, which can mean either).
+  notes: |
+    A command to Joshua, not a promise; the verb is the one God uses as a
+    promise in Isaiah 59:21 ("shall not depart out of thy mouth").
+
+- id: josh-21-45
+  ref: Joshua 21:45; 23:14
+  kjv: JOS 21:45, JOS 23:14
+  speaker: narrator
+  role: claim
+  categories: [fulfilment]
+  object: the good things the LORD spoke
+  claim: There failed not ought of any good thing the LORD had spoken; all came to pass.
+  mt_lxx: |
+    The Hebrew idiom is "not a word fell" (לֹא־נָפַל דָּבָר). The Greek renders
+    it "there fell not" (οὐ διέπεσεν, 21:45; οὐκ ἔπεσεν εἷς λόγος, 23:14) and
+    adds in 23:14 "not one of them was discordant" (οὐ διεφώνησεν). 23:14 is
+    Joshua's own speech.
+  nt_use: [LUK 16:17]
+  notes: The "falling" idiom for failure is the background of Luke 16:17 ("one tittle of the law to fall", πεσεῖν).
+
+- id: 1sam-3-19
+  ref: 1 Samuel 3:19
+  kjv: 1SA 3:19
+  speaker: narrator
+  role: claim
+  categories: [fulfilment]
+  object: Samuel's words (as the LORD's prophet)
+  claim: The LORD let none of his words fall to the ground.
+  mt_lxx: |
+    The Hebrew is causative, with the LORD as subject: "he let none of his
+    words fall" (וְלֹא־הִפִּיל). The Greek is intransitive: "there fell not
+    any of his words to the ground" (οὐκ ἔπεσεν).
+
+- id: 1kgs-8-56
+  ref: 1 Kings 8:56
+  kjv: 1KI 8:56
+  speaker: other
+  role: claim
+  categories: [fulfilment]
+  object: all God's good promise by Moses
+  claim: There hath not failed one word of all his good promise.
+  mt_lxx: |
+    The Hebrew again has "not one word fell" (לֹא־נָפַל דָּבָר אֶחָד); the Greek
+    has "not one word was discordant" (οὐ διεφώνησε λόγος εἷς).
+    Brenton's Greek book is 3 Kingdoms.
+  notes: Solomon is the speaker, at the dedication of the temple.
+
+- id: 2kgs-10-10
+  ref: 2 Kings 10:10
+  kjv: 2KI 10:10
+  speaker: other
+  role: claim
+  categories: [fulfilment]
+  object: the word of the LORD against Ahab's house
+  claim: There shall fall unto the earth nothing of the word of the LORD.
+  mt_lxx: |
+    Same sense. The Greek leaves the Hebrew particle אֵפוֹא untranslated, as
+    the transliteration ἀφφώ, a sign of a translator following his Hebrew word
+    by word.
+  notes: Jehu is the speaker, justifying the slaughter of Ahab's house.
+
+- id: 2sam-22-31
+  ref: 2 Samuel 22:31; Psalm 18:30
+  kjv: 2SA 22:31, PSA 18:30
+  mt: 2SA 22:31, PSA 18:31
+  lxx: 2SA 22:31, PSA 17:31
+  speaker: psalmist
+  role: claim
+  categories: [purity]
+  object: the word of the LORD
+  claim: The word of the LORD is tried (צְרוּפָה, refined as metal).
+  mt_lxx: |
+    The Hebrew has the singular "word" (אִמְרַת) in both places. The Greek of
+    Psalm 17:31 has the plural "oracles" (τὰ λόγια … πεπυρωμένα); the Greek of
+    2 Samuel adds "strong": "the word of the Lord is strong, tried" (κραταιὸν
+    πεπυρωμένον).
+
+# ---------------------------------------------------------------- Writings
+
+- id: ps-12-6
+  ref: Psalm 12:6-7
+  kjv: PSA 12:6-7
+  mt: PSA 12:7-8
+  lxx: PSA 11:7-8
+  speaker: psalmist
+  role: claim
+  categories: [purity, transmission]
+  object: the words of the LORD; and "them" (contested)
+  claim: The words of the LORD are pure words, silver tried seven times. Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever.
+  mt_lxx: |
+    The sharpest contrast in the collection.
+
+    - **Hebrew** (12:8): אַתָּה־יְהוָה תִּשְׁמְרֵם תִּצְּרֶנּוּ — "Thou, LORD,
+      wilt keep *them*; thou wilt preserve *him* (or *it*)." The first suffix
+      is masculine plural; the second is singular.
+    - **Greek** (11:8): Σὺ Κύριε φυλάξεις ἡμᾶς καὶ διατηρήσεις ἡμᾶς — "Thou,
+      O Lord, shalt keep *us*, and shalt preserve *us*."
+
+    The Greek therefore makes the psalm a prayer for the preservation of the
+    faithful, not of the words. In the Hebrew, "words" (אִמֲרוֹת, v. 7) is
+    feminine plural, and the masculine "them" more naturally takes up "the
+    poor" and "the needy" of verse 6 (5 in English), whom God has just
+    promised to set in safety; but Hebrew does not always keep gender
+    agreement, which is why the verse has also been read of the words.
+    **[inferred]** The
+    grammar favours the poor; the Greek takes the same line, with a
+    first-person "us".
+  notes: |
+    The Westminster Larger Catechism (Q. 4) cites Psalm 12:6 for the
+    "purity" of Scripture, meaning its content, not its transmission. Verse 6
+    (7 in the Hebrew) itself is about purity, not preservation.
+
+- id: ps-19-9
+  ref: Psalm 19:9
+  kjv: PSA 19:9
+  mt: PSA 19:10
+  lxx: PSA 18:10
+  speaker: psalmist
+  role: claim
+  categories: [permanence, purity]
+  object: the fear of the LORD (here a name for his law)
+  claim: The fear of the LORD is clean, enduring for ever; the judgments of the LORD are true.
+  mt_lxx: The Hebrew "standing for ever" (עוֹמֶדֶת לָעַד) becomes "enduring for ever and ever" (διαμένων εἰς αἰῶνα αἰῶνος).
+  notes: "\"Fear of the LORD\" stands in a series with law, testimony, statutes, commandment and judgments (19:7–9), so it names the law as the thing feared. [inferred]"
+
+- id: ps-33-11
+  ref: Psalm 33:11
+  kjv: PSA 33:11
+  lxx: PSA 32:11
+  speaker: psalmist
+  role: claim
+  categories: [permanence]
+  object: the counsel of the LORD
+  claim: The counsel of the LORD standeth for ever.
+  mt_lxx: The Hebrew "stands" (תַּעֲמֹד) becomes "abides" (μένει), the verb of Isaiah 40:8 in the Greek and of 1 Peter 1:23–25.
+  notes: About God's purpose rather than his spoken or written word; included because the Greek puts it in the same terms as the word passages.
+
+- id: ps-89-34
+  ref: Psalm 89:34
+  kjv: PSA 89:34
+  mt: PSA 89:35
+  lxx: PSA 88:35
+  speaker: god-through-prophet
+  role: claim
+  categories: [fulfilment]
+  object: the covenant and "the thing that is gone out of my lips"
+  claim: My covenant will I not break, nor alter the thing that is gone out of my lips.
+  mt_lxx: The Hebrew "I will not alter" (לֹא אֲשַׁנֶּה) becomes "I will not set aside" (οὐ μὴ ἀθετήσω).
+  notes: God speaking in the first person within the psalm (89:19–37), about his oath to David.
+
+- id: ps-102-18
+  ref: Psalm 102:18
+  kjv: PSA 102:18
+  mt: PSA 102:19
+  lxx: PSA 101:19
+  speaker: psalmist
+  role: means
+  categories: [inscripturation]
+  object: this (the record of God's deliverance)
+  claim: This shall be written for the generation to come.
+  mt_lxx: The same; the Greek is a jussive, "let this be written for another generation" (Γραφήτω).
+
+- id: ps-105-8
+  ref: Psalm 105:8; 1 Chronicles 16:15
+  kjv: PSA 105:8, 1CH 16:15
+  lxx: PSA 104:8, 1CH 16:15
+  speaker: psalmist
+  role: claim
+  categories: [permanence]
+  object: the covenant, "the word which he commanded"
+  claim: He hath remembered his covenant for ever, the word which he commanded to a thousand generations.
+  mt_lxx: The same; "word" is λόγος in both Greek places. In 1 Chronicles the people are told to remember (μνημονεύωμεν, "let us remember").
+
+- id: ps-111-7
+  ref: Psalm 111:7-8
+  kjv: PSA 111:7-8
+  lxx: PSA 110:7-8
+  speaker: psalmist
+  role: claim
+  categories: [permanence]
+  object: all his commandments
+  claim: All his commandments are sure; they stand fast for ever and ever.
+  mt_lxx: The Hebrew "upheld for ever and ever" (סְמוּכִים לָעַד לְעוֹלָם) becomes "established for ever and ever" (ἐστηριγμέναι).
+
+- id: ps-117-2
+  ref: Psalm 117:2
+  kjv: PSA 117:2
+  lxx: PSA 116:2
+  speaker: psalmist
+  role: claim
+  categories: [permanence]
+  object: the truth of the LORD
+  claim: The truth of the LORD endureth for ever.
+  mt_lxx: The Hebrew has no verb ("the truth of the LORD is for ever"); the Greek supplies "abides" (μένει), again the verb of Isaiah 40:8 in the Greek.
+
+- id: ps-119-89
+  ref: Psalm 119:89-91
+  kjv: PSA 119:89-91
+  lxx: PSA 118:89-91
+  speaker: psalmist
+  role: claim
+  categories: [permanence]
+  object: thy word
+  claim: For ever, O LORD, thy word is settled in heaven.
+  mt_lxx: The Hebrew "stands firm" (נִצָּב) becomes "abides" (διαμένει), and the Greek repeats διαμένει of the earth (v. 90) and the day (v. 91).
+  notes: |
+    The word is said to stand "in heaven". The verse locates the word's
+    permanence with God, not in a copy on earth. **[inferred]**
+
+- id: ps-119-140
+  ref: Psalm 119:140
+  kjv: PSA 119:140
+  lxx: PSA 118:140
+  speaker: psalmist
+  role: claim
+  categories: [purity]
+  object: thy word
+  claim: Thy word is very pure.
+  mt_lxx: The Hebrew "refined" (צְרוּפָה) is the Greek "tried in the fire" (πεπυρωμένον), as in Psalm 18:30.
+  notes: Cited with Psalm 12:6 by the Westminster Larger Catechism (Q. 4) for the purity of Scripture.
+
+- id: ps-119-152
+  ref: Psalm 119:152, 160
+  kjv: PSA 119:152, PSA 119:160
+  lxx: PSA 118:152, PSA 118:160
+  speaker: psalmist
+  role: claim
+  categories: [permanence]
+  object: thy testimonies; thy righteous judgments
+  claim: Thy testimonies thou hast founded for ever; every one of thy righteous judgments endureth for ever.
+  mt_lxx: |
+    Close. In 160 the Hebrew "the sum (רֹאשׁ, head) of thy word is truth"
+    (KJV "from the beginning") is the Greek "the beginning (Ἀρχὴ) of thy words
+    is truth".
+
+- id: ps-138-2
+  ref: Psalm 138:2
+  kjv: PSA 138:2
+  lxx: PSA 137:2
+  speaker: psalmist
+  role: claim
+  categories: [exaltation]
+  object: thy word (Hebrew only)
+  claim: Thou hast magnified thy word above all thy name.
+  mt_lxx: |
+    The Hebrew: "thou hast magnified thy word (אִמְרָתֶךָ) above all thy name."
+    The Greek: "thou hast magnified thy holy name above every thing"
+    (ἐμεγάλυνας ἐπὶ πᾶν τὸ ὄνομα τὸ ἅγιόν σου). The Greek has no "word" in the
+    clause at all. The well-known English reading rests on the Hebrew alone.
+
+- id: ps-145-13
+  ref: Psalm 145:13
+  kjv: PSA 145:13
+  lxx: PSA 144:13
+  speaker: psalmist
+  role: claim
+  categories: [fulfilment]
+  object: his words (in the line missing from the Hebrew)
+  claim: "The LORD is faithful in all his words, and holy in all his works: a line missing from the Masoretic Text."
+  mt_lxx: |
+    Psalm 145 is an acrostic, each verse beginning with the next letter of
+    the alphabet, and in the Masoretic Text the line for the letter *nun* is
+    missing between verses 13 and 14. **[context]** The line is present in the
+    Psalms Scroll from Qumran (11QPs^a: נאמן אלוהים בדבריו וחסיד בכול
+    מעשיו, "God is faithful in his words and gracious in all his works") and in
+    many Greek manuscripts (πιστὸς κύριος ἐν τοῖς λόγοις αὐτοῦ καὶ ὅσιος ἐν
+    πᾶσι τοῖς ἔργοις αὐτοῦ). It is **absent from Brenton's Greek** as well, which
+    follows Codex Vaticanus here, so neither text below contains it; the
+    texts are given to show the gap. The KJV, following the Hebrew, also
+    lacks it.
+  notes: |
+    A claim about the faithfulness of God's words that is itself attested
+    unevenly in the transmitted texts. The companion study
+    [preservation-hebrew-and-greek.md](../../analysis/preservation-hebrew-and-greek.md#42-before-the-masoretes-several-hebrew-editions)
+    discusses it as evidence of more than one Hebrew edition of the Psalms.
+
+- id: prov-30-5
+  ref: Proverbs 30:5-6
+  kjv: PRO 30:5-6
+  lxx: PRO 24:22k, PRO 24:22l
+  speaker: sage
+  role: command
+  categories: [purity, no-alteration]
+  object: every word of God
+  claim: Every word of God is pure; add thou not unto his words, lest he reprove thee, and thou be found a liar.
+  mt_lxx: |
+    The sense is the same ("all the words of God are tried", πάντες λόγοι
+    θεοῦ πεπυρωμένοι; "add not to his words", μὴ προσθῇς τοῖς λόγοις αὐτοῦ),
+    but the Greek places the words of Agur in chapter 24, where Brenton numbers
+    them 24:22k–l. The Hebrew "God" here is the rare אֱלוֹהַּ.
+
+# ---------------------------------------------------------------- Isaiah
+
+- id: isa-8-16
+  ref: Isaiah 8:16, 20
+  kjv: ISA 8:16, ISA 8:20
+  speaker: god-through-prophet
+  role: means
+  categories: [custody]
+  object: the testimony and the law
+  claim: Bind up the testimony, seal the law among my disciples. To the law and to the testimony; if they speak not according to this word, it is because there is no light in them.
+  mt_lxx: |
+    The two texts have different meanings. The Hebrew of 8:16 commands the
+    testimony to be bound and sealed "among my disciples" (בְּלִמֻּדָי). The
+    Greek reads "Then shall those who seal up the law, that they may not learn
+    it, be made manifest." In 8:20 the Greek has "he has given the law for a
+    help", not the Hebrew's appeal "to the law and to the testimony".
+  notes: Westminster cites 8:20 (WCF 1.1, 1.8; WLC Q. 3) for the appeal to Scripture; that reading depends on the Hebrew.
+
+- id: isa-30-8
+  ref: Isaiah 30:8
+  kjv: ISA 30:8
+  speaker: god-through-prophet
+  role: means
+  categories: [inscripturation]
+  object: the prophecy against trust in Egypt
+  claim: Write it in a table, note it in a book, that it may be for the time to come for ever and ever.
+  mt_lxx: |
+    The Hebrew consonants לעד are pointed in the Masoretic Text as לָעַד, "for
+    ever", giving "for the latter day, for ever, to eternity". Read as לְעֵד, the
+    same letters mean "for a witness", which many modern versions adopt
+    **[context]**. The Greek has "for many days, and even for ever" (εἰς
+    ἡμέρας … καὶ ἕως εἰς τὸν αἰῶνα). The verse is an example of a reading that
+    turns on vowels the consonantal text does not carry.
+
+- id: isa-31-2
+  ref: Isaiah 31:2
+  kjv: ISA 31:2
+  speaker: mediator
+  role: claim
+  categories: [fulfilment]
+  object: his words
+  claim: He will bring evil, and will not call back his words.
+  mt_lxx: The Hebrew "has not removed (or turned aside) his words" (לֹא הֵסִיר) becomes "his word shall not be set aside" (οὐ μὴ ἀθετηθῇ).
+
+- id: isa-34-16
+  ref: Isaiah 34:16
+  kjv: ISA 34:16
+  speaker: mediator
+  role: claim
+  categories: [fulfilment, inscripturation]
+  object: the book of the LORD
+  claim: Seek ye out of the book of the LORD, and read; no one of these shall fail.
+  mt_lxx: |
+    The Hebrew tells the reader to "seek out of the book of the LORD, and
+    read". The Greek has no reference to a book: "They passed by in number,
+    and not one of them perished." Only the Hebrew contains the appeal to a
+    written book.
+
+- id: isa-40-8
+  ref: Isaiah 40:6-8
+  kjv: ISA 40:6-8
+  speaker: heavenly-voice
+  role: claim
+  categories: [permanence]
+  object: the word of our God
+  claim: The grass withereth, the flower fadeth; but the word of our God shall stand for ever.
+  mt_lxx: |
+    - **Length.** The Greek lacks most of verse 7 ("because the spirit of the
+      LORD bloweth upon it: surely the people is grass") and the repetition
+      at the start of verse 8. It reads simply: "the grass withered, and the
+      flower fell; but the word of our God abides for ever."
+    - **Verse 6.** The Hebrew "all its goodliness" (חַסְדּוֹ) is the Greek "all
+      the glory of man" (πᾶσα δόξα ἀνθρώπου).
+    - **The verb.** The Hebrew "shall stand" (יָקוּם) is the Greek "abides"
+      (μένει).
+  nt_use: [1PE 1:24-25]
+  notes: |
+    The voice of 40:6 is unidentified ("the voice said, Cry"), within an oracle
+    introduced as God's (40:1). 1 Peter 1:24–25 quotes the Greek, not the
+    Hebrew: it has the shorter text, "glory", and "abides". See the
+    1 Peter entry for how the Greek New Testament editions differ on this.
+
+- id: isa-45-23
+  ref: Isaiah 45:23
+  kjv: ISA 45:23
+  speaker: god-through-prophet
+  role: claim
+  categories: [fulfilment]
+  object: the word gone out of God's mouth
+  claim: I have sworn by myself, the word is gone out of my mouth in righteousness, and shall not return.
+  mt_lxx: |
+    The Hebrew: "a word in righteousness has gone out of my mouth, and shall
+    not return" (וְלֹא יָשׁוּב). The Greek divides it: "righteousness shall go
+    out of my mouth; my words shall not be turned back" (οἱ λόγοι μου οὐκ
+    ἀποστραφήσονται).
+  nt_use: [ROM 14:11, PHP 2:10-11]
+  notes: The New Testament quotes the second half (every knee shall bow), not the clause about the word.
+
+- id: isa-46-10
+  ref: Isaiah 46:10-11
+  kjv: ISA 46:10-11
+  speaker: god-through-prophet
+  role: claim
+  categories: [fulfilment]
+  object: my counsel; what I have spoken
+  claim: My counsel shall stand; I have spoken it, I will also bring it to pass.
+  mt_lxx: The same in substance; the Greek "all my counsel shall stand" (πᾶσα ἡ βουλή μου στήσεται).
+
+- id: isa-55-11
+  ref: Isaiah 55:10-11
+  kjv: ISA 55:10-11
+  speaker: god-through-prophet
+  role: claim
+  categories: [fulfilment, efficacy]
+  object: my word that goeth forth out of my mouth
+  claim: My word shall not return unto me void, but shall accomplish that which I please.
+  mt_lxx: |
+    The Hebrew "shall not return to me empty" (לֹא־יָשׁוּב אֵלַי רֵיקָם); Brenton's
+    Greek has "shall not return (οὐ μὴ ἀποστραφῇ) until all that I willed is
+    accomplished", without "empty", and adds "and I will prosper thy ways and
+    my commandments".
+  notes: A claim about the word's effect in the world, not about its text.
+
+- id: isa-59-21
+  ref: Isaiah 59:21
+  kjv: ISA 59:21
+  speaker: god-through-prophet
+  role: claim
+  categories: [transmission]
+  object: my spirit and my words put in thy mouth
+  claim: My words which I have put in thy mouth shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed's seed, from henceforth and for ever.
+  mt_lxx: |
+    - The Hebrew verb is plural, "they shall not depart" (לֹא־יָמוּשׁוּ, the
+      spirit and the words together); the Greek is singular (οὐ μὴ ἐκλίπῃ).
+    - The Greek lacks "nor out of the mouth of thy seed's seed".
+    - The Greek attaches "from henceforth and for ever" to "for the Lord has
+      said it" (εἶπε γὰρ Κύριος ἀπὸ τοῦ νῦν καὶ εἰς τὸν αἰῶνα).
+  nt_use: [ROM 11:26-27]
+  notes: |
+    The strongest Old Testament promise of preservation in transmission: the
+    words are to remain in the mouths of a succession of generations. It is a
+    covenant promise to the redeemed of Zion (59:20); Romans 11:27 quotes the
+    covenant clause. It speaks of words in mouths, not of a written copy.
+
+# ---------------------------------------------------------------- Jeremiah
+
+- id: jer-1-12
+  ref: Jeremiah 1:12
+  kjv: JER 1:12
+  speaker: god-through-prophet
+  role: claim
+  categories: [fulfilment]
+  object: my word
+  claim: I will hasten (watch over) my word to perform it.
+  mt_lxx: |
+    The Hebrew is a pun: the prophet sees an almond rod (שָׁקֵד) and God says he
+    is watching (שֹׁקֵד) over his word. The Greek has "a rod of walnut"
+    (καρυΐνην) and "I have watched" (ἐγρήγορα); the pun is lost.
+
+- id: jer-8-8
+  ref: Jeremiah 8:8
+  kjv: JER 8:8
+  speaker: god-through-prophet
+  role: warning
+  categories: [corruption]
+  object: the law of the LORD in the scribes' hands
+  claim: The law of the LORD is with us? Lo, the lying pen of the scribes has made it into a lie.
+  mt_lxx: |
+    The Hebrew: "Surely, behold, the lying pen of the scribes has wrought
+    falsely" (לַשֶּׁקֶר עָשָׂה עֵט שֶׁקֶר סֹפְרִים). The Greek: "In vain have the
+    scribes used a false pen" (εἰς μάτην ἐγενήθη σχοῖνος ψευδὴς
+    γραμματεῦσιν; σχοῖνος is a reed or measuring line). The KJV's "in vain
+    made he it; the pen of the scribes is in vain" follows a different
+    construal.
+  notes: |
+    Scripture's own acknowledgement that the written law could be falsified
+    by those charged with it. Whether the charge is of altering the text or
+    of false teaching from it is disputed. **[context]**
+
+- id: jer-23-28
+  ref: Jeremiah 23:28-29, 36
+  kjv: JER 23:28-29, JER 23:36
+  speaker: god-through-prophet
+  role: warning
+  categories: [corruption, efficacy]
+  object: my word
+  claim: He that hath my word, let him speak my word faithfully; is not my word like as a fire? Ye have perverted the words of the living God.
+  mt_lxx: |
+    - In 23:28 the Greek adds "so are my words" after "what is the chaff to
+      the wheat?"
+    - In 23:36 the Greek lacks the last clause, "for ye have perverted
+      (וַהֲפַכְתֶּם) the words of the living God, of the LORD of hosts our God".
+      **[context]** The Greek Jeremiah is roughly one-seventh shorter than the
+      Hebrew and arranges the book differently; Hebrew fragments from
+      Qumran (4QJer^b,d) agree with the shorter form.
+
+- id: jer-26-2
+  ref: Jeremiah 26:2
+  kjv: JER 26:2
+  lxx: JER 33:2
+  speaker: god-through-prophet
+  role: command
+  categories: [no-alteration]
+  object: all the words I command thee
+  claim: Speak all the words that I command thee; diminish not a word.
+  mt_lxx: The same ("diminish not a word", אַל־תִּגְרַע דָּבָר / μὴ ἀφέλῃς ῥῆμα). The chapter is 33 in the Greek.
+
+- id: jer-30-2
+  ref: Jeremiah 30:2
+  kjv: JER 30:2
+  lxx: JER 37:2
+  speaker: god-through-prophet
+  role: means
+  categories: [inscripturation]
+  object: all the words I have spoken
+  claim: Write thee all the words that I have spoken unto thee in a book.
+  mt_lxx: The same. The chapter is 37 in the Greek.
+
+- id: jer-36
+  ref: Jeremiah 36:2, 27-28, 32
+  kjv: JER 36:2, JER 36:27-28, JER 36:32
+  lxx: JER 43:2, JER 43:27-28, JER 43:32
+  speaker: god-through-prophet
+  role: means
+  categories: [inscripturation, restoration]
+  object: the scroll Jehoiakim burned
+  claim: After the king burns the scroll, God commands that all the former words be written again; and "there were added besides unto them many like words."
+  mt_lxx: |
+    The chapter is 43 in the Greek. In 36:32 the Hebrew has Jeremiah take
+    another scroll and give it to Baruch; the Greek has Baruch take it.
+    Both end with the words added.
+  notes: |
+    The second narrative of a destroyed text restored. Here the restoration
+    is by dictation through the prophet, and the restored book is longer than
+    the first.
+
+# ---------------------------------------------------------------- Ezekiel, Daniel, the Twelve
+
+- id: ezek-12-25
+  ref: Ezekiel 12:25, 28
+  kjv: EZE 12:25, EZE 12:28
+  speaker: god-through-prophet
+  role: claim
+  categories: [fulfilment]
+  object: the word that I shall speak
+  claim: I will speak, and the word that I shall speak shall come to pass; it shall be no more prolonged.
+  mt_lxx: Substantially the same.
+
+- id: dan-12-4
+  ref: Daniel 12:4, 9
+  kjv: DAN 12:4, DAN 12:9
+  lxx: DNG 12:4, DNG 12:9
+  speaker: heavenly-voice
+  role: means
+  categories: [custody]
+  object: the words of the book
+  claim: Shut up the words, and seal the book, even to the time of the end.
+  mt_lxx: Substantially the same. Brenton's Greek Daniel is Theodotion's version, not the Old Greek.
+
+- id: amos-8-11
+  ref: Amos 8:11-12
+  kjv: AMO 8:11-12
+  speaker: god-through-prophet
+  role: warning
+  categories: [withdrawal]
+  object: the words of the LORD
+  claim: I will send a famine of hearing the words of the LORD; they shall seek the word of the LORD, and shall not find it.
+  mt_lxx: |
+    The Hebrew has "the words (plural) of the LORD" in 8:11; the Greek has
+    the singular. In 8:12 the Hebrew "they shall wander from sea to sea" is
+    the Greek "the waters shall be shaken from sea to sea" (σαλευθήσονται
+    ὕδατα).
+  notes: A threat that the word may be withheld from a people for a time. It speaks of hearing, not of the existence of a text.
+
+- id: hab-2-2
+  ref: Habakkuk 2:2-3
+  kjv: HAB 2:2-3
+  speaker: god
+  role: means
+  categories: [inscripturation, fulfilment]
+  object: the vision
+  claim: Write the vision, and make it plain upon tables; it shall surely come, it will not tarry.
+  mt_lxx: |
+    The Hebrew "it shall not lie" (וְלֹא יְכַזֵּב) is the Greek "and not in vain"
+    (οὐκ εἰς κενόν). The Hebrew "it will surely come" refers to the vision;
+    the Greek "the coming one will come" (ἐρχόμενος ἥξει) can be read of a
+    person, which is how Hebrews 10:37 uses it.
+  nt_use: [HEB 10:37-38, ROM 1:17]
+
+- id: zech-1-5
+  ref: Zechariah 1:5-6
+  kjv: ZEC 1:5-6
+  speaker: god-through-prophet
+  role: claim
+  categories: [fulfilment, permanence]
+  object: my words and my statutes
+  claim: Your fathers, where are they? and the prophets, do they live for ever? But my words and my statutes, did they not take hold of your fathers?
+  mt_lxx: |
+    The Hebrew asks a question: "did they not overtake (הִשִּׂיגוּ) your
+    fathers?" The Greek gives a command: "But receive ye (δέχεσθε) my words
+    and my ordinances, all that I command by my Spirit to my servants the
+    prophets", adding "by my Spirit".
+  notes: The prophets die; the words outlast them. The claim is about the words' fulfilment on a later generation.
+
+# ---------------------------------------------------------------- Jesus
+
+- id: matt-5-18
+  ref: Matthew 5:17-19
+  kjv: MAT 5:17-19
+  speaker: jesus
+  role: claim
+  categories: [inviolability, fulfilment]
+  object: the law (and the prophets, v. 17)
+  claim: Until heaven and earth pass away, one iota or one horn shall by no means pass away from the law, until all things take place (ἰῶτα ἓν ἢ μία κεραία οὐ μὴ παρέλθῃ ἀπὸ τοῦ νόμου).
+  variants: The three Greek editions agree.
+  notes: |
+    - ἰῶτα is the Greek letter iota, the smallest letter of the alphabet the
+      Gospel's readers used; κεραία, "horn", is the hook or stroke of a
+      letter and, proverbially, the least detail. "One iota or one horn" is
+      an idiom of totality, "not the least particle". That it stands for the
+      Hebrew *yod* is a reconstruction of the saying's Aramaic background,
+      not something the Greek says. **[context]**
+    - The verb is the one used in the same sentence of heaven and earth:
+      παρέλθῃ, "pass away", cease to stand. Luke's parallel has πεσεῖν,
+      "fall", the idiom for a word that loses its force (Luke 16:17).
+    - Verse 19 draws the consequence with "therefore" (οὖν): whoever
+      "loosens" (λύσῃ) one of the least commandments. What does not pass
+      away is the binding force of every part of the law, down to its least
+      commandment. The saying is not about the copying of a text in any
+      language. **[inferred]**, following
+      [preservation-hebrew-and-greek.md §1.1](../../analysis/preservation-hebrew-and-greek.md#11-matthew-518-read-in-the-greek).
+    - It has two time limits: "until heaven and earth pass away" and "until
+      all things take place" (ἕως ἂν πάντα γένηται). Matthew 24:35 sets
+      Jesus's own words beyond the first limit.
+    - The Westminster Confession (1.8) and the Savoy Declaration (1.8) cite
+      it as the sole proof for "kept pure in all ages"; see
+      [confessions.md](../../analysis/preservation-of-scripture/confessions.md#westminster-confession-18-kept-pure-in-all-ages).
+
+- id: luke-16-17
+  ref: Luke 16:17
+  kjv: LUK 16:17
+  speaker: jesus
+  role: claim
+  categories: [inviolability]
+  object: the law
+  claim: It is easier for heaven and earth to pass away than for one horn of the law to fall (μίαν κεραίαν πεσεῖν).
+  variants: The three Greek editions agree.
+  notes: |
+    "To fail" is πεσεῖν, "to fall", the Old Testament idiom for an unfulfilled
+    word (Joshua 21:45; 23:14; 1 Samuel 3:19; 2 Kings 10:10). The next verse
+    (16:18) applies the law on divorce more strictly, not less.
+
+- id: matt-24-35
+  ref: Matthew 24:35; Mark 13:31; Luke 21:33
+  kjv: MAT 24:35, MAR 13:31, LUK 21:33
+  speaker: jesus
+  role: claim
+  categories: [permanence]
+  object: my words
+  claim: Heaven and earth shall pass away, but my words shall not pass away.
+  variants: |
+    The Textus Receptus and the Byzantine text have "shall not pass away"
+    as an emphatic subjunctive (οὐ μὴ παρέλθωσι) in all three Gospels. The
+    SBL text has the subjunctive in Matthew but the future indicative in Mark
+    and Luke (οὐ μὴ παρελεύσονται), and the singular "heaven and earth shall
+    pass" (παρελεύσεται) in Matthew. The sense is the same.
+  notes: |
+    Jesus's own words, not the law, are the object, and they are set beyond
+    the life of the created order. The strongest permanence claim in the
+    collection. **[inferred]** It is a claim about what Jesus said, not about
+    the copies or translations in which it is transmitted.
+
+- id: john-10-35
+  ref: John 10:35
+  kjv: JOH 10:35
+  speaker: jesus
+  role: claim
+  categories: [inviolability]
+  object: the scripture
+  claim: The scripture cannot be loosed (οὐ δύναται λυθῆναι ἡ γραφή), that is, annulled.
+  variants: The editions agree.
+  notes: |
+    "Broken" is λυθῆναι, "loosed, annulled", the verb of Matthew 5:19. Spoken
+    of a single phrase of Psalm 82:6 ("I said, Ye are gods"), which Jesus
+    treats as binding because it is written.
+
+- id: john-12-48
+  ref: John 12:48
+  kjv: JOH 12:48
+  speaker: jesus
+  role: claim
+  categories: [permanence]
+  object: the word that I have spoken
+  claim: The word that I have spoken, the same shall judge him in the last day.
+  variants: The editions agree.
+  notes: The word Jesus spoke is to be present and in force at the last judgment.
+
+- id: john-14-26
+  ref: John 14:26; 16:13
+  kjv: JOH 14:26, JOH 16:13
+  speaker: jesus
+  role: means
+  categories: [transmission]
+  object: all things that I have said
+  claim: The Holy Ghost shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you; he will guide you into all truth.
+  variants: In 16:13 the Textus Receptus and the Byzantine text have "into all the truth" (εἰς πᾶσαν τὴν ἀλήθειαν); SBL has "in all the truth" (ἐν τῇ ἀληθείᾳ πάσῃ).
+  notes: The means by which Jesus's spoken words were to reach the apostolic record. A promise to the apostles. **[inferred]**
+
+- id: john-17-17
+  ref: John 17:17
+  kjv: JOH 17:17
+  speaker: jesus
+  role: claim
+  categories: [purity]
+  object: thy word
+  claim: Thy word is truth.
+  variants: The Textus Receptus and Byzantine text have "in thy truth" (ἐν τῇ ἀληθείᾳ σου); SBL has "in the truth".
+
+- id: matt-4-4
+  ref: Matthew 4:4
+  kjv: MAT 4:4
+  speaker: jesus
+  role: claim
+  categories: [efficacy]
+  object: every word proceeding out of the mouth of God
+  claim: Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
+  variants: SBL adds the article before "man"; minor.
+  notes: Quotes Deuteronomy 8:3 in the Greek wording, which supplies "word" where the Hebrew has none.
+
+- id: matt-15-6
+  ref: Matthew 15:6; Mark 7:13
+  kjv: MAT 15:6, MAR 7:13
+  speaker: jesus
+  role: warning
+  categories: [corruption]
+  object: the commandment / word of God
+  claim: Ye have made the commandment of God of none effect by your tradition.
+  variants: |
+    In Matthew 15:6 the Textus Receptus and the Byzantine text read "the
+    commandment of God" (τὴν ἐντολὴν); SBL reads "the word of God" (τὸν λόγον).
+    Mark 7:13 has "the word" in all three. The verb is ἀκυρόω, "to make void,
+    annul".
+  notes: The word can be nullified in practice by a tradition that overrides it, while its text remains.
+
+- id: luke-1-37
+  ref: Luke 1:37
+  kjv: LUK 1:37
+  speaker: heavenly-voice
+  role: claim
+  categories: [fulfilment]
+  object: every word (ῥῆμα) from God
+  claim: No word from God shall be without power (οὐκ ἀδυνατήσει παρὰ τοῦ θεοῦ πᾶν ῥῆμα).
+  variants: TR and Byz read παρὰ τῷ θεῷ, "with God"; SBL reads παρὰ τοῦ θεοῦ, "from God".
+  notes: |
+    Gabriel's answer to Mary. ῥῆμα can mean "word" or "thing", so the KJV has
+    "with God nothing shall be impossible". The phrase echoes the Greek of
+    Genesis 18:14, μὴ ἀδυνατήσει παρὰ τῷ θεῷ ῥῆμα; "Is any thing too hard for the
+    LORD?". With the reading "from God" (SBL) it is a claim that no word God
+    speaks fails of its effect, which Mary's reply takes up: "be it unto me
+    according to thy word" (κατὰ τὸ ῥῆμά σου, 1:38). **[inferred]**
+
+- id: luke-24-44
+  ref: Luke 24:44
+  kjv: LUK 24:44
+  speaker: jesus
+  role: claim
+  categories: [fulfilment]
+  object: all things written in the law, the prophets and the psalms
+  claim: All things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.
+  variants: SBL adds "my" ("these are my words").
+
+- id: rev-1-19
+  ref: Revelation 1:19
+  kjv: REV 1:19
+  speaker: jesus
+  role: means
+  categories: [inscripturation]
+  object: what John has seen
+  claim: Write the things which thou hast seen.
+  variants: SBL and the Byzantine text add "therefore" (οὖν).
+
+- id: rev-22-18
+  ref: Revelation 22:18-19
+  kjv: REV 22:18-19
+  speaker: jesus
+  role: command
+  categories: [no-alteration]
+  object: the words of the prophecy of this book
+  claim: If any man shall add unto these things, God shall add unto him the plagues; if any man shall take away from the words of this book, God shall take away his part.
+  variants: |
+    - 22:18: the Textus Receptus has "For I testify together" (Συμμαρτυροῦμαι
+      γὰρ); the Byzantine and SBL texts have "I testify" (Μαρτυρῶ ἐγὼ).
+    - 22:19: the Textus Receptus has "out of the **book** of life" (ἀπὸ
+      Βίβλου τῆς ζωῆς); the Byzantine and SBL texts have "from the **tree**
+      of life" (ἀπὸ τοῦ ξύλου τῆς ζωῆς). **[context]** Erasmus's only Greek
+      manuscript of Revelation lacked the book's last verses, which he
+      supplied by translating the Latin Vulgate back into Greek; the Latin
+      tradition he used read *libro*. The Textus Receptus reading has little
+      or no Greek manuscript support.
+  notes: |
+    The speaker is the one who "testifieth these things" (22:20), Jesus. A
+    curse on altering this book, not a promise that it will not be altered.
+    The passage that warns against changing the text is itself one of the
+    places where the printed Greek texts differ most.
+
+# ---------------------------------------------------------------- Apostles
+
+- id: 1pet-1-23
+  ref: 1 Peter 1:23-25
+  kjv: 1PE 1:23-25
+  speaker: apostle
+  role: claim
+  categories: [permanence]
+  object: the word of God; the word preached to you
+  claim: Born again by the word of God, which liveth and abideth for ever; the word of the Lord endureth for ever, and this is the word which by the gospel is preached unto you.
+  variants: |
+    - 1:23: the Textus Receptus and Byzantine text end "which liveth and
+      abideth **for ever**" (μένοντος εἰς τὸν αἰῶνα); SBL omits "for ever".
+    - 1:24: the Textus Receptus and Byzantine text read "all the glory **of
+      man**" (ἀνθρώπου), agreeing with the Greek of Isaiah; SBL reads "all
+      **its** glory" (αὐτῆς), which corresponds to the Hebrew suffix (חַסְדּוֹ,
+      "its goodliness").
+    - 1:25: all three read "the word **of the Lord**" (ῥῆμα κυρίου), where the
+      Greek of Isaiah has "the word **of our God**" (τοῦ θεοῦ ἡμῶν).
+  notes: |
+    - Peter quotes Isaiah 40 in the Greek's shorter form and with its verb
+      "abides" (μένει).
+    - The Greek of 1:23 can be read "the word of the living and abiding God"
+      (taking both participles with θεοῦ, as the Vulgate does) or "the living
+      and abiding word of God".
+    - Peter applies the endurance to "the word which by the gospel is preached
+      unto you", the proclamation, without distinguishing it from a text.
+
+- id: 1pet-2-2
+  ref: 1 Peter 2:2
+  kjv: 1PE 2:2
+  speaker: apostle
+  role: claim
+  categories: [purity]
+  object: the milk of the word
+  claim: As newborn babes, desire the sincere milk of the word.
+  variants: SBL adds "unto salvation" (εἰς σωτηρίαν) at the end of the verse.
+  notes: |
+    "Sincere" is ἄδολος, "unadulterated", the negative of the verb Paul uses
+    for "handling deceitfully" (δολοῦντες) in 2 Corinthians 4:2. It follows
+    directly on 1:23–25. "Of the word" is λογικόν, which can also mean
+    "spiritual" or "rational". The New Testament's one description of God's
+    word as free of adulteration is applied to what believers are to desire,
+    not to a text's transmission. **[inferred]**
+
+- id: rom-3-2
+  ref: Romans 3:2
+  kjv: ROM 3:2
+  speaker: apostle
+  role: means
+  categories: [custody]
+  object: the oracles of God
+  claim: Unto them [the Jews] were committed the oracles of God.
+  variants: The editions agree.
+  notes: |
+    The Jews were "entrusted" (ἐπιστεύθησαν) with the oracles (τὰ λόγια).
+    The Second London Confession cites this verse in its proofs for 1.8.
+    Paul's next verse asks whether their unbelief makes God's faithfulness
+    void, and answers no.
+
+- id: rom-9-6
+  ref: Romans 9:6
+  kjv: ROM 9:6
+  speaker: apostle
+  role: claim
+  categories: [fulfilment]
+  object: the word of God
+  claim: Not as though the word of God hath taken none effect.
+  variants: The editions agree.
+  notes: |
+    "Taken none effect" is ἐκπέπτωκεν, "has fallen", the verb the Greek of
+    Isaiah 40:7 and 1 Peter 1:24 use for the flower that "fell".
+
+- id: rom-15-4
+  ref: Romans 15:4; 1 Corinthians 10:11
+  kjv: ROM 15:4, 1CO 10:11
+  speaker: apostle
+  role: claim
+  categories: [transmission]
+  object: whatsoever things were written aforetime
+  claim: Whatsoever things were written aforetime were written for our learning; they are written for our admonition, upon whom the ends of the world are come.
+  variants: In Romans 15:4 SBL has "were written" (ἐγράφη) for the second "were written aforetime" (προεγράφη).
+  notes: The Old Testament writings were written for a later generation, which presupposes they would reach it.
+
+- id: 2tim-3-16
+  ref: 2 Timothy 3:15-16
+  kjv: 2TI 3:15-16
+  speaker: apostle
+  role: claim
+  categories: [origin]
+  object: all scripture; the holy scriptures Timothy knew from a child
+  claim: All scripture is given by inspiration of God (θεόπνευστος), and is profitable.
+  variants: SBL omits the article before "holy writings" (ἱερὰ γράμματα) and reads ἐλεγμόν for ἔλεγχον ("reproof").
+  notes: |
+    A claim about the origin and use of Scripture, not its preservation. It
+    is included because it is cited everywhere alongside the preservation
+    texts. **[inferred]** The "holy writings" Timothy knew from a child were
+    copies, not autographs, and the verse calls them able to make him wise
+    unto salvation.
+
+- id: 2pet-1-19
+  ref: 2 Peter 1:19-21
+  kjv: 2PE 1:19-21
+  speaker: apostle
+  role: claim
+  categories: [origin]
+  object: the prophetic word
+  claim: We have a more sure word of prophecy; prophecy came not by the will of man, but holy men of God spake as they were moved by the Holy Ghost.
+  variants: In 1:21 the Textus Receptus has "holy men of God" (οἱ ἅγιοι Θεοῦ ἄνθρωποι); SBL has "men spoke from God" (ἀπὸ θεοῦ ἄνθρωποι).
+
+- id: 2tim-2-9
+  ref: 2 Timothy 2:9
+  kjv: 2TI 2:9
+  speaker: apostle
+  role: claim
+  categories: [efficacy]
+  object: the word of God
+  claim: The word of God is not bound.
+  variants: The editions agree.
+
+- id: heb-4-12
+  ref: Hebrews 4:12
+  kjv: HEB 4:12
+  speaker: apostle
+  role: claim
+  categories: [efficacy]
+  object: the word of God
+  claim: The word of God is quick, and powerful.
+  variants: SBL reads "soul and spirit" (καὶ) for "both soul and spirit" (τε καὶ).
+
+- id: 1thess-2-13
+  ref: 1 Thessalonians 2:13
+  kjv: 1TH 2:13
+  speaker: apostle
+  role: claim
+  categories: [efficacy]
+  object: the word of God heard from the apostles
+  claim: Ye received it not as the word of men, but as it is in truth, the word of God, which effectually worketh in you.
+
+- id: acts-7-38
+  ref: Acts 7:38
+  kjv: ACT 7:38
+  speaker: other
+  role: claim
+  categories: [efficacy, transmission]
+  object: the lively oracles given at Sinai
+  claim: Moses received the lively oracles (λόγια ζῶντα) to give unto us.
+  variants: The Textus Receptus and Byzantine text have "to give unto us" (ἡμῖν); SBL has "unto you" (ὑμῖν).
+  notes: Stephen is the speaker, in his speech before the council.
+
+- id: jude-3
+  ref: Jude 3
+  kjv: JUD 1:3
+  speaker: apostle
+  role: claim
+  categories: [transmission]
+  object: the faith once delivered
+  claim: Contend for the faith which was once delivered unto the saints.
+  notes: "\"Once\" (ἅπαξ) means once for all. The object is the faith, the body of teaching, not a text."
+
+- id: 2cor-2-17
+  ref: 2 Corinthians 2:17; 4:2
+  kjv: 2CO 2:17, 2CO 4:2
+  speaker: apostle
+  role: warning
+  categories: [corruption]
+  object: the word of God
+  claim: We are not as many, which corrupt the word of God; not handling the word of God deceitfully.
+  variants: In 2:17 the Byzantine text has "the rest" (οἱ λοιποί) for "many" (οἱ πολλοί).
+  notes: |
+    "Corrupt" is καπηλεύοντες, "peddling" (used of wine-sellers who
+    adulterate their wares); "handling deceitfully" is δολοῦντες,
+    "adulterating". Paul admits that some in his day were corrupting the word
+    in their handling of it.
+
+- id: 2pet-3-16
+  ref: 2 Peter 3:16
+  kjv: 2PE 3:16
+  speaker: apostle
+  role: warning
+  categories: [corruption]
+  object: Paul's epistles and "the other scriptures"
+  claim: The unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.
+  variants: Minor; SBL reads "in which" (αἷς, the epistles) for "in which things" (οἷς).
+  notes: Corruption by interpretation ("wrest", στρεβλοῦσιν, "twist") rather than by alteration of the text. Paul's letters are counted among "the scriptures".
+
+- id: heb-6-18
+  ref: Hebrews 6:17-18; Titus 1:2
+  kjv: HEB 6:17-18, TIT 1:2
+  speaker: apostle
+  role: ground
+  categories: [fulfilment]
+  object: God's counsel and oath; his promise
+  claim: The immutability of his counsel; it was impossible for God to lie; God, that cannot lie, promised.
+  variants: The editions agree.
+
+- id: rev-22-6
+  ref: Revelation 22:6
+  kjv: REV 22:6
+  speaker: heavenly-voice
+  role: claim
+  categories: [purity]
+  object: these sayings
+  claim: These sayings are faithful and true.
+  variants: The Textus Receptus has "the Lord God of the holy prophets"; the Byzantine and SBL texts have "the Lord, the God of the spirits of the prophets".
