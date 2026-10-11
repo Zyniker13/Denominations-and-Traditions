@@ -219,7 +219,7 @@ Fathers, councils, and traditions are subordinated to it (ch. 2).
 *Note on the text:* the English Second Helvetic text in public circulation
 online appears to be a modern translation. The phrases above are quoted
 briefly for analysis. This repository has not yet acquired a public-domain
-English text (see `SOURCES.md` in the acquisition PR).
+English text (see [SOURCES.md](../SOURCES.md)).
 
 #### Helvetic Consensus (Formula Consensus Helvetica, 1675)
 
@@ -646,20 +646,22 @@ witness of the Spirit rather than in the church's reception.
 
 ## Sources
 
-**Reformed texts** are quoted from the public-domain texts acquired for this
-repository from the Reformed Standards compendium (Apache-2.0), in the
-acquisition PR (`confessions/reformed/…`):
+**Reformed texts** are quoted from the public-domain texts in this
+repository, taken from the Reformed Standards compendium (Apache-2.0; see
+[SOURCES.md](../SOURCES.md)):
 
-- Belgic Confession, Heidelberg Catechism, Canons of Dort:
-  `confessions/reformed/continental/three-forms-of-unity/`
-- Westminster Confession, Larger and Shorter Catechisms, *Directory for the
-  Publick Worship of God*, *Form of Presbyterial Church-Government*:
-  `confessions/reformed/presbyterian/westminster-standards/`
-- Scots Confession: `confessions/reformed/presbyterian/scots-confession.md`
-- Thirty-Nine Articles: `confessions/reformed/anglican/thirty-nine-articles.md`
-- Savoy Declaration: `confessions/reformed/congregational/savoy-declaration.md`
-- Second London Baptist Confession:
-  `confessions/reformed/reformed-baptist/second-london-baptist-confession-1689.md`
+- [Belgic Confession](../confessions/reformed/continental/three-forms-of-unity/belgic-confession.md),
+  [Heidelberg Catechism](../confessions/reformed/continental/three-forms-of-unity/heidelberg-catechism.md),
+  [Canons of Dort](../confessions/reformed/continental/three-forms-of-unity/canons-of-dort.md)
+- [Westminster Confession](../confessions/reformed/presbyterian/westminster-standards/westminster-confession-of-faith.md),
+  [Larger Catechism](../confessions/reformed/presbyterian/westminster-standards/westminster-larger-catechism.md),
+  [Shorter Catechism](../confessions/reformed/presbyterian/westminster-standards/westminster-shorter-catechism.md),
+  [*Directory for the Publick Worship of God*](../confessions/reformed/presbyterian/westminster-standards/directory-for-the-publick-worship-of-god.md),
+  [*Form of Presbyterial Church-Government*](../confessions/reformed/presbyterian/westminster-standards/form-of-presbyterial-church-government.md)
+- [Scots Confession](../confessions/reformed/presbyterian/scots-confession.md)
+- [Thirty-Nine Articles](../confessions/reformed/anglican/thirty-nine-articles.md)
+- [Savoy Declaration](../confessions/reformed/congregational/savoy-declaration.md)
+- [Second London Baptist Confession](../confessions/reformed/reformed-baptist/second-london-baptist-confession-1689.md)
 
 **Not yet in this repository** (consulted elsewhere):
 
