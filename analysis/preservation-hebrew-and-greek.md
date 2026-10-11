@@ -31,7 +31,10 @@ limited to the confessional claims about the Hebrew and Greek *text*.
 Conventions: **[context]** marks a statement that rests on historical or
 scholarly evidence rather than on a text in this repository; **[inference]**
 marks a conclusion drawn from the evidence rather than stated by a source.
-Translations of Hebrew and Greek are the author's own and deliberately
+The Greek New Testament is read as the text it is: the study does not
+reconstruct an Aramaic or Hebrew original behind it or rest a conclusion on
+one, and where such a reconstruction is mentioned it is marked as
+conjecture. Translations of Hebrew and Greek are the author's own and deliberately
 literal. Sources for every quotation and scholarly claim are listed under
 [Sources](#sources).
 
@@ -76,7 +79,9 @@ fails at a different point.
   read), **antiquity of complete copies** (whole Greek Bibles survive from the
   fourth century, five to six hundred years before the oldest complete
   Hebrew Bible), and **apostolic use** (the New Testament quotes it far more
-  often than it quotes the Hebrew directly). It is weakest on **originality**
+  often than it quotes the Hebrew directly), and the one saying in Scripture
+  that speaks of letters, "one iota or one horn" (Matt 5:18), names a Greek
+  letter. It is weakest on **originality**
   (it is a translation, and says so), and on **singularity**: there is no
   single "Septuagint," but an Old Greek translation overlaid by Jewish
   revisions, by Origen's Hexapla, and by later Christian recensions.
@@ -95,20 +100,24 @@ fails at a different point.
   *different Hebrew edition* rather than mistranslating the MT (Jeremiah,
   Samuel, Deut 32). To ground preservation in the Greek is therefore, in large
   part, to ground it in that other Hebrew edition, at one remove.
-- **Scripture's own wording favours neither.** No preservation passage names
-  a language, a script, a manuscript line, or a community of copyists. The
-  enduring word is located "in the heavens" (Ps 119:89), "in your mouth and
-  the mouth of your offspring" (Isa 59:21), in its accomplishment (Isa 55:11),
-  in the lasting force of every least commandment (Matt 5:18), and in "the word that was preached to you" (1 Pet 1:25). The New
-  Testament quotes the Hebrew and the Greek as it suits, carries Jesus' own
-  words almost entirely in translation, and transmits its own preservation
-  sayings with minor variants. **[inference]** Read on their own terms, the
-  passages promise the permanence and efficacy of what God has said, not the
-  inerrant copying of one text-form.
+- **Scripture's own wording does not settle it, and where it names a letter
+  the letter is Greek.** No preservation passage names a language, a
+  manuscript line, or a community of copyists. The enduring word is located
+  "in the heavens" (Ps 119:89), "in your mouth and the mouth of your
+  offspring" (Isa 59:21), in its accomplishment (Isa 55:11), in "the word
+  that was preached to you" (1 Pet 1:25), and, in the one passage that
+  descends to letters, in a Law whose least letter, an *iota*, will not pass
+  away while heaven and earth stand (Matt 5:18). The New Testament quotes the
+  Hebrew and the Greek as it suits, gives Jesus' words in Greek, and
+  transmits its own preservation sayings with minor variants. **[inference]**
+  Read on their own terms, the passages promise the permanence and efficacy
+  of what God has said, not the inerrant copying of one text-form; and the
+  one that speaks of letters speaks of Greek ones.
 - **For the confessions**: the Westminster Confession's "kept pure in all
   ages" (1.8) is defensible for the Hebrew consonantal text as a claim about
   the substance of the text, and not as a claim that every manuscript or
-  edition is free of error. The Helvetic Consensus's claim that the vowel
+  edition is free of error; its one proof text, Matt 5:18, names a Greek
+  letter. The Helvetic Consensus's claim that the vowel
   points are inspired (Canon II) is contradicted by the history of the points
   as to the signs themselves and survives only in its fallback form, "the
   power of the points," which is a claim for an oral tradition. Its refusal
@@ -129,7 +138,7 @@ rating is argued in [section 7](#7-head-to-head).
 | Antiquity of complete copies | **Weak**: complete codices from the 10th–11th c. | **Strong**: complete codices from the 4th c. |
 | Stability once fixed | **Very strong** for the consonants | **Moderate**: recensions, Hexaplaric mixture |
 | Use by the New Testament | **Moderate**: quoted where it differs from the LXX in some places | **Strong**: the usual form of quotation |
-| Fit to "one iota or one horn" (Matt 5:18) | **Neutral**: a saying about the Law's validity, not its copying, and not tied to a script ([1.1](#11-matthew-518-read-in-the-greek)) | **Neutral**: likewise |
+| Fit to "one iota or one horn" (Matt 5:18) | **Weak**: the Hebrew can claim the verse only by conjecturing a *yod* behind the *iota* | **Strong**: the text names a Greek letter, in a Gospel where Jesus quotes the Scriptures in Greek ([1.1](#11-matthew-518-read-in-the-greek)) |
 | Fit to "the word preached to you" (1 Pet 1:25) | Moderate | **Strong**: Peter quotes the Greek |
 | Custody (Rom 3:2) | **Strong**: transmitted by the synagogue | **Weak**: transmitted by the church after the 2nd c. |
 
@@ -150,7 +159,7 @@ and the Greek of the New Testament where it quotes them.
 | **Isa 59:21** | וּדְבָרַי אֲשֶׁר־שַׂמְתִּי בְּפִיךָ לֹא־יָמוּשׁוּ מִפִּיךָ וּמִפִּי זַרְעֲךָ "my words that I have put in your mouth shall not depart from your mouth, or from the mouth of your offspring" | τὰ ῥήματα, ἃ ἔδωκα εἰς τὸ στόμα σου, οὐ μὴ ἐκλίπῃ ἐκ τοῦ στόματός σου "the words I gave into your mouth shall not fail from your mouth" | God's words, **in the mouth** of his people |
 | **Isa 55:11** | לֹא־יָשׁוּב אֵלַי רֵיקָם "it shall not return to me empty" | οὐ μὴ ἀποστραφῇ, ἕως ἂν τελεσθῇ "it shall not turn back until it is accomplished" | God's word, **in its effect** |
 | **Ps 12:6–7** (MT 12:7–8; LXX 11:7–8) | אַתָּה־יְהוָה תִּשְׁמְרֵם תִּצְּרֶנּוּ "you, O LORD, will keep *them*; you will guard *him*" | σύ, κύριε, φυλάξεις ἡμᾶς καὶ διατηρήσεις ἡμᾶς "you, Lord, will keep *us* and preserve *us*" | In the Greek, **people**, not words; in the Hebrew, disputed (see [3.3](#33-where-the-consonants-allow-more-than-one-reading)) |
-| **Matt 5:18** | — | ἰῶτα ἓν ἢ μία κεραία οὐ μὴ παρέλθῃ ἀπὸ τοῦ νόμου, ἕως ἂν πάντα γένηται "one iota or one horn shall by no means pass away from the Law, until all things take place" | The **validity of every least part** of the Law, until heaven and earth pass and all things take place (see [1.1](#11-matthew-518-read-in-the-greek)) |
+| **Matt 5:18** | — | ἰῶτα ἓν ἢ μία κεραία οὐ μὴ παρέλθῃ ἀπὸ τοῦ νόμου, ἕως ἂν πάντα γένηται "one iota or one horn shall by no means pass away from the Law, until all things take place" | The **least letter of a written Law**, in Greek letters, while heaven and earth stand; its point, that the least commandment binds (see [1.1](#11-matthew-518-read-in-the-greek)) |
 | **Matt 24:35** (Mark 13:31; Luke 21:33) | — | οἱ δὲ λόγοι μου οὐ μὴ παρέλθωσιν "but my words will not pass away" | **Jesus' words** |
 | **Ps 145:13a** (LXX 144:13a) | *absent from the MT* | πιστὸς κύριος ἐν τοῖς λόγοις αὐτοῦ "the Lord is faithful in his words" | See [4.2](#42-before-the-masoretes-several-hebrew-editions) |
 
@@ -160,11 +169,11 @@ Three things follow before any history is considered.
    "in these copies," or "by these copyists." The places the passages do name
    are heaven, the mouth of God's people, the accomplishment of God's purpose,
    and the preached gospel. **[inference]**
-2. **Only one passage speaks of letters**, Matt 5:18, and read in the Greek
-   it is a saying about the Law's binding force, not about the copying of its
-   text, and it names no script (see [1.1](#11-matthew-518-read-in-the-greek)).
-   The Westminster Confession cites it, and only it, as the proof of "kept
-   pure in all ages" (WCF 1.8, proof [a]).
+2. **Only one passage speaks of letters**, Matt 5:18, and the letter it
+   names is Greek. Its point is the Law's binding force, down to its least
+   commandment (see [1.1](#11-matthew-518-read-in-the-greek)). The
+   Westminster Confession cites it, and only it, as the proof of "kept pure
+   in all ages" (WCF 1.8, proof [a]).
 3. **The most famous "preservation" text in popular debate, Ps 12:7, is about
    people in the Greek** and is ambiguous in the Hebrew. Its role in the
    argument depends on how one reads unpointed consonants
@@ -191,62 +200,94 @@ The Greek of verses 17–19 (SBLGNT), with a literal translation:
 > loosens one of the least of these commandments and teaches people so shall
 > be called least in the kingdom of heaven…
 
-Five features of the Greek decide how the verse bears on preservation.
+The study takes the Greek as the text. It does not reconstruct an Aramaic or
+Hebrew saying behind the Greek, and it rests nothing on such a
+reconstruction; where one is mentioned below it is marked as conjecture. On
+that footing, six features of the text decide how the verse bears on the
+question of Hebrew or Greek.
 
 1. **The iota is a Greek letter.** ἰῶτα is the name of the Greek letter ι,
-   the smallest letter of the Greek alphabet, a single upright stroke. The
-   text as written names the least letter of the alphabet its readers used.
-   That it stands for the Hebrew *yod* is a reconstruction of what Jesus may
-   have said in Aramaic behind the Greek. The reconstruction is plausible,
-   since the rabbis also made the *yod* a byword for the least letter of the
-   Torah (below), but it is a judgment about the saying's background, not
-   something the Greek says. The English "jot" (from *iota*, through Latin)
-   has hidden the fact that the Evangelist chose a Greek letter.
-2. **The κεραία is a "horn."** The word means a horn or projection, and is
-   used of the hook or stroke of a letter and, in the idiom "not even a
-   *keraia*," of the slightest detail (BDAG, s.v.). Together "one iota or one
-   horn" means the least letter and the least part of a letter: an idiom of
-   totality, "not the smallest particle." It does not name the strokes of any
-   one script.
-3. **The verb is about validity, not copying.** "Pass away *from the Law*"
-   (παρέλθῃ ἀπὸ τοῦ νόμου) uses the same verb as "until heaven and earth pass
-   away" in the same sentence: to cease to exist or to stand. Luke's parallel
-   says it is easier for heaven and earth to pass away "than for one horn of
-   the Law to **fall**" (πεσεῖν, Luke 16:17), and "fall" is the New Testament's
-   word for a word or thing losing its force: "it is not as though the word
-   of God has fallen" (ἐκπέπτωκεν, Rom 9:6); "love never falls" (πίπτει,
-   1 Cor 13:8).
-4. **The context is commandments, not characters.** The saying is framed by
-   *abolish* and *fulfill* (καταλῦσαι, πληρῶσαι, v. 17), and verse 19 draws the
-   consequence with "therefore" (οὖν): whoever "loosens" (λύσῃ) "one of the
-   least of these commandments" (μίαν τῶν ἐντολῶν τούτων τῶν ἐλαχίστων). The
-   "iota" and "horn" of verse 18 are taken up by "the least commandments" of
-   verse 19. What will not pass away is the binding force of every part of the
-   Law, down to its least commandment, and the threat is against those who
-   annul it in teaching and practice, not against careless scribes.
-5. **The claim is bounded.** It holds "until heaven and earth pass away" and
+   the smallest letter of the Greek alphabet, a single short stroke. The text
+   presents "the Law" as a text that has iotas: a Law written in Greek
+   letters. The English "jot" (from *iota*, through the Latin) has hidden
+   that the Evangelist chose a Greek letter.
+2. **The Evangelist writes Hebrew when he means Hebrew.** The same verse
+   opens with ἀμήν, the Hebrew אָמֵן in Greek letters, left untranslated. Four
+   verses later he writes Ῥακά (5:22), in the same sermon μαμωνᾶς (6:24), and
+   at the cross Ἠλὶ ἠλὶ λεμὰ σαβαχθάνι, which he then translates (27:46). A
+   Greek spelling of the Hebrew letter's name was also to hand: the
+   Septuagint, which this Gospel quotes, heads the acrostic verses of
+   Lamentations with the Hebrew letter names in Greek letters, ΑΛΕΦ, ΒΗΘ,
+   ΓΙΜΕΛ … ΙΩΔ … ΘΑΥ (Lam 1:10; 2:10; 4:10; and the *yod* strophe of ch. 3,
+   in Brenton's text). The Evangelist, who could have written ἰώδ, wrote
+   ἰῶτα. That the Greek letter "stands for" a Hebrew *yod* is a conjecture
+   about a saying the text does not give. The rabbinic sayings about the
+   *yod* of Deut 17:16–17 (below) show that the thought was at home in Hebrew
+   too; that is background, not text.
+3. **The κεραία is a Greek idiom for the least stroke of a written law.** The
+   word means a horn or projection, and in the phrase "not even a horn," the
+   least stroke of writing. Dio Chrysostom uses it of the laws and decrees in
+   a Greek city's archive: "if anyone should go to the building where your
+   public records are kept and erase one jot [κεραία] of any law, or one
+   single syllable of a decree of the people, you will treat this man just as
+   you would any person who should remove a part of the Chariot" (*Or.* 31.86,
+   Cohoon's translation; the lexica cite this passage, with Philo, *In
+   Flaccum* 131, and Plutarch, *Moralia* 1100A, for the word). "One iota or
+   one horn" is the Greek way of saying "not the least letter or stroke" of
+   a written text, and in Dio as in Matthew the text is a law.
+4. **In this Gospel the Scriptures Jesus quotes are given in Greek form.**
+   Where Matthew records Jesus citing Scripture, the wording is the
+   Septuagint's, including where the Septuagint differs from the Hebrew:
+   "out of the mouth of babes and nursing infants you have prepared
+   **praise**" (αἶνον, Matt 21:16 = LXX Ps 8:3; the MT has עֹז, "strength");
+   "in vain do they worship me, teaching as doctrines the commandments of
+   men" (Matt 15:8–9 = LXX Isa 29:13; the MT has "their fear of me is a
+   commandment of men, learned by rote"); "every **word** that proceeds
+   through the mouth of God" (ῥήματι, Matt 4:4 = LXX Deut 8:3; the MT has no
+   noun). The Evangelist's own formula quotations are more mixed (2:15 and
+   8:17 follow the Hebrew against the Septuagint), so the Gospel does not
+   present one text-form throughout; but the Law and the Prophets in Jesus'
+   mouth are Greek.
+5. **The verb and the context say what the persistence is for.** "Pass away
+   from the Law" (παρέλθῃ ἀπὸ τοῦ νόμου) uses the verb of "until heaven and
+   earth pass away" in the same sentence: to cease to stand. Luke's parallel
+   has only the horn, and says it is easier for heaven and earth to pass away
+   "than for one horn of the Law to **fall**" (πεσεῖν, Luke 16:17), the New
+   Testament's word for a word that loses its force ("it is not as though the
+   word of God has fallen," ἐκπέπτωκεν, Rom 9:6; "love never falls," πίπτει,
+   1 Cor 13:8). The saying is framed by *abolish* and *fulfill* (καταλῦσαι,
+   πληρῶσαι, v. 17), and verse 19 draws its consequence with "therefore"
+   (οὖν): whoever "loosens" (λύσῃ) "one of the least of these commandments"
+   will be called least in the kingdom. The least letter of verse 18 is taken
+   up by the least commandment of verse 19. What the verse says will not pass
+   away is a written Law, down to its least letter; what it says that for is
+   that the Law binds, down to its least commandment; and the threat is
+   against those who loosen it in teaching, not against careless copyists.
+6. **The claim is bounded.** It holds "until heaven and earth pass away" and
    "until all things take place" (ἕως ἂν πάντα γένηται; γένηται, "come to
    pass," not the πληρῶσαι of v. 17). Contrast Matt 24:35, where the same
    verb returns: "heaven and earth will pass away, but my words will by no
-   means pass away" (οὐ μὴ παρέλθωσιν). Jesus' words outlast the very limit
+   means pass away" (οὐ μὴ παρέλθωσιν). Jesus' own words outlast the limit
    that bounds the Law's iota and horn.
 
-The rabbinic parallel points the same way. Leviticus Rabbah (19:2, c. fifth
+The rabbinic parallel, for background: Leviticus Rabbah (19:2, c. fifth
 century) tells how Solomon, by multiplying wives and horses, treated the
 *yod* of "he shall not multiply" (לֹא יַרְבֶּה, Deut 17:16–17) as void; the
 *yod* "prosecuted him," and God answered that "Solomon and a hundred like
-him will be void, but a *yod* from you will never be void." The concern is
-again whether a commandment stands, not whether a scroll was copied
+him will be void, but a *yod* from you will never be void." There too the
+question is whether a commandment stands, not whether a scroll was copied
 correctly.
 
-**[inference]** Read in the Greek, Matt 5:18 is not a promise about the
-transmission of a text in any language. It affirms that the whole Law,
-to its least commandment, keeps its authority until heaven and earth pass
-and all things take place. It therefore gives no direct support to grounding
-preservation in the Hebrew rather than the Greek, or the reverse. It bears on
-transmission only indirectly: a Law whose every least commandment remains
-binding presupposes that the commandments remain knowable, but the verse
-says nothing about how, in which language, or by whose copying.
+**[inference]** Taken as the Greek gives it, Matt 5:18 is a saying about a
+written Law in Greek letters, whose least letter will not pass away while
+heaven and earth stand, and whose least commandment therefore still binds.
+It names no copyists and promises nothing about manuscripts; but the letter
+it names is Greek. For the question of this study it therefore counts, on
+the face of the text, for the Greek: a letter-level saying heard in Greek,
+about a Law with Greek letters, in a Gospel in which Jesus quotes the
+Scriptures in Greek. The Hebrew can claim the verse only by the conjecture
+that a *yod* lies behind the *iota*, and that conjecture is not what the
+text presents.
 
 ---
 
@@ -379,18 +420,17 @@ wholly in paleo-Hebrew and some square-script scrolls write the divine name
 in paleo-Hebrew letters. The Samaritans kept a form of the old script.
 **[context]**
 
-**A note on Matt 5:18.** If the "iota" of Matt 5:18 is taken to stand for a
-Hebrew *yod* in an Aramaic saying behind the Greek, the saying presupposes
-the square script, in which *yod* is the smallest letter; in the old Hebrew
-script it is full-sized. But the Greek text names the Greek *iota*, and the
-saying concerns the Law's validity rather than its copying
-([1.1](#11-matthew-518-read-in-the-greek)), so nothing about the history of
-the scripts can be drawn from it either way.
+**Matt 5:18 and the scripts.** The text of Matt 5:18 names the Greek
+*iota* ([1.1](#11-matthew-518-read-in-the-greek)). The common conjecture that
+a Hebrew *yod* lies behind it would presuppose the square script, in which
+*yod* is the smallest letter (in the old Hebrew script it is full-sized);
+the study does not build on that conjecture, and the history of the scripts
+neither supports the verse nor is touched by it.
 
-What the change of script did affect is the letters copyists confused.
-Letters that differ by a small projection, such as *dalet* (ד) and *resh*
-(ר), or by a stroke's length, such as *yod* (י) and *vav* (ו), are a
-recurring source of variants.
+What the script does affect is which letters copyists confused. In the
+square script, letters that differ by a small projection, such as *dalet*
+(ד) and *resh* (ר), or by a stroke's length, such as *yod* (י) and *vav*
+(ו), are a recurring source of variants.
 
 - The same son of Javan is דֹדָנִים *Dodanim* in Gen 10:4 and רוֹדָנִים
   *Rodanim* in 1 Chr 1:7 (and Ῥόδιοι, "Rhodians," in the Greek of Gen 10:4).
@@ -649,6 +689,8 @@ seldom in a way that changes the sense.
   speak Hebrew and did not accept the New Testament.
 - Its oldest complete witness is a thousand years later than the oldest
   complete Greek Bibles.
+- The one saying of Scripture that speaks of letters names a Greek letter,
+  not a Hebrew one; the Hebrew can claim it only by conjecture (1.1).
 - The scripts and spellings in which it was written changed over time, so
   that "the letters" of the text cannot mean the letter-forms that were first
   written.
@@ -779,6 +821,9 @@ Greek printed by Brenton reads simply ὁ κύριος ἐβασίλευσε, LX
   translated "that they might be made known to all the nations").
 - In several places where it differs from the MT, the Dead Sea Scrolls show
   it to be a faithful witness to an older or better Hebrew reading.
+- The one saying of Scripture that speaks of letters, Matt 5:18, names a
+  Greek letter, and the Gospel that records it gives Jesus' quotations of
+  Scripture in Greek form (1.1).
 
 **Weaknesses.**
 
@@ -812,6 +857,8 @@ in the Greek. **[context]** (Swete; Jobes and Silva.)
 | Heb 10:5 | Ps 40:6 (LXX 39:7) | LXX "a body you prepared for me" against MT "ears you have dug for me" | The incarnation as the true sacrifice |
 | 1 Pet 1:24–25 | Isa 40:6–8 | LXX, without MT 40:7 | "The word of the Lord abides forever" |
 | Rom 3:4 | Ps 51:4 (MT 51:6; LXX 50:6) | LXX "when you are judged" against MT "when you judge" | God's justification in his words |
+| Matt 21:16 | Ps 8:2 (MT and LXX 8:3) | LXX "praise" (αἶνον) against MT "strength" (עֹז) | The children's praise in the temple |
+| Matt 15:8–9 | Isa 29:13 | LXX "in vain they worship me, teaching as doctrines the commandments of men" against the MT's "their fear of me is a commandment of men, learned by rote" | The tradition of the elders |
 
 **It sometimes follows the Hebrew against the Greek.**
 
@@ -820,13 +867,16 @@ in the Greek. **[context]** (Swete; Jobes and Silva.)
 | Matt 2:15 | Hos 11:1 | MT "out of Egypt I called **my son**" against LXX "**his children**" | Jerome cites this pair to show the Hebrew contains what the apostles quoted ([Preface to Genesis](../theologians/early-church/jerome/vulgate-prefaces.md#preface-to-genesis)) |
 | John 19:37 | Zech 12:10 | MT "**pierced**" against LXX "danced insultingly" | Likewise |
 
-**It carries Jesus' words in translation.** Jesus taught chiefly in Aramaic;
-the Gospels preserve a handful of his words in Aramaic and then translate
-them (*Talitha koum*, Mark 5:41; *Eloi, Eloi, lema sabachthani*, Mark 15:34).
-The saying "my words will not pass away" (Matt 24:35) has itself come down to
-us in Greek. **[inference]** If the words of Jesus that "will not pass away"
-are preserved, they are preserved in translation, and the New Testament
-regards that as their preservation.
+**It presents Jesus' words in Greek.** The Gospels give Jesus' sayings in
+Greek. On a few occasions they give a Semitic word or sentence in Greek
+letters and then translate it: *Talitha koum* (Mark 5:41), *Ephphatha*
+(Mark 7:34), *Eloi, Eloi, lema sabachthani* (Mark 15:34; Matt 27:46). Those
+passages are the text's own statement that Jesus on those occasions spoke a
+Semitic tongue. The text makes no such statement about his other sayings,
+and this study does not treat them as translations. The saying "my words
+will not pass away" (Matt 24:35) is given in Greek with no such note.
+**[inference]** As the text presents them, the words of Jesus that will not
+pass away are Greek words.
 
 **It transmits its own preservation sayings with variants.** In Mark 13:31
 the manuscripts differ over the form of the verb and whether to include the
@@ -888,13 +938,16 @@ sometimes in arguments that depend on a Greek reading, and occasionally
 follows the Hebrew against the Greek (section 6). *Hebrew moderate; Greek
 strong.*
 
-**8. Fit to the letter-level saying (Matt 5:18).** Read in the Greek, the
-saying names the Greek *iota*, uses "horn" in a proverbial sense for the
-least part, and concerns the Law's validity down to its least commandment,
-not the copying of its text (1.1). It favours neither grounding. *Neutral.*
-(The first version of this study rated the Hebrew strong here, reading the
-iota as the Hebrew *yod* of the square script. That reading rests on a
-reconstructed Aramaic saying, not on the Greek text.)
+**8. Fit to the letter-level saying (Matt 5:18).** The text names the Greek
+*iota*; its "horn" is the Greek idiom for the least stroke of a written law
+(Dio Chrysostom, *Or.* 31.86); and the Gospel that records it gives Jesus'
+quotations of Scripture in their Greek form (1.1). The Hebrew can claim the
+verse only by conjecturing a *yod* behind the *iota*, which the text does not
+present. *Hebrew weak; Greek strong.* (The first version of this study rated
+the Hebrew strong here, on that conjecture. The second, correcting it, rated
+the saying neutral on the ground that its point is the Law's validity rather
+than its copying. That point stands, 1.1 no. 5, but it does not cancel the
+fact that the letter the text names is Greek.)
 
 **9. Fit to the gospel-level saying (1 Pet 1:25).** Peter quotes the Greek
 form of Isa 40:6–8 and identifies "the word of the Lord" that "abides
@@ -939,13 +992,17 @@ Helvetic Consensus's claim (Canons I–II), and the claim many readers hear in
   **before AD 100**, when the MT was one Hebrew edition among several and in
   places the shorter or damaged one. Defensible for the vowels only in the
   fallback form, an inspired oral reading tradition, which grounds written
-  Scripture's meaning in an unwritten tradition kept by the synagogue.
-- **Grounded in the Greek:** not defensible at all. There is no single LXX
-  text to point to, the LXX is a translation, and it was transmitted in
-  competing recensions.
+  Scripture's meaning in an unwritten tradition kept by the synagogue. And
+  the one scriptural saying pitched at the level of letters, Matt 5:18, does
+  not name Hebrew letters (1.1).
+- **Grounded in the Greek:** the scriptural warrant is the better one, since
+  the letter Matt 5:18 names is Greek (1.1); but the history gives the
+  warrant nothing to attach to. There is no single LXX text to point to, the
+  LXX is a translation, and it was transmitted in competing recensions. The
+  verse's wording and the manuscript record pull in opposite directions.
 
-*Verdict:* the Hebrew does far better than the Greek, but neither sustains
-the claim without exceptions. **[inference]**
+*Verdict:* neither sustains the claim without exceptions. The Hebrew has
+the better history, the Greek the better proof text. **[inference]**
 
 ### 8.2 A providential-sufficiency claim
 
@@ -979,7 +1036,7 @@ them.
 - **Grounded in the Greek:** at least as strong. Greek is the medium in which
   the Old Testament actually reached the nations, in which the New Testament
   calls a translation "the word of the Lord," and in which Jesus' own words
-  were preserved.
+  are given.
 
 *Verdict:* both groundings satisfy this reading, and the Greek has the
 better historical case for the *spread* of the word. **[inference]**
@@ -1001,11 +1058,13 @@ consonantal text can be preserved perfectly and still be read in more than
 one way.
 
 **Overall.** **[inference]** If the preservation claims are verbal, the
-Hebrew grounding is clearly the stronger of the two, but it holds only from
-about AD 100 and only for the consonants. If they are claims about God's
+Hebrew grounding has the stronger historical case, but it holds only from
+about AD 100 and only for the consonants, and the one letter-level saying in
+Scripture is heard in Greek, of a Law in Greek letters (1.1): the Hebrew's
+advantage is historical, not scriptural. If they are claims about God's
 message and its effect, the Greek grounding is at least as strong, and the
 New Testament's own practice favours it. The passages themselves, which name
-no text, language or script, read most naturally as the second kind of
+no language or manuscript line, read most naturally as the second kind of
 claim, and nothing in the history of either text contradicts them on that
 reading.
 
@@ -1021,7 +1080,7 @@ The confession texts and their analysis are in
 
 | Confession | Claim | In light of this study |
 | --- | --- | --- |
-| **Westminster Confession 1.8** (also **Savoy 1.8**, **Second London 1.8**) | The OT "in Hebrew (which was the native language of the people of God of old)" and the NT in Greek, "being immediately inspired by God, and by his singular care and providence kept pure in all ages, are therefore authentical"; proof, Matt 5:18; translation into "the vulgar language of every nation" commanded | The proof text, read in the Greek, asserts the Law's lasting validity, not the purity of its transmission (1.1), so it supports "authentical" in the sense of binding more than "kept pure." Consonant with the history if "kept pure" means the substance of the text and the Hebrew is understood to include its Aramaic portions and its ancient witnesses. Exceeds the evidence if taken as a claim that one manuscript line has been kept free of all error, especially before AD 100. "Of old" concedes that Hebrew was no longer the people of God's language. The proof [b] Acts 15:15 introduces an LXX-form quotation (6). The command to translate presupposes that the word is the word in translation. |
+| **Westminster Confession 1.8** (also **Savoy 1.8**, **Second London 1.8**) | The OT "in Hebrew (which was the native language of the people of God of old)" and the NT in Greek, "being immediately inspired by God, and by his singular care and providence kept pure in all ages, are therefore authentical"; proof, Matt 5:18; translation into "the vulgar language of every nation" commanded | Its only proof text for "kept pure in all ages," Matt 5:18, speaks of the least letter of the Law not passing away, and the letter it names is Greek (1.1): the proof fits the Greek New Testament half of the clause directly and the Hebrew Old Testament half only by inference, and its point is the Law's abiding authority. Consonant with the history if "kept pure" means the substance of the text and the Hebrew is understood to include its Aramaic portions and its ancient witnesses. Exceeds the evidence if taken as a claim that one manuscript line has been kept free of all error, especially before AD 100. "Of old" concedes that Hebrew was no longer the people of God's language. The proof [b] Acts 15:15 introduces an LXX-form quotation (6). The command to translate presupposes that the word is the word in translation. |
 | **Helvetic Consensus I–III** (1675) | The Hebrew "as handed down by the Hebrew Church" is inspired in consonants and vowels, "either the vowel points themselves, or at least the power of the points"; the LXX and other versions may not correct it | The vowel signs are medieval, so the first alternative is contradicted by the evidence; the second ("the power of the points") is a claim for an oral tradition (3.4). Canon III conflicts with the New Testament's use of LXX readings against the MT (6), and with the scrolls' confirmation of some of those readings (4.2). The strongest Hebrew-grounded claim in the confessions, and the one that fares worst. |
 | **Belgic, French, Thirty-Nine Articles, Scots, Heidelberg, Dort** | No claim about the Hebrew or Greek text (see the [summary table](canon-in-the-confessions.md#summary)) | Compatible with any of the three readings in section 8. |
 | **Irish Articles** (1615), Art. 4 | Scripture to be read "in the original tongues" and translated | Compatible; makes no claim about the transmission of the text. |
@@ -1049,6 +1108,9 @@ The confession texts and their analysis are in
 - **Prologue to Sirach:** translated from the Greek in Brenton's text.
 - **Talmud:** b. Sanhedrin 21b, b. Nedarim 37b–38a, b. Kiddushin 30a,
   consulted on Sefaria and paraphrased.
+- **Dio Chrysostom, *Discourse* 31.86:** J. W. Cohoon and H. Lamar Crosby,
+  trans., *Dio Chrysostom*, vol. 3, Loeb Classical Library (Cambridge, MA:
+  Harvard University Press, 1940), consulted at LacusCurtius.
 - **Leviticus Rabbah 19:2:** consulted on Sefaria; the sentence on the
   *yod* is a brief quotation of its English translation.
 - **Writers in this repository:** Philo, Augustine, Jerome, Origen, Calvin,
