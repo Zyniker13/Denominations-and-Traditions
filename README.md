@@ -41,12 +41,19 @@ for the study of them. It is separate from the study of the confessions,
 | British Reformed and Anglican | Whitaker, Owen, Cosin, Gill, Westcott |
 | American Presbyterian (Princeton) | Archibald Alexander, Charles Hodge, W. H. Green, B. B. Warfield |
 
+## Preservation of Scripture
+
+[analysis/preservation-hebrew-and-greek.md](analysis/preservation-hebrew-and-greek.md)
+weighs Scripture's claims that God's word endures against the history of the
+Old Testament text, and compares how strong those claims are when grounded in
+the Hebrew (Masoretic) text and when grounded in the Greek Septuagint.
+
 ## Layout
 
 ```
 confessions/          rendered Markdown, one file per document, by tradition
 theologians/          the teachers' writings on the canon and text, by tradition and author
-analysis/             studies of the canon in the confessions and in the theologians
+analysis/             studies of the canon, and of the preservation of the text
 sources/              vendored upstream data the Markdown is built from, with its license
 tools/                scripts that regenerate confessions/ from sources/
 SOURCES.md            provenance, translation, and license for every text
