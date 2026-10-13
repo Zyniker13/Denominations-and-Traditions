@@ -180,6 +180,24 @@ Biblical Literature and Logos Bible Software, http://www.sblgnt.com. In
 are removed; the words are unchanged. The Hebrew is printed without
 cantillation marks.
 
+The collection in [scripture/divine-quotations/](scripture/divine-quotations/README.md)
+uses the same editions, downloaded by `tools/build_divine_quotations.py`, and
+compares them with the following.
+
+| Text | Edition | Source | License |
+| --- | --- | --- | --- |
+| Septuagint (Swete) | H. B. Swete, *The Old Testament in Greek according to the Septuagint*, 3 vols. (Cambridge University Press, 1887–1894; later editions to 1909–1912). Its text is Codex Vaticanus (B), with Alexandrinus (A) in Genesis 1:1–46:28 and Sinaiticus (ℵ) in Psalms 105:27–137:6, where B is lost; in Daniel it prints both the Old Greek and Theodotion | Transcription at [lxx.confident.faith](https://lxx.confident.faith/), fetched page by page and cached in `.cache/swete/` (not committed) | Public domain |
+| Swete's apparatus | The critical notes of the same edition, giving the readings of A, ℵ, Q, F, Γ and the other uncials | Scans and OCR text at archive.org: `oldtestamentingr0001henr` (vol. 1), `oldtestamenting02swet` (vol. 2), `oldtestamentingr0003henr` (vol. 3) | Public domain |
+| Aquila, Symmachus and Theodotion | F. Field, *Origenis Hexaplorum quae supersunt*, 2 vols. (Oxford: Clarendon, 1875) | Scans and OCR text at archive.org: `origenishexaplor01origuoft`, `origenishexaplor02origuoft` | Public domain |
+| Göttingen Septuagint | *Septuaginta: Vetus Testamentum Graecum auctoritate Academiae Scientiarum Gottingensis editum* | Readings as noted at lxx.confident.faith, where the site's text follows Göttingen (parts of Genesis and the Psalms) | In copyright. Readings are cited, a word or phrase at a time, for comparison; no Göttingen text is copied into the repository. Where the site prints Göttingen's reading, the tool restores Swete's from the site's own note |
+
+Swete's Greek is quoted in
+[quotations.md](scripture/divine-quotations/quotations.md) and
+[quotations.json](scripture/divine-quotations/quotations.json) a verse at a
+time. Readings of the apparatus and of Field are cited, not reproduced in
+bulk, and were checked against the scanned pages' OCR text, which is not
+committed.
+
 Translations of passages in the analyses, where not from the KJV or Brenton,
 are the analyses' own. Passages of the Talmud are paraphrased, not quoted,
 and cited by folio.

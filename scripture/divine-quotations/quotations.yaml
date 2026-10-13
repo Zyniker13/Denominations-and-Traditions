@@ -1,0 +1,2988 @@
+# Places where God himself speaks the words of earlier Scripture.
+#
+# This file is the curated input. quotations.md and quotations.json are
+# generated from it, with the Greek and Hebrew texts filled in, by
+# tools/build_divine_quotations.py, which also checks every quotation and
+# every reading below against the texts. Edit this file, then re-run the
+# tool; do not edit the generated files by hand. The study is in
+# analysis/god-quoting-scripture/README.md.
+#
+# New Testament fields
+#   id          stable identifier
+#   at          where the quotation is spoken (USFM codes, eBible.org numbering)
+#   speaker     jesus | jesus-risen | father | god (the one on the throne)
+#   saying      shared by the Gospel parallels of one saying, so that
+#               occurrences can be counted and distinct sayings merged
+#   source      the Old Testament text quoted, by English chapter and verse
+#   mt, lxx     the Hebrew (Masoretic) and Septuagint (Brenton) references
+#               where their numbering differs from the English
+#   og_find     Daniel only: words that locate the Old Greek sentence in
+#               Swete's text (Brenton's Daniel is Theodotion)
+#   formula     the words that introduce the quotation as Scripture or as
+#               spoken, where there are any
+#   type        direct      the words of the source, verbatim or nearly so;
+#                           trimmed at the edges, with no more than a
+#                           particle, article or pronoun changed
+#               adapted     recognizably the source's wording, but abridged,
+#                           reordered, changed in person, mood or number, or
+#                           with words substituted
+#               paraphrase  the source's content in largely other words, or
+#                           a summary of a law
+#   composite   two or more texts fused in one citation
+#   borderline  left out of the strict count: no formula, and either a short
+#               phrase or a likeness that could be an allusion
+#   only        editions that alone contain the quotation (tr, byz)
+#   quote       the quoted words, as in the SBL text (or in the first
+#               edition named in `only`); "…" marks an omission
+#   affinity    lxx          agrees with the Septuagint (Swete's text, and
+#                            Brenton unless noted) where the Hebrew differs
+#               lxx-wording  reproduces the Septuagint's wording; the Hebrew
+#                            agrees in sense
+#               other-greek  agrees with another Greek witness
+#                            (Alexandrinus, Sinaiticus, Theodotion, the
+#                            Hexaplaric versions) where Swete's text and
+#                            Brenton differ from it
+#               mt           agrees with the Hebrew where the Septuagint
+#                            differs, in wording no Greek witness shares
+#               mixed        the Septuagint at one point, the Hebrew or
+#                            another witness at another
+#               varies       depends on the edition of the New Testament
+#               independent  agrees with neither against the other
+#               undetermined the Septuagint and the Hebrew agree and the
+#                            Greek is what any literal rendering would give
+#               semitic      the text gives the words in a Semitic form and
+#                            renders them into Greek
+#               In Daniel "the Septuagint" is the Old Greek; Theodotion is
+#               another Greek witness.
+#   points      the readings that decide the affinity:
+#                 nt      the New Testament's reading
+#                 lxx     Brenton's reading ("—" if Brenton has nothing there)
+#                 swete   Swete's reading where it differs from Brenton (in
+#                         Daniel, the Old Greek)
+#                 mt      the Hebrew
+#                 other   other witnesses, from Swete's apparatus or Field
+#                 with    the witnesses the New Testament agrees with at
+#                         this point (see SIGLA in the tool)
+#   editions    how the three Greek New Testament editions differ
+#   note        anything else. [context] marks history outside the texts;
+#               [inferred] marks this study's own reading.
+#
+# Old Testament fields
+#   id, at, speaker (god-ot | god-through-prophet | angel-of-the-lord),
+#   group       headline | torah | intra-book | parallel
+#   source      the earlier passage (Hebrew numbering)
+#   formula     the Hebrew words that mark the repetition, if any
+#   type        as above
+#   borderline  as above
+#   quote       the words of `at` that repeat the source (Hebrew)
+#   source_words  the matching words of the source (Hebrew)
+#   lxx         Brenton's reference for `at` where it differs, or "—"
+#               where the Septuagint lacks the passage
+#   lxx_source  Brenton's reference for `source` where it differs, or "—"
+#   greek       whether the Septuagint keeps the verbal link between the
+#               two passages: yes | partly | no; nolink (the Hebrew shares
+#               no wording either); absent (the Septuagint lacks the
+#               quoting passage); source-absent (it lacks the source)
+#   note
+
+new_testament:
+
+# ================================================================ Matthew
+
+- id: matt-4-4
+  at: MAT 4:4
+  speaker: jesus
+  saying: bread-alone
+  source: DEU 8:3
+  formula: Γέγραπται
+  type: direct
+  quote: Οὐκ ἐπʼ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος, ἀλλʼ ἐπὶ παντὶ ῥήματι ἐκπορευομένῳ διὰ στόματος θεοῦ
+  affinity: lxx-wording
+  points:
+    - nt: ἐπὶ παντὶ ῥήματι
+      lxx: ἐπὶ παντὶ ῥήματι
+      mt: עַל־כָּל־מוֹצָא
+      other: the Hebrew has "every thing that goes out"; the Greek names it a word
+      with: [lxx]
+    - nt: στόματος θεοῦ
+      lxx: στόματος θεοῦ
+      mt: פִי־יְהוָה
+      other: θεός for the divine name is the Septuagint's rendering here
+      with: [lxx]
+    - nt: ῥήματι ἐκπορευομένῳ
+      lxx: ῥήματι τῷ ἐκπορευομένῳ
+      other: A F omit τῷ (Swete's apparatus)
+      with: [A, F]
+  editions: The TR and Byz lack ὁ before ἄνθρωπος; the Septuagint has it.
+
+- id: luke-4-4
+  at: LUK 4:4
+  speaker: jesus
+  saying: bread-alone
+  source: DEU 8:3
+  formula: Γέγραπται ὅτι
+  type: direct
+  quote: Οὐκ ἐπʼ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος
+  affinity: undetermined
+  editions: The SBL text quotes only the first clause. The TR adds ἀλλʼ ἐπὶ παντὶ ῥήματι θεοῦ and the Byz ἀλλʼ ἐπὶ παντὶ ῥήματι ἐκπορευομένῳ διὰ στόματος θεοῦ, the Septuagint's wording, as in Matthew.
+
+- id: matt-4-7
+  at: MAT 4:7
+  speaker: jesus
+  saying: do-not-tempt
+  source: DEU 6:16
+  formula: Πάλιν γέγραπται
+  type: direct
+  quote: Οὐκ ἐκπειράσεις κύριον τὸν θεόν σου
+  affinity: lxx
+  points:
+    - nt: Οὐκ ἐκπειράσεις
+      lxx: Οὐκ ἐκπειράσεις
+      mt: לֹא תְנַסּוּ
+      other: the Hebrew is plural, "you (all) shall not test"; the Greek is singular
+      with: [lxx]
+    - nt: κύριον τὸν θεόν σου
+      lxx: Κύριον τὸν Θεόν σου
+      mt: אֶת־יְהוָה אֱלֹהֵיכֶם
+      other: the Hebrew has "your (plural) God"
+      with: [lxx]
+
+- id: luke-4-12
+  at: LUK 4:12
+  speaker: jesus
+  saying: do-not-tempt
+  source: DEU 6:16
+  formula: Εἴρηται
+  type: direct
+  quote: Οὐκ ἐκπειράσεις κύριον τὸν θεόν σου
+  affinity: lxx
+  points:
+    - nt: Οὐκ ἐκπειράσεις κύριον τὸν θεόν σου
+      lxx: Οὐκ ἐκπειράσεις Κύριον τὸν Θεόν σου
+      mt: לֹא תְנַסּוּ אֶת־יְהוָה אֱלֹהֵיכֶם
+      other: singular against the Hebrew plural, as in Matthew 4:7
+      with: [lxx]
+
+- id: matt-4-10
+  at: MAT 4:10
+  speaker: jesus
+  saying: worship-him-only
+  source: DEU 6:13
+  formula: γέγραπται γάρ
+  type: adapted
+  quote: Κύριον τὸν θεόν σου προσκυνήσεις καὶ αὐτῷ μόνῳ λατρεύσεις
+  affinity: other-greek
+  points:
+    - nt: προσκυνήσεις
+      lxx: φοβηθήσῃ
+      mt: תִּירָא
+      other: A reads προσκυνήσεις (Swete's apparatus)
+      with: [A]
+    - nt: αὐτῷ μόνῳ λατρεύσεις
+      lxx: αὐτῷ μόνῳ λατρεύσεις
+      swete: αὐτῷ λατρεύσεις
+      mt: וְאֹתוֹ תַעֲבֹד
+      other: B and the Hebrew have no "only"; A adds μόνῳ, and so does Brenton's text
+      with: [A, brenton]
+  note: The wording is A's exactly. Swete's B and the Hebrew read "fear" and lack "only". [context] Whether A's text was assimilated to the Gospels or the Gospels drew on a text like A's cannot be told from the texts themselves. Deuteronomy 10:20 has the same sentence; there too B reads φοβηθήσῃ.
+
+- id: luke-4-8
+  at: LUK 4:8
+  speaker: jesus
+  saying: worship-him-only
+  source: DEU 6:13
+  formula: Γέγραπται
+  type: adapted
+  quote: Κύριον τὸν θεόν σου προσκυνήσεις καὶ αὐτῷ μόνῳ λατρεύσεις
+  affinity: other-greek
+  points:
+    - nt: προσκυνήσεις
+      lxx: φοβηθήσῃ
+      mt: תִּירָא
+      other: A reads προσκυνήσεις
+      with: [A]
+    - nt: αὐτῷ μόνῳ λατρεύσεις
+      lxx: αὐτῷ μόνῳ λατρεύσεις
+      swete: αὐτῷ λατρεύσεις
+      mt: וְאֹתוֹ תַעֲבֹד
+      other: A and Brenton add μόνῳ
+      with: [A, brenton]
+  editions: The TR puts the verb first, Προσκυνήσεις Κύριον τὸν Θεόν σου.
+
+- id: matt-5-5
+  at: MAT 5:5
+  speaker: jesus
+  saying: meek-inherit
+  source: PSA 37:11
+  lxx: PSA 36:11
+  type: direct
+  quote: οἱ πραεῖς … κληρονομήσουσι τὴν γῆν
+  affinity: lxx-wording
+  points:
+    - nt: οἱ πραεῖς … κληρονομήσουσι τὴν γῆν
+      lxx: πρᾳεῖς κληρονομήσουσι γῆν
+      swete: πρᾳεῖς κληρονομήσουσιν τὴν γῆν
+      mt: וַעֲנָוִים יִירְשׁוּ־אָרֶץ
+      other: Swete's B has the article; Brenton and the Göttingen edition do not, and neither does the Hebrew
+      with: [B]
+  note: Embedded in a beatitude without a formula, but the clause is Swete's text of the Psalm word for word.
+
+- id: matt-5-21
+  at: MAT 5:21
+  speaker: jesus
+  saying: antithesis-murder
+  source: EXO 20:13, DEU 5:17
+  lxx: EXO 20:15, DEU 5:17
+  formula: Ἠκούσατε ὅτι ἐρρέθη τοῖς ἀρχαίοις
+  type: direct
+  quote: Οὐ φονεύσεις
+  affinity: undetermined
+  note: The second clause, "whoever murders shall be liable to judgment", sums up the penalty laws (Exodus 21:12; Numbers 35:16-31) in other words and is not counted as a quotation.
+
+- id: matt-5-27
+  at: MAT 5:27
+  speaker: jesus
+  saying: antithesis-adultery
+  source: EXO 20:14, DEU 5:18
+  lxx: EXO 20:13, DEU 5:18
+  formula: Ἠκούσατε ὅτι ἐρρέθη
+  type: direct
+  quote: Οὐ μοιχεύσεις
+  affinity: undetermined
+  editions: The TR and Byz add τοῖς ἀρχαίοις to the formula.
+
+- id: matt-5-31
+  at: MAT 5:31
+  speaker: jesus
+  saying: antithesis-divorce
+  source: DEU 24:1
+  formula: Ἐρρέθη δέ
+  type: paraphrase
+  quote: Ὃς ἂν ἀπολύσῃ τὴν γυναῖκα αὐτοῦ, δότω αὐτῇ ἀποστάσιον
+  affinity: lxx-wording
+  points:
+    - nt: ἀποστάσιον
+      lxx: βιβλίον ἀποστασίου
+      mt: סֵפֶר כְּרִיתֻת
+      other: ἀποστάσιον is the Septuagint's word for the bill of divorce
+      with: [lxx]
+
+- id: matt-5-33
+  at: MAT 5:33
+  speaker: jesus
+  saying: antithesis-oaths
+  source: LEV 19:12, NUM 30:2, DEU 23:21
+  mt: LEV 19:12, NUM 30:3, DEU 23:22
+  lxx: LEV 19:12, NUM 30:3, DEU 23:22
+  formula: Πάλιν ἠκούσατε ὅτι ἐρρέθη τοῖς ἀρχαίοις
+  type: paraphrase
+  composite: true
+  quote: Οὐκ ἐπιορκήσεις, ἀποδώσεις δὲ τῷ κυρίῳ τοὺς ὅρκους σου
+  affinity: independent
+  note: No source has these words; the sentence sums up the laws against false swearing and for keeping vows.
+
+- id: matt-5-38
+  at: MAT 5:38
+  speaker: jesus
+  saying: antithesis-eye
+  source: EXO 21:24, LEV 24:20, DEU 19:21
+  formula: Ἠκούσατε ὅτι ἐρρέθη
+  type: direct
+  composite: true
+  quote: Ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ καὶ ὀδόντα ἀντὶ ὀδόντος
+  affinity: lxx-wording
+  points:
+    - nt: Ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ
+      lxx: Ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ
+      mt: עַיִן תַּחַת עַיִן
+      other: the accusative stands without a verb, as in Exodus 21:24 and Deuteronomy 19:21 in the Septuagint, where it depends on "he shall give"
+      with: [lxx]
+
+- id: matt-5-43
+  at: MAT 5:43
+  speaker: jesus
+  saying: antithesis-neighbour
+  source: LEV 19:18
+  formula: Ἠκούσατε ὅτι ἐρρέθη
+  type: adapted
+  quote: Ἀγαπήσεις τὸν πλησίον σου
+  affinity: undetermined
+  note: The second clause, "and you shall hate your enemy", is not in the Old Testament; the text gives it as what was said, not as written.
+
+- id: matt-6-6
+  at: MAT 6:6
+  speaker: jesus
+  saying: enter-your-room
+  source: ISA 26:20
+  type: adapted
+  borderline: true
+  quote: εἴσελθε εἰς τὸ ταμεῖόν σου καὶ κλείσας τὴν θύραν σου
+  affinity: lxx-wording
+  points:
+    - nt: εἴσελθε εἰς τὸ ταμεῖόν σου
+      lxx: εἴσελθε εἰς τὰ ταμεῖά σου
+      mt: בֹּא בַחֲדָרֶיךָ
+      with: [lxx]
+    - nt: τὴν θύραν σου
+      lxx: τὴν θύραν σου
+      mt: דלתיך
+      other: the Hebrew is written as a plural or dual, "your doors"; the Greek is singular
+      with: [lxx]
+
+- id: matt-7-23
+  at: MAT 7:23
+  speaker: jesus
+  saying: depart-from-me
+  source: PSA 6:8
+  mt: PSA 6:9
+  lxx: PSA 6:9
+  type: adapted
+  quote: ἀπʼ ἐμοῦ οἱ ἐργαζόμενοι τὴν ἀνομίαν
+  affinity: lxx-wording
+  points:
+    - nt: οἱ ἐργαζόμενοι τὴν ἀνομίαν
+      lxx: οἱ ἐργαζόμενοι τὴν ἀνομίαν
+      mt: פֹּעֲלֵי אָוֶן
+      with: [lxx]
+    - nt: ἀποχωρεῖτε
+      lxx: Ἀπόστητε
+      mt: סוּרוּ
+      with: [none]
+
+- id: luke-13-27
+  at: LUK 13:27
+  speaker: jesus
+  saying: depart-from-me
+  source: PSA 6:8
+  mt: PSA 6:9
+  lxx: PSA 6:9
+  type: adapted
+  quote: ἀπόστητε ἀπʼ ἐμοῦ, πάντες ἐργάται ἀδικίας
+  affinity: lxx-wording
+  points:
+    - nt: ἀπόστητε ἀπʼ ἐμοῦ πάντες
+      lxx: Ἀπόστητε ἀπʼ ἐμοῦ πάντες
+      mt: סוּרוּ מִמֶּנִּי כָּל
+      with: [lxx]
+    - nt: ἐργάται ἀδικίας
+      lxx: οἱ ἐργαζόμενοι τὴν ἀνομίαν
+      mt: פֹּעֲלֵי אָוֶן
+      other: Luke's own words for "workers of iniquity"
+      with: [none]
+  editions: The TR and Byz read οἱ ἐργάται τῆς ἀδικίας.
+  note: Luke has the Psalm's first four words exactly; Matthew 7:23 has its last four.
+
+- id: matt-9-13
+  at: MAT 9:13
+  speaker: jesus
+  saying: mercy-not-sacrifice-1
+  source: HOS 6:6
+  formula: πορευθέντες δὲ μάθετε τί ἐστιν
+  type: direct
+  quote: Ἔλεος θέλω καὶ οὐ θυσίαν
+  affinity: other-greek
+  points:
+    - nt: καὶ οὐ θυσίαν
+      lxx: ἢ θυσίαν
+      mt: וְלֹא־זָבַח
+      other: A and Q (first hand) read καὶ οὐ (Swete's apparatus)
+      with: [A, Q, mt]
+  editions: The TR and Byz have the masculine form ἔλεον.
+  note: The Hebrew says "and not sacrifice"; B and Brenton say "rather than sacrifice". Matthew has the Hebrew's sense in the wording of A and Q.
+
+- id: matt-10-35
+  at: MAT 10:35-36
+  speaker: jesus
+  saying: household-enemies
+  source: MIC 7:6
+  type: adapted
+  quote: θυγατέρα κατὰ τῆς μητρὸς αὐτῆς καὶ νύμφην κατὰ τῆς πενθερᾶς αὐτῆς, καὶ ἐχθροὶ τοῦ ἀνθρώπου οἱ οἰκιακοὶ αὐτοῦ
+  affinity: mt
+  points:
+    - nt: ἐχθροὶ τοῦ ἀνθρώπου οἱ οἰκιακοὶ αὐτοῦ
+      lxx: ἐχθροὶ πάντες ἀνδρὸς οἱ ἐν τῷ οἴκῳ αὐτοῦ
+      mt: אֹיְבֵי אִישׁ אַנְשֵׁי בֵיתוֹ
+      other: the Septuagint adds "all"; the Hebrew and Matthew do not
+      with: [mt]
+  note: Matthew recasts the first half as Jesus' purpose ("I came to set … against …"), so the type is adapted. The agreement with the Hebrew rests on a single word.
+
+- id: luke-12-53
+  at: LUK 12:53
+  speaker: jesus
+  saying: household-enemies
+  source: MIC 7:6
+  type: paraphrase
+  borderline: true
+  quote: θυγάτηρ ἐπὶ τὴν μητέρα, πενθερὰ ἐπὶ τὴν νύμφην αὐτῆς καὶ νύμφη ἐπὶ τὴν πενθεράν
+  affinity: lxx-wording
+  points:
+    - nt: νύμφη ἐπὶ τὴν πενθεράν
+      lxx: νύμφη ἐπὶ τὴν πενθερὰν αὐτῆς
+      mt: כַּלָּה בַּחֲמֹתָהּ
+      other: ἐπί, as in the Septuagint; Matthew has κατά
+      with: [lxx]
+  editions: The TR and Byz read μήτηρ ἐπὶ θυγατρί, καὶ θυγάτηρ ἐπὶ μητρί, and add αὐτῆς at the end.
+  note: Luke makes Micah's one-way list into pairs set against each other, so it is counted as a paraphrase.
+
+- id: matt-11-10
+  at: MAT 11:10
+  speaker: jesus
+  saying: messenger-before-you
+  source: MAL 3:1, EXO 23:20
+  formula: οὗτός ἐστιν περὶ οὗ γέγραπται
+  type: adapted
+  composite: true
+  quote: Ἰδοὺ ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου, ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου
+  affinity: mixed
+  points:
+    - nt: Ἰδοὺ ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου
+      lxx: ἰδοὺ ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου
+      mt: הִנֵּה אָנֹכִי שֹׁלֵחַ מַלְאָךְ לְפָנֶיךָ
+      other: Exodus 23:20 in the Septuagint, word for word. The Hebrew of Exodus has "a messenger"; Malachi's Hebrew has "my messenger"
+      with: [lxx]
+    - nt: κατασκευάσει τὴν ὁδόν
+      lxx: ἐπιβλέψεται ὁδὸν
+      mt: וּפִנָּה־דֶרֶךְ
+      other: the Hebrew is "he will clear (prepare) the way"; the Septuagint read "he will look upon". Field gives Aquila σχολάσει and Theodotion ἑτοιμάσει, both in the Hebrew's sense in other words. Symmachus survives only in the Syriac, which Middeldorpf put back into Greek as κατασκευάσει and Field as ἀποσκευάσει; no extant Greek witness has κατασκευάσει
+      with: [mt]
+    - nt: ἔμπροσθέν σου
+      lxx: πρὸ προσώπου μου
+      mt: לְפָנָי
+      other: Malachi has "before me" in both texts
+      with: [none]
+  editions: The TR and Byz begin the verse οὗτος γάρ.
+
+- id: luke-7-27
+  at: LUK 7:27
+  speaker: jesus
+  saying: messenger-before-you
+  source: MAL 3:1, EXO 23:20
+  formula: οὗτός ἐστιν περὶ οὗ γέγραπται
+  type: adapted
+  composite: true
+  quote: Ἰδοὺ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου, ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου
+  affinity: mixed
+  points:
+    - nt: ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου
+      lxx: ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου
+      mt: שֹׁלֵחַ מַלְאָךְ לְפָנֶיךָ
+      other: Exodus 23:20 in the Septuagint
+      with: [lxx]
+    - nt: κατασκευάσει τὴν ὁδόν
+      lxx: ἐπιβλέψεται ὁδὸν
+      mt: וּפִנָּה־דֶרֶךְ
+      other: the Hebrew's sense, as in Matthew 11:10
+      with: [mt]
+  editions: The SBL lacks ἐγώ after Ἰδού; the TR and Byz have it, as the Septuagint of Exodus 23:20 does.
+
+- id: matt-11-23
+  at: MAT 11:23
+  speaker: jesus
+  saying: capernaum-hades
+  source: ISA 14:13-15
+  type: adapted
+  borderline: true
+  quote: ἕως οὐρανοῦ ὑψωθήσῃ ; ἕως ᾅδου καταβήσῃ
+  affinity: varies
+  points:
+    - nt: καταβήσῃ
+      lxx: καταβήσῃ
+      mt: תּוּרָד
+      other: the Hebrew is passive, "you will be brought down"
+      with: [lxx]
+    - nt: καταβιβασθήσῃ
+      lxx: καταβήσῃ
+      mt: תּוּרָד
+      other: the TR and Byz have the passive, as the Hebrew
+      with: [mt]
+  editions: The SBL text reads καταβήσῃ ("you will go down"), the Septuagint's verb; the TR and Byz read καταβιβασθήσῃ ("you will be brought down"), the Hebrew's passive. The TR and Byz also read ἡ ἕως τοῦ οὐρανοῦ ὑψωθεῖσα ("you who are exalted") for the SBL's question.
+
+- id: luke-10-15
+  at: LUK 10:15
+  speaker: jesus
+  saying: capernaum-hades
+  source: ISA 14:13-15
+  type: adapted
+  borderline: true
+  quote: ἕως οὐρανοῦ ὑψωθήσῃ ; ἕως τοῦ ᾅδου καταβιβασθήσῃ
+  affinity: mt
+  points:
+    - nt: καταβιβασθήσῃ
+      lxx: καταβήσῃ
+      mt: תּוּרָד
+      other: the passive, as the Hebrew; all three editions have it here
+      with: [mt]
+  editions: The TR and Byz read ἡ ἕως τοῦ οὐρανοῦ ὑψωθεῖσα for the SBL's question.
+
+- id: matt-11-29
+  at: MAT 11:29
+  speaker: jesus
+  saying: rest-for-your-souls
+  source: JER 6:16
+  type: direct
+  borderline: true
+  quote: εὑρήσετε ἀνάπαυσιν ταῖς ψυχαῖς ὑμῶν
+  affinity: mt
+  points:
+    - nt: ἀνάπαυσιν
+      lxx: ἁγνισμὸν
+      mt: מַרְגּוֹעַ
+      other: the Hebrew is "rest"; the Septuagint has "purification". Aquila ἀνάψυξιν, Symmachus ἠρεμίαν (Field)
+      with: [mt]
+  note: The frame εὑρήσετε … ταῖς ψυχαῖς ὑμῶν is the Septuagint's; the noun is the Hebrew's, in a word none of the Greek versions uses.
+
+- id: matt-12-7
+  at: MAT 12:7
+  speaker: jesus
+  saying: mercy-not-sacrifice-2
+  source: HOS 6:6
+  formula: εἰ δὲ ἐγνώκειτε τί ἐστιν
+  type: direct
+  quote: Ἔλεος θέλω καὶ οὐ θυσίαν
+  affinity: other-greek
+  points:
+    - nt: καὶ οὐ θυσίαν
+      lxx: ἢ θυσίαν
+      mt: וְלֹא־זָבַח
+      other: A and Q (first hand) read καὶ οὐ
+      with: [A, Q, mt]
+  editions: The TR and Byz have ἔλεον.
+
+- id: matt-12-40
+  at: MAT 12:40
+  speaker: jesus
+  saying: sign-of-jonah
+  source: JON 1:17
+  mt: JON 2:1
+  lxx: JON 2:1
+  type: direct
+  quote: ἦν Ἰωνᾶς ἐν τῇ κοιλίᾳ τοῦ κήτους τρεῖς ἡμέρας καὶ τρεῖς νύκτας
+  affinity: lxx-wording
+  points:
+    - nt: ἐν τῇ κοιλίᾳ τοῦ κήτους
+      lxx: ἐν τῇ κοιλίᾳ τοῦ κήτους
+      mt: בִּמְעֵי הַדָּג
+      other: the Hebrew says "fish"; κῆτος, "sea creature", is the Septuagint's word
+      with: [lxx]
+  editions: The Byz reads ἐγένετο Ἰωνᾶς ὁ προφήτης for ἦν Ἰωνᾶς.
+  note: Introduced as a comparison ("as Jonah was …"), not with a formula, but the clause is the Septuagint's word for word.
+
+- id: matt-13-14
+  at: MAT 13:14-15
+  speaker: jesus
+  saying: parables-isaiah-6
+  source: ISA 6:9-10
+  formula: ἀναπληροῦται αὐτοῖς ἡ προφητεία Ἠσαΐου ἡ λέγουσα
+  type: direct
+  quote: Ἀκοῇ ἀκούσετε καὶ οὐ μὴ συνῆτε, καὶ βλέποντες βλέψετε καὶ οὐ μὴ ἴδητε. ἐπαχύνθη γὰρ ἡ καρδία τοῦ λαοῦ τούτου
+  affinity: lxx
+  points:
+    - nt: ἐπαχύνθη γὰρ ἡ καρδία
+      lxx: Ἐπαχύνθη γὰρ ἡ καρδία
+      mt: הַשְׁמֵן לֵב־הָעָם
+      other: the Hebrew is a command to the prophet, "make the heart of this people fat"; the Septuagint states it as a fact
+      with: [lxx]
+    - nt: καὶ ἰάσομαι αὐτούς
+      lxx: καὶ ἰάσομαι αὐτούς
+      mt: וְרָפָא לוֹ
+      other: the Hebrew is "and it heal him (be healed)"; the Septuagint "and I will heal them"
+      with: [lxx]
+    - nt: τοῖς ὠσὶν βαρέως ἤκουσαν
+      lxx: τοῖς ὠσὶν αὐτῶν βαρέως ἤκουσαν
+      other: Sinaiticus (first hand) omits αὐτῶν
+      with: [S]
+    - nt: τοὺς ὀφθαλμοὺς αὐτῶν ἐκάμμυσαν
+      lxx: τοὺς ὀφθαλμοὺς ἐκάμμυσαν
+      other: Sinaiticus, A and Q add αὐτῶν
+      with: [S, A, Q]
+  editions: The TR reads ἰάσωμαι (subjunctive) for ἰάσομαι, and the Byz introduces the quotation with καὶ τότε πληρωθήσεται.
+  note: The quotation runs to the end of Isaiah 6:10. In the two small points where the Greek witnesses differ, Matthew stands with the first hand of Sinaiticus against B.
+
+- id: mark-4-12
+  at: MAR 4:12
+  speaker: jesus
+  saying: parables-isaiah-6
+  source: ISA 6:9-10
+  type: adapted
+  quote: βλέποντες βλέπωσι καὶ μὴ ἴδωσιν, καὶ ἀκούοντες ἀκούωσι καὶ μὴ συνιῶσιν, μήποτε ἐπιστρέψωσιν καὶ ἀφεθῇ αὐτοῖς
+  affinity: independent
+  points:
+    - nt: ἀφεθῇ αὐτοῖς
+      lxx: ἰάσομαι αὐτούς
+      mt: וְרָפָא לוֹ
+      other: '"be forgiven" stands in neither text'
+      with: [none]
+  editions: The TR and Byz add τὰ ἁμαρτήματα.
+  note: Mark gives the saying in the third person as the purpose of the parables, without a formula. [context] The Aramaic Targum of Isaiah also reads "and it be forgiven them"; that is recorded as a parallel only, and nothing in this study rests on it.
+
+- id: luke-8-10
+  at: LUK 8:10
+  speaker: jesus
+  saying: parables-isaiah-6
+  source: ISA 6:9
+  type: adapted
+  quote: βλέποντες μὴ βλέπωσιν καὶ ἀκούοντες μὴ συνιῶσιν
+  affinity: undetermined
+
+- id: matt-15-4a
+  at: MAT 15:4
+  speaker: jesus
+  saying: honour-parents-corban
+  source: EXO 20:12, DEU 5:16
+  formula: ὁ γὰρ θεὸς εἶπεν
+  type: direct
+  quote: Τίμα τὸν πατέρα καὶ τὴν μητέρα
+  affinity: undetermined
+  points:
+    - nt: Τίμα τὸν πατέρα σου καὶ τὴν μητέρα
+      lxx: Τίμα τὸν πατέρα σου, καὶ τὴν μητέρα σου
+      swete: Τίμα τὸν πατέρα σου καὶ τὴν μητέρα
+      mt: כַּבֵּד אֶת־אָבִיךָ וְאֶת־אִמֶּךָ
+      other: the TR's wording; B in Exodus 20:12 also lacks the second σου
+      with: [B]
+  editions: The SBL and Byz lack both pronouns; the TR has the first only, like B in Exodus 20:12. The TR and Byz read ὁ γὰρ θεὸς ἐνετείλατο λέγων ("God commanded, saying").
+  note: Jesus names God as the speaker of the commandment.
+
+- id: matt-15-4b
+  at: MAT 15:4
+  speaker: jesus
+  saying: curse-parents-corban
+  source: EXO 21:17
+  lxx: EXO 21:16
+  formula: καί
+  type: adapted
+  quote: Ὁ κακολογῶν πατέρα ἢ μητέρα θανάτῳ τελευτάτω
+  affinity: other-greek
+  points:
+    - nt: θανάτῳ τελευτάτω
+      lxx: τελευτήσει θανάτῳ
+      mt: מוֹת יוּמָת
+      other: A and F read θανάτῳ τελευτάτω (Swete's apparatus)
+      with: [A, F]
+    - nt: Ὁ κακολογῶν πατέρα
+      lxx: Ὁ κακολογῶν πατέρα
+      mt: וּמְקַלֵּל אָבִיו
+      with: [lxx]
+  note: The words are A's and F's exactly, less the two pronouns αὐτοῦ.
+
+- id: mark-7-10a
+  at: MAR 7:10
+  speaker: jesus
+  saying: honour-parents-corban
+  source: EXO 20:12, DEU 5:16
+  formula: Μωϋσῆς γὰρ εἶπεν
+  type: direct
+  quote: Τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου
+  affinity: undetermined
+  note: Mark has "Moses said"; three verses later Jesus calls what Moses said "the word of God" (ὁ λόγος τοῦ θεοῦ, 7:13).
+
+- id: mark-7-10b
+  at: MAR 7:10
+  speaker: jesus
+  saying: curse-parents-corban
+  source: EXO 21:17
+  lxx: EXO 21:16
+  formula: καί
+  type: adapted
+  quote: Ὁ κακολογῶν πατέρα ἢ μητέρα θανάτῳ τελευτάτω
+  affinity: other-greek
+  points:
+    - nt: θανάτῳ τελευτάτω
+      lxx: τελευτήσει θανάτῳ
+      mt: מוֹת יוּמָת
+      other: A and F read θανάτῳ τελευτάτω
+      with: [A, F]
+
+- id: matt-15-8
+  at: MAT 15:8-9
+  speaker: jesus
+  saying: lip-service
+  source: ISA 29:13
+  formula: καλῶς ἐπροφήτευσεν περὶ ὑμῶν Ἠσαΐας λέγων
+  type: adapted
+  quote: Ὁ λαὸς οὗτος τοῖς χείλεσίν με τιμᾷ, ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπʼ ἐμοῦ· μάτην δὲ σέβονταί με, διδάσκοντες διδασκαλίας ἐντάλματα ἀνθρώπων
+  affinity: lxx
+  points:
+    - nt: μάτην δὲ σέβονταί με
+      lxx: μάτην δὲ σέβονταί με
+      mt: וַתְּהִי יִרְאָתָם אֹתִי
+      other: the Hebrew is "and their fear of me is a commandment of men learned by rote"; "in vain they worship me" is the Septuagint's
+      with: [lxx]
+    - nt: διδάσκοντες διδασκαλίας ἐντάλματα ἀνθρώπων
+      lxx: διδάσκοντες ἐντάλματα ἀνθρώπων καὶ διδασκαλίας
+      mt: מִצְוַת אֲנָשִׁים מְלֻמָּדָה
+      other: the Septuagint's nouns, rearranged
+      with: [lxx]
+  editions: The TR and Byz begin with the clause the SBL leaves out, ἐγγίζει μοι ὁ λαὸς οὗτος τῷ στόματι αὐτῶν, nearer the Septuagint's full text.
+
+- id: mark-7-6
+  at: MAR 7:6-7
+  speaker: jesus
+  saying: lip-service
+  source: ISA 29:13
+  formula: Καλῶς ἐπροφήτευσεν Ἠσαΐας περὶ ὑμῶν τῶν ὑποκριτῶν, ὡς γέγραπται ὅτι
+  type: adapted
+  quote: Οὗτος ὁ λαὸς τοῖς χείλεσίν με τιμᾷ, ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπʼ ἐμοῦ· μάτην δὲ σέβονταί με, διδάσκοντες διδασκαλίας ἐντάλματα ἀνθρώπων
+  affinity: lxx
+  points:
+    - nt: μάτην δὲ σέβονταί με
+      lxx: μάτην δὲ σέβονταί με
+      mt: וַתְּהִי יִרְאָתָם אֹתִי
+      with: [lxx]
+
+- id: matt-16-27
+  at: MAT 16:27
+  speaker: jesus
+  saying: repay-each
+  source: PSA 62:12, PRO 24:12
+  mt: PSA 62:13, PRO 24:12
+  lxx: PSA 61:13, PRO 24:12
+  type: adapted
+  borderline: true
+  quote: ἀποδώσει ἑκάστῳ κατὰ τὴν πρᾶξιν αὐτοῦ
+  affinity: mixed
+  points:
+    - nt: ἀποδώσει ἑκάστῳ κατὰ
+      lxx: ἀποδώσεις ἑκάστῳ κατὰ
+      mt: תְשַׁלֵּם לְאִישׁ כְּמַעֲשֵׂהוּ
+      with: [lxx]
+    - nt: τὴν πρᾶξιν αὐτοῦ
+      lxx: τὰ ἔργα αὐτοῦ
+      mt: כְּמַעֲשֵׂהוּ
+      other: the Hebrew is singular, "according to his work"; the Septuagint plural
+      with: [mt]
+
+- id: matt-18-16
+  at: MAT 18:16
+  speaker: jesus
+  saying: two-or-three-witnesses
+  source: DEU 19:15
+  type: adapted
+  quote: ἐπὶ στόματος δύο μαρτύρων ἢ τριῶν σταθῇ πᾶν ῥῆμα
+  affinity: mixed
+  points:
+    - nt: δύο μαρτύρων ἢ τριῶν
+      lxx: δύο μαρτύρων, καὶ ἐπὶ στόματος τριῶν
+      mt: שְׁנֵי עֵדִים אוֹ עַל־פִּי שְׁלֹשָׁה־עֵדִים
+      other: '"or" is the Hebrew''s; the Septuagint has "and"'
+      with: [mt]
+    - nt: σταθῇ
+      lxx: στήσεται
+      mt: יָקוּם
+      other: A and F read the passive σταθήσεται
+      with: [A, F]
+    - nt: πᾶν ῥῆμα
+      lxx: πᾶν ῥῆμα
+      mt: יָקוּם דָּבָר
+      other: the Hebrew has "a matter", without "every"
+      with: [lxx]
+
+- id: matt-19-4
+  at: MAT 19:4
+  speaker: jesus
+  saying: male-and-female
+  source: GEN 1:27
+  formula: Οὐκ ἀνέγνωτε ὅτι
+  type: direct
+  quote: ἄρσεν καὶ θῆλυ ἐποίησεν αὐτοὺς
+  affinity: lxx-wording
+  points:
+    - nt: ἄρσεν καὶ θῆλυ ἐποίησεν αὐτοὺς
+      lxx: ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς
+      mt: זָכָר וּנְקֵבָה בָּרָא אֹתָם
+      with: [lxx]
+  editions: The TR and Byz read ὁ ποιήσας for ὁ κτίσας.
+
+- id: matt-19-5
+  at: MAT 19:5
+  speaker: jesus
+  saying: one-flesh
+  source: GEN 2:24
+  formula: καὶ εἶπεν
+  type: direct
+  quote: Ἕνεκα τούτου καταλείψει ἄνθρωπος τὸν πατέρα καὶ τὴν μητέρα καὶ κολληθήσεται τῇ γυναικὶ αὐτοῦ, καὶ ἔσονται οἱ δύο εἰς σάρκα μίαν
+  affinity: lxx
+  points:
+    - nt: ἔσονται οἱ δύο εἰς σάρκα μίαν
+      lxx: ἔσονται οἱ δύο εἰς σάρκα μίαν
+      mt: וְהָיוּ לְבָשָׂר אֶחָד
+      other: the Hebrew has no "two"
+      with: [lxx]
+    - nt: τῇ γυναικὶ αὐτοῦ
+      lxx: πρὸς τὴν γυναῖκα αὐτοῦ
+      swete: τῇ γυναικὶ αὐτοῦ
+      mt: בְּאִשְׁתּוֹ
+      other: Swete's text, which in Genesis is A (B is lost from 1:1 to 46:28), has the dative; D and E have πρός (Swete's apparatus), as Brenton and the Göttingen edition do
+      with: [A]
+  editions: The TR reads προσκολληθήσεται, the Septuagint's verb, and Ἕνεκεν; the Byz reads τὸν πατέρα αὐτοῦ.
+  note: The speaker of Genesis 2:24 is, in the Hebrew and the Greek, unmarked; Matthew makes the Creator the speaker ("he who created them … said"). [context] The Samaritan Pentateuch also reads "the two of them"; it is recorded only as a parallel.
+
+- id: mark-10-6
+  at: MAR 10:6
+  speaker: jesus
+  saying: male-and-female
+  source: GEN 1:27
+  type: direct
+  quote: ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς
+  affinity: lxx-wording
+  editions: The TR and Byz add ὁ θεός.
+  note: No formula; "from the beginning of creation" points to Genesis.
+
+- id: mark-10-7
+  at: MAR 10:7-8
+  speaker: jesus
+  saying: one-flesh
+  source: GEN 2:24
+  type: direct
+  quote: ἕνεκεν τούτου καταλείψει ἄνθρωπος τὸν πατέρα αὐτοῦ καὶ τὴν μητέρα καὶ προσκολληθήσεται πρὸς τὴν γυναῖκα αὐτοῦ, καὶ ἔσονται οἱ δύο εἰς σάρκα μίαν
+  affinity: lxx
+  points:
+    - nt: ἔσονται οἱ δύο εἰς σάρκα μίαν
+      lxx: ἔσονται οἱ δύο εἰς σάρκα μίαν
+      mt: וְהָיוּ לְבָשָׂר אֶחָד
+      with: [lxx]
+    - nt: τὴν μητέρα καὶ προσκολληθήσεται πρὸς τὴν γυναῖκα αὐτοῦ
+      lxx: τὴν μητέρα, καὶ προσκολληθήσεται πρὸς τὴν γυναῖκα αὐτοῦ
+      swete: τὴν μητέρα αὐτοῦ, καὶ προσκολληθήσεται τῇ γυναικὶ αὐτοῦ
+      other: Brenton's text, which is also Göttingen's and that of D and E; A, Swete's text in Genesis, differs twice
+      with: [brenton, gottingen]
+  note: Mark's words are Brenton's exactly. In the Byz, 10:7 carries the whole quotation.
+
+- id: matt-19-18
+  at: MAT 19:18-19
+  speaker: jesus
+  saying: commandments-rich-man
+  source: EXO 20:12-16, DEU 5:16-20
+  lxx: EXO 20:12-16, DEU 5:16-20
+  formula: τήρει τὰς ἐντολάς (19:17) … Τό
+  type: direct
+  quote: Οὐ φονεύσεις, Οὐ μοιχεύσεις, Οὐ κλέψεις, Οὐ ψευδομαρτυρήσεις, Τίμα τὸν πατέρα καὶ τὴν μητέρα
+  affinity: undetermined
+  points:
+    - nt: Οὐ φονεύσεις, Οὐ μοιχεύσεις, Οὐ κλέψεις
+      lxx: Οὐ φονεύσεις. Οὐ μοιχεύσεις. Οὐ κλέψεις
+      mt: לֹא תִּרְצָח וְלֹא תִּנְאָף וְלֹא תִּגְנֹב
+      other: the Hebrew order in both Exodus and Deuteronomy, and Brenton's order in Deuteronomy. B has a different order in both books (Exodus adultery, theft, murder; Deuteronomy adultery, murder, theft)
+      with: [mt, brenton]
+  note: The commandments are separately quoted words in one list and count as one quotation; the love commandment that follows (19:19b) is counted separately.
+
+- id: matt-19-19
+  at: MAT 19:19
+  speaker: jesus
+  saying: love-neighbour-rich-man
+  source: LEV 19:18
+  formula: καί
+  type: direct
+  quote: Ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν
+  affinity: undetermined
+
+- id: mark-10-19
+  at: MAR 10:19
+  speaker: jesus
+  saying: commandments-rich-man
+  source: EXO 20:12-16, DEU 5:16-20
+  formula: τὰς ἐντολὰς οἶδας
+  type: adapted
+  quote: Μὴ φονεύσῃς, Μὴ μοιχεύσῃς, Μὴ κλέψῃς, Μὴ ψευδομαρτυρήσῃς, Μὴ ἀποστερήσῃς, Τίμα τὸν πατέρα σου καὶ τὴν μητέρα
+  affinity: varies
+  points:
+    - nt: Μὴ φονεύσῃς, Μὴ μοιχεύσῃς
+      lxx: Οὐ φονεύσεις. Οὐ μοιχεύσεις
+      mt: לֹא תִּרְצָח וְלֹא תִּנְאָף
+      other: SBL order, the Hebrew's
+      with: [mt, brenton]
+    - nt: Μὴ μοιχεύσῃς, μὴ φονεύσῃς
+      lxx: Οὐ φονεύσεις. Οὐ μοιχεύσεις
+      swete: Οὐ μοιχεύσεις. Οὐ φονεύσεις
+      other: TR and Byz order, B's in Deuteronomy 5
+      with: [B]
+    - nt: Τίμα τὸν πατέρα σου καὶ τὴν μητέρα
+      lxx: Τίμα τὸν πατέρα σου, καὶ τὴν μητέρα σου
+      swete: Τίμα τὸν πατέρα σου καὶ τὴν μητέρα
+      other: B in Exodus 20:12 also lacks the second σου
+      with: [B]
+  editions: The SBL has murder before adultery (the Hebrew's order); the TR and Byz have adultery before murder (B's order in Deuteronomy).
+  note: Every commandment is turned from οὐ with the future to μή with the subjunctive. "Do not defraud" (μὴ ἀποστερήσῃς) is not one of the ten in either text.
+
+- id: luke-18-20
+  at: LUK 18:20
+  speaker: jesus
+  saying: commandments-rich-man
+  source: EXO 20:12-16, DEU 5:16-20
+  formula: τὰς ἐντολὰς οἶδας
+  type: adapted
+  quote: Μὴ μοιχεύσῃς, Μὴ φονεύσῃς, Μὴ κλέψῃς, Μὴ ψευδομαρτυρήσῃς, Τίμα τὸν πατέρα σου καὶ τὴν μητέρα
+  affinity: lxx
+  points:
+    - nt: Μὴ μοιχεύσῃς, Μὴ φονεύσῃς, Μὴ κλέψῃς
+      lxx: Οὐ φονεύσεις. Οὐ μοιχεύσεις. Οὐ κλέψεις
+      swete: Οὐ μοιχεύσεις. Οὐ φονεύσεις. Οὐ κλέψεις
+      mt: לֹא תִּרְצָח וְלֹא תִּנְאָף וְלֹא תִּגְנֹב
+      other: B's order in Deuteronomy 5, against the Hebrew and Brenton
+      with: [B]
+    - nt: Τίμα τὸν πατέρα σου καὶ τὴν μητέρα
+      lxx: Τίμα τὸν πατέρα σου, καὶ τὴν μητέρα σου
+      swete: Τίμα τὸν πατέρα σου καὶ τὴν μητέρα
+      with: [B]
+  editions: The TR and Byz add σου after μητέρα.
+
+- id: matt-21-13a
+  at: MAT 21:13
+  speaker: jesus
+  saying: house-of-prayer
+  source: ISA 56:7
+  formula: Γέγραπται
+  type: direct
+  quote: Ὁ οἶκός μου οἶκος προσευχῆς κληθήσεται
+  affinity: undetermined
+
+- id: matt-21-13b
+  at: MAT 21:13
+  speaker: jesus
+  saying: den-of-robbers
+  source: JER 7:11
+  type: adapted
+  quote: σπήλαιον λῃστῶν
+  affinity: lxx-wording
+  points:
+    - nt: σπήλαιον λῃστῶν
+      lxx: σπήλαιον λῃστῶν
+      mt: הַמְעָרַת פָּרִצִים
+      with: [lxx]
+  note: Jesus' own sentence ("but you are making it …") carries Jeremiah's phrase; no formula of its own.
+
+- id: mark-11-17a
+  at: MAR 11:17
+  speaker: jesus
+  saying: house-of-prayer
+  source: ISA 56:7
+  formula: Οὐ γέγραπται ὅτι
+  type: direct
+  quote: Ὁ οἶκός μου οἶκος προσευχῆς κληθήσεται πᾶσιν τοῖς ἔθνεσιν
+  affinity: undetermined
+
+- id: mark-11-17b
+  at: MAR 11:17
+  speaker: jesus
+  saying: den-of-robbers
+  source: JER 7:11
+  type: adapted
+  quote: σπήλαιον λῃστῶν
+  affinity: lxx-wording
+
+- id: luke-19-46a
+  at: LUK 19:46
+  speaker: jesus
+  saying: house-of-prayer
+  source: ISA 56:7
+  formula: Γέγραπται
+  type: adapted
+  quote: ὁ οἶκός μου οἶκος προσευχῆς
+  affinity: undetermined
+  editions: The SBL reads Καὶ ἔσται ὁ οἶκός μου οἶκος προσευχῆς; the TR and Byz ὁ οἶκός μου οἶκος προσευχῆς ἐστίν. Neither has κληθήσεται.
+
+- id: luke-19-46b
+  at: LUK 19:46
+  speaker: jesus
+  saying: den-of-robbers
+  source: JER 7:11
+  type: adapted
+  quote: σπήλαιον λῃστῶν
+  affinity: lxx-wording
+
+- id: matt-21-16
+  at: MAT 21:16
+  speaker: jesus
+  saying: out-of-the-mouth-of-babes
+  source: PSA 8:2
+  mt: PSA 8:3
+  lxx: PSA 8:3
+  formula: οὐδέποτε ἀνέγνωτε ὅτι
+  type: direct
+  quote: Ἐκ στόματος νηπίων καὶ θηλαζόντων κατηρτίσω αἶνον
+  affinity: lxx
+  points:
+    - nt: κατηρτίσω αἶνον
+      lxx: κατηρτίσω αἶνον
+      mt: יִסַּדְתָּ עֹז
+      other: the Hebrew is "you have founded strength"; "you have prepared praise" is the Septuagint's
+      with: [lxx]
+
+- id: matt-21-33
+  at: MAT 21:33
+  speaker: jesus
+  saying: vineyard
+  source: ISA 5:1-2
+  type: adapted
+  borderline: true
+  quote: ἐφύτευσεν ἀμπελῶνα καὶ φραγμὸν αὐτῷ περιέθηκεν καὶ ὤρυξεν ἐν αὐτῷ ληνὸν καὶ ᾠκοδόμησεν πύργον
+  affinity: lxx
+  points:
+    - nt: φραγμὸν αὐτῷ περιέθηκεν
+      lxx: φραγμὸν περιέθηκα
+      mt: וַיְעַזְּקֵהוּ
+      other: the Hebrew verb means to dig about or clear; "put a fence around" is the Septuagint's
+      with: [lxx]
+    - nt: ᾠκοδόμησεν πύργον
+      lxx: ᾠκοδόμησα πύργον
+      mt: וַיִּבֶן מִגְדָּל
+      with: [lxx]
+  note: Told as a parable, in the third person and without a formula; Isaiah's song is in the first person.
+
+- id: mark-12-1
+  at: MAR 12:1
+  speaker: jesus
+  saying: vineyard
+  source: ISA 5:1-2
+  type: adapted
+  borderline: true
+  quote: Ἀμπελῶνα ἄνθρωπος ἐφύτευσεν, καὶ περιέθηκεν φραγμὸν καὶ ὤρυξεν ὑπολήνιον καὶ ᾠκοδόμησεν πύργον
+  affinity: lxx
+  points:
+    - nt: περιέθηκεν φραγμὸν
+      lxx: φραγμὸν περιέθηκα
+      mt: וַיְעַזְּקֵהוּ
+      with: [lxx]
+    - nt: ὤρυξεν ὑπολήνιον
+      lxx: προλήνιον ὤρυξα
+      mt: יֶקֶב חָצֵב
+      other: Mark's word for the vat is not the Septuagint's
+      with: [none]
+
+- id: matt-21-42
+  at: MAT 21:42
+  speaker: jesus
+  saying: rejected-stone
+  source: PSA 118:22-23
+  lxx: PSA 117:22-23
+  formula: Οὐδέποτε ἀνέγνωτε ἐν ταῖς γραφαῖς
+  type: direct
+  quote: Λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας· παρὰ κυρίου ἐγένετο αὕτη, καὶ ἔστιν θαυμαστὴ ἐν ὀφθαλμοῖς ἡμῶν
+  affinity: lxx-wording
+  points:
+    - nt: ἐγένετο αὕτη, καὶ ἔστιν θαυμαστὴ
+      lxx: ἐγένετο αὕτη, καὶ ἔστι θαυμαστὴ
+      mt: הָיְתָה זֹּאת הִיא נִפְלָאת
+      other: the feminine αὕτη … θαυμαστή copies the Hebrew's feminine זֹּאת … נִפְלָאת literally, as the Septuagint does
+      with: [lxx]
+
+- id: mark-12-10
+  at: MAR 12:10-11
+  speaker: jesus
+  saying: rejected-stone
+  source: PSA 118:22-23
+  lxx: PSA 117:22-23
+  formula: οὐδὲ τὴν γραφὴν ταύτην ἀνέγνωτε
+  type: direct
+  quote: Λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες, οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας· παρὰ κυρίου ἐγένετο αὕτη, καὶ ἔστιν θαυμαστὴ ἐν ὀφθαλμοῖς ἡμῶν
+  affinity: lxx-wording
+
+- id: luke-20-17
+  at: LUK 20:17
+  speaker: jesus
+  saying: rejected-stone
+  source: PSA 118:22
+  lxx: PSA 117:22
+  formula: Τί οὖν ἐστιν τὸ γεγραμμένον τοῦτο
+  type: direct
+  quote: Λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες, οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας
+  affinity: lxx-wording
+
+- id: matt-22-32
+  at: MAT 22:32
+  speaker: jesus
+  saying: god-of-abraham
+  source: EXO 3:6
+  formula: οὐκ ἀνέγνωτε τὸ ῥηθὲν ὑμῖν ὑπὸ τοῦ θεοῦ λέγοντος
+  type: direct
+  quote: Ἐγώ εἰμι ὁ θεὸς Ἀβραὰμ καὶ ὁ θεὸς Ἰσαὰκ καὶ ὁ θεὸς Ἰακώβ
+  affinity: undetermined
+  points:
+    - nt: ὁ θεὸς Ἀβραὰμ
+      lxx: Θεὸς Ἀβραὰμ
+      other: A has the article before θεὸς Ἀβραάμ (Swete's apparatus); no witness has it before Isaac or Jacob, as Matthew does
+      with: [A]
+  note: The formula (verse 31) names God as the speaker and says the words were "spoken to you". Matthew leaves out "the God of your father".
+
+- id: mark-12-26
+  at: MAR 12:26
+  speaker: jesus
+  saying: god-of-abraham
+  source: EXO 3:6
+  formula: οὐκ ἀνέγνωτε ἐν τῇ βίβλῳ Μωϋσέως ἐπὶ τοῦ βάτου πῶς εἶπεν αὐτῷ ὁ θεὸς λέγων
+  type: direct
+  quote: Ἐγὼ ὁ θεὸς Ἀβραὰμ καὶ ὁ θεὸς Ἰσαὰκ καὶ ὁ θεὸς Ἰακώβ
+  affinity: undetermined
+  note: Mark's Ἐγὼ ὁ θεός lacks the verb, as the Hebrew nominal clause אָנֹכִי אֱלֹהֵי does; the Septuagint has ἐγώ εἰμι.
+
+- id: luke-20-37
+  at: LUK 20:37
+  speaker: jesus
+  saying: god-of-abraham
+  source: EXO 3:6, EXO 3:15
+  formula: Μωϋσῆς ἐμήνυσεν ἐπὶ τῆς βάτου, ὡς λέγει
+  type: adapted
+  quote: κύριον τὸν θεὸν Ἀβραὰμ καὶ θεὸν Ἰσαὰκ καὶ θεὸν Ἰακώβ
+  affinity: undetermined
+  note: Turned into the accusative as the object of "calls"; κύριον comes from the fuller form in Exodus 3:15.
+
+- id: matt-22-37
+  at: MAT 22:37
+  speaker: jesus
+  saying: love-god
+  source: DEU 6:5
+  formula: ποία ἐντολὴ μεγάλη ἐν τῷ νόμῳ; (the question, 22:36)
+  type: adapted
+  quote: Ἀγαπήσεις κύριον τὸν θεόν σου ἐν ὅλῃ τῇ καρδίᾳ σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου
+  affinity: mixed
+  points:
+    - nt: ἐν ὅλῃ τῇ καρδίᾳ σου
+      lxx: ἐξ ὅλης τῆς διανοίας σου
+      mt: בְּכָל־לְבָבְךָ
+      other: '"with (בְּ) all your heart" is the Hebrew''s; A and F read καρδίας for διανοίας (Swete''s apparatus)'
+      with: [mt, A, F]
+    - nt: ἐν ὅλῃ τῇ διανοίᾳ σου
+      lxx: ἐξ ὅλης τῆς δυνάμεώς σου
+      mt: וּבְכָל־מְאֹדֶךָ
+      other: διανοία is B's first noun; Matthew has it third, where the Hebrew has "might"
+      with: [lxx]
+  note: The question was which commandment is great "in the law", so the answer is given as the law's words, though without γέγραπται.
+
+- id: matt-22-39
+  at: MAT 22:39
+  speaker: jesus
+  saying: love-neighbour
+  source: LEV 19:18
+  formula: Δευτέρα δὲ ὁμοία αὐτῇ
+  type: direct
+  quote: Ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν
+  affinity: undetermined
+
+- id: mark-12-29
+  at: MAR 12:29-30
+  speaker: jesus
+  saying: love-god
+  source: DEU 6:4-5
+  formula: Πρώτη ἐστίν
+  type: adapted
+  quote: Ἄκουε, Ἰσραήλ, κύριος ὁ θεὸς ἡμῶν κύριος εἷς ἐστιν, καὶ ἀγαπήσεις κύριον τὸν θεόν σου ἐξ ὅλης τῆς καρδίας σου καὶ ἐξ ὅλης τῆς ψυχῆς σου καὶ ἐξ ὅλης τῆς διανοίας σου καὶ ἐξ ὅλης τῆς ἰσχύος σου
+  affinity: mixed
+  points:
+    - nt: Ἄκουε, Ἰσραήλ, κύριος ὁ θεὸς ἡμῶν κύριος εἷς ἐστιν
+      lxx: Ἄκουε Ἰσραὴλ, Κύριος ὁ Θεὸς ἡμῶν, Κύριος εἷς ἐστι
+      mt: שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד
+      with: [lxx]
+    - nt: ἐξ ὅλης τῆς καρδίας σου
+      lxx: ἐξ ὅλης τῆς διανοίας σου
+      mt: בְּכָל־לְבָבְךָ
+      other: A and F read καρδίας
+      with: [A, F, mt]
+    - nt: ἐξ ὅλης τῆς διανοίας σου
+      lxx: ἐξ ὅλης τῆς διανοίας σου
+      other: B's noun, kept as a third term
+      with: [lxx]
+    - nt: ἐξ ὅλης τῆς ἰσχύος σου
+      lxx: ἐξ ὅλης τῆς δυνάμεώς σου
+      mt: וּבְכָל־מְאֹדֶךָ
+      other: neither text's word for "might"
+      with: [none]
+  note: Four terms for the Hebrew's three; the Greek preposition ἐξ is the Septuagint's.
+
+- id: mark-12-31
+  at: MAR 12:31
+  speaker: jesus
+  saying: love-neighbour
+  source: LEV 19:18
+  formula: δευτέρα αὕτη
+  type: direct
+  quote: Ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν
+  affinity: undetermined
+
+- id: matt-22-44
+  at: MAT 22:44
+  speaker: jesus
+  saying: sit-at-my-right
+  source: PSA 110:1
+  lxx: PSA 109:1
+  formula: πῶς οὖν Δαυὶδ ἐν πνεύματι καλεῖ αὐτὸν κύριον λέγων
+  type: direct
+  quote: Εἶπεν κύριος τῷ κυρίῳ μου· Κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποκάτω τῶν ποδῶν σου
+  affinity: lxx-wording
+  points:
+    - nt: Κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου
+      lxx: κάθου ἐκ δεξιῶν μου, ἕως ἂν θῶ τοὺς ἐχθρούς σου
+      mt: שֵׁב לִימִינִי עַד־אָשִׁית אֹיְבֶיךָ
+      with: [lxx]
+    - nt: ὑποκάτω τῶν ποδῶν σου
+      lxx: ὑποπόδιον τῶν ποδῶν σου
+      mt: הֲדֹם לְרַגְלֶיךָ
+      other: SBL only; the TR and Byz read ὑποπόδιον with both texts
+      with: [none]
+  editions: The SBL reads ὑποκάτω ("under") for the TR's and Byz's ὑποπόδιον ("footstool"); with ὑποπόδιον the quotation is the Septuagint's word for word.
+  note: Jesus says David spoke these words "in the Spirit", and the words are the LORD's.
+
+- id: mark-12-36
+  at: MAR 12:36
+  speaker: jesus
+  saying: sit-at-my-right
+  source: PSA 110:1
+  lxx: PSA 109:1
+  formula: αὐτὸς Δαυὶδ εἶπεν ἐν τῷ πνεύματι τῷ ἁγίῳ
+  type: direct
+  quote: Εἶπεν κύριος τῷ κυρίῳ μου· Κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποκάτω τῶν ποδῶν σου
+  affinity: lxx-wording
+  editions: As in Matthew, the SBL reads ὑποκάτω and the TR and Byz ὑποπόδιον; the Byz also reads λέγει for εἶπεν.
+
+- id: luke-20-42
+  at: LUK 20:42-43
+  speaker: jesus
+  saying: sit-at-my-right
+  source: PSA 110:1
+  lxx: PSA 109:1
+  formula: αὐτὸς γὰρ Δαυὶδ λέγει ἐν βίβλῳ ψαλμῶν
+  type: direct
+  quote: Εἶπεν κύριος τῷ κυρίῳ μου· Κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου
+  affinity: lxx-wording
+
+- id: matt-23-39
+  at: MAT 23:39
+  speaker: jesus
+  saying: blessed-is-he
+  source: PSA 118:26
+  lxx: PSA 117:26
+  type: direct
+  quote: Εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου
+  affinity: undetermined
+  note: Given as what Jerusalem will say, without a formula; the words are the Psalm's exactly.
+
+- id: luke-13-35
+  at: LUK 13:35
+  speaker: jesus
+  saying: blessed-is-he
+  source: PSA 118:26
+  lxx: PSA 117:26
+  type: direct
+  quote: Εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου
+  affinity: undetermined
+
+- id: matt-24-15
+  at: MAT 24:15
+  speaker: jesus
+  saying: abomination-of-desolation
+  source: DAN 12:11, DAN 9:27, DAN 11:31
+  lxx: DNG 12:11, DNG 9:27, DNG 11:31
+  og_find: [τὸ βδέλυγμα τῆς ἐρημώσεως]
+  formula: τὸ ῥηθὲν διὰ Δανιὴλ τοῦ προφήτου
+  type: direct
+  quote: τὸ βδέλυγμα τῆς ἐρημώσεως
+  affinity: lxx-wording
+  points:
+    - nt: τὸ βδέλυγμα τῆς ἐρημώσεως
+      lxx: τὸ βδέλυγμα ἐρημώσεως
+      swete: τὸ βδέλυγμα τῆς ἐρημώσεως
+      mt: שִׁקּוּץ שֹׁמֵם
+      other: the Old Greek of 12:11 word for word; Theodotion (Brenton) lacks τῆς
+      with: [OG]
+  note: In Daniel, Brenton prints Theodotion; the Old Greek is Swete's second text. The Hebrew phrase is "the abomination that makes desolate" in 12:11, 11:31 and (plural) 9:27.
+
+- id: mark-13-14
+  at: MAR 13:14
+  speaker: jesus
+  saying: abomination-of-desolation
+  source: DAN 12:11, DAN 9:27, DAN 11:31
+  lxx: DNG 12:11, DNG 9:27, DNG 11:31
+  og_find: [τὸ βδέλυγμα τῆς ἐρημώσεως]
+  type: direct
+  quote: τὸ βδέλυγμα τῆς ἐρημώσεως
+  affinity: lxx-wording
+  points:
+    - nt: τὸ βδέλυγμα τῆς ἐρημώσεως
+      lxx: τὸ βδέλυγμα ἐρημώσεως
+      swete: τὸ βδέλυγμα τῆς ἐρημώσεως
+      mt: שִׁקּוּץ שֹׁמֵם
+      with: [OG]
+  editions: The TR and Byz add the formula τὸ ῥηθὲν ὑπὸ Δανιὴλ τοῦ προφήτου; the SBL has none.
+
+- id: matt-24-21
+  at: MAT 24:21
+  speaker: jesus
+  saying: great-tribulation
+  source: DAN 12:1
+  lxx: DNG 12:1
+  og_find: ["θλίψεως, οἵα οὐκ ἐγενήθη"]
+  type: adapted
+  borderline: true
+  quote: θλῖψις μεγάλη οἵα οὐ γέγονεν ἀπʼ ἀρχῆς
+  affinity: other-greek
+  points:
+    - nt: θλῖψις μεγάλη οἵα οὐ γέγονεν
+      lxx: θλίψις οἵα οὐ γέγονεν
+      swete: θλίψεως, οἵα οὐκ ἐγενήθη
+      mt: צָרָה אֲשֶׁר לֹא־נִהְיְתָה
+      other: Theodotion's wording; the Old Greek has οὐκ ἐγενήθη
+      with: [Th]
+
+- id: mark-13-19
+  at: MAR 13:19
+  speaker: jesus
+  saying: great-tribulation
+  source: DAN 12:1
+  lxx: DNG 12:1
+  og_find: ["θλίψεως, οἵα οὐκ ἐγενήθη"]
+  type: adapted
+  borderline: true
+  quote: θλῖψις οἵα οὐ γέγονεν τοιαύτη ἀπʼ ἀρχῆς
+  affinity: other-greek
+  points:
+    - nt: θλῖψις οἵα οὐ γέγονεν
+      lxx: θλίψις οἵα οὐ γέγονεν
+      swete: θλίψεως, οἵα οὐκ ἐγενήθη
+      mt: צָרָה אֲשֶׁר לֹא־נִהְיְתָה
+      with: [Th]
+
+- id: matt-24-29
+  at: MAT 24:29
+  speaker: jesus
+  saying: sun-darkened
+  source: ISA 13:10, ISA 34:4
+  type: adapted
+  composite: true
+  quote: ὁ ἥλιος σκοτισθήσεται, καὶ ἡ σελήνη οὐ δώσει τὸ φέγγος αὐτῆς, καὶ οἱ ἀστέρες πεσοῦνται ἀπὸ τοῦ οὐρανοῦ, καὶ αἱ δυνάμεις τῶν οὐρανῶν σαλευθήσονται
+  affinity: lxx
+  points:
+    - nt: ἡ σελήνη οὐ δώσει τὸ φέγγος αὐτῆς
+      lxx: ἡ σελήνη οὐ δώσει τὸ φῶς αὐτῆς
+      mt: וְיָרֵחַ לֹא־יַגִּיהַ אוֹרוֹ
+      other: the Septuagint's sentence with φέγγος for φῶς
+      with: [lxx]
+    - nt: οἱ ἀστέρες πεσοῦνται
+      lxx: τὰ ἄστρα πεσεῖται
+      mt: וְכָל־צְבָאָם יִבּוֹל
+      other: the Hebrew is "all their host shall wither"; the stars falling is the Septuagint's
+      with: [lxx]
+    - nt: αἱ δυνάμεις τῶν οὐρανῶν
+      lxx: αἱ δυνάμεις τῶν οὐρανῶν
+      mt: כָּל־צְבָא הַשָּׁמַיִם
+      other: the clause is in B and Brenton; Sinaiticus, A, Q and Γ omit it (Swete's apparatus)
+      with: [lxx]
+
+- id: mark-13-24
+  at: MAR 13:24-25
+  speaker: jesus
+  saying: sun-darkened
+  source: ISA 13:10, ISA 34:4
+  type: adapted
+  composite: true
+  quote: ὁ ἥλιος σκοτισθήσεται, καὶ ἡ σελήνη οὐ δώσει τὸ φέγγος αὐτῆς, καὶ οἱ ἀστέρες ἔσονται ἐκ τοῦ οὐρανοῦ πίπτοντες, καὶ αἱ δυνάμεις αἱ ἐν τοῖς οὐρανοῖς σαλευθήσονται
+  affinity: lxx
+  points:
+    - nt: ἡ σελήνη οὐ δώσει τὸ φέγγος αὐτῆς
+      lxx: ἡ σελήνη οὐ δώσει τὸ φῶς αὐτῆς
+      mt: וְיָרֵחַ לֹא־יַגִּיהַ אוֹרוֹ
+      with: [lxx]
+    - nt: οἱ ἀστέρες ἔσονται ἐκ τοῦ οὐρανοῦ πίπτοντες
+      lxx: τὰ ἄστρα πεσεῖται
+      mt: וְכָל־צְבָאָם יִבּוֹל
+      with: [lxx]
+
+- id: matt-24-30
+  at: MAT 24:30
+  speaker: jesus
+  saying: son-of-man-coming
+  source: DAN 7:13
+  lxx: DNG 7:13
+  og_find: [ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ]
+  type: adapted
+  quote: τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ
+  affinity: lxx
+  points:
+    - nt: ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ
+      lxx: μετὰ τῶν νεφελῶν τοῦ οὐρανοῦ
+      swete: ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ
+      mt: עִם־עֲנָנֵי שְׁמַיָּא
+      other: the Old Greek reads "upon"; Theodotion (Brenton) and the Aramaic read "with"
+      with: [OG]
+    - nt: ἐρχόμενον
+      lxx: ἐρχόμενος
+      swete: ἤρχετο
+      mt: אָתֵה
+      other: Theodotion's participle; after ὄψονται the Greek needs a participle in any case [inferred]
+      with: [Th]
+  note: Daniel 7:13 is Aramaic in the Masoretic Text. The same verse gives the "tribes of the earth will mourn" from Zechariah 12:10-14, which is listed as an allusion.
+
+- id: matt-26-64
+  at: MAT 26:64
+  speaker: jesus
+  saying: right-hand-and-clouds
+  source: PSA 110:1, DAN 7:13
+  lxx: PSA 109:1, DNG 7:13
+  og_find: [ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ]
+  type: adapted
+  composite: true
+  quote: τὸν υἱὸν τοῦ ἀνθρώπου καθήμενον ἐκ δεξιῶν τῆς δυνάμεως καὶ ἐρχόμενον ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ
+  affinity: lxx
+  points:
+    - nt: ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ
+      lxx: μετὰ τῶν νεφελῶν τοῦ οὐρανοῦ
+      swete: ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ
+      mt: עִם־עֲנָנֵי שְׁמַיָּא
+      with: [OG]
+
+- id: mark-13-26
+  at: MAR 13:26
+  speaker: jesus
+  saying: son-of-man-coming
+  source: DAN 7:13
+  lxx: DNG 7:13
+  og_find: [ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ]
+  type: adapted
+  quote: τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἐν νεφέλαις
+  affinity: independent
+  points:
+    - nt: ἐν νεφέλαις
+      lxx: μετὰ τῶν νεφελῶν
+      swete: ἐπὶ τῶν νεφελῶν
+      mt: עִם־עֲנָנֵי
+      other: '"in clouds" is in no witness'
+      with: [none]
+
+- id: mark-14-62
+  at: MAR 14:62
+  speaker: jesus
+  saying: right-hand-and-clouds
+  source: PSA 110:1, DAN 7:13
+  lxx: PSA 109:1, DNG 7:13
+  og_find: [ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ]
+  type: adapted
+  composite: true
+  quote: τὸν υἱὸν τοῦ ἀνθρώπου ἐκ δεξιῶν καθήμενον τῆς δυνάμεως καὶ ἐρχόμενον μετὰ τῶν νεφελῶν τοῦ οὐρανοῦ
+  affinity: varies
+  points:
+    - nt: μετὰ τῶν νεφελῶν τοῦ οὐρανοῦ
+      lxx: μετὰ τῶν νεφελῶν τοῦ οὐρανοῦ
+      swete: ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ
+      mt: עִם־עֲנָנֵי שְׁמַיָּא
+      other: SBL and TR, with Theodotion and the Aramaic
+      with: [Th, mt]
+    - nt: ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ
+      lxx: μετὰ τῶν νεφελῶν τοῦ οὐρανοῦ
+      swete: ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ
+      other: Byz, with the Old Greek
+      with: [OG]
+  editions: The SBL and TR read μετά, Theodotion's and the Aramaic's "with"; the Byz reads ἐπί, the Old Greek's "upon", as in Matthew.
+
+- id: luke-21-27
+  at: LUK 21:27
+  speaker: jesus
+  saying: son-of-man-coming
+  source: DAN 7:13
+  lxx: DNG 7:13
+  og_find: [ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ]
+  type: adapted
+  quote: τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἐν νεφέλῃ
+  affinity: independent
+  points:
+    - nt: ἐν νεφέλῃ
+      lxx: μετὰ τῶν νεφελῶν
+      swete: ἐπὶ τῶν νεφελῶν
+      mt: עִם־עֲנָנֵי
+      other: a single cloud, in no witness
+      with: [none]
+
+- id: luke-22-69
+  at: LUK 22:69
+  speaker: jesus
+  saying: right-hand-and-clouds
+  source: PSA 110:1
+  lxx: PSA 109:1
+  type: adapted
+  borderline: true
+  quote: καθήμενος ἐκ δεξιῶν
+  affinity: undetermined
+  note: The parallel to Matthew 26:64 and Mark 14:62 keeps only the Psalm's "seated at the right hand".
+
+- id: matt-26-31
+  at: MAT 26:31
+  speaker: jesus
+  saying: strike-the-shepherd
+  source: ZEC 13:7
+  formula: γέγραπται γάρ
+  type: adapted
+  quote: Πατάξω τὸν ποιμένα, καὶ διασκορπισθήσονται τὰ πρόβατα τῆς ποίμνης
+  affinity: other-greek
+  points:
+    - nt: τὸν ποιμένα
+      lxx: τοὺς ποιμένας
+      mt: אֶת־הָרֹעֶה
+      other: A, Q, Γ and a corrector of Sinaiticus read the singular (Swete's apparatus)
+      with: [A, Q, mt]
+    - nt: διασκορπισθήσονται τὰ πρόβατα τῆς ποίμνης
+      lxx: ἐκσπάσατε τὰ πρόβατα
+      mt: וּתְפוּצֶיןָ הַצֹּאן
+      other: A reads διασκορπισθήσονται and adds τῆς ποίμνης; the Hebrew is "and the flock will be scattered"
+      with: [A]
+    - nt: Πατάξω
+      lxx: πατάξατε
+      mt: הַךְ
+      other: every witness has an imperative; A, Q and a corrector of Sinaiticus have the singular πάταξον
+      with: [none]
+  editions: The TR reads the singular verb διασκορπισθήσεται.
+  note: Apart from the first person πατάξω, the words are A's exactly.
+
+- id: mark-14-27
+  at: MAR 14:27
+  speaker: jesus
+  saying: strike-the-shepherd
+  source: ZEC 13:7
+  formula: ὅτι γέγραπται
+  type: adapted
+  quote: Πατάξω τὸν ποιμένα, καὶ τὰ πρόβατα διασκορπισθήσονται
+  affinity: other-greek
+  points:
+    - nt: τὸν ποιμένα
+      lxx: τοὺς ποιμένας
+      mt: אֶת־הָרֹעֶה
+      with: [A, Q, mt]
+    - nt: τὰ πρόβατα διασκορπισθήσονται
+      lxx: ἐκσπάσατε τὰ πρόβατα
+      mt: וּתְפוּצֶיןָ הַצֹּאן
+      with: [A]
+
+- id: matt-27-46
+  at: MAT 27:46
+  speaker: jesus
+  saying: why-forsaken
+  source: PSA 22:1
+  mt: PSA 22:2
+  lxx: PSA 21:2
+  type: direct
+  quote: Ἠλὶ ἠλὶ λεμὰ σαβαχθάνι
+  affinity: semitic
+  points:
+    - nt: Θεέ μου θεέ μου, ἱνατί με ἐγκατέλιπες
+      lxx: Ὁ Θεός ὁ Θεός μου, πρόσχες μοι, ἱνατί ἐγκατέλιπές με
+      mt: אֵלִי אֵלִי לָמָה עֲזַבְתָּנִי
+      other: Matthew's Greek rendering has no "attend to me", which the Septuagint adds and the Hebrew lacks
+      with: [mt]
+  editions: The TR reads λαμά, the Byz λιμᾶ.
+  note: The text gives the cry in Semitic letters and then renders it ("that is, …"). Ἠλὶ ἠλὶ λεμά match the Hebrew's אֵלִי אֵלִי לָמָה; σαβαχθάνι is not the Hebrew's verb עֲזַבְתָּנִי. This study reports what the text gives and builds nothing on the form of the cry.
+
+- id: mark-15-34
+  at: MAR 15:34
+  speaker: jesus
+  saying: why-forsaken
+  source: PSA 22:1
+  mt: PSA 22:2
+  lxx: PSA 21:2
+  type: direct
+  quote: Ἐλωῒ ἐλωῒ λεμὰ σαβαχθάνι
+  affinity: semitic
+  points:
+    - nt: Ὁ θεός μου ὁ θεός μου, εἰς τί ἐγκατέλιπές με
+      lxx: Ὁ Θεός ὁ Θεός μου, πρόσχες μοι, ἱνατί ἐγκατέλιπές με
+      mt: אֵלִי אֵלִי לָמָה עֲזַבְתָּנִי
+      other: no "attend to me"; εἰς τί for the Septuagint's ἱνατί
+      with: [mt]
+  note: Mark gives Ἐλωΐ where Matthew gives Ἠλί, and renders the cry with "which is, being interpreted". As in Matthew, nothing is built on the form of the cry.
+
+- id: mark-9-48
+  at: MAR 9:48
+  speaker: jesus
+  saying: worm-does-not-die
+  source: ISA 66:24
+  type: adapted
+  quote: ὁ σκώληξ αὐτῶν οὐ τελευτᾷ καὶ τὸ πῦρ οὐ σβέννυται
+  affinity: other-greek
+  points:
+    - nt: οὐ τελευτᾷ
+      lxx: οὐ τελευτήσει
+      mt: לֹא תָמוּת
+      other: A reads τελευτᾷ (Swete's apparatus)
+      with: [A]
+    - nt: τὸ πῦρ οὐ σβέννυται
+      lxx: τὸ πῦρ αὐτῶν οὐ σβεσθήσεται
+      mt: וְאִשָּׁם לֹא תִכְבֶּה
+      other: present tense and no "their", in no witness
+      with: [none]
+
+- id: mark-9-44
+  at: MAR 9:44
+  speaker: jesus
+  saying: worm-does-not-die
+  source: ISA 66:24
+  only: [tr, byz]
+  type: adapted
+  quote: ὁ σκώληξ αὐτῶν οὐ τελευτᾷ, καὶ τὸ πῦρ οὐ σβέννυται
+  affinity: other-greek
+  note: In the TR and Byz the saying stands three times (9:44, 46, 48); the SBL has it once.
+
+- id: mark-9-46
+  at: MAR 9:46
+  speaker: jesus
+  saying: worm-does-not-die
+  source: ISA 66:24
+  only: [tr, byz]
+  type: adapted
+  quote: ὁ σκώληξ αὐτῶν οὐ τελευτᾷ, καὶ τὸ πῦρ οὐ σβέννυται
+  affinity: other-greek
+
+- id: mark-4-29
+  at: MAR 4:29
+  speaker: jesus
+  saying: sickle-harvest
+  source: JOE 3:13
+  mt: JOE 4:13
+  lxx: JOE 4:13
+  type: adapted
+  borderline: true
+  quote: ἀποστέλλει τὸ δρέπανον, ὅτι παρέστηκεν ὁ θερισμός
+  affinity: mixed
+  points:
+    - nt: παρέστηκεν
+      lxx: παρέστηκεν
+      mt: בָשַׁל
+      other: the Hebrew is "is ripe"
+      with: [lxx]
+    - nt: ὁ θερισμός
+      lxx: ὁ τρυγητός
+      mt: קָצִיר
+      other: '"harvest" is the Hebrew''s; the Septuagint has "vintage"'
+      with: [mt]
+    - nt: τὸ δρέπανον
+      lxx: δρέπανα
+      mt: מַגָּל
+      other: one sickle, as in the Hebrew
+      with: [mt]
+
+- id: luke-4-18
+  at: LUK 4:18-19
+  speaker: jesus
+  saying: spirit-upon-me
+  source: ISA 61:1-2, ISA 58:6
+  formula: εὗρεν τὸν τόπον οὗ ἦν γεγραμμένον
+  type: adapted
+  composite: true
+  quote: Πνεῦμα κυρίου ἐπʼ ἐμέ, οὗ εἵνεκεν ἔχρισέν με εὐαγγελίσασθαι πτωχοῖς, ἀπέσταλκέν με κηρύξαι αἰχμαλώτοις ἄφεσιν καὶ τυφλοῖς ἀνάβλεψιν, ἀποστεῖλαι τεθραυσμένους ἐν ἀφέσει, κηρύξαι ἐνιαυτὸν κυρίου δεκτόν
+  affinity: lxx
+  points:
+    - nt: τυφλοῖς ἀνάβλεψιν
+      lxx: τυφλοῖς ἀνάβλεψιν
+      mt: וְלַאֲסוּרִים פְּקַח־קוֹחַ
+      other: the Hebrew is "opening (of the prison) to those who are bound"; sight for the blind is the Septuagint's
+      with: [lxx]
+    - nt: ἀποστεῖλαι τεθραυσμένους ἐν ἀφέσει
+      lxx: ἀπόστελλε τεθραυσμένους ἐν ἀφέσει
+      mt: וְשַׁלַּח רְצוּצִים חָפְשִׁים
+      other: Isaiah 58:6, the Septuagint's words with the verb made an infinitive
+      with: [lxx]
+    - nt: κηρύξαι ἐνιαυτὸν κυρίου δεκτόν
+      lxx: καλέσαι ἐνιαυτὸν Κυρίου δεκτὸν
+      mt: לִקְרֹא שְׁנַת־רָצוֹן לַיהוָה
+      other: κηρύξαι for καλέσαι, repeating the verb of the line before
+      with: [none]
+  editions: The TR and Byz add ἰάσασθαι τοὺς συντετριμμένους τὴν καρδίαν, the Septuagint's next clause, which the SBL lacks.
+  note: Jesus reads the passage aloud in the synagogue and says, "Today this Scripture has been fulfilled in your hearing" (4:21). The reading stops before "the day of vengeance".
+
+- id: luke-22-37
+  at: LUK 22:37
+  speaker: jesus
+  saying: numbered-with-transgressors
+  source: ISA 53:12
+  formula: τοῦτο τὸ γεγραμμένον δεῖ τελεσθῆναι ἐν ἐμοί, τό
+  type: adapted
+  quote: Καὶ μετὰ ἀνόμων ἐλογίσθη
+  affinity: mixed
+  points:
+    - nt: μετὰ ἀνόμων
+      lxx: ἐν τοῖς ἀνόμοις
+      mt: וְאֶת־פֹּשְׁעִים
+      other: '"with" is the Hebrew''s אֶת; the Septuagint has "among"'
+      with: [mt]
+    - nt: ἀνόμων ἐλογίσθη
+      lxx: ἀνόμοις ἐλογίσθη
+      mt: פֹּשְׁעִים נִמְנָה
+      other: the Septuagint's noun and verb; Aquila and Symmachus have ἠριθμήθη (Field)
+      with: [lxx]
+
+- id: luke-23-30
+  at: LUK 23:30
+  speaker: jesus
+  saying: mountains-fall-on-us
+  source: HOS 10:8
+  type: adapted
+  quote: τοῖς ὄρεσιν· Πέσετε ἐφʼ ἡμᾶς, καὶ τοῖς βουνοῖς· Καλύψατε ἡμᾶς
+  affinity: other-greek
+  points:
+    - nt: τοῖς ὄρεσιν· Πέσετε ἐφʼ ἡμᾶς, καὶ τοῖς βουνοῖς· Καλύψατε ἡμᾶς
+      lxx: τοῖς ὄρεσι, καλύψατε ἡμᾶς, καὶ τοῖς βουνοῖς, πέσατε ἐφʼ ἡμᾶς
+      mt: לֶהָרִים כַּסּוּנוּ וְלַגְּבָעוֹת נִפְלוּ עָלֵינוּ
+      other: A has the two verbs in Luke's order (Swete's apparatus); B, Brenton and the Hebrew have "cover us" first
+      with: [A]
+    - nt: Πέσετε
+      lxx: πέσατε
+      other: A and Q have the form πέσετε
+      with: [A, Q]
+  note: No formula; Jesus gives the words as what people will say. Luke's words are A's exactly.
+
+- id: luke-23-46
+  at: LUK 23:46
+  speaker: jesus
+  saying: into-your-hands
+  source: PSA 31:5
+  mt: PSA 31:6
+  lxx: PSA 30:6
+  type: direct
+  quote: εἰς χεῖράς σου παρατίθεμαι τὸ πνεῦμά μου
+  affinity: lxx-wording
+  points:
+    - nt: παραθήσομαι
+      lxx: παραθήσομαι
+      mt: אַפְקִיד
+      other: TR only; the SBL and Byz have the present παρατίθεμαι
+      with: [lxx]
+  editions: The TR reads παραθήσομαι, the Septuagint's future, and so is the Septuagint word for word; the SBL and Byz read the present.
+  note: Jesus adds "Father" (Πάτερ) before the Psalm's words.
+
+# ================================================================ John
+
+- id: john-1-51
+  at: JOH 1:51
+  byz_at: JOH 1:52
+  speaker: jesus
+  saying: angels-ascending
+  source: GEN 28:12
+  type: adapted
+  borderline: true
+  quote: τοὺς ἀγγέλους τοῦ θεοῦ ἀναβαίνοντας καὶ καταβαίνοντας ἐπὶ
+  affinity: independent
+  points:
+    - nt: ἀναβαίνοντας καὶ καταβαίνοντας
+      lxx: ἀνέβαινον καὶ κατέβαινον
+      mt: עֹלִים וְיֹרְדִים
+      other: participles, as the Hebrew has; the Septuagint has finite verbs
+      with: [mt]
+    - nt: ἐπὶ τὸν υἱὸν τοῦ ἀνθρώπου
+      lxx: ἐπʼ αὐτῇ
+      mt: בּוֹ
+      other: neither text names the Son of Man; the Septuagint's pronoun is feminine (the ladder), the Hebrew's masculine
+      with: [none]
+  editions: The Byz numbers this verse 1:52.
+
+- id: john-6-45
+  at: JOH 6:45
+  speaker: jesus
+  saying: taught-by-god
+  source: ISA 54:13
+  formula: ἔστιν γεγραμμένον ἐν τοῖς προφήταις
+  type: adapted
+  quote: Καὶ ἔσονται πάντες διδακτοὶ θεοῦ
+  affinity: lxx-wording
+  points:
+    - nt: διδακτοὶ θεοῦ
+      lxx: διδακτοὺς Θεοῦ
+      mt: לִמּוּדֵי יְהוָה
+      other: θεοῦ for the divine name, as the Septuagint renders it here
+      with: [lxx]
+  editions: The TR reads τοῦ θεοῦ.
+
+- id: john-7-38
+  at: JOH 7:38
+  speaker: jesus
+  saying: rivers-of-living-water
+  source: ISA 58:11, ZEC 14:8, EZE 47:1
+  formula: καθὼς εἶπεν ἡ γραφή
+  type: paraphrase
+  composite: true
+  borderline: true
+  quote: ποταμοὶ ἐκ τῆς κοιλίας αὐτοῦ ῥεύσουσιν ὕδατος ζῶντος
+  affinity: independent
+  note: Introduced as Scripture, but no single passage has these words; the passages listed share the image of living water flowing out.
+
+- id: john-8-17
+  at: JOH 8:17
+  speaker: jesus
+  saying: two-witnesses-true
+  source: DEU 17:6, DEU 19:15
+  formula: ἐν τῷ νόμῳ δὲ τῷ ὑμετέρῳ γέγραπται ὅτι
+  type: paraphrase
+  quote: δύο ἀνθρώπων ἡ μαρτυρία ἀληθής ἐστιν
+  affinity: independent
+
+- id: john-10-34
+  at: JOH 10:34
+  speaker: jesus
+  saying: you-are-gods
+  source: PSA 82:6
+  lxx: PSA 81:6
+  formula: Οὐκ ἔστιν γεγραμμένον ἐν τῷ νόμῳ ὑμῶν ὅτι
+  type: direct
+  quote: Ἐγὼ εἶπα· Θεοί ἐστε
+  affinity: undetermined
+  note: The words are God's in the Psalm; Jesus calls the Psalm "your law" and adds, "the Scripture cannot be broken" (10:35).
+
+- id: john-13-18
+  at: JOH 13:18
+  speaker: jesus
+  saying: lifted-his-heel
+  source: PSA 41:9
+  mt: PSA 41:10
+  lxx: PSA 40:10
+  formula: ἀλλʼ ἵνα ἡ γραφὴ πληρωθῇ
+  type: adapted
+  quote: Ὁ τρώγων μου τὸν ἄρτον ἐπῆρεν ἐπʼ ἐμὲ τὴν πτέρναν αὐτοῦ
+  affinity: mt
+  points:
+    - nt: τὸν ἄρτον
+      lxx: ἄρτους μου
+      mt: לַחְמִי
+      other: one loaf (bread, singular), as the Hebrew; the Septuagint has the plural
+      with: [mt]
+    - nt: τὴν πτέρναν
+      lxx: πτερνισμόν
+      mt: עָקֵב
+      other: '"the heel", as the Hebrew; the Septuagint has "tripping up"'
+      with: [mt]
+    - nt: ἐπῆρεν
+      lxx: ἐμεγάλυνεν
+      mt: הִגְדִּיל
+      other: the Hebrew and the Septuagint say "made great"; John's verb is his own
+      with: [none]
+  editions: The TR and Byz read μετʼ ἐμοῦ for μου.
+
+- id: john-15-25
+  at: JOH 15:25
+  speaker: jesus
+  saying: hated-without-cause
+  source: PSA 35:19, PSA 69:4
+  mt: PSA 35:19, PSA 69:5
+  lxx: PSA 34:19, PSA 68:5
+  formula: ἀλλʼ ἵνα πληρωθῇ ὁ λόγος ὁ ἐν τῷ νόμῳ αὐτῶν γεγραμμένος ὅτι
+  type: adapted
+  quote: Ἐμίσησάν με δωρεάν
+  affinity: undetermined
+  note: The Psalms have the participle, "those who hate me without cause"; Jesus makes it a finite verb. Again he calls a Psalm "their law".
+
+# ================================================================ The Father's voice
+
+- id: matt-3-17
+  at: MAT 3:17
+  speaker: father
+  saying: baptism-voice
+  source: PSA 2:7, ISA 42:1
+  type: adapted
+  composite: true
+  borderline: true
+  quote: ὁ υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα
+  affinity: independent
+  points:
+    - nt: ὁ υἱός μου
+      lxx: υἱός μου εἶ σὺ
+      mt: בְּנִי אַתָּה
+      with: [lxx, mt]
+    - nt: εὐδόκησα
+      lxx: προσεδέξατο αὐτὸν ἡ ψυχή μου
+      mt: רָצְתָה נַפְשִׁי
+      other: the Hebrew is "my soul delights"; Theodotion has ὃν ηὐδόκησεν ἡ ψυχή μου (Field)
+      with: [Th, mt]
+  note: '"My son" is the Psalm''s; "in whom I am well pleased" shares its verb with Theodotion''s Isaiah 42:1. [inferred] "Beloved" may recall Genesis 22:2, where the Septuagint has ἀγαπητόν for the Hebrew''s "only"; the link is not certain enough to bear any weight. [context] Matthew 12:18, the evangelist''s own quotation of Isaiah 42:1, also uses εὐδόκησεν.'
+
+- id: mark-1-11
+  at: MAR 1:11
+  speaker: father
+  saying: baptism-voice
+  source: PSA 2:7, ISA 42:1
+  type: adapted
+  composite: true
+  borderline: true
+  quote: Σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός, ἐν σοὶ εὐδόκησα
+  affinity: independent
+  points:
+    - nt: Σὺ εἶ ὁ υἱός μου
+      lxx: υἱός μου εἶ σὺ
+      mt: בְּנִי אַתָּה
+      other: the Psalm's words in another order
+      with: [lxx, mt]
+    - nt: εὐδόκησα
+      lxx: προσεδέξατο αὐτὸν ἡ ψυχή μου
+      mt: רָצְתָה נַפְשִׁי
+      with: [Th, mt]
+
+- id: luke-3-22
+  at: LUK 3:22
+  speaker: father
+  saying: baptism-voice
+  source: PSA 2:7, ISA 42:1
+  type: adapted
+  composite: true
+  borderline: true
+  quote: Σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός, ἐν σοὶ εὐδόκησα
+  affinity: independent
+  note: "[context] Codex Bezae (D) reads here the whole of Psalm 2:7, 'You are my son; today I have begotten you'. None of the three editions does."
+
+- id: matt-17-5
+  at: MAT 17:5
+  speaker: father
+  saying: transfiguration-voice
+  source: PSA 2:7, ISA 42:1, DEU 18:15
+  type: adapted
+  composite: true
+  borderline: true
+  quote: ὁ υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα· ἀκούετε αὐτοῦ
+  affinity: independent
+  points:
+    - nt: ἀκούετε αὐτοῦ
+      lxx: αὐτοῦ ἀκούσεσθε
+      mt: אֵלָיו תִּשְׁמָעוּן
+      other: Deuteronomy's "him you shall hear", made an imperative
+      with: [lxx, mt]
+  editions: The TR and Byz read αὐτοῦ ἀκούετε, Deuteronomy's word order.
+
+- id: mark-9-7
+  at: MAR 9:7
+  speaker: father
+  saying: transfiguration-voice
+  source: PSA 2:7, DEU 18:15
+  type: adapted
+  composite: true
+  borderline: true
+  quote: ὁ υἱός μου ὁ ἀγαπητός, ἀκούετε αὐτοῦ
+  affinity: independent
+  editions: The TR and Byz read αὐτοῦ ἀκούετε.
+
+- id: luke-9-35
+  at: LUK 9:35
+  speaker: father
+  saying: transfiguration-voice
+  source: PSA 2:7, ISA 42:1, DEU 18:15
+  type: adapted
+  composite: true
+  borderline: true
+  quote: ὁ υἱός μου ὁ ἐκλελεγμένος αὐτοῦ ἀκούετε
+  affinity: independent
+  points:
+    - nt: ὁ ἐκλελεγμένος
+      lxx: ὁ ἐκλεκτός μου
+      mt: בְּחִירִי
+      other: '"chosen", Isaiah 42:1''s word in both texts, in another form'
+      with: [lxx, mt]
+  editions: The TR and Byz read ὁ ἀγαπητός for ὁ ἐκλελεγμένος.
+
+- id: 2pet-1-17
+  at: 2PE 1:17
+  speaker: father
+  saying: transfiguration-voice
+  source: PSA 2:7, ISA 42:1
+  type: adapted
+  composite: true
+  borderline: true
+  quote: Ὁ υἱός μου ὁ ἀγαπητός μου οὗτός ἐστιν, εἰς ὃν ἐγὼ εὐδόκησα
+  affinity: independent
+  editions: The TR and Byz read Οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός.
+  note: Peter reports the voice he heard on the mountain; the words are the Father's.
+
+# ================================================================ Revelation
+
+- id: rev-1-17
+  at: REV 1:17
+  speaker: jesus-risen
+  saying: first-and-last
+  source: ISA 44:6, ISA 48:12
+  type: adapted
+  quote: ἐγώ εἰμι ὁ πρῶτος καὶ ὁ ἔσχατος
+  affinity: other-greek
+  points:
+    - nt: ὁ ἔσχατος
+      lxx: ἐγώ εἰμι εἰς τὸν αἰῶνα
+      mt: אֲנִי אַחֲרוֹן
+      other: the Hebrew is "I am the last"; the Septuagint has "after these things" (44:6) and "for ever" (48:12). at 48:12 Field gives for "the others" (Aquila, Symmachus, Theodotion) ἐγὼ πρῶτος, καὶ ἐγὼ ἔσχατος
+      with: [three, mt]
+
+- id: rev-2-23
+  at: REV 2:23
+  speaker: jesus-risen
+  saying: searches-kidneys
+  source: JER 17:10, JER 11:20, PSA 62:12
+  mt: JER 17:10, JER 11:20, PSA 62:13
+  lxx: JER 17:10, JER 11:20, PSA 61:13
+  type: adapted
+  composite: true
+  borderline: true
+  quote: ἐγώ εἰμι ὁ ἐραυνῶν νεφροὺς καὶ καρδίας, καὶ δώσω ὑμῖν ἑκάστῳ κατὰ τὰ ἔργα ὑμῶν
+  affinity: mixed
+  points:
+    - nt: νεφροὺς καὶ καρδίας
+      lxx: νεφροὺς καὶ καρδίας
+      mt: כְּלָיוֹת וָלֵב
+      other: Jeremiah 11:20's order in both texts
+      with: [lxx, mt]
+    - nt: ἐραυνῶν
+      lxx: ἐτάζων
+      mt: חֹקֵר
+      other: '"search", as the Hebrew of Jeremiah 17:10; the Septuagint has "examine"'
+      with: [mt]
+    - nt: κατὰ τὰ ἔργα
+      lxx: κατὰ τὰ ἔργα
+      mt: כְּמַעֲשֵׂהוּ
+      other: plural, as the Septuagint of Psalm 62; the Hebrew is singular
+      with: [lxx]
+
+- id: rev-2-26
+  at: REV 2:26-27
+  speaker: jesus-risen
+  saying: rod-of-iron
+  source: PSA 2:8-9
+  type: adapted
+  quote: δώσω αὐτῷ ἐξουσίαν ἐπὶ τῶν ἐθνῶν, καὶ ποιμανεῖ αὐτοὺς ἐν ῥάβδῳ σιδηρᾷ ὡς τὰ σκεύη τὰ κεραμικὰ συντρίβεται
+  affinity: lxx
+  points:
+    - nt: ποιμανεῖ αὐτοὺς ἐν ῥάβδῳ σιδηρᾷ
+      lxx: Ποιμανεῖς αὐτοὺς ἐν ῥάβδῳ σιδηρᾷ
+      mt: תְּרֹעֵם בְּשֵׁבֶט בַּרְזֶל
+      other: '"shepherd them" is the Septuagint''s; the Masoretic pointing reads "break them". The consonants תרעם bear either reading'
+      with: [lxx]
+  note: The risen Christ gives to the one who overcomes what the Father gave him in the Psalm, "as I also have received from my Father" (2:27-28).
+
+- id: rev-3-7
+  at: REV 3:7
+  speaker: jesus-risen
+  saying: key-of-david
+  source: ISA 22:22
+  type: adapted
+  borderline: true
+  quote: τὴν κλεῖν Δαυίδ ὁ ἀνοίγων καὶ οὐδεὶς κλείσει, καὶ κλείων καὶ οὐδεὶς ἀνοίγει
+  affinity: mt
+  points:
+    - nt: τὴν κλεῖν Δαυίδ
+      lxx: τὴν κλεῖδα οἴκου Δαυὶδ
+      swete: —
+      mt: מַפְתֵּחַ בֵּית־דָּוִד
+      other: B has no key; the key is in the Hebrew, in Sinaiticus and A (in other words), in Aquila, Symmachus and Theodotion, and in Brenton's text
+      with: [mt, S, A, three, brenton]
+    - nt: ὁ ἀνοίγων καὶ οὐδεὶς κλείσει
+      lxx: ἀνοίξει, καὶ οὐκ ἔσται ὁ ἀποκλείων
+      swete: —
+      mt: וּפָתַח וְאֵין סֹגֵר
+      other: B has only the second half, καὶ κλείσει καὶ οὐκ ἔστιν ὁ ἀνοίγων
+      with: [mt, brenton]
+  note: Part of the title by which Christ introduces himself to Philadelphia. Both halves of the saying about opening and shutting are the Hebrew's, in wording none of the Greek witnesses uses.
+
+- id: rev-3-19
+  at: REV 3:19
+  speaker: jesus-risen
+  saying: reprove-and-discipline
+  source: PRO 3:12
+  type: adapted
+  borderline: true
+  quote: ὅσους ἐὰν φιλῶ ἐλέγχω καὶ παιδεύω
+  affinity: mixed
+  points:
+    - nt: ἐλέγχω
+      lxx: ἐλέγχει
+      mt: יוֹכִיחַ
+      other: B, Brenton and the Hebrew
+      with: [lxx, mt]
+    - nt: παιδεύω
+      lxx: ἐλέγχει
+      mt: יוֹכִיחַ
+      other: Sinaiticus and A read παιδεύει (Swete's apparatus), the reading Hebrews 12:6 quotes
+      with: [S, A]
+
+- id: rev-21-5
+  at: REV 21:5
+  speaker: god
+  saying: all-things-new
+  source: ISA 43:19
+  type: adapted
+  borderline: true
+  quote: Ἰδοὺ καινὰ ποιῶ πάντα
+  affinity: lxx-wording
+  points:
+    - nt: καινὰ ποιῶ
+      lxx: ποιῶ καινὰ
+      mt: עֹשֶׂה חֲדָשָׁה
+      other: plural "new things", as the Septuagint; the Hebrew has the singular
+      with: [lxx]
+  editions: The TR reads καινὰ πάντα ποιῶ.
+
+- id: rev-21-7
+  at: REV 21:7
+  speaker: god
+  saying: i-will-be-his-god
+  source: 2SA 7:14
+  type: adapted
+  quote: ἔσομαι αὐτῷ θεὸς καὶ αὐτὸς ἔσται μοι υἱός
+  affinity: lxx-wording
+  points:
+    - nt: ἔσομαι αὐτῷ … καὶ αὐτὸς ἔσται μοι
+      lxx: ἔσομαι αὐτῷ εἰς πατέρα, καὶ αὐτὸς ἔσται μοι
+      mt: אֶהְיֶה־לּוֹ לְאָב וְהוּא יִהְיֶה־לִּי
+      with: [lxx]
+  note: '"God" takes the place of "father", and the Septuagint''s εἰς (the Hebrew''s לְ) is dropped.'
+
+- id: rev-22-12
+  at: REV 22:12
+  speaker: jesus-risen
+  saying: my-reward-with-me
+  source: ISA 40:10, ISA 62:11, PSA 62:12
+  mt: ISA 40:10, ISA 62:11, PSA 62:13
+  lxx: ISA 40:10, ISA 62:11, PSA 61:13
+  type: adapted
+  composite: true
+  borderline: true
+  quote: ὁ μισθός μου μετʼ ἐμοῦ, ἀποδοῦναι ἑκάστῳ ὡς τὸ ἔργον ἐστὶν αὐτοῦ
+  affinity: mixed
+  points:
+    - nt: ὁ μισθός μου μετʼ ἐμοῦ
+      lxx: ὁ μισθὸς αὐτοῦ μετʼ αὐτοῦ
+      mt: שְׂכָרוֹ אִתּוֹ
+      with: [lxx, mt]
+    - nt: τὸ ἔργον
+      lxx: τὰ ἔργα
+      mt: כְּמַעֲשֵׂהוּ
+      other: singular, as the Hebrew of Psalm 62; the Septuagint has the plural
+      with: [mt]
+
+- id: rev-22-13
+  at: REV 22:13
+  speaker: jesus-risen
+  saying: alpha-and-omega
+  source: ISA 44:6, ISA 48:12
+  type: adapted
+  quote: ὁ πρῶτος καὶ ὁ ἔσχατος
+  affinity: other-greek
+  points:
+    - nt: ὁ ἔσχατος
+      lxx: ἐγώ εἰμι εἰς τὸν αἰῶνα
+      mt: אֲנִי אַחֲרוֹן
+      with: [three, mt]
+  note: Joined to "the Alpha and the Omega" and "the beginning and the end".
+
+old_testament:
+
+# ================================================================ The LORD quotes an earlier book
+
+- id: josh-1-3
+  at: JOS 1:3-4
+  speaker: god-ot
+  group: headline
+  source: DEU 11:24
+  formula: כַּאֲשֶׁר דִּבַּרְתִּי אֶל־מֹשֶׁה
+  type: adapted
+  quote: אֲשֶׁר תִּדְרֹךְ כַּף רַגְלְכֶם בּוֹ לָכֶם … נְהַר פְּרָת … וְעַד הַיָּם
+  source_words: אֲשֶׁר תִּדְרֹךְ כַּף רַגְלְכֶם בּוֹ לָכֶם … נְהַר פְּרָת … וְעַד הַיָּם
+  greek: partly
+  note: Moses' words in Deuteronomy, which the LORD calls his own ("as I said to Moses"), turned from "you" to the people into "you" to Joshua.
+
+- id: josh-1-5
+  at: JOS 1:5-9
+  speaker: god-ot
+  group: headline
+  source: DEU 31:6-8, DEU 31:23, DEU 11:25, DEU 5:32
+  formula: כְּכָל־הַתּוֹרָה אֲשֶׁר צִוְּךָ מֹשֶׁה עַבְדִּי
+  type: adapted
+  composite: true
+  quote: לֹא יִתְיַצֵּב אִישׁ … אֶהְיֶה עִמָּךְ לֹא … חֲזַק וֶאֱמָץ כִּי אַתָּה … אֶת הָעָם הַזֶּה
+  source_words: חֲזַק וֶאֱמָץ כִּי אַתָּה … אֶת הָעָם הַזֶּה … אֶהְיֶה עִמָּךְ … לֹא יִתְיַצֵּב אִישׁ
+  greek: partly
+  note: The charge Moses gave Joshua (Deuteronomy 31:7-8) and the LORD's own charge to him (31:23), repeated by the LORD, who names "this book of the law" (1:8) as what Joshua is to keep.
+
+- id: josh-20-2
+  at: JOS 20:2-3
+  speaker: god-ot
+  group: headline
+  source: NUM 35:11-12, DEU 19:4
+  formula: אֲשֶׁר־דִּבַּרְתִּי אֲלֵיכֶם בְּיַד־מֹשֶׁה
+  type: adapted
+  quote: מַכֵּה נֶפֶשׁ בִּשְׁגָגָה … וְהָיוּ לָכֶם לְמִקְלָט מִגֹּאֵל
+  source_words: מַכֵּה נֶפֶשׁ בִּשְׁגָגָה … וְהָיוּ לָכֶם … לְמִקְלָט מִגֹּאֵל
+  greek: partly
+  note: '"Which I spoke to you by the hand of Moses." The Septuagint of Joshua 20 is shorter than the Hebrew (it lacks 20:4-6), but it keeps these verses.'
+
+- id: judg-2-1
+  at: JDG 2:1-2
+  speaker: angel-of-the-lord
+  group: headline
+  source: EXO 34:12-13, DEU 7:2, LEV 26:44
+  formula: וָאֹמַר
+  type: adapted
+  composite: true
+  quote: לֹא אָפֵר בְּרִיתִי … לֹא תִכְרְתוּ בְרִית לְיוֹשְׁבֵי הָאָרֶץ … תִּתֹּצוּן
+  source_words: תִּכְרֹת בְּרִית לְיוֹשֵׁב הָאָרֶץ … תִּתֹּצוּן … לְהָפֵר בְּרִיתִי
+  greek: partly
+  note: The Angel of the LORD speaks as the LORD ("I brought you up … I said"). What he says he said is the Sinai warning against covenants with the land's inhabitants and the command to break down their altars.
+
+- id: judg-2-3
+  at: JDG 2:3
+  speaker: angel-of-the-lord
+  group: headline
+  source: NUM 33:55, JOS 23:13, EXO 23:33
+  formula: וְגַם אָמַרְתִּי
+  type: paraphrase
+  quote: וְהָיוּ לָכֶם לְצִדִּים וֵאלֹהֵיהֶם יִהְיוּ לָכֶם לְמוֹקֵשׁ
+  source_words: וְהָיָה אֲשֶׁר תּוֹתִירוּ מֵהֶם לְשִׂכִּים בְּעֵינֵיכֶם וְלִצְנִינִם בְּצִדֵּיכֶם … לְמוֹקֵשׁ
+  greek: partly
+
+- id: judg-6-8
+  at: JDG 6:8-10
+  speaker: god-through-prophet
+  group: headline
+  source: EXO 20:2-3
+  formula: וָאֹמְרָה לָכֶם
+  type: paraphrase
+  quote: הֶעֱלֵיתִי אֶתְכֶם מִמִּצְרַיִם וָאֹצִיא אֶתְכֶם מִבֵּית עֲבָדִים … אֲנִי יְהוָה אֱלֹהֵיכֶם לֹא תִירְאוּ אֶת אֱלֹהֵי הָאֱמֹרִי
+  source_words: אֲשֶׁר הוֹצֵאתִיךָ מֵאֶרֶץ מִצְרַיִם מִבֵּית עֲבָדִים לֹא יִהְיֶה לְךָ אֱלֹהִים אֲחֵרִים
+  greek: yes
+
+- id: 1sam-2-30
+  at: 1SA 2:30
+  speaker: god-through-prophet
+  group: headline
+  source: EXO 29:9
+  formula: אָמוֹר אָמַרְתִּי
+  type: paraphrase
+  borderline: true
+  quote: בֵּיתְךָ וּבֵית אָבִיךָ יִתְהַלְּכוּ לְפָנַי עַד עוֹלָם
+  source_words: וְהָיְתָה לָהֶם כְּהֻנָּה לְחֻקַּת עוֹלָם
+  greek: nolink
+  note: The man of God quotes what the LORD "said" to the house of Eli's father; no passage has these words, and the nearest is the priesthood given to Aaron's house "by a perpetual statute".
+
+- id: 1sam-15-2
+  at: 1SA 15:2
+  speaker: god-through-prophet
+  group: headline
+  source: DEU 25:17
+  type: adapted
+  quote: אֵת אֲשֶׁר עָשָׂה עֲמָלֵק … בַּדֶּרֶךְ … מִמִּצְרָיִם
+  source_words: אֵת אֲשֶׁר עָשָׂה לְךָ עֲמָלֵק בַּדֶּרֶךְ … מִמִּצְרָיִם
+  greek: partly
+  note: '"I have noted what Amalek did": the LORD takes up the words with which Moses told Israel to remember it.'
+
+- id: 1kgs-9-5
+  at: 1KI 9:5
+  speaker: god-ot
+  group: headline
+  source: 1KI 2:4, 1KI 8:25
+  formula: כַּאֲשֶׁר דִּבַּרְתִּי עַל־דָּוִד אָבִיךָ לֵאמֹר
+  type: direct
+  quote: לֵאמֹר לֹא יִכָּרֵת לְךָ אִישׁ מֵעַל כִּסֵּא יִשְׂרָאֵל
+  source_words: לֵאמֹר לֹא יִכָּרֵת לְךָ אִישׁ מֵעַל כִּסֵּא יִשְׂרָאֵל
+  greek: partly
+  note: The promise is given in these words by David (2:4) and by Solomon (8:25), each quoting the LORD; here the LORD himself repeats it. The same words stand in the parallel, 2 Chronicles 7:18.
+
+- id: 1kgs-9-8
+  at: 1KI 9:8-9
+  speaker: god-ot
+  group: headline
+  source: DEU 29:23-24
+  type: adapted
+  quote: עַל מֶה עָשָׂה יְהוָה כָּכָה לָאָרֶץ הַזֹּאת … וְאָמְרוּ עַל אֲשֶׁר עָזְבוּ אֶת
+  source_words: עַל מֶה עָשָׂה יְהוָה כָּכָה לָאָרֶץ הַזֹּאת … וְאָמְרוּ עַל אֲשֶׁר עָזְבוּ אֶת
+  lxx_source: DEU 29:24-25
+  greek: partly
+  note: The parallel, 2 Chronicles 7:21-22, has the same question and answer.
+
+- id: 2chr-20-15
+  at: 2CH 20:15-17
+  speaker: god-through-prophet
+  group: headline
+  source: EXO 14:13-14
+  type: adapted
+  quote: אַל תִּירְאוּ … וּרְאוּ אֶת יְשׁוּעַת יְהוָה
+  source_words: אַל תִּירָאוּ … וּרְאוּ אֶת יְשׁוּעַת יְהוָה
+  greek: partly
+  note: Jahaziel speaks when "the Spirit of the LORD came upon him", with "thus says the LORD", in the words Moses spoke at the Red Sea ("stand still and see the salvation of the LORD"; "the battle is not yours" for "the LORD will fight for you").
+
+- id: 2chr-24-20
+  at: 2CH 24:20
+  speaker: god-through-prophet
+  group: headline
+  source: NUM 14:41
+  type: adapted
+  quote: לָמָה אַתֶּם עֹבְרִים אֶת … וְלֹא תַצְלִיחוּ
+  source_words: לָמָּה זֶּה אַתֶּם עֹבְרִים אֶת … לֹא תִצְלָח
+  greek: no
+  note: Zechariah son of Jehoiada, clothed by the Spirit of God, says "thus says God" and gives Moses' question at Kadesh. The Greek renders the two places in different words.
+
+- id: ps-81-10
+  at: PSA 81:10-11
+  speaker: god-ot
+  group: headline
+  source: EXO 20:2-3
+  lxx: PSA 80:10-11
+  type: adapted
+  quote: לֹא יִהְיֶה … אָנֹכִי יְהוָה אֱלֹהֶיךָ … מֵאֶרֶץ מִצְרָיִם
+  source_words: אָנֹכִי יְהוָה אֱלֹהֶיךָ … מֵאֶרֶץ מִצְרַיִם … לֹא יִהְיֶה
+  greek: yes
+  note: The first commandment and the preamble, in the reverse order, in God's own speech within the Psalm.
+
+- id: ps-95-8
+  at: PSA 95:8-11
+  speaker: god-ot
+  group: headline
+  source: NUM 14:21-23, DEU 1:34-35, EXO 17:7
+  lxx: PSA 94:8-11
+  formula: אֲשֶׁר־נִשְׁבַּעְתִּי בְאַפִּי
+  type: paraphrase
+  quote: אֲשֶׁר נִשְׁבַּעְתִּי בְאַפִּי אִם יְבֹאוּן אֶל מְנוּחָתִי
+  source_words: אֲשֶׁר נִשְׁבַּעְתִּי לַאֲבֹתָם
+  greek: partly
+  note: God recalls his oath in the wilderness; Numbers and Deuteronomy give it in other words. Hebrews 3:7-11 quotes this Psalm as what "the Holy Spirit says" (see the appendix).
+
+- id: ps-89-4
+  at: PSA 89:4-5
+  speaker: god-ot
+  group: headline
+  source: 2SA 7:12-16
+  lxx: PSA 88:4-5
+  formula: נִשְׁבַּעְתִּי לְדָוִד עַבְדִּי
+  type: paraphrase
+  quote: עַד עוֹלָם אָכִין זַרְעֶךָ וּבָנִיתִי לְדֹר וָדוֹר כִּסְאֲךָ
+  source_words: וַהֲקִימֹתִי אֶת זַרְעֲךָ … כִּסְאֲךָ יִהְיֶה נָכוֹן עַד עוֹלָם
+  greek: partly
+
+- id: isa-54-9
+  at: ISA 54:9
+  speaker: god-through-prophet
+  group: headline
+  source: GEN 9:11
+  formula: אֲשֶׁר נִשְׁבַּעְתִּי
+  type: paraphrase
+  quote: אֲשֶׁר נִשְׁבַּעְתִּי מֵעֲבֹר מֵי נֹחַ עוֹד עַל הָאָרֶץ
+  source_words: וְלֹא יִהְיֶה עוֹד מַבּוּל לְשַׁחֵת הָאָרֶץ
+  greek: partly
+  note: Genesis gives the promise as a covenant; Isaiah calls it an oath.
+
+- id: jer-3-1
+  at: JER 3:1
+  speaker: god-through-prophet
+  group: headline
+  source: DEU 24:1-4
+  type: paraphrase
+  quote: הֵן יְשַׁלַּח אִישׁ אֶת אִשְׁתּוֹ … וְהָיְתָה לְאִישׁ אַחֵר הֲיָשׁוּב אֵלֶיהָ עוֹד
+  source_words: וְהָיְתָה לְאִישׁ אַחֵר … לָשׁוּב לְקַחְתָּהּ
+  greek: partly
+  note: The law of Deuteronomy 24 put as a question. The Hebrew begins with לֵאמֹר, "saying"; the Septuagint has no such word.
+
+- id: jer-7-23
+  at: JER 7:23
+  speaker: god-through-prophet
+  group: headline
+  source: LEV 26:12, EXO 19:5
+  formula: כִּי אִם־אֶת־הַדָּבָר הַזֶּה צִוִּיתִי אוֹתָם לֵאמֹר
+  type: direct
+  quote: וְהָיִיתִי לָכֶם לֵאלֹהִים וְאַתֶּם תִּהְיוּ לִי לְעָם
+  source_words: וְהָיִיתִי לָכֶם לֵאלֹהִים וְאַתֶּם תִּהְיוּ לִי לְעָם
+  greek: partly
+  note: Word for word in the Hebrew. The Septuagint renders the two places differently (ἔσομαι ὑμῖν εἰς θεόν in Jeremiah, ἔσομαι ὑμῶν θεός in Leviticus).
+
+- id: jer-7-33
+  at: JER 7:33
+  speaker: god-through-prophet
+  group: headline
+  source: DEU 28:26
+  type: adapted
+  quote: וְהָיְתָה נִבְלַת … לְמַאֲכָל לְעוֹף הַשָּׁמַיִם וּלְבֶהֱמַת הָאָרֶץ וְאֵין מַחֲרִיד
+  source_words: וְהָיְתָה נִבְלָתְךָ לְמַאֲכָל … הַשָּׁמַיִם וּלְבֶהֱמַת הָאָרֶץ וְאֵין מַחֲרִיד
+  greek: yes
+
+- id: jer-11-3
+  at: JER 11:3-5
+  speaker: god-through-prophet
+  group: headline
+  source: DEU 27:26, DEU 4:20, LEV 26:12, DEU 7:8
+  formula: אֲשֶׁר צִוִּיתִי אֶת־אֲבוֹתֵיכֶם
+  type: adapted
+  composite: true
+  quote: אָרוּר הָאִישׁ אֲשֶׁר לֹא יִשְׁמַע אֶת דִּבְרֵי … מִכּוּר הַבַּרְזֶל … לִי לְעָם … לָכֶם לֵאלֹהִים
+  source_words: אָרוּר אֲשֶׁר לֹא יָקִים אֶת דִּבְרֵי … מִכּוּר הַבַּרְזֶל … לָכֶם לֵאלֹהִים … לִי לְעָם
+  greek: partly
+  note: The curse of Deuteronomy 27:26, the "iron furnace" of 4:20, the covenant formula and the oath to the fathers, given as what the LORD commanded the fathers.
+
+- id: jer-11-6
+  at: JER 11:6
+  speaker: god-through-prophet
+  group: headline
+  source: DEU 29:8
+  type: adapted
+  quote: אֶת דִּבְרֵי הַבְּרִית הַזֹּאת וַעֲשִׂיתֶם
+  source_words: אֶת דִּבְרֵי הַבְּרִית הַזֹּאת וַעֲשִׂיתֶם
+  lxx_source: DEU 29:9
+  greek: yes
+
+- id: jer-14-10
+  at: JER 14:10
+  speaker: god-through-prophet
+  group: headline
+  source: HOS 8:13
+  type: direct
+  quote: לֹא רָצָם עַתָּה יִזְכֹּר עֲוֺנָם וְיִפְקֹד
+  source_words: לֹא רָצָם עַתָּה יִזְכֹּר עֲוֺנָם וְיִפְקֹד
+  greek: partly
+  note: Hosea's words, said of Judah instead of Ephraim.
+
+- id: jer-17-22
+  at: JER 17:22
+  speaker: god-through-prophet
+  group: headline
+  source: DEU 5:12-14
+  formula: כַּאֲשֶׁר צִוִּיתִי אֶת־אֲבוֹתֵיכֶם
+  type: adapted
+  quote: וְכָל מְלָאכָה לֹא תַעֲשׂוּ וְקִדַּשְׁתֶּם אֶת יוֹם הַשַּׁבָּת
+  source_words: אֶת יוֹם הַשַׁבָּת לְקַדְּשׁוֹ … לֹא תַעֲשֶׂה כָל מְלָאכָה
+  greek: partly
+  note: The Sabbath commandment, in its own words reordered; Deuteronomy's "as the LORD your God commanded you" becomes "as I commanded your fathers".
+
+- id: jer-22-8
+  at: JER 22:8-9
+  speaker: god-through-prophet
+  group: headline
+  source: DEU 29:23-24
+  type: adapted
+  quote: עַל מֶה עָשָׂה יְהוָה כָּכָה … וְאָמְרוּ עַל אֲשֶׁר עָזְבוּ אֶת בְּרִית יְהוָה
+  source_words: עַל מֶה עָשָׂה יְהוָה כָּכָה … וְאָמְרוּ עַל אֲשֶׁר עָזְבוּ אֶת בְּרִית יְהוָה
+  lxx_source: DEU 29:24-25
+  greek: partly
+
+- id: jer-33-14
+  at: JER 33:14-16
+  speaker: god-through-prophet
+  group: headline
+  source: JER 23:5-6
+  formula: אֶת־הַדָּבָר הַטּוֹב אֲשֶׁר דִּבַּרְתִּי
+  type: adapted
+  quote: הִנֵּה יָמִים בָּאִים נְאֻם יְהוָה וַהֲקִמֹתִי … לְדָוִד צֶמַח … וְעָשָׂה מִשְׁפָּט וּצְדָקָה בָּאָרֶץ … יְהוָה צִדְקֵנוּ
+  source_words: הִנֵּה יָמִים בָּאִים נְאֻם יְהוָה וַהֲקִמֹתִי לְדָוִד צֶמַח … וְעָשָׂה מִשְׁפָּט וּצְדָקָה בָּאָרֶץ … יְהוָה צִדְקֵנוּ
+  lxx: —
+  greek: absent
+  note: '"The good word that I spoke": the LORD marks this as the promise of 23:5-6, given again. The Septuagint has none of Jeremiah 33:14-26.'
+
+- id: jer-33-17
+  at: JER 33:17
+  speaker: god-through-prophet
+  group: headline
+  source: 1KI 2:4, 1KI 9:5
+  type: adapted
+  quote: לֹא יִכָּרֵת לְדָוִד אִישׁ ישֵׁב עַל כִּסֵּא
+  source_words: לֹא יִכָּרֵת לְךָ אִישׁ מֵעַל כִּסֵּא
+  lxx: —
+  greek: absent
+
+- id: jer-34-13
+  at: JER 34:13-14
+  speaker: god-through-prophet
+  group: headline
+  source: DEU 15:1, DEU 15:12, EXO 21:2
+  lxx: JER 41:13-14
+  formula: אָנֹכִי כָּרַתִּי בְרִית אֶת־אֲבוֹתֵיכֶם … לֵאמֹר
+  type: adapted
+  composite: true
+  quote: מִקֵּץ שֶׁבַע שָׁנִים … יִמָּכֵר לְךָ וַעֲבָדְךָ שֵׁשׁ שָׁנִים … חָפְשִׁי מֵעִמָּךְ
+  source_words: מִקֵּץ שֶׁבַע שָׁנִים … יִמָּכֵר לְךָ … וַעֲבָדְךָ שֵׁשׁ שָׁנִים … חָפְשִׁי מֵעִמָּךְ
+  greek: partly
+  note: The Septuagint reads "six years" for the Hebrew's "at the end of seven years" (ὅταν πληρωθῇ ἓξ ἔτη).
+
+- id: jer-48-29
+  at: JER 48:29-38
+  speaker: god-through-prophet
+  group: headline
+  source: ISA 16:6-11, ISA 15:2-5
+  lxx: JER 31:29-38
+  type: adapted
+  quote: שָׁמַעְנוּ גְאוֹן מוֹאָב … עָבְרוּ יָם … יַעְזֵר נָגָעוּ … עַל קֵיצֵךְ וְעַל … שִׂמְחָה וָגִיל … לֹא יִדְרֹךְ
+  source_words: שָׁמַעְנוּ גְאוֹן מוֹאָב … יַעְזֵר נָגָעוּ … עָבְרוּ יָם … עַל קֵיצֵךְ וְעַל … שִׂמְחָה וָגִיל … לֹא יִדְרֹךְ
+  greek: partly
+  note: Isaiah's oracle on Moab, taken up phrase by phrase and rearranged.
+
+- id: jer-48-43
+  at: JER 48:43-44
+  speaker: god-through-prophet
+  group: headline
+  source: ISA 24:17-18
+  lxx: JER 31:43-44
+  type: direct
+  quote: פַּחַד וָפַחַת וָפָח עָלֶיךָ יוֹשֵׁב … הַפַּחַד יִפֹּל אֶל הַפַּחַת … הַפַּחַת יִלָּכֵד בַּפָּח
+  source_words: פַּחַד וָפַחַת וָפָח עָלֶיךָ יוֹשֵׁב … הַפַּחַד יִפֹּל אֶל הַפַּחַת … הַפַּחַת יִלָּכֵד בַּפָּח
+  greek: yes
+
+- id: jer-48-45
+  at: JER 48:45-46
+  speaker: god-through-prophet
+  group: headline
+  source: NUM 21:28-29, NUM 24:17
+  type: adapted
+  composite: true
+  quote: כִּי אֵשׁ יָצָא מֵחֶשְׁבּוֹן … אוֹי לְךָ מוֹאָב אָבַד עַם כְּמוֹשׁ
+  source_words: כִּי אֵשׁ יָצְאָה מֵחֶשְׁבּוֹן … אוֹי לְךָ מוֹאָב אָבַדְתָּ עַם כְּמוֹשׁ
+  lxx: —
+  greek: absent
+  note: The song of Heshbon (Numbers 21:28-29) with a phrase of Balaam's oracle (24:17, "the crown of the head of Moab"). The Septuagint has none of Jeremiah 48:45-47.
+
+- id: jer-50-16
+  at: JER 50:16
+  speaker: god-through-prophet
+  group: headline
+  source: ISA 13:14
+  lxx: JER 27:16
+  type: direct
+  quote: אִישׁ אֶל עַמּוֹ יִפְנוּ וְאִישׁ לְאַרְצוֹ יָנֻסוּ
+  source_words: אִישׁ אֶל עַמּוֹ יִפְנוּ וְאִישׁ אֶל אַרְצוֹ יָנוּסוּ
+  greek: partly
+
+- id: jer-50-39
+  at: JER 50:39-40
+  speaker: god-through-prophet
+  group: headline
+  source: ISA 13:19-21
+  lxx: JER 27:39-40
+  type: adapted
+  quote: בְּנוֹת יַעֲנָה … לָנֶצַח וְלֹא … עַד דּוֹר וָדוֹר כְּמַהְפֵּכַת אֱלֹהִים אֶת סְדֹם וְאֶת עֲמֹרָה
+  source_words: כְּמַהְפֵּכַת אֱלֹהִים אֶת סְדֹם וְאֶת עֲמֹרָה … לָנֶצַח וְלֹא … עַד דּוֹר וָדוֹר … בְּנוֹת יַעֲנָה
+  greek: yes
+  note: Isaiah's oracle against Babylon, its phrases in another order. Jeremiah 49:18 has the Sodom clause too.
+
+- id: ezek-7-19
+  at: EZE 7:19
+  speaker: god-through-prophet
+  group: headline
+  source: ZEP 1:18
+  type: adapted
+  quote: כַּסְפָּם וּזְהָבָם לֹא יוּכַל לְהַצִּילָם בְּיוֹם עֶבְרַת יְהוָה
+  source_words: כַּסְפָּם גַּם זְהָבָם לֹא יוּכַל לְהַצִּילָם בְּיוֹם עֶבְרַת יְהוָה
+  greek: partly
+  note: '[context] Zephaniah is dated to Josiah (1:1), Ezekiel to the exile (1:1-3), so Ezekiel is taken as the later.'
+
+- id: ezek-20-11
+  at: EZE 20:11
+  speaker: god-through-prophet
+  group: headline
+  source: LEV 18:5
+  formula: וָאֶתֵּן לָהֶם אֶת־חֻקּוֹתַי
+  type: direct
+  quote: וְאֶת מִשְׁפָּטַי … אֲשֶׁר יַעֲשֶׂה … הָאָדָם וָחַי בָּהֶם
+  source_words: וְאֶת מִשְׁפָּטַי אֲשֶׁר יַעֲשֶׂה … הָאָדָם וָחַי בָּהֶם
+  greek: yes
+  note: Ezekiel 20:13 and 20:21 repeat the clause; each is counted at its place.
+
+- id: ezek-20-12
+  at: EZE 20:12
+  speaker: god-through-prophet
+  group: headline
+  source: EXO 31:13
+  formula: וְגַם אֶת־שַׁבְּתוֹתַי נָתַתִּי לָהֶם
+  type: adapted
+  quote: שַׁבְּתוֹתַי … לְאוֹת בֵּינִי … לָדַעַת כִּי אֲנִי יְהוָה
+  source_words: שַׁבְּתֹתַי … אוֹת הִוא בֵּינִי … לָדַעַת כִּי אֲנִי יְהוָה
+  greek: partly
+
+- id: ezek-20-13
+  at: EZE 20:13
+  speaker: god-through-prophet
+  group: headline
+  source: LEV 18:5
+  type: direct
+  quote: וְאֶת מִשְׁפָּטַי … אֲשֶׁר יַעֲשֶׂה אֹתָם הָאָדָם וָחַי בָּהֶם
+  source_words: וְאֶת מִשְׁפָּטַי אֲשֶׁר יַעֲשֶׂה אֹתָם הָאָדָם וָחַי בָּהֶם
+  greek: yes
+
+- id: ezek-20-18
+  at: EZE 20:18-20
+  speaker: god-through-prophet
+  group: headline
+  source: LEV 18:3-4, LEV 19:30
+  formula: וָאֹמַר אֶל־בְּנֵיהֶם בַּמִּדְבָּר
+  type: paraphrase
+  quote: בְּחוּקֵּי אֲבוֹתֵיכֶם אַל תֵּלֵכוּ … אֲנִי יְהוָה אֱלֹהֵיכֶם בְּחֻקּוֹתַי לֵכוּ וְאֶת מִשְׁפָּטַי שִׁמְרוּ
+  source_words: וּבְחֻקֹּתֵיהֶם לֹא תֵלֵכוּ אֶת מִשְׁפָּטַי תַּעֲשׂוּ וְאֶת חֻקֹּתַי תִּשְׁמְרוּ … אֲנִי יְהוָה אֱלֹהֵיכֶם
+  greek: partly
+
+- id: ezek-20-21
+  at: EZE 20:21
+  speaker: god-through-prophet
+  group: headline
+  source: LEV 18:5
+  type: direct
+  quote: וְאֶת מִשְׁפָּטַי … אֲשֶׁר יַעֲשֶׂה … הָאָדָם וָחַי בָּהֶם
+  source_words: וְאֶת מִשְׁפָּטַי אֲשֶׁר יַעֲשֶׂה … הָאָדָם וָחַי בָּהֶם
+  greek: yes
+
+- id: ezek-20-23
+  at: EZE 20:23
+  speaker: god-through-prophet
+  group: headline
+  source: LEV 26:33
+  formula: גַּם־אֲנִי נָשָׂאתִי אֶת־יָדִי לָהֶם בַּמִּדְבָּר
+  type: paraphrase
+  quote: לְהָפִיץ אֹתָם בַּגּוֹיִם וּלְזָרוֹת אוֹתָם בָּאֲרָצוֹת
+  source_words: וְאֶתְכֶם אֱזָרֶה בַגּוֹיִם
+  greek: nolink
+
+- id: ezek-34-25
+  at: EZE 34:25-28
+  speaker: god-through-prophet
+  group: headline
+  source: LEV 26:4-6, LEV 26:13
+  type: adapted
+  quote: וְהִשְׁבַּתִּי חַיָּה רָעָה מִן הָאָרֶץ … וְנָתַן עֵץ הַשָּׂדֶה אֶת פִּרְיוֹ וְהָאָרֶץ תִּתֵּן יְבוּלָהּ … מֹטוֹת עֻלָּם … וְאֵין מַחֲרִיד
+  source_words: וְנָתְנָה הָאָרֶץ יְבוּלָהּ וְעֵץ הַשָּׂדֶה יִתֵּן פִּרְיוֹ … וְאֵין מַחֲרִיד וְהִשְׁבַּתִּי חַיָּה רָעָה מִן הָאָרֶץ … מֹטֹת עֻלְּכֶם
+  greek: yes
+  note: The blessings of Leviticus 26, phrase by phrase, in another order.
+
+- id: ezek-37-26
+  at: EZE 37:26-27
+  speaker: god-through-prophet
+  group: headline
+  source: LEV 26:11-12
+  type: adapted
+  quote: וְנָתַתִּי אֶת מִקְדָּשִׁי בְּתוֹכָם … וְהָיָה מִשְׁכָּנִי עֲלֵיהֶם וְהָיִיתִי לָהֶם לֵאלֹהִים וְהֵמָּה יִהְיוּ לִי לְעָם
+  source_words: וְנָתַתִּי מִשְׁכָּנִי בְּתוֹכְכֶם … וְהָיִיתִי לָכֶם לֵאלֹהִים וְאַתֶּם תִּהְיוּ לִי לְעָם
+  greek: partly
+  note: Paul gives these words as God's in 2 Corinthians 6:16 (see the appendix).
+
+- id: hos-13-4
+  at: HOS 13:4
+  speaker: god-through-prophet
+  group: headline
+  source: EXO 20:2-3
+  type: adapted
+  quote: וְאָנֹכִי יְהוָה אֱלֹהֶיךָ מֵאֶרֶץ מִצְרָיִם וֵאלֹהִים זוּלָתִי לֹא תֵדָע
+  source_words: אָנֹכִי יְהוָה אֱלֹהֶיךָ אֲשֶׁר הוֹצֵאתִיךָ מֵאֶרֶץ מִצְרַיִם … לֹא יִהְיֶה לְךָ אֱלֹהִים אֲחֵרִים
+  greek: yes
+  note: Hosea 12:10 has the first clause too.
+
+- id: joel-3-5
+  at: JOE 3:5
+  speaker: god-through-prophet
+  group: headline
+  source: OBA 1:17
+  formula: כַּאֲשֶׁר אָמַר יְהוָה
+  type: adapted
+  quote: בְּהַר צִיּוֹן … תִּהְיֶה פְלֵיטָה
+  source_words: וּבְהַר צִיּוֹן תִּהְיֶה פְלֵיטָה
+  greek: partly
+  note: '"As the LORD has said": the formula marks the clause as quoted. Joel 3:5 is English Joel 2:32.'
+
+- id: joel-4-10
+  at: JOE 4:10
+  speaker: god-through-prophet
+  group: headline
+  source: ISA 2:4, MIC 4:3
+  type: adapted
+  quote: כֹּתּוּ אִתֵּיכֶם לַחֲרָבוֹת וּמַזְמְרֹתֵיכֶם לִרְמָחִים
+  source_words: וְכִתְּתוּ חַרְבוֹתָם לְאִתִּים וַחֲנִיתוֹתֵיהֶם לְמַזְמֵרוֹת
+  greek: partly
+  note: The promise of Isaiah 2:4 and Micah 4:3 turned inside out, ploughshares into swords. Joel's book carries no date; Isaiah and Micah are dated by their first verses to the eighth century, and the reversal reads as a deliberate answer to them [inferred]. Joel 4:10 is English Joel 3:10.
+
+- id: nah-2-1
+  at: NAH 2:1
+  speaker: god-through-prophet
+  group: headline
+  source: ISA 52:7
+  type: adapted
+  quote: עַל הֶהָרִים רַגְלֵי מְבַשֵּׂר מַשְׁמִיעַ שָׁלוֹם
+  source_words: עַל הֶהָרִים רַגְלֵי מְבַשֵּׂר מַשְׁמִיעַ שָׁלוֹם
+  greek: partly
+  note: Nahum 2:1 is English Nahum 1:15. Isaiah is dated by its first verse to the kings from Uzziah to Hezekiah. Nahum's book carries no date; [context] the fall of Thebes, which it speaks of as past (3:8), happened in 663 BC, after Hezekiah. Many critics date Isaiah 52 after Nahum; this study follows the books' own superscriptions.
+
+- id: zeph-2-15
+  at: ZEP 2:15
+  speaker: god-through-prophet
+  group: headline
+  source: ISA 47:8
+  type: direct
+  quote: הַיּוֹשֶׁבֶת לָבֶטַח הָאֹמְרָה בִּלְבָבָהּ אֲנִי וְאַפְסִי עוֹד
+  source_words: הַיּוֹשֶׁבֶת לָבֶטַח הָאֹמְרָה בִּלְבָבָהּ אֲנִי וְאַפְסִי עוֹד
+  greek: yes
+  note: Babylon's boast in Isaiah, put in Nineveh's mouth. [context] As with Nahum, critics who date Isaiah 47 to the exile reverse the direction; this study follows the superscriptions (Isaiah 1:1; Zephaniah 1:1).
+
+- id: zech-1-4
+  at: ZEC 1:4
+  speaker: god-through-prophet
+  group: headline
+  source: JER 25:5, JER 35:15, JER 18:11
+  lxx_source: JER 25:5, JER 42:15, JER 18:11
+  formula: אֲשֶׁר קָרְאוּ־אֲלֵיהֶם הַנְּבִיאִים הָרִאשֹׁנִים לֵאמֹר
+  type: adapted
+  quote: לֵאמֹר כֹּה אָמַר יְהוָה צְבָאוֹת שׁוּבוּ נָא מִדַּרְכֵיכֶם הָרָעִים
+  source_words: לֵאמֹר שׁוּבוּ נָא אִישׁ מִדַּרְכּוֹ הָרָעָה
+  greek: partly
+  note: '"The former prophets cried": the LORD quotes their message, in the words Jeremiah gives it.'
+
+- id: zech-7-9
+  at: ZEC 7:9-10
+  speaker: god-through-prophet
+  group: headline
+  source: JER 7:5-6, JER 22:3
+  formula: אֲשֶׁר קָרָא יְהוָה בְּיַד הַנְּבִיאִים הָרִאשֹׁנִים (7:7)
+  type: paraphrase
+  quote: וְאַלְמָנָה וְיָתוֹם גֵּר וְעָנִי אַל תַּעֲשֹׁקוּ
+  source_words: גֵּר יָתוֹם וְאַלְמָנָה לֹא תַעֲשֹׁקוּ
+  greek: partly
+  note: Verse 7 calls these "the words the LORD proclaimed by the former prophets"; the summary that follows is in other words than any one of them.
+
+- id: zech-9-10
+  at: ZEC 9:10
+  speaker: god-through-prophet
+  group: headline
+  source: PSA 72:8
+  lxx_source: PSA 71:8
+  type: direct
+  quote: מִיָּם עַד יָם וּמִנָּהָר עַד אַפְסֵי אָרֶץ
+  source_words: מִיָּם עַד יָם וּמִנָּהָר עַד אַפְסֵי אָרֶץ
+  greek: partly
+  note: The Psalm's line on the king's dominion, word for word in the Hebrew; the Septuagint renders the second half differently in each place.
+
+- id: zech-13-9
+  at: ZEC 13:9
+  speaker: god-through-prophet
+  group: headline
+  source: HOS 2:25
+  type: adapted
+  borderline: true
+  quote: אָמַרְתִּי עַמִּי הוּא וְהוּא יֹאמַר יְהוָה אֱלֹהָי
+  source_words: וְאָמַרְתִּי לְלֹא עַמִּי עַמִּי אַתָּה וְהוּא יֹאמַר אֱלֹהָי
+  greek: yes
+  note: Hosea 2:25 is English 2:23. In the Greek the link is closer than in the Hebrew, since the Septuagint of Hosea also reads Κύριος ὁ Θεός μου.
+
+- id: mal-3-7
+  at: MAL 3:7
+  speaker: god-through-prophet
+  group: headline
+  source: ZEC 1:3
+  type: adapted
+  quote: שׁוּבוּ אֵלַי … אֲלֵיכֶם אָמַר יְהוָה צְבָאוֹת
+  source_words: שׁוּבוּ אֵלַי … אֲלֵיכֶם אָמַר יְהוָה צְבָאוֹת
+  greek: yes
+
+- id: mal-3-23
+  at: MAL 3:23
+  speaker: god-through-prophet
+  group: headline
+  source: JOE 3:4
+  lxx: MAL 3:22
+  type: direct
+  quote: לִפְנֵי בּוֹא יוֹם יְהוָה הַגָּדוֹל וְהַנּוֹרָא
+  source_words: לִפְנֵי בּוֹא יוֹם יְהוָה הַגָּדוֹל וְהַנּוֹרָא
+  greek: yes
+  note: Malachi 3:23 is English Malachi 4:5, and Joel 3:4 is English Joel 2:31. Joel's book carries no date; it stands before Malachi in the Hebrew and Greek order of the Twelve, and Malachi is taken as the later [inferred].
+
+# ================================================================ Restatements within the Pentateuch
+
+- id: gen-3-17
+  at: GEN 3:17
+  speaker: god-ot
+  group: torah
+  source: GEN 2:17
+  formula: אֲשֶׁר צִוִּיתִיךָ לֵאמֹר
+  type: direct
+  quote: לֹא תֹאכַל מִמֶּנּוּ
+  source_words: לֹא תֹאכַל מִמֶּנּוּ
+  greek: partly
+
+- id: gen-26-3
+  at: GEN 26:3-5
+  speaker: god-ot
+  group: torah
+  source: GEN 22:16-18
+  formula: וַהֲקִמֹתִי אֶת־הַשְּׁבֻעָה אֲשֶׁר נִשְׁבַּעְתִּי לְאַבְרָהָם אָבִיךָ
+  type: adapted
+  quote: אֶת זַרְעֲךָ כְּכוֹכְבֵי הַשָּׁמַיִם … וְהִתְבָּרֲכוּ בְזַרְעֲךָ כֹּל גּוֹיֵי הָאָרֶץ עֵקֶב אֲשֶׁר
+  source_words: אֶת זַרְעֲךָ כְּכוֹכְבֵי הַשָּׁמַיִם … וְהִתְבָּרֲכוּ בְזַרְעֲךָ כֹּל גּוֹיֵי הָאָרֶץ עֵקֶב אֲשֶׁר
+  greek: yes
+
+- id: exod-33-1
+  at: EXO 33:1
+  speaker: god-ot
+  group: torah
+  source: GEN 12:7
+  formula: אֲשֶׁר נִשְׁבַּעְתִּי לְאַבְרָהָם לְיִצְחָק וּלְיַעֲקֹב לֵאמֹר
+  type: adapted
+  quote: לְזַרְעֲךָ אֶתְּנֶנָּה
+  source_words: לְזַרְעֲךָ אֶתֵּן
+  greek: partly
+
+- id: lev-20-24
+  at: LEV 20:24
+  speaker: god-ot
+  group: torah
+  source: EXO 3:8
+  formula: וָאֹמַר לָכֶם
+  type: paraphrase
+  quote: אֶרֶץ זָבַת חָלָב וּדְבָשׁ
+  source_words: אֶרֶץ זָבַת חָלָב וּדְבָשׁ
+  greek: yes
+
+- id: deut-34-4
+  at: DEU 34:4
+  speaker: god-ot
+  group: torah
+  source: GEN 12:7
+  formula: אֲשֶׁר נִשְׁבַּעְתִּי לְאַבְרָהָם לְיִצְחָק וּלְיַעֲקֹב לֵאמֹר
+  type: adapted
+  quote: לְזַרְעֲךָ אֶתְּנֶנָּה
+  source_words: לְזַרְעֲךָ אֶתֵּן
+  greek: partly
+
+# ================================================================ Repetitions within one book
+
+- id: isa-65-25
+  at: ISA 65:25
+  speaker: god-through-prophet
+  group: intra-book
+  source: ISA 11:6-9
+  type: adapted
+  quote: וְאַרְיֵה כַּבָּקָר יֹאכַל תֶּבֶן … לֹא יָרֵעוּ וְלֹא יַשְׁחִיתוּ בְּכָל הַר קָדְשִׁי
+  source_words: וְאַרְיֵה כַּבָּקָר יֹאכַל תֶּבֶן … לֹא יָרֵעוּ וְלֹא יַשְׁחִיתוּ בְּכָל הַר קָדְשִׁי
+  greek: partly
+
+- id: jer-8-10
+  at: JER 8:10-12
+  speaker: god-through-prophet
+  group: intra-book
+  source: JER 6:12-15
+  type: direct
+  quote: עַמִּי עַל נְקַלָּה לֵאמֹר שָׁלוֹם שָׁלוֹם וְאֵין שָׁלוֹם
+  source_words: עַמִּי עַל נְקַלָּה לֵאמֹר שָׁלוֹם שָׁלוֹם וְאֵין שָׁלוֹם
+  lxx: JER 8:10
+  greek: absent
+  note: The Septuagint has only the first half of 8:10, without the repeated lines.
+
+- id: jer-23-7
+  at: JER 23:7-8
+  speaker: god-through-prophet
+  group: intra-book
+  source: JER 16:14-15
+  lxx: JER 23:40a, JER 23:40b
+  type: direct
+  quote: לָכֵן הִנֵּה יָמִים בָּאִים נְאֻם יְהוָה וְלֹא … עוֹד חַי יְהוָה אֲשֶׁר הֶעֱלָה אֶת בְּנֵי יִשְׂרָאֵל מֵאֶרֶץ מִצְרָיִם
+  source_words: לָכֵן הִנֵּה יָמִים בָּאִים נְאֻם יְהוָה וְלֹא … עוֹד חַי יְהוָה אֲשֶׁר הֶעֱלָה אֶת בְּנֵי יִשְׂרָאֵל מֵאֶרֶץ מִצְרָיִם
+  greek: yes
+  note: The Septuagint has these two verses at the end of the chapter, after 23:40.
+
+- id: jer-30-23
+  at: JER 30:23-24
+  speaker: god-through-prophet
+  group: intra-book
+  source: JER 23:19-20
+  lxx: JER 37:23-24
+  type: direct
+  quote: הִנֵּה סַעֲרַת יְהוָה חֵמָה יָצְאָה … עַל רֹאשׁ רְשָׁעִים יָחוּל לֹא יָשׁוּב
+  source_words: הִנֵּה סַעֲרַת יְהוָה חֵמָה יָצְאָה … עַל רֹאשׁ רְשָׁעִים יָחוּל לֹא יָשׁוּב
+  greek: partly
+
+- id: jer-46-27
+  at: JER 46:27-28
+  speaker: god-through-prophet
+  group: intra-book
+  source: JER 30:10-11
+  lxx: JER 26:27-28
+  lxx_source: —
+  type: direct
+  quote: וְאַתָּה אַל תִּירָא עַבְדִּי יַעֲקֹב וְאַל תֵּחַת יִשְׂרָאֵל כִּי הִנְנִי
+  source_words: וְאַתָּה אַל תִּירָא עַבְדִּי יַעֲקֹב … וְאַל תֵּחַת יִשְׂרָאֵל כִּי הִנְנִי
+  greek: source-absent
+  note: The Septuagint has these words only once, here; it lacks Jeremiah 30:10-11.
+
+- id: jer-50-41
+  at: JER 50:41-43
+  speaker: god-through-prophet
+  group: intra-book
+  source: JER 6:22-24
+  lxx: JER 27:41-43
+  type: adapted
+  quote: הִנֵּה עַם בָּא … וְגוֹי גָּדוֹל … מִיַּרְכְּתֵי אָרֶץ קֶשֶׁת
+  source_words: הִנֵּה עַם בָּא … וְגוֹי גָּדוֹל … מִיַּרְכְּתֵי אָרֶץ קֶשֶׁת
+  greek: yes
+  note: The oracle against Zion turned against Babylon ("against you, daughter of Babylon").
+
+- id: jer-50-44
+  at: JER 50:44-46
+  speaker: god-through-prophet
+  group: intra-book
+  source: JER 49:19-21
+  lxx: JER 27:44-46
+  lxx_source: JER 30:13-15
+  type: adapted
+  quote: הִנֵּה כְּאַרְיֵה יַעֲלֶה מִגְּאוֹן הַיַּרְדֵּן אֶל נְוֵה אֵיתָן
+  source_words: הִנֵּה כְּאַרְיֵה יַעֲלֶה מִגְּאוֹן הַיַּרְדֵּן אֶל נְוֵה אֵיתָן
+  greek: yes
+  note: The oracle against Edom turned against Babylon.
+
+- id: ezek-33-11
+  at: EZE 33:11
+  speaker: god-through-prophet
+  group: intra-book
+  source: EZE 18:23, EZE 18:32
+  type: adapted
+  quote: אֶחְפֹּץ בְּמוֹת
+  source_words: אֶחְפֹּץ מוֹת
+  greek: partly
+
+- id: ps-108-8
+  at: PSA 108:8-10
+  speaker: god-ot
+  group: intra-book
+  source: PSA 60:8-10
+  lxx: PSA 107:8-10
+  lxx_source: PSA 59:8-10
+  type: direct
+  quote: אֱלֹהִים דִּבֶּר בְּקָדְשׁוֹ אֶעְלֹזָה אֲחַלְּקָה שְׁכֶם וְעֵמֶק סֻכּוֹת אֲמַדֵּד
+  source_words: אֱלֹהִים דִּבֶּר בְּקָדְשׁוֹ אֶעְלֹזָה אֲחַלְּקָה שְׁכֶם וְעֵמֶק סֻכּוֹת אֲמַדֵּד
+  greek: yes
+  note: '"God has spoken in his holiness": the oracle the Psalmist reports in Psalm 60, reported again in Psalm 108 (108:8-10 is English 108:7-9).'
+
+# ================================================================ Parallel oracles
+
+- id: mic-4-1
+  at: MIC 4:1-3
+  speaker: god-through-prophet
+  group: parallel
+  source: ISA 2:2-4
+  type: direct
+  quote: וְהָיָה בְּאַחֲרִית הַיָּמִים … כִּי מִצִּיּוֹן תֵּצֵא תוֹרָה וּדְבַר יְהוָה מִירוּשָׁלִָם
+  source_words: וְהָיָה בְּאַחֲרִית הַיָּמִים … כִּי מִצִּיּוֹן תֵּצֵא תוֹרָה וּדְבַר יְהוָה מִירוּשָׁלִָם
+  greek: yes
+  note: Isaiah and Micah were contemporaries (Isaiah 1:1; Micah 1:1); neither text says which spoke first.
+
+- id: oba-1
+  at: OBA 1:1-5
+  speaker: god-through-prophet
+  group: parallel
+  source: JER 49:9, JER 49:14-16
+  lxx_source: JER 30:3, JER 30:8-10
+  type: adapted
+  quote: הִנֵּה קָטֹן נְתַתִּיךָ בַּגּוֹיִם בָּזוּי … מִשָּׁם אוֹרִידְךָ נְאֻם יְהוָה
+  source_words: הִנֵּה קָטֹן נְתַתִּיךָ בַּגּוֹיִם בָּזוּי … מִשָּׁם אוֹרִידְךָ נְאֻם יְהוָה
+  greek: partly
+  note: Obadiah's book carries no date.
+
+- id: joel-4-16
+  at: JOE 4:16
+  speaker: god-through-prophet
+  group: parallel
+  source: AMO 1:2
+  type: direct
+  quote: מִצִּיּוֹן יִשְׁאָג וּמִירוּשָׁלִַם יִתֵּן קוֹלוֹ
+  source_words: מִצִיּוֹן יִשְׁאָג וּמִירוּשָׁלִַם יִתֵּן קוֹלוֹ
+  greek: yes
+
+- id: joel-4-18
+  at: JOE 4:18
+  speaker: god-through-prophet
+  group: parallel
+  source: AMO 9:13
+  type: adapted
+  quote: הֶהָרִים עָסִיס
+  source_words: הֶהָרִים עָסִיס
+  greek: partly
+
+- id: isa-41-18
+  at: ISA 41:18
+  speaker: god-through-prophet
+  group: parallel
+  source: PSA 107:35
+  lxx_source: PSA 106:35
+  type: adapted
+  quote: מִדְבָּר לַאֲגַם מַיִם וְאֶרֶץ צִיָּה
+  source_words: מִדְבָּר לַאֲגַם מַיִם וְאֶרֶץ צִיָּה
+  greek: partly
+  note: Psalm 107 has no superscription to date it.

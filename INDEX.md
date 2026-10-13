@@ -93,6 +93,7 @@ taken it into account. How to add one is at the top of
 | --- | --- |
 | [Theologians and teachers on the canon and the text](theologians/README.md) | [canon-in-the-theologians](analysis/canon-in-the-theologians.md) |
 | [The preservation passages of Scripture, with the Hebrew, Greek and English texts](scripture/preservation/passages.md) | [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
+| [Where God quotes Scripture, with the Greek and Hebrew texts and the witnesses compared](scripture/divine-quotations/quotations.md) | [god-quoting-scripture](analysis/god-quoting-scripture/README.md) |
 
 ## Studies
 
@@ -102,6 +103,7 @@ taken it into account. How to add one is at the top of
 | [The Canon of Scripture in the Theologians](analysis/canon-in-the-theologians.md) | `canon-in-the-theologians` | What the theologians and teachers in theologians/ say about the canon and the text. No confessional documents. |
 | [The Preservation of Scripture in Scripture and in the Confessions](analysis/preservation-of-scripture/README.md) | `preservation-of-scripture` | Scripture's claims that God's word endures, categorized and assessed, with every confession measured against them. 23 documents in the repository, 2 not in it. |
 | [Preserved in Hebrew or in Greek? Scripture's Preservation Claims Tested Against the History of Its Text](analysis/preservation-hebrew-and-greek.md) | `preservation-hebrew-and-greek` | The strength of the preservation claims grounded in the Hebrew text or in the Septuagint; section 9 covers only the confessions' claims about the Hebrew and Greek text. 17 documents in the repository, 3 not in it. |
+| [God Quoting Scripture](analysis/god-quoting-scripture/README.md) | `god-quoting-scripture` | Every place where God, the Father, the Son or the Spirit, quotes earlier Scripture, counted by type and compared with the Septuagint, its other witnesses and the Hebrew. No confessional documents. |
 
 ## Coverage
 
