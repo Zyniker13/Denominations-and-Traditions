@@ -57,6 +57,19 @@ Testament and three Greek editions of the New.
   compares how strong they are when grounded in the Hebrew (Masoretic) text
   and when grounded in the Greek Septuagint.
 
+## God Quoting Scripture
+
+[scripture/divine-quotations/](scripture/divine-quotations/README.md) lists
+every place where God himself speaks the words of earlier Scripture: Jesus in
+the Gospels and in Revelation, the Father's voice from heaven, God on the
+throne, and in the Old Testament the LORD repeating an earlier book. Each
+entry gives the Greek of three editions of the New Testament, the Hebrew,
+Brenton's and Swete's Septuagint, and the readings of the other Greek
+witnesses where they decide the match.
+[analysis/god-quoting-scripture/](analysis/god-quoting-scripture/README.md)
+counts them by speaker and type, and sets out which text each one stands
+closer to: the Septuagint, another Greek witness, or the Hebrew.
+
 ## Index
 
 [INDEX.md](INDEX.md) lists every confession, collection and study, and shows
@@ -70,7 +83,7 @@ index lists the studies that have not yet taken it into account.
 confessions/          rendered Markdown, one file per document, by tradition
 theologians/          the teachers' writings on the canon and text, by tradition and author
 scripture/            collections of Scripture passages, with Hebrew, Greek and English texts
-analysis/             studies of the canon, and of the preservation of the text
+analysis/             studies of the canon, of the preservation of the text, and of God's quotations of Scripture
 sources/              vendored upstream data the Markdown is built from, with its license
 tools/                scripts that regenerate the generated files
 catalog.yaml          every document, collection and study, and what each study covers
@@ -97,4 +110,10 @@ the index:
 ```
 python3 tools/build_preservation.py
 python3 tools/build_index.py
+```
+
+To regenerate the divine quotations:
+
+```
+python3 tools/build_divine_quotations.py
 ```

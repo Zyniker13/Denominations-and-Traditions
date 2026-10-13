@@ -255,6 +255,9 @@ collections:
   - id: preservation-passages
     title: The preservation passages of Scripture, with the Hebrew, Greek and English texts
     path: scripture/preservation/passages.md
+  - id: divine-quotations
+    title: Where God quotes Scripture, with the Greek and Hebrew texts and the witnesses compared
+    path: scripture/divine-quotations/quotations.md
 
 studies:
   - id: canon-in-the-confessions
@@ -291,3 +294,9 @@ studies:
     collections: [preservation-passages]
     tracked: true
     scope: The strength of the preservation claims grounded in the Hebrew text or in the Septuagint; section 9 covers only the confessions' claims about the Hebrew and Greek text
+  - id: god-quoting-scripture
+    title: God Quoting Scripture
+    path: analysis/god-quoting-scripture/README.md
+    covers: []
+    collections: [divine-quotations]
+    scope: Every place where God, the Father, the Son or the Spirit, quotes earlier Scripture, counted by type and compared with the Septuagint, its other witnesses and the Hebrew
