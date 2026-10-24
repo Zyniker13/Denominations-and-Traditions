@@ -272,6 +272,8 @@ class Swete:
             for i in range(0, max(1, len(norm) - length + 1)):
                 c = collections.Counter(norm[i:i + length])
                 score = sum((c & tc).values()) - 0.01 * abs(length - n)
+                # break ties (the same words at both ends of a verse) by where the span starts and ends
+                score += 0.001 * ((norm[i] == t[0]) + (norm[min(i + length, len(norm)) - 1] == t[-1]))
                 if score > best[0]:
                     best = (score, i, length)
         _, i, length = best

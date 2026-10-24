@@ -21,16 +21,16 @@ taken it into account. How to add one is at the top of
 
 | Document | Kind | Studied in |
 | --- | --- | --- |
-| [The Nicene Creed](confessions/ecumenical-creeds/nicene-creed.md) | creed | [preservation-of-scripture](analysis/preservation-of-scripture/README.md) |
-| [The Athanasian Creed](confessions/ecumenical-creeds/athanasian-creed.md) | creed | [preservation-of-scripture](analysis/preservation-of-scripture/README.md) |
+| [The Nicene Creed](confessions/ecumenical-creeds/nicene-creed.md) | creed | [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
+| [The Athanasian Creed](confessions/ecumenical-creeds/athanasian-creed.md) | creed | [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
 
 ### Continental Reformed
 
 | Document | Kind | Studied in |
 | --- | --- | --- |
-| [The Belgic Confession (1561)](confessions/reformed/continental/three-forms-of-unity/belgic-confession.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
-| [The Heidelberg Catechism (1563)](confessions/reformed/continental/three-forms-of-unity/heidelberg-catechism.md) | catechism | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
-| [The Canons of Dort (1618–1619)](confessions/reformed/continental/three-forms-of-unity/canons-of-dort.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
+| [The Belgic Confession (1561)](confessions/reformed/continental/three-forms-of-unity/belgic-confession.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
+| [The Heidelberg Catechism (1563)](confessions/reformed/continental/three-forms-of-unity/heidelberg-catechism.md) | catechism | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
+| [The Canons of Dort (1618–1619)](confessions/reformed/continental/three-forms-of-unity/canons-of-dort.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
 | The French (Gallican) Confession (1559) *(not in the repository)* | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
 | The First Helvetic Confession (1536) *(not in the repository)* | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md) |
 | The Second Helvetic Confession (1566) *(not in the repository)* | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md) |
@@ -40,9 +40,9 @@ taken it into account. How to add one is at the top of
 
 | Document | Kind | Studied in |
 | --- | --- | --- |
-| [The Westminster Confession of Faith (1646)](confessions/reformed/presbyterian/westminster-standards/westminster-confession-of-faith.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
-| [The Westminster Larger Catechism (1647)](confessions/reformed/presbyterian/westminster-standards/westminster-larger-catechism.md) | catechism | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md) |
-| [The Westminster Shorter Catechism (1647)](confessions/reformed/presbyterian/westminster-standards/westminster-shorter-catechism.md) | catechism | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md) |
+| [The Westminster Confession of Faith (1646)](confessions/reformed/presbyterian/westminster-standards/westminster-confession-of-faith.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
+| [The Westminster Larger Catechism (1647)](confessions/reformed/presbyterian/westminster-standards/westminster-larger-catechism.md) | catechism | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
+| [The Westminster Shorter Catechism (1647)](confessions/reformed/presbyterian/westminster-standards/westminster-shorter-catechism.md) | catechism | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
 | [The Form of Presbyterial Church Government (1645)](confessions/reformed/presbyterian/westminster-standards/form-of-presbyterial-church-government.md) | church order | [canon-in-the-confessions](analysis/canon-in-the-confessions.md) |
 | [The Directory for the Publick Worship of God (1645)](confessions/reformed/presbyterian/westminster-standards/directory-for-the-publick-worship-of-god.md) | church order | [canon-in-the-confessions](analysis/canon-in-the-confessions.md) |
 | [The Directory for Family Worship (1647)](confessions/reformed/presbyterian/westminster-standards/directory-for-family-worship.md) | church order | — |
@@ -50,50 +50,51 @@ taken it into account. How to add one is at the top of
 | [The Solemn League and Covenant (1643)](confessions/reformed/presbyterian/westminster-standards/solemn-league-and-covenant.md) | companion | — |
 | [To the Christian Reader, Especially Heads of Families](confessions/reformed/presbyterian/westminster-standards/to-the-christian-reader.md) | companion | — |
 | [Mr. Thomas Manton's Epistle to the Reader](confessions/reformed/presbyterian/westminster-standards/epistle-to-the-reader.md) | companion | — |
-| [The Scots Confession (1560)](confessions/reformed/presbyterian/scots-confession.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
+| [The Scots Confession (1560)](confessions/reformed/presbyterian/scots-confession.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
 
 ### Anglican
 
 | Document | Kind | Studied in |
 | --- | --- | --- |
-| [The Thirty-Nine Articles (1571)](confessions/reformed/anglican/thirty-nine-articles.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
+| [The Thirty-Nine Articles (1571)](confessions/reformed/anglican/thirty-nine-articles.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
 | The Irish Articles (1615) *(not in the repository)* | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
 
 ### Congregational
 
 | Document | Kind | Studied in |
 | --- | --- | --- |
-| [The Savoy Declaration (1658)](confessions/reformed/congregational/savoy-declaration.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
+| [The Savoy Declaration (1658)](confessions/reformed/congregational/savoy-declaration.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
 
 ### Reformed Baptist
 
 | Document | Kind | Studied in |
 | --- | --- | --- |
-| [The Second London Baptist Confession (1677/1689)](confessions/reformed/reformed-baptist/second-london-baptist-confession-1689.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
-| [Keach's Catechism (1693)](confessions/reformed/reformed-baptist/keachs-catechism.md) | catechism | [preservation-of-scripture](analysis/preservation-of-scripture/README.md) |
+| [The Second London Baptist Confession (1677/1689)](confessions/reformed/reformed-baptist/second-london-baptist-confession-1689.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
+| [Keach's Catechism (1693)](confessions/reformed/reformed-baptist/keachs-catechism.md) | catechism | [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
 
 ### Lutheran
 
 | Document | Kind | Studied in |
 | --- | --- | --- |
-| [Preface to the Christian Book of Concord (1580)](confessions/lutheran/book-of-concord/preface.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
-| [The Three Ecumenical Creeds (Book of Concord)](confessions/lutheran/book-of-concord/ecumenical-creeds.md) | creed | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md) |
-| [The Augsburg Confession (1530)](confessions/lutheran/book-of-concord/augsburg-confession.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
-| [The Apology of the Augsburg Confession (1531)](confessions/lutheran/book-of-concord/apology-of-the-augsburg-confession.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
-| [The Smalcald Articles (1537)](confessions/lutheran/book-of-concord/smalcald-articles.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
-| [Treatise on the Power and Primacy of the Pope (1537)](confessions/lutheran/book-of-concord/treatise-on-the-power-and-primacy-of-the-pope.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
-| [The Small Catechism (1529)](confessions/lutheran/book-of-concord/small-catechism.md) | catechism | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
-| [The Large Catechism (1529)](confessions/lutheran/book-of-concord/large-catechism.md) | catechism | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
-| [The Formula of Concord, Epitome (1577)](confessions/lutheran/book-of-concord/formula-of-concord-epitome.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
-| [The Formula of Concord, Solid Declaration (1577)](confessions/lutheran/book-of-concord/formula-of-concord-solid-declaration.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
+| [Preface to the Christian Book of Concord (1580)](confessions/lutheran/book-of-concord/preface.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
+| [The Three Ecumenical Creeds (Book of Concord)](confessions/lutheran/book-of-concord/ecumenical-creeds.md) | creed | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
+| [The Augsburg Confession (1530)](confessions/lutheran/book-of-concord/augsburg-confession.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
+| [The Apology of the Augsburg Confession (1531)](confessions/lutheran/book-of-concord/apology-of-the-augsburg-confession.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
+| [The Smalcald Articles (1537)](confessions/lutheran/book-of-concord/smalcald-articles.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
+| [Treatise on the Power and Primacy of the Pope (1537)](confessions/lutheran/book-of-concord/treatise-on-the-power-and-primacy-of-the-pope.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
+| [The Small Catechism (1529)](confessions/lutheran/book-of-concord/small-catechism.md) | catechism | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
+| [The Large Catechism (1529)](confessions/lutheran/book-of-concord/large-catechism.md) | catechism | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
+| [The Formula of Concord, Epitome (1577)](confessions/lutheran/book-of-concord/formula-of-concord-epitome.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
+| [The Formula of Concord, Solid Declaration (1577)](confessions/lutheran/book-of-concord/formula-of-concord-solid-declaration.md) | confession | [canon-in-the-confessions](analysis/canon-in-the-confessions.md), [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
 
 ## Collections
 
 | Collection | Used by |
 | --- | --- |
-| [Theologians and teachers on the canon and the text](theologians/README.md) | [canon-in-the-theologians](analysis/canon-in-the-theologians.md) |
+| [Theologians and teachers on the canon, the text and the last things](theologians/README.md) | [canon-in-the-theologians](analysis/canon-in-the-theologians.md), [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
 | [The preservation passages of Scripture, with the Hebrew, Greek and English texts](scripture/preservation/passages.md) | [preservation-of-scripture](analysis/preservation-of-scripture/README.md), [preservation-hebrew-and-greek](analysis/preservation-hebrew-and-greek.md) |
 | [Where God quotes Scripture, with the Greek and Hebrew texts and the witnesses compared](scripture/divine-quotations/quotations.md) | [god-quoting-scripture](analysis/god-quoting-scripture/README.md) |
+| [The passages on the heavens, the final state, the new heavens and earth and the resurrection, with the Hebrew, Greek and English texts](scripture/last-things/passages.md) | [heaven-and-resurrection](analysis/heaven-and-resurrection/README.md) |
 
 ## Studies
 
@@ -104,6 +105,7 @@ taken it into account. How to add one is at the top of
 | [The Preservation of Scripture in Scripture and in the Confessions](analysis/preservation-of-scripture/README.md) | `preservation-of-scripture` | Scripture's claims that God's word endures, categorized and assessed, with every confession measured against them. 23 documents in the repository, 2 not in it. |
 | [Preserved in Hebrew or in Greek? Scripture's Preservation Claims Tested Against the History of Its Text](analysis/preservation-hebrew-and-greek.md) | `preservation-hebrew-and-greek` | The strength of the preservation claims grounded in the Hebrew text or in the Septuagint; section 9 covers only the confessions' claims about the Hebrew and Greek text. 17 documents in the repository, 3 not in it. |
 | [God Quoting Scripture](analysis/god-quoting-scripture/README.md) | `god-quoting-scripture` | Every place where God, the Father, the Son or the Spirit, quotes earlier Scripture, counted by type and compared with the Septuagint, its other witnesses and the Hebrew. No confessional documents. |
+| [Heaven, the New Earth and the Resurrection of the Body](analysis/heaven-and-resurrection/README.md) | `heaven-and-resurrection` | The historical Reformed teaching on the third heaven, the final destination of the Christian, the new heavens and earth and the resurrection of the flesh, set against the Greek and Hebrew, the Jewish sources and the orthodox Lutherans. 23 documents in the repository. |
 
 ## Coverage
 
@@ -111,36 +113,36 @@ Studies marked `tracked` in the catalog are meant to cover every confession.
 ✓ means the study covers the document; ○ means it discusses a document
 that is not in the repository; a blank means it does not cover it.
 
-| Document | `canon-in-the-confessions` | `preservation-of-scripture` | `preservation-hebrew-and-greek` |
-| --- | :---: | :---: | :---: |
-| The Nicene Creed |  | ✓ |  |
-| The Athanasian Creed |  | ✓ |  |
-| The Belgic Confession (1561) | ✓ | ✓ | ✓ |
-| The Heidelberg Catechism (1563) | ✓ | ✓ | ✓ |
-| The Canons of Dort (1618–1619) | ✓ | ✓ | ✓ |
-| The French (Gallican) Confession (1559) *(not in the repository)* | ○ |  | ○ |
-| The First Helvetic Confession (1536) *(not in the repository)* | ○ |  |  |
-| The Second Helvetic Confession (1566) *(not in the repository)* | ○ |  |  |
-| The Helvetic Consensus Formula (1675) *(not in the repository)* | ○ | ○ | ○ |
-| The Westminster Confession of Faith (1646) | ✓ | ✓ | ✓ |
-| The Westminster Larger Catechism (1647) | ✓ | ✓ |  |
-| The Westminster Shorter Catechism (1647) | ✓ | ✓ |  |
-| The Scots Confession (1560) | ✓ | ✓ | ✓ |
-| The Thirty-Nine Articles (1571) | ✓ | ✓ | ✓ |
-| The Irish Articles (1615) *(not in the repository)* | ○ | ○ | ○ |
-| The Savoy Declaration (1658) | ✓ | ✓ | ✓ |
-| The Second London Baptist Confession (1677/1689) | ✓ | ✓ | ✓ |
-| Keach's Catechism (1693) |  | ✓ |  |
-| Preface to the Christian Book of Concord (1580) | ✓ | ✓ | ✓ |
-| The Three Ecumenical Creeds (Book of Concord) | ✓ | ✓ |  |
-| The Augsburg Confession (1530) | ✓ | ✓ | ✓ |
-| The Apology of the Augsburg Confession (1531) | ✓ | ✓ | ✓ |
-| The Smalcald Articles (1537) | ✓ | ✓ | ✓ |
-| Treatise on the Power and Primacy of the Pope (1537) | ✓ | ✓ | ✓ |
-| The Small Catechism (1529) | ✓ | ✓ | ✓ |
-| The Large Catechism (1529) | ✓ | ✓ | ✓ |
-| The Formula of Concord, Epitome (1577) | ✓ | ✓ | ✓ |
-| The Formula of Concord, Solid Declaration (1577) | ✓ | ✓ | ✓ |
+| Document | `canon-in-the-confessions` | `preservation-of-scripture` | `preservation-hebrew-and-greek` | `heaven-and-resurrection` |
+| --- | :---: | :---: | :---: | :---: |
+| The Nicene Creed |  | ✓ |  | ✓ |
+| The Athanasian Creed |  | ✓ |  | ✓ |
+| The Belgic Confession (1561) | ✓ | ✓ | ✓ | ✓ |
+| The Heidelberg Catechism (1563) | ✓ | ✓ | ✓ | ✓ |
+| The Canons of Dort (1618–1619) | ✓ | ✓ | ✓ | ✓ |
+| The French (Gallican) Confession (1559) *(not in the repository)* | ○ |  | ○ |  |
+| The First Helvetic Confession (1536) *(not in the repository)* | ○ |  |  |  |
+| The Second Helvetic Confession (1566) *(not in the repository)* | ○ |  |  |  |
+| The Helvetic Consensus Formula (1675) *(not in the repository)* | ○ | ○ | ○ |  |
+| The Westminster Confession of Faith (1646) | ✓ | ✓ | ✓ | ✓ |
+| The Westminster Larger Catechism (1647) | ✓ | ✓ |  | ✓ |
+| The Westminster Shorter Catechism (1647) | ✓ | ✓ |  | ✓ |
+| The Scots Confession (1560) | ✓ | ✓ | ✓ | ✓ |
+| The Thirty-Nine Articles (1571) | ✓ | ✓ | ✓ | ✓ |
+| The Irish Articles (1615) *(not in the repository)* | ○ | ○ | ○ |  |
+| The Savoy Declaration (1658) | ✓ | ✓ | ✓ | ✓ |
+| The Second London Baptist Confession (1677/1689) | ✓ | ✓ | ✓ | ✓ |
+| Keach's Catechism (1693) |  | ✓ |  | ✓ |
+| Preface to the Christian Book of Concord (1580) | ✓ | ✓ | ✓ | ✓ |
+| The Three Ecumenical Creeds (Book of Concord) | ✓ | ✓ |  | ✓ |
+| The Augsburg Confession (1530) | ✓ | ✓ | ✓ | ✓ |
+| The Apology of the Augsburg Confession (1531) | ✓ | ✓ | ✓ | ✓ |
+| The Smalcald Articles (1537) | ✓ | ✓ | ✓ | ✓ |
+| Treatise on the Power and Primacy of the Pope (1537) | ✓ | ✓ | ✓ | ✓ |
+| The Small Catechism (1529) | ✓ | ✓ | ✓ | ✓ |
+| The Large Catechism (1529) | ✓ | ✓ | ✓ | ✓ |
+| The Formula of Concord, Epitome (1577) | ✓ | ✓ | ✓ | ✓ |
+| The Formula of Concord, Solid Declaration (1577) | ✓ | ✓ | ✓ | ✓ |
 
 ### Gaps
 

@@ -144,7 +144,8 @@ def fetch_edition(code, refresh):
     if refresh or not os.path.exists(path):
         url = f"https://ebible.org/Scriptures/{code}_vpl.zip"
         print(f"fetching {url}")
-        data = urllib.request.urlopen(url, timeout=120).read()
+        req = urllib.request.Request(url, headers={"User-Agent": "curl/8.5.0"})  # eBible refuses urllib's default agent
+        data = urllib.request.urlopen(req, timeout=120).read()
         with zipfile.ZipFile(io.BytesIO(data)) as z:
             z.extractall(os.path.join(CACHE, code))
     verses = {}

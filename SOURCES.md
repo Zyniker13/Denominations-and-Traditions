@@ -131,6 +131,50 @@ method was:
 | `reformed/princeton/green/` | *General Introduction to the Old Testament: The Canon* (Scribner, 1898) and *The Text* (1899) | archive.org scans named in each file | 1898; 1899 |
 | `reformed/princeton/warfield/` | "The Formation of the Canon of the New Testament" (1892), as reprinted in *Revelation and Inspiration* (Oxford University Press, 1927) | archive.org `revelationinspir00warf` | 1927 |
 
+### Added for the study of the last things
+
+The files below were added for
+[analysis/heaven-and-resurrection/](analysis/heaven-and-resurrection/README.md)
+and fetched 2026-10-23. Each file's opening table gives the details, as
+above. Two further methods were used:
+
+- **Keyed texts of the Text Creation Partnership** (EEBO-TCP and Evans-TCP),
+  released by the TCP into the public domain (CC0), were rendered from the TEI
+  XML at `github.com/textcreationpartnership/<id>`. The keyers' conventions,
+  and the printers' spelling and punctuation, are kept.
+- **Hebrew and Aramaic** printed beside the rabbinic and Maimonidean texts
+  were fetched by the Sefaria API (v3) and are used only where the edition is
+  public domain or openly licensed, as listed. They are not part of the
+  English editions and are marked off from them.
+
+| Files | Edition | Source | Public domain or license |
+| --- | --- | --- | --- |
+| `jewish-antiquity/second-temple-on-heaven-and-resurrection.md` | *Ante-Nicene Fathers* VIII (1886): Testament of Levi, tr. Sinker; *Apocalypse of Moses*, tr. Walker. *The Book of the Secrets of Enoch*, tr. Morfill, ed. Charles (Clarendon, 1896). *The Apocalypse of Baruch*, tr. Charles (Black, 1896). *The Book of Enoch*, tr. Charles (SPCK, 1917). Josephus, tr. Whiston | CCEL `anf08`; archive.org `bookofsecretsofe00morf`, `theapocalypseofb00charuoft`; Wikisource, *The Book of Enoch (Charles)*; Project Gutenberg #2848–2850 | 1737–1917 |
+| `rabbinic/mishnah-and-talmud-on-the-world-to-come.md` | Rodkinson, *New Edition of the Babylonian Talmud*, Sanhedrin (Boston, 1918); Streane, *Chagigah* (Cambridge, 1891); Cohen, *Berakot* (Cambridge, 1921) | archive.org `neweditionofbaby191816rodk` (collated with `neweditionbabyl17taubgoog`), `translationoftre00streuoft`, `babyloniantalmud00coheuoft` | 1891–1921 |
+| the same, Hebrew and Aramaic | The Vilna Mishnah (Romm, 1913); the Babylonian Talmud as transcribed on Hebrew Wikisource | Sefaria API | Public domain; CC BY-SA 3.0 (attribution: Hebrew Wikisource contributors, via Sefaria) |
+| `rabbinic/midrash-and-prayer-book-on-the-resurrection.md` | Friedlander, *Pirkê de Rabbi Eliezer* (London, 1916); Singer, *The Authorised Daily Prayer Book* (London, 1904); *The Sefaria Midrash Rabbah* (2022) for *Bereshit Rabbah* 28:3 | Sefaria's digitization of archive.org `pirkderabbieli00frieuoft`, checked against the scan; archive.org `authoriseddailyp00sing`; Sefaria API | 1904–1916; *Sefaria Midrash Rabbah*, CC BY (attribution: Sefaria) |
+| the same, Hebrew | *Bereshit Rabbah* as transcribed on Hebrew Wikisource; *The Metsudah Siddur* (New York, 1981) | Sefaria API | CC BY-SA 3.0; CC BY |
+| `jewish-medieval/maimonides/` | Abelson, "Maimonides on the Jewish Creed", *Jewish Quarterly Review* 19 (1906); Glazer, *Mishnah Torah* I (New York, 1927), with the Raavad's criticisms; Soloweyczik, *Yad-Hachazakah* (London, 1863); Friedländer, *The Guide for the Perplexed*, 2nd ed. (Routledge, 1904) | archive.org `sim_jewish-quarterly-review_1906-10_19`; Sefaria's digitizations of Glazer and Friedländer, checked against archive.org `boofofmishnahtor0001maim` and `guideforperplexe00maimiala`; Sefaria API (Soloweyczik) | 1863–1927 (Glazer: published 1927, in the public domain in the United States) |
+| the same, Hebrew | The commentary on the Mishnah in Hebrew translation (Vilna Talmud, Romm); the *Mishneh Torah* and the Raavad in the Torat Emet edition | Sefaria API | Public domain |
+| `jewish-modern/` | The Philadelphia (1869) and Pittsburgh (1885) principles, and the article "Resurrection", in *The Jewish Encyclopedia* (Funk & Wagnalls, 1901–1906); Kohler, *Jewish Theology* (Macmillan, 1918) | jewishencyclopedia.com, articles 4592 and 12697; archive.org `jewishtheologysy01kohl` | 1903–1918 |
+| `lutheran/heinrich-schmid/doctrinal-theology-last-things.md` | Schmid, *Doctrinal Theology*, tr. Hay and Jacobs, 4th ed. (1899) | archive.org `doctrinaltheolog00schmuoft`, `doctrinaltheolog0000hein_o8t5` | 1899 |
+| `reformed/continental/calvin/institutes-book-3-chapter-25.md`, `commentaries-on-the-last-things.md` | Calvin Translation Society: *Institutes* II, tr. Beveridge (1845); commentaries on Isaiah IV (Pringle, 1853), Romans (Owen, 1849), Corinthians II (Pringle, 1849), Philippians (Pringle, 1851), the Catholic Epistles (Owen, 1855) | archive.org scans named in each file, collated with CCEL | 1845–1855 |
+| `reformed/continental/calvin/sermon-on-job-19-26-29.md` | *Sermons … vpon the Booke of Iob*, tr. Golding (London, 1574) | EEBO-TCP A69056 | 1574; TCP text CC0 |
+| `reformed/continental/bullinger/decades-decade-1-sermon-9-…` | *Fiftie godlie and learned sermons* (London, 1577) | EEBO-TCP A17183 | 1577; CC0 |
+| `reformed/continental/ames/marrow-of-sacred-divinity-exaltation-…` | *The Marrow of Sacred Divinity* (London, 1642) | EEBO-TCP A25291 | 1642; CC0 |
+| `reformed/continental/wollebius/abridgment-of-christian-divinity-last-things.md` | *The Abridgment of Christian Divinitie*, tr. Ross (London, 1660) | EEBO-TCP A66823 | 1660; CC0 |
+| `reformed/british/perkins/` | *An Exposition of the Symbole or Creed of the Apostles* (Cambridge, 1595) | EEBO-TCP A09411 | 1595; CC0 |
+| `reformed/british/ussher/` | *A Body of Divinitie* (London, 1645) | EEBO-TCP A64622 | 1645; CC0 |
+| `reformed/british/owen/shaking-and-translating-of-heaven-and-earth.md` | *The Shaking and Translating of Heaven and Earth* (London, 1649) | EEBO-TCP A53716 | 1649; CC0 |
+| `reformed/british/goodwin/` | *The World to Come* (London, 1655) | EEBO-TCP A85442 | 1655; CC0 |
+| `reformed/british/vincent/` | *An Explicatory Catechism* (London, 1675) | EEBO-TCP A64986 | 1675; CC0 |
+| `reformed/british/dickson/` | *Truths Victory over Error*, tr. Sinclair (Edinburgh, 1684) | EEBO-TCP A35959 | 1684; CC0 |
+| `reformed/british/poole/` | *Annotations upon the Holy Bible* II (London, 1685) | EEBO-TCP A55368 | 1685; CC0 |
+| `reformed/british/watson/` | *A Body of Practical Divinity* (London, 1692) | EEBO-TCP A65285 | 1692; CC0 |
+| `reformed/british/boston/` | *Human Nature in its Fourfold State* (American printing, 1787) | Evans-TCP N34404 | 1787; CC0 |
+| `reformed/american/edwards/` | *True Saints … Present with the Lord* (Boston, 1747); *A History of the Work of Redemption* (Boston reprint, 1782) | Evans-TCP N04758, N13864 | 1747; 1782; CC0 |
+| `reformed/princeton/hodge/systematic-theology-vol-3-last-things.md` | *Systematic Theology* III (Scribner, 1872) | CCEL `hodge/theology3`, checked against archive.org `systematictheolo03hodguoft` | 1872 |
+
 ### Copyright renewal search: *Works of Martin Luther*, vol. VI
 
 Volume VI of the Philadelphia edition was published in 1932, so it is in the
@@ -150,6 +194,13 @@ translation rather than from volume IV (1931).
   *Synopsis* (Brill, 2014 onward) and *Luther's Works* (American Edition) are
   under copyright and are not used or paraphrased. Chemnitz and Gerhard appear
   only as quoted in Schmid's 1899 translation.
+- **Modern translations of the Jewish texts.** The Soncino Talmud and
+  Midrash, Danby's Mishnah, the Koren Steinsaltz Talmud (the William Davidson
+  edition, CC BY-NC), Rosner's translation of Maimonides' *Treatise on the
+  Resurrection*, Chavel's Nachmanides and Rosenblatt's Saadia are under
+  copyright or licensed only for non-commercial use, and are not quoted.
+  Sefaria texts are used only where their license is CC BY or CC BY-SA, or
+  the text is public domain.
 - **Summaries in place of texts.** The *Nicene and Post-Nicene Fathers* gives
   only editorial summaries of several of Jerome's prefaces, and omits part of
   his *Apology* (II.26–32); those summaries and notes are reproduced as
@@ -198,6 +249,12 @@ time. Readings of the apparatus and of Field are cited, not reproduced in
 bulk, and were checked against the scanned pages' OCR text, which is not
 committed.
 
+The collection in [scripture/last-things/](scripture/last-things/README.md)
+prints its 45 passages from the same editions, with Swete's Septuagint beside
+Brenton's, built by `tools/build_last_things.py` from the same caches.
+
 Translations of passages in the analyses, where not from the KJV or Brenton,
-are the analyses' own. Passages of the Talmud are paraphrased, not quoted,
-and cited by folio.
+are the analyses' own, and are printed in italics rather than quoted. In the
+earlier studies, passages of the Talmud are paraphrased and cited by folio;
+the study of the last things quotes them from the public-domain translations
+in `theologians/rabbinic/`.
