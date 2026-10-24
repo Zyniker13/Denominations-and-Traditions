@@ -250,7 +250,7 @@ documents:
 
 collections:
   - id: theologians
-    title: Theologians and teachers on the canon and the text
+    title: Theologians and teachers on the canon, the text and the last things
     path: theologians/README.md
   - id: preservation-passages
     title: The preservation passages of Scripture, with the Hebrew, Greek and English texts
@@ -258,6 +258,9 @@ collections:
   - id: divine-quotations
     title: Where God quotes Scripture, with the Greek and Hebrew texts and the witnesses compared
     path: scripture/divine-quotations/quotations.md
+  - id: last-things-passages
+    title: The passages on the heavens, the final state, the new heavens and earth and the resurrection, with the Hebrew, Greek and English texts
+    path: scripture/last-things/passages.md
 
 studies:
   - id: canon-in-the-confessions
@@ -300,3 +303,10 @@ studies:
     covers: []
     collections: [divine-quotations]
     scope: Every place where God, the Father, the Son or the Spirit, quotes earlier Scripture, counted by type and compared with the Septuagint, its other witnesses and the Hebrew
+  - id: heaven-and-resurrection
+    title: Heaven, the New Earth and the Resurrection of the Body
+    path: analysis/heaven-and-resurrection/README.md
+    covers: [all-confessions]
+    collections: [theologians, last-things-passages]
+    tracked: true
+    scope: The historical Reformed teaching on the third heaven, the final destination of the Christian, the new heavens and earth and the resurrection of the flesh, set against the Greek and Hebrew, the Jewish sources and the orthodox Lutherans

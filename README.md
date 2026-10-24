@@ -5,7 +5,9 @@ traditions, kept as plain Markdown so the texts are easy to read, search, diff,
 and cite. Alongside the confessions it collects the writings of the major
 theologians and teachers of those traditions, and of the early church they
 appeal to, on the canon of Scripture, the Apocrypha, the Hebrew text, and the
-Greek and Latin versions.
+Greek and Latin versions, and on the heavens, the final state and the
+resurrection of the body, with the Jewish teachers who read the same Hebrew
+Bible.
 
 Every text in this repository is in the public domain or redistributed under a
 compatible open license. Where each text came from, and under what terms, is
@@ -25,20 +27,22 @@ See [confessions/README.md](confessions/README.md) for the full index.
 | Congregational | Savoy Declaration of Faith and Order |
 | Lutheran | [Book of Concord](confessions/lutheran/book-of-concord/README.md): Preface, the three ecumenical creeds, Augsburg Confession, Apology, Smalcald Articles, Treatise on the Power and Primacy of the Pope, Small and Large Catechisms, Formula of Concord (Epitome and Solid Declaration) |
 
-## Theologians on the Canon
+## Theologians and teachers
 
 See [theologians/README.md](theologians/README.md) for the full index, and
 [analysis/canon-in-the-theologians.md](analysis/canon-in-the-theologians.md)
-for the study of them. It is separate from the study of the confessions,
+for the study of them on the canon. It is separate from the study of the confessions,
 [analysis/canon-in-the-confessions.md](analysis/canon-in-the-confessions.md).
 
 | Tradition | Teachers |
 | --- | --- |
-| Jewish antiquity | Josephus, the Letter of Aristeas, Philo |
+| Jewish antiquity | Josephus, the Letter of Aristeas, Philo; the Testament of Levi, 1 and 2 Enoch, the Apocalypse of Moses, 2 Baruch |
+| Rabbinic, medieval and modern Jewish | The Mishnah and Talmud, *Pirke de Rabbi Eliezer*, *Bereshit Rabbah*, the daily prayer book; Maimonides and the Raavad; the Reform platforms of 1869 and 1885, the *Jewish Encyclopedia*, Kohler |
 | Early church | Eusebius (Melito, Origen), Origen and Africanus, Athanasius, Cyril of Jerusalem, Rufinus, Jerome, Augustine, Gregory the Great, John of Damascus; the canon lists of Laodicea, Carthage and Trullo |
 | Lutheran | Luther; Chemnitz, Gerhard, Quenstedt, Calov, Hollaz and others as collected by Schmid; H. E. Jacobs |
 | Continental Reformed | Calvin, Bullinger, Ursinus, Ames, Wollebius |
-| British Reformed and Anglican | Whitaker, Owen, Cosin, Gill, Westcott |
+| British Reformed and Anglican | Perkins, Whitaker, Ussher, Owen, Goodwin, Cosin, Vincent, Dickson, Poole's *Annotations*, Watson, Boston, Gill, Westcott |
+| American Reformed | Jonathan Edwards |
 | American Presbyterian (Princeton) | Archibald Alexander, Charles Hodge, W. H. Green, B. B. Warfield |
 
 ## Preservation of Scripture
@@ -70,6 +74,19 @@ witnesses where they decide the match.
 counts them by speaker and type, and sets out which text each one stands
 closer to: the Septuagint, another Greek witness, or the Hebrew.
 
+## Heaven, the New Earth and the Resurrection of the Body
+
+[analysis/heaven-and-resurrection/](analysis/heaven-and-resurrection/README.md)
+sets out the historical Reformed teaching on the “third heaven”, the final
+destination of the Christian, the new heavens and the new earth, and the
+resurrection of the body or “flesh”, from Calvin to Hodge and the Reformed
+confessions. It tests that teaching against the Greek and Hebrew, sets it
+beside the Jewish reading of the same Hebrew Bible (the Second Temple
+writers, the Talmud and Midrash, Maimonides and the Raavad, Mendelssohn and
+Reform), and contrasts it with the orthodox Lutheran position.
+[scripture/last-things/](scripture/last-things/README.md) prints the 45
+passages it argues from, in Hebrew, Greek and English.
+
 ## Index
 
 [INDEX.md](INDEX.md) lists every confession, collection and study, and shows
@@ -81,9 +98,9 @@ index lists the studies that have not yet taken it into account.
 
 ```
 confessions/          rendered Markdown, one file per document, by tradition
-theologians/          the teachers' writings on the canon and text, by tradition and author
+theologians/          the teachers' writings on the canon, the text and the last things, by tradition and author
 scripture/            collections of Scripture passages, with Hebrew, Greek and English texts
-analysis/             studies of the canon, of the preservation of the text, and of God's quotations of Scripture
+analysis/             studies of the canon, of the preservation of the text, of God's quotations of Scripture, and of heaven and the resurrection
 sources/              vendored upstream data the Markdown is built from, with its license
 tools/                scripts that regenerate the generated files
 catalog.yaml          every document, collection and study, and what each study covers

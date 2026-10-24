@@ -1,0 +1,865 @@
+# Passages on the heavens and the "third heaven", the final destination of the
+# Christian, the new heavens and the new earth, and the resurrection of the body.
+#
+# This file is the curated input. passages.md and passages.json are generated
+# from it, with the Hebrew, Greek and English texts filled in, by
+# tools/build_last_things.py. Edit this file, then re-run the tool; do not edit
+# the generated files by hand.
+#
+# Fields
+#   id        stable identifier, used for links from the analysis
+#   ref       display reference (English chapter and verse)
+#   kjv       the same in USFM book codes (also used for the Greek New Testament)
+#   mt, lxx, lxx_en
+#             the Masoretic, Septuagint (Brenton) and Brenton-English
+#             references where they differ from kjv
+#   skip      editions to leave out (mt, kjv, swete)
+#   topics    the first is the section the passage is listed under; others are
+#             the further questions it bears on: heavens, destination,
+#             new-creation, resurrection
+#   claim     what the passage says, in one or two sentences
+#   terms     the Hebrew or Greek words the notes rely on, as "edition: word";
+#             the tool checks that each occurs in that edition
+#   mt_lxx    (OT) how the Hebrew and the Greek differ
+#   variants  (NT) differences among the Greek editions that bear on the question
+#   words     the meaning of the key words, argued from the Hebrew and Greek
+#   notes     how the passage is used by the Reformed, Lutheran and Jewish
+#             writers collected in theologians/
+#
+# Notes marked [inferred] are this study's reading rather than what the text
+# says in so many words.
+
+passages:
+
+# ------------------------------------------------------------ the heavens
+
+- id: 2cor-12-2-4
+  ref: 2 Corinthians 12:2–4
+  kjv: 2CO 12:2-4
+  topics: [heavens, destination]
+  claim: >-
+    Paul knows a man in Christ who was caught up "as far as the third heaven",
+    and again "into paradise", where he heard unspeakable words.
+  terms: ["tr: ἕως τρίτου οὐρανοῦ", "tr: ἡρπάγη εἰς τὸν παράδεισον", "tr: ἄρρητα ῥήματα", "sbl: χωρὶς τοῦ σώματος"]
+  variants: >-
+    In verse 3 the Textus Receptus and the Byzantine text read ἐκτὸς τοῦ σώματος
+    ("out of the body", as in verse 2), the SBL text χωρὶς τοῦ σώματος ("apart
+    from the body"). The sense is the same; nothing in the editions bears on the
+    number of heavens.
+  words: >-
+    ἁρπάζω is to seize and carry off (the same verb in 1 Thess. 4:17, "caught
+    up ... to meet the Lord in the air"). ἕως τρίτου οὐρανοῦ is "up to, as far as
+    a third heaven": the ordinal implies a series counted from below but does not
+    say how many there are. τρίτου οὐρανοῦ has no article. παράδεισος is the
+    Septuagint's word for the garden of Eden (Gen. 2:8, παράδεισον ἐν Ἐδέμ, for
+    Hebrew גַּן־בְּעֵדֶן); it is used of the place of the blessed dead in Luke 23:43
+    and of the place of the tree of life in Rev. 2:7. Verses 3–4 repeat the
+    sentence of verse 2 with παράδεισον in place of τρίτου οὐρανοῦ; whether this
+    is one rapture told twice or two raptures is not settled by the grammar.
+  notes: >-
+    The Reformed reading (Calvin on this verse; Poole; Hodge) is that "the third
+    heaven" is the highest heaven, the dwelling of God and the blessed, counted
+    after the heaven of the air and the heaven of the stars, and that "paradise"
+    names the same place. R. H. Charles (1896) read the verse against the seven
+    heavens of 2 Enoch and the Testament of Levi, in which paradise is placed in
+    the third heaven, and concluded that Paul held seven heavens. The Talmud
+    knows two heavens (R. Judah) or seven (Resh Lakish), Hagigah 12b; it puts the
+    souls of the righteous in the seventh, ʿaravot. See
+    analysis/heaven-and-resurrection/third-heaven.md.
+
+- id: deut-10-14
+  ref: Deuteronomy 10:14
+  kjv: DEU 10:14
+  topics: [heavens]
+  claim: >-
+    The heaven and the heaven of heavens belong to the LORD, with the earth and
+    all that is in it.
+  terms: ["mt: הַשָּׁמַיִם וּשְׁמֵי הַשָּׁמָיִם", "lxx: ὁ οὐρανὸς τοῦ οὐρανοῦ"]
+  mt_lxx: >-
+    The Hebrew שְׁמֵי הַשָּׁמַיִם, a construct chain ("the heavens of the
+    heavens"), is the Hebrew superlative: the highest heavens. The Greek renders
+    it in the singular, ὁ οὐρανὸς τοῦ οὐρανοῦ. Neither text numbers the heavens.
+  notes: >-
+    The Old Testament phrase behind the Reformed scheme of a highest heaven above
+    the visible heavens (the "heaven of heavens", caelum empyreum).
+
+- id: 1kgs-8-27
+  ref: 1 Kings 8:27
+  kjv: 1KI 8:27
+  topics: [heavens]
+  claim: >-
+    Solomon: the heaven and the heaven of heavens cannot contain God; how much
+    less the house he has built.
+  terms: ["mt: וּשְׁמֵי הַשָּׁמַיִם לֹא יְכַלְכְּלוּךָ", "lxx: οὐκ ἀρκέσουσί σοι"]
+  mt_lxx: >-
+    The Hebrew says the heavens "cannot contain" (כּוּל, Pilpel) God; the Greek
+    says they "will not suffice" (ἀρκέω) for him. Both deny that any heaven, the
+    highest included, circumscribes God.
+  notes: >-
+    Reformed and Lutheran writers agree that the heaven of the blessed is a
+    created place and that God is not contained by it. The Lutherans (Schmid's
+    Gerhard and Quenstedt) used the verse with their teaching on the right hand
+    of God, which is not a place; the Reformed held that Christ's human body is
+    in a place, the highest heaven, and not everywhere. [inferred]
+
+- id: neh-9-6
+  ref: Nehemiah 9:6
+  kjv: NEH 9:6
+  lxx: EZR 19:6
+  lxx_en: NEH 9:6
+  topics: [heavens]
+  claim: >-
+    The LORD made the heavens, the heaven of heavens with all their host, the
+    earth and the seas.
+  terms: ["mt: שְׁמֵי הַשָּׁמַיִם", "lxx: τὸν οὐρανὸν τοῦ οὐρανοῦ"]
+  mt_lxx: >-
+    In the Greek the verse belongs to 2 Esdras (19:6), and the speaker is named:
+    καὶ εἶπεν Ἔσδρας. The heaven of heavens is again singular in Greek.
+  notes: >-
+    The highest heaven is created: against any notion that the heaven of the
+    blessed is uncreated or divine.
+
+- id: ps-148-4
+  ref: Psalm 148:4
+  kjv: PSA 148:4
+  lxx: PSA 148:4
+  topics: [heavens]
+  claim: >-
+    "Praise him, ye heavens of heavens, and ye waters that be above the heavens."
+  terms: ["mt: שְׁמֵי הַשָּׁמָיִם", "lxx: οἱ οὐρανοὶ τῶν οὐρανῶν"]
+  mt_lxx: Here the Greek keeps the plural, οἱ οὐρανοὶ τῶν οὐρανῶν.
+
+- id: eph-4-10
+  ref: Ephesians 4:10
+  kjv: EPH 4:10
+  topics: [heavens]
+  claim: >-
+    He who descended is the same who ascended "far above all the heavens", that
+    he might fill all things.
+  terms: ["tr: ὑπεράνω πάντων τῶν οὐρανῶν", "tr: ἵνα πληρώσῃ τὰ πάντα"]
+  words: >-
+    ὑπεράνω πάντων τῶν οὐρανῶν: "above all the heavens", plural, as in Heb. 4:14
+    (διεληλυθότα τοὺς οὐρανούς) and 7:26 (ὑψηλότερος τῶν οὐρανῶν).
+  notes: >-
+    The verse divides the Lutherans and the Reformed. Lutheran teaching reads
+    "that he might fill all things" of the exalted Christ's presence according to
+    both natures; the Reformed read "far above all the heavens" as the place of
+    his body, the highest heaven, and "fill" of his rule and gifts (v. 11).
+    [inferred]
+
+- id: heb-4-14
+  ref: Hebrews 4:14; 7:26
+  kjv: HEB 4:14, HEB 7:26
+  topics: [heavens]
+  claim: >-
+    The great high priest "has passed through the heavens"; he is "made higher
+    than the heavens".
+  terms: ["tr: διεληλυθότα τοὺς οὐρανούς", "tr: ὑψηλότερος τῶν οὐρανῶν"]
+  words: >-
+    διέρχομαι is to go through: Christ went through the heavens as the high
+    priest went through the court and the holy place into the holiest. The
+    heavens are plural and are passed through; their number is not given.
+
+- id: luke-23-43
+  ref: Luke 23:43
+  kjv: LUK 23:43
+  topics: [heavens, destination]
+  claim: >-
+    "To day shalt thou be with me in paradise."
+  terms: ["tr: σήμερον μετ᾿ ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ"]
+  words: >-
+    The comma after σοι is the editors'. The reading "I say to thee today,
+    thou shalt be" takes σήμερον with λέγω. Luke has the formula ἀμὴν λέγω
+    ὑμῖν five other times (4:24; 12:37; 18:17, 29; 21:32), and each time it
+    opens what follows with nothing added to λέγω; the SBL text has ἀμήν σοι
+    λέγω.
+  notes: >-
+    The proof text of the Reformed (Westminster Confession 32.1; Calvin,
+    Institutes 3.25.6) and the Lutherans alike that the souls of believers go at
+    death into the presence of Christ, without an intermediate sleep.
+
+- id: rev-2-7
+  ref: Revelation 2:7
+  kjv: REV 2:7
+  topics: [heavens, destination]
+  claim: >-
+    To him that overcomes Christ will give to eat of the tree of life, which is
+    in the paradise of God.
+  terms: ["tr: ἐν μέσῳ τοῦ παραδείσου τοῦ Θεοῦ", "sbl: ἐν τῷ παραδείσῳ τοῦ θεοῦ"]
+  variants: >-
+    The Textus Receptus reads ἐν μέσῳ τοῦ παραδείσου ("in the midst of the
+    paradise"); the Byzantine and SBL texts ἐν τῷ παραδείσῳ, and the Byzantine
+    adds μου ("of my God").
+  notes: >-
+    Paradise here holds the tree of life, as in Gen. 2:9 and Rev. 22:2. In 2
+    Enoch VIII Enoch is brought "to the third heaven, and placed ... in the midst
+    of a garden", where the tree of life stands.
+
+# ------------------------------------------------------------ the destination
+
+- id: phil-1-21-24
+  ref: Philippians 1:21–24
+  kjv: PHI 1:21-24
+  topics: [destination]
+  claim: >-
+    To die is gain; Paul desires "to depart, and to be with Christ; which is far
+    better", though to abide in the flesh is needful for the church.
+  terms: ["tr: τὸ ἀναλῦσαι καὶ σὺν Χριστῷ εἶναι", "tr: ἐπιμένειν ἐν τῇ σαρκὶ"]
+  words: >-
+    ἀναλύω is to loose, as a ship from its moorings or a tent from its pegs:
+    death is a departure. σὺν Χριστῷ εἶναι follows at once: the state after
+    death is being "with Christ".
+  notes: >-
+    With Luke 23:43 and 2 Cor. 5:8, the ground of the Reformed teaching that the
+    souls of the righteous are "received into the highest heavens" at death
+    (Westminster Confession 32.1).
+
+- id: 2cor-5-1-8
+  ref: 2 Corinthians 5:1–8
+  kjv: 2CO 5:1-8
+  topics: [destination, resurrection]
+  claim: >-
+    If our earthly house of this tabernacle is dissolved, we have a building of
+    God, a house not made with hands, eternal in the heavens; we would not be
+    unclothed but clothed upon; to be absent from the body is to be present with
+    the Lord.
+  terms: ["tr: ἡ ἐπίγειος ἡμῶν οἰκία τοῦ σκήνους καταλυθῇ", "tr: οἰκίαν ἀχειροποίητον αἰώνιον ἐν τοῖς οὐρανοῖς", "tr: οὐ θέλομεν ἐκδύσασθαι ἀλλ᾿ ἐπενδύσασθαι", "tr: ἐκδημῆσαι ἐκ τοῦ σώματος καὶ ἐνδημῆσαι πρὸς τὸν Κύριον"]
+  words: >-
+    καταλύω, "loosen down", is used of striking a tent (σκῆνος). ἐκδύω and
+    ἐπενδύω: to be stripped, and to put on over. ἐκδημέω and ἐνδημέω: to be away
+    from home and at home. The "house ... eternal in the heavens" (v. 1) has been
+    read of the resurrection body (Calvin, Hodge), of the state of the soul in
+    heaven, or of heaven itself; the verb ἔχομεν is present.
+  notes: >-
+    The Reformed writers use verse 8 for the immediate presence of the soul with
+    Christ, and verses 2–4 for the resurrection of the body as the believer's
+    proper hope. The Talmud has the same image of clothing: asked whether the
+    dead will rise "naked or dressed", R. Meir answers that a grain of wheat
+    buried naked comes up dressed, and the righteous, buried in their clothes,
+    much more (Sanhedrin 90b, in theologians/rabbinic/).
+
+- id: phil-3-20-21
+  ref: Philippians 3:20–21
+  kjv: PHI 3:20-21
+  topics: [destination, resurrection]
+  claim: >-
+    Our citizenship is in heaven, whence we look for the Saviour, who will
+    change the body of our humiliation and make it of one form with the body of
+    his glory.
+  terms: ["tr: ἡμῶν γὰρ τὸ πολίτευμα ἐν οὐρανοῖς ὑπάρχει", "tr: μετασχηματίσει τὸ σῶμα τῆς ταπεινώσεως ἡμῶν", "tr: σύμμορφον τῷ σώματι τῆς δόξης αὐτοῦ"]
+  variants: >-
+    The Textus Receptus adds εἰς τὸ γενέσθαι αὐτὸ ("that it may become") before
+    σύμμορφον; the Byzantine and SBL texts lack it, and read αὐτῷ for ἑαυτῷ at
+    the end of the verse. The sense is unchanged.
+  words: >-
+    πολίτευμα is the commonwealth or citizenship to which one belongs, not the
+    place where one lives: Philippi was a Roman colony. The Saviour is awaited
+    ἐξ οὗ, "from" heaven. μετασχηματίζω is to change the σχῆμα, the outward
+    fashion; σύμμορφος, "of the same μορφή". The subject of the change is τὸ
+    σῶμα τῆς ταπεινώσεως ἡμῶν, the same body.
+  notes: >-
+    Calvin and the Reformed: the same body changed in quality, not exchanged for
+    another. The Raavad made the same point against Maimonides from the Talmud:
+    the sages did not teach "that there is no resurrection to body but the souls
+    alone" (theologians/jewish-medieval/maimonides/); Paul grounds it in the body
+    of the risen Christ.
+
+- id: john-14-2-3
+  ref: John 14:2–3
+  kjv: JOH 14:2-3
+  topics: [destination]
+  claim: >-
+    In the Father's house are many mansions; Christ goes to prepare a place, and
+    will come again and receive his own to himself.
+  terms: ["tr: ἐν τῇ οἰκίᾳ τοῦ πατρός μου μοναὶ πολλαί εἰσιν", "tr: ἑτοιμάσαι τόπον ὑμῖν", "tr: ἵνα ὅπου εἰμὶ ἐγώ καὶ ὑμεῖς ἦτε"]
+  words: >-
+    μονή (from μένω) is an abiding-place. τόπος is a place. The promise ends in
+    a person, ὅπου εἰμὶ ἐγώ, "where I am".
+
+- id: 1thess-4-16-17
+  ref: 1 Thessalonians 4:16–17
+  kjv: 1TH 4:16-17
+  topics: [destination, resurrection]
+  claim: >-
+    The Lord descends from heaven; the dead in Christ rise first; the living are
+    caught up with them in the clouds to meet the Lord in the air; "and so shall
+    we ever be with the Lord".
+  terms: ["tr: εἰς ἀπάντησιν τοῦ Κυρίου εἰς ἀέρα", "tr: πάντοτε σὺν Κυρίῳ ἐσόμεθα"]
+  words: >-
+    ἀπάντησις is the word for a delegation going out of a city to meet an
+    arriving dignitary and escort him in; the verse does not say whether the
+    company then goes up or comes down. ἁρπαγησόμεθα is the verb of 2 Cor. 12:2.
+
+- id: heb-11-10-16
+  ref: Hebrews 11:10, 16
+  kjv: HEB 11:10, HEB 11:16
+  topics: [destination]
+  claim: >-
+    Abraham looked for the city that has foundations, whose builder and maker is
+    God; the patriarchs desired a better country, that is, a heavenly.
+  terms: ["tr: τὴν τοὺς θεμελίους ἔχουσαν πόλιν", "tr: ἐπουρανίου"]
+  words: >-
+    κρείττονος ... τοῦτ᾿ ἔστιν ἐπουρανίου: the better country is "heavenly" in
+    origin and kind. The patriarchs were promised the land (Gen. 13:15; 17:8),
+    and the writer says they sought a heavenly country in that promise.
+  notes: >-
+    Compare the Mishnah's "All Israel has a share in the world to come", proved
+    from Isa. 60:21, "for ever shall they possess the land"; Kohler notes that
+    "the term 'inherit the land' was used as late as the Mishnah to express the
+    idea of sharing in the future life".
+
+- id: heb-12-22-23
+  ref: Hebrews 12:22–23
+  kjv: HEB 12:22-23
+  topics: [destination]
+  claim: >-
+    Believers have come to mount Sion, the city of the living God, the heavenly
+    Jerusalem, to the church of the firstborn written in heaven, to God the
+    judge of all, and to the spirits of just men made perfect.
+  terms: ["tr: Ἱερουσαλὴμ ἐπουρανίῳ", "tr: πνεύμασι δικαίων τετελειωμένων"]
+  words: >-
+    προσεληλύθατε is perfect: "you have come". πνεύμασι δικαίων τετελειωμένων:
+    the righteous dead are "spirits", already "perfected", before the
+    resurrection.
+  notes: >-
+    The Reformed and Lutheran proof that the souls of the righteous are made
+    perfect in holiness at death (Westminster Confession 32.1; Larger Catechism
+    86).
+
+- id: rev-21-2-3
+  ref: Revelation 21:2–3
+  kjv: REV 21:2-3
+  topics: [destination, new-creation]
+  claim: >-
+    The holy city, new Jerusalem, comes down from God out of heaven; the
+    tabernacle of God is with men, and he will dwell with them.
+  terms: ["tr: καταβαίνουσαν ἀπὸ τοῦ Θεοῦ ἐκ τοῦ οὐρανοῦ", "tr: ἡ σκηνὴ τοῦ Θεοῦ μετὰ τῶν ἀνθρώπων", "tr: σκηνώσει μετ᾿ αὐτῶν"]
+  variants: >-
+    In verse 2 the Byzantine and SBL texts lack ἐγὼ Ἰωάννης. In verse 3 the
+    voice is ἐκ τοῦ οὐρανοῦ in the Textus Receptus and the Byzantine text, ἐκ
+    τοῦ θρόνου in the SBL text; and the Textus Receptus alone ends with Θεὸς
+    αὐτῶν, "(and be) their God".
+  words: >-
+    The city descends; the movement at the end of the book is from heaven to the
+    earth. σκηνή and σκηνόω are the Greek of the tabernacle (Lev. 26:11–12
+    LXX: θήσω τὴν σκηνήν μου ἐν ὑμῖν), and echo Hebrew שָׁכַן and מִשְׁכָּן.
+  notes: >-
+    The text on which a final destination on the renewed earth is argued. The
+    older Reformed (Wollebius, Watson, Boston, Edwards) place the final home in
+    the highest heaven, which Watson and Boston call the "third heaven"; Hodge
+    makes the renewed earth its seat, and Goodwin has the raised saints reign
+    there for a thousand years before the judgment. See analysis/heaven-and-resurrection/final-destination.md.
+
+- id: matt-5-5
+  ref: Matthew 5:5
+  kjv: MAT 5:5
+  topics: [destination, new-creation]
+  claim: >-
+    "Blessed are the meek: for they shall inherit the earth."
+  terms: ["tr: κληρονομήσουσι τὴν γῆν"]
+  words: >-
+    The words are Ps. 37:11 in the Septuagint (36:11), where Swete's text
+    (Codex Vaticanus) has the article as Matthew does, κληρονομήσουσιν τὴν γῆν;
+    Brenton's text and the Göttingen edition have γῆν without it. The Hebrew is
+    עֲנָוִים יִירְשׁוּ־אָרֶץ, "the humble shall possess the land". Kohler
+    observes that "inherit the land" meant a share in the future life "as late
+    as the Mishnah ... so also in the New Testament".
+
+- id: ps-37-11-29
+  ref: Psalm 37:11, 29
+  kjv: PSA 37:11, PSA 37:29
+  lxx: PSA 36:11, PSA 36:29
+  topics: [destination, new-creation]
+  claim: >-
+    The meek shall inherit the land; the righteous shall inherit the land and
+    dwell in it for ever.
+  terms: ["mt: וַעֲנָוִים יִירְשׁוּ־אָרֶץ", "mt: וְיִשְׁכְּנוּ לָעַד עָלֶיהָ", "lxx: κληρονομήσουσι γῆν"]
+  mt_lxx: >-
+    The Hebrew אֶרֶץ, without the article, is "land" or "earth"; the Greek γῆ
+    has the same range. The Psalm promises the land of Israel to the faithful in
+    it; "for ever" (לָעַד, εἰς αἰῶνα αἰῶνος) pushes the promise beyond one
+    lifetime. In verse 11 Swete's text has the article, τὴν γῆν, as Matt. 5:5
+    has it.
+
+# ------------------------------------------------------------ new creation
+
+- id: isa-65-17
+  ref: Isaiah 65:17
+  kjv: ISA 65:17
+  topics: [new-creation]
+  claim: >-
+    "Behold, I create new heavens and a new earth: and the former shall not be
+    remembered."
+  terms: ["mt: בוֹרֵא שָׁמַיִם חֲדָשִׁים וָאָרֶץ חֲדָשָׁה", "lxx: ὁ οὐρανὸς καινὸς καὶ ἡ γῆ καινή"]
+  mt_lxx: >-
+    The Hebrew is a participle, בוֹרֵא, "I am creating", with בָּרָא, the verb of
+    Gen. 1:1. The Greek has no verb of creating: ἔσται γὰρ ὁ οὐρανὸς καινός,
+    "for the heaven shall be new", singular. The Hebrew חָדָשׁ, like Greek
+    καινός, is "new" in kind and freshness; the Greek νέος, "new in time", is not
+    used here or in the New Testament passages.
+  notes: >-
+    Calvin applies the verse first to the restored church, its full
+    accomplishment at the last day; Owen's sermon of 1649 reads the new heavens
+    and earth as the restored condition of the Church; Maimonides (Guide II.29) takes it as
+    a figure for Israel's restoration in a world that will never pass away; the
+    Raavad, against him, holds that God "will renew His world" after a thousand
+    years of desolation (Sanhedrin 97a).
+
+- id: isa-66-22
+  ref: Isaiah 66:22
+  kjv: ISA 66:22
+  topics: [new-creation]
+  claim: >-
+    As the new heavens and the new earth which God makes shall remain before
+    him, so shall Israel's seed and name remain.
+  terms: ["mt: הַשָּׁמַיִם הַחֳדָשִׁים וְהָאָרֶץ הַחֲדָשָׁה", "mt: עֹמְדִים לְפָנַי", "lxx: μένει ἐνώπιον ἐμοῦ"]
+  mt_lxx: >-
+    The Hebrew participles עֹשֶׂה, "making", and עֹמְדִים, "standing", are
+    rendered in the Greek ποιῶ and μένει. The new heavens and earth are said to
+    "stand" and "remain".
+
+- id: isa-51-6
+  ref: Isaiah 51:6
+  kjv: ISA 51:6
+  topics: [new-creation]
+  claim: >-
+    The heavens shall vanish away like smoke, the earth wax old like a garment,
+    but God's salvation shall be for ever.
+  terms: ["mt: כֶּעָשָׁן נִמְלָחוּ", "mt: כַּבֶּגֶד תִּבְלֶה", "lxx: ὡς καπνὸς ἐστερεώθη"]
+  mt_lxx: >-
+    The Hebrew נִמְלָחוּ, found only here in this sense, is taken as "be
+    dissipated, vanish" (KJV "vanish away"). The Greek has ἐστερεώθη, "was made
+    firm", which Brenton's English renders "was darkened"; Swete's text agrees
+    with Brenton's. Brenton's English also leaves out "but my salvation shall be
+    for ever" (τὸ δὲ σωτήριόν μου εἰς τὸν αἰῶνα ἔσται), which is in the Greek.
+  notes: >-
+    With Ps. 102:26–27 the strongest Old Testament language for the passing of
+    the present heavens; the Reformed read "wax old like a garment" of change of
+    state, the Lutherans of the end of the substance.
+
+- id: isa-34-4
+  ref: Isaiah 34:4
+  kjv: ISA 34:4
+  topics: [new-creation]
+  claim: >-
+    All the host of heaven shall be dissolved, and the heavens rolled together
+    as a scroll.
+  terms: ["mt: וְנָמַקּוּ כָּל־צְבָא הַשָּׁמַיִם", "mt: וְנָגֹלּוּ כַסֵּפֶר הַשָּׁמָיִם", "lxx: ἑλιγήσεται ὁ οὐρανός ὡς βιβλίον"]
+  mt_lxx: >-
+    The Hebrew נָמַקּוּ is "rot, melt away"; the Greek τακήσονται, "shall melt".
+    The scroll is rolled up, not burned. Taken up in Rev. 6:14.
+
+- id: ps-102-25-27
+  ref: Psalm 102:25–27
+  kjv: PSA 102:25-27
+  mt: PSA 102:26-28
+  lxx: PSA 101:26-28
+  topics: [new-creation]
+  claim: >-
+    The heavens are the work of God's hands; they shall perish, wax old like a
+    garment, and be changed as a vesture, but God remains the same.
+  terms: ["mt: הֵמָּה יֹאבֵדוּ", "mt: כַּלְּבוּשׁ תַּחֲלִיפֵם וְיַחֲלֹפוּ", "lxx: αὐτοὶ ἀπολοῦνται", "lxx: ἀλλαγήσονται"]
+  mt_lxx: >-
+    The Hebrew יֹאבֵדוּ, "they shall perish", is followed by תַּחֲלִיפֵם
+    וְיַחֲלֹפוּ, "thou shalt change them and they shall be changed" (חָלַף, to
+    change, pass on, put on a fresh garment). The Greek has ἀπολοῦνται and
+    ἀλλαγήσονται; for the Hebrew "thou shalt change them" it has ἑλίξεις αὐτούς,
+    "thou shalt roll them up", in Brenton's and Swete's texts; the Göttingen
+    edition reads ἀλλάξεις, "thou shalt change", with the Hebrew. The Hebrew
+    numbers the verses 26–28 (the title is verse 1).
+  notes: >-
+    The Lutheran dogmaticians read "perish" (ἀπολοῦνται) of the destruction of
+    the substance; the Reformed read the clause that follows, "changed as a
+    vesture" (חָלַף; ἀλλάσσω), of a change of the same heavens. The verse holds
+    both words.
+
+- id: heb-1-10-12
+  ref: Hebrews 1:10–12
+  kjv: HEB 1:10-12
+  topics: [new-creation]
+  claim: >-
+    Psalm 102 applied to the Son: the heavens shall perish, and as a vesture he
+    shall fold them up, and they shall be changed.
+  terms: ["tr: αὐτοὶ ἀπολοῦνται", "tr: ἑλίξεις αὐτούς", "tr: ἀλλαγήσονται"]
+  variants: >-
+    The SBL text repeats ὡς ἱμάτιον after ἑλίξεις αὐτούς ("as a garment they
+    shall be changed").
+  words: >-
+    The writer quotes the Septuagint as Brenton and Swete print it, with
+    ἑλίξεις ("roll up") where the Hebrew has "change", and keeps
+    ἀλλαγήσονται.
+
+- id: heb-12-26-28
+  ref: Hebrews 12:26–28
+  kjv: HEB 12:26-28
+  topics: [new-creation]
+  claim: >-
+    "Yet once more I shake not the earth only, but also heaven": this signifies
+    the removing of the things that are shaken, that the things that cannot be
+    shaken may remain; we receive a kingdom that cannot be moved.
+  terms: ["tr: τῶν σαλευομένων τὴν μετάθεσιν", "tr: ἵνα μείνῃ τὰ μὴ σαλευόμενα", "tr: βασιλείαν ἀσάλευτον"]
+  variants: The SBL text reads σείσω (future) for σείω, as in Hag. 2:6 LXX.
+  words: >-
+    μετάθεσις is a change of position or state, transposition, removal (used in
+    Heb. 7:12 of the change of the law and 11:5 of Enoch's translation).
+  notes: >-
+    Owen's sermon on this text (theologians/reformed/british/owen/) takes the
+    heavens and earth shaken to be "neither the materiall Heavens and Earth, nor
+    yet Mosaicall Ordinances, but the Politicall Heights and splendour ... of the
+    Nations of the Earth"; others read the verse of the end of the world, or of
+    the removal of the Jewish ordinances.
+
+- id: 2pet-3-10-13
+  ref: 2 Peter 3:10–13
+  kjv: 2PE 3:10-13
+  topics: [new-creation]
+  claim: >-
+    In the day of the Lord the heavens shall pass away with a great noise, the
+    elements melt with fervent heat, the earth and its works be burned up (or
+    "found"); we look for new heavens and a new earth wherein dwells
+    righteousness.
+  terms: ["tr: κατακαήσεται", "sbl: εὑρεθήσεται", "tr: στοιχεῖα δὲ καυσούμενα λυθήσονται", "tr: καινοὺς δὲ οὐρανοὺς καὶ γῆν καινὴν", "tr: ἐν οἷς δικαιοσύνη κατοικεῖ"]
+  variants: >-
+    Verse 10 ends in the Textus Receptus and the Byzantine text κατακαήσεται,
+    "shall be burned up"; in the SBL text εὑρεθήσεται, "shall be found" (laid
+    bare). The SBL text also reads λυθήσεται for λυθήσονται and lacks ἐν νυκτί.
+    In verse 11 the SBL text has οὕτως for οὖν.
+  words: >-
+    λύω is to loose or dissolve (used of the temple, John 2:19); παρέρχομαι is to
+    pass by or away; στοιχεῖα are the elements. The new heavens and earth are
+    καινοί, as in Isa. 65:17 LXX. The flood of verse 6 is the pattern: the world
+    "that then was" perished (ἀπώλετο) by water, yet the earth remained.
+  notes: >-
+    The key text of the dispute. Calvin: the elements "are to be consumed, only
+    that they may be renovated, their substance still remaining the same". The
+    Lutheran dogmaticians (Quenstedt, Gerhard, Hollaz) argued from it that the
+    substance of the world will be reduced to nothing, intelligent creatures
+    excepted. Most of the Reformed (Calvin, Ames, Boston, Hodge, who cites
+    Turretin) answered that the same world will be purged and renewed; Poole
+    leaves both open, and Wollebius inclines to the destruction of the
+    substance. The reading εὑρεθήσεται, which none of these writers discusses,
+    sits more easily with renewal than κατακαήσεται does. [inferred]
+
+- id: rev-21-1-5
+  ref: Revelation 21:1, 4–5
+  kjv: REV 21:1, REV 21:4-5
+  topics: [new-creation]
+  claim: >-
+    John saw a new heaven and a new earth, for the first heaven and the first
+    earth were passed away; the former things are passed away; "Behold, I make
+    all things new."
+  terms: ["tr: οὐρανὸν καινὸν καὶ γῆν καινήν", "tr: ὁ γὰρ πρῶτος οὐρανὸς καὶ ἡ πρώτη γῆ", "sbl: ἀπῆλθαν", "sbl: καινὰ ποιῶ πάντα"]
+  variants: >-
+    In verse 1 the Textus Receptus has παρῆλθε, "passed away", the Byzantine
+    ἀπῆλθον and the SBL ἀπῆλθαν, "went away". In verse 5 the Textus Receptus has
+    καινὰ πάντα ποιῶ, the Byzantine and SBL texts καινὰ ποιῶ πάντα.
+  words: >-
+    καινὰ ποιῶ πάντα: "I make all things new", not "I make all new things"; the
+    object is πάντα, and καινά is predicative. ὁ πρῶτος οὐρανός is the heaven
+    that was "first", as against the καινὸς οὐρανός.
+  notes: >-
+    The Reformed read verse 5 as renewal of the same things; the Lutherans read
+    verse 1 ("passed away") with 2 Pet. 3:10 as the end of the first world and a
+    new creation in its place.
+
+- id: rom-8-19-23
+  ref: Romans 8:19–23
+  kjv: ROM 8:19-23
+  topics: [new-creation, resurrection]
+  claim: >-
+    The creation waits for the revealing of the sons of God; it was subjected to
+    vanity in hope, and itself shall be delivered from the bondage of
+    corruption into the liberty of the glory of the children of God; we wait for
+    the redemption of our body.
+  terms: ["tr: ἀποκαραδοκία τῆς κτίσεως", "tr: καὶ αὐτὴ ἡ κτίσις ἐλευθερωθήσεται ἀπὸ τῆς δουλείας τῆς φθορᾶς", "tr: τὴν ἀπολύτρωσιν τοῦ σώματος ἡμῶν"]
+  words: >-
+    καὶ αὐτὴ ἡ κτίσις, "the creation itself", is the subject of ἐλευθερωθήσεται:
+    the thing set free is the thing that groaned. ἀπολύτρωσις τοῦ σώματος is the
+    redemption of the body, not from it.
+  notes: >-
+    Calvin: "God will restore to a perfect state the world, now fallen, together
+    with mankind". The Lutheran
+    dogmaticians took κτίσις here of the elect or of creation's longing for its
+    own end. The verse ties the renewal of the world to the resurrection of the
+    body.
+
+- id: matt-19-28
+  ref: Matthew 19:28
+  kjv: MAT 19:28
+  topics: [new-creation]
+  claim: >-
+    "In the regeneration, when the Son of man shall sit in the throne of his
+    glory", the twelve shall sit on twelve thrones judging Israel.
+  terms: ["tr: ἐν τῇ παλιγγενεσίᾳ"]
+  words: >-
+    παλιγγενεσία, "birth again", was a Stoic word for the world's rebirth after
+    the conflagration; Josephus uses it of Israel's restoration after the exile
+    (Ant. 11.66). In the New Testament only here and Titus 3:5.
+
+- id: acts-3-21
+  ref: Acts 3:21
+  kjv: ACT 3:21
+  topics: [new-creation]
+  claim: >-
+    Heaven must receive Christ until the times of the restitution of all things,
+    which God has spoken by the prophets.
+  terms: ["tr: ὃν δεῖ οὐρανὸν μὲν δέξασθαι", "tr: ἄχρι χρόνων ἀποκαταστάσεως πάντων"]
+  words: >-
+    ἀποκατάστασις is restoration to a former state (ἀποκαθίστημι, used in the
+    Septuagint of Israel's return to the land, Jer. 16:15). οὐρανὸν ... δέξασθαι:
+    heaven "receives" Christ, who is in it as in a place until then.
+  notes: >-
+    The Reformed proof that Christ's body is in heaven and not everywhere
+    (Heidelberg Catechism 46–48); and, with the prophets cited, of a restoration
+    rather than a replacement. [inferred]
+
+- id: 1cor-7-31
+  ref: 1 Corinthians 7:31
+  kjv: 1CO 7:31
+  topics: [new-creation]
+  claim: >-
+    "The fashion of this world passeth away."
+  terms: ["tr: παράγει γὰρ τὸ σχῆμα τοῦ κόσμου τούτου"]
+  words: >-
+    σχῆμα is outward form, configuration; it is the σχῆμα that passes, the word
+    behind μετασχηματίσει in Phil. 3:21.
+  notes: >-
+    The text the Reformed set against annihilation: the fashion passes, not the
+    substance. [inferred]
+
+# ------------------------------------------------------------ resurrection
+
+- id: job-19-25-27
+  ref: Job 19:25–27
+  kjv: JOB 19:25-27
+  topics: [resurrection]
+  claim: >-
+    "I know that my redeemer liveth ... and though after my skin worms destroy
+    this body, yet in my flesh shall I see God: whom I shall see for myself, and
+    mine eyes shall behold, and not another."
+  terms: ["mt: גֹּאֲלִי חָי", "mt: וּמִבְּשָׂרִי אֶחֱזֶה אֱלוֹהַּ", "mt: וְעֵינַי רָאוּ וְלֹא־זָר", "lxx: ἀναστῆσαι τὸ δέρμα μου"]
+  mt_lxx: >-
+    The Hebrew is hard. מִבְּשָׂרִי is "from my flesh": either "out of my flesh",
+    in it and looking out of it (KJV "in my flesh"), or "away from my flesh",
+    without it. וְעֵינַי רָאוּ וְלֹא־זָר, "my eyes shall see, and not a
+    stranger", stresses the identity of the one who sees. The Greek is a
+    different text: "for I know that he is eternal who is about to deliver me, to
+    raise up (ἀναστῆσαι) upon the earth my skin that endures these things"; it
+    has no "in my flesh" and no seeing of God, but has the verb of resurrection.
+  notes: >-
+    Calvin's sermon on Job 19 and the Reformed writers take the passage as a
+    plain confession of the resurrection of the same flesh. The Hebrew allows it
+    and does not compel it; the Greek, which the Reformed did not argue from,
+    states resurrection outright.
+
+- id: isa-26-19
+  ref: Isaiah 26:19
+  kjv: ISA 26:19
+  topics: [resurrection]
+  claim: >-
+    "Thy dead men shall live, together with my dead body shall they arise.
+    Awake and sing, ye that dwell in dust ... the earth shall cast out the
+    dead."
+  terms: ["mt: יִחְיוּ מֵתֶיךָ נְבֵלָתִי יְקוּמוּן", "mt: הָקִיצוּ וְרַנְּנוּ שֹׁכְנֵי עָפָר", "mt: כִּי טַל אוֹרֹת טַלֶּךָ", "lxx: ἀναστήσονται οἱ νεκροί", "lxx: ἐγερθήσονται οἱ ἐν τοῖς μνημείοις"]
+  mt_lxx: >-
+    נְבֵלָתִי is "my corpse" (singular with suffix); the KJV supplies "together
+    with". Kohler (1918) would read "thy dead" for "my dead bodies", and take
+    אוֹרֹת as "herbs" (as in 2 Kings 4:39), the dew being a "dew of revival",
+    "also a rabbinic term". The Greek is plainer: "the dead shall rise, and those
+    in the tombs shall be raised", and the dew is "healing to them". In the
+    Talmud R. Gamaliel cites this verse as the Prophets' proof of the
+    resurrection (Sanhedrin 90b), and the dew "with which the Holy One ... is
+    about to quicken mortals" is kept in ʿaravot, the seventh heaven (Hagigah
+    12b).
+
+- id: dan-12-2-3
+  ref: Daniel 12:2–3
+  kjv: DAN 12:2-3
+  lxx: DNG 12:2-3
+  skip: [swete]
+  topics: [resurrection]
+  claim: >-
+    Many that sleep in the dust of the earth shall awake, some to everlasting
+    life, some to shame and everlasting contempt; the wise shall shine as the
+    brightness of the firmament, and as the stars for ever.
+  terms: ["mt: מִיְּשֵׁנֵי אַדְמַת־עָפָר יָקִיצוּ", "mt: לְחַיֵּי עוֹלָם", "lxx: ἐξεγερθήσονται", "lxx: εἰς ζωὴν αἰώνιον"]
+  mt_lxx: >-
+    Brenton's Daniel is Theodotion's. Swete prints Theodotion and the Old Greek
+    on facing pages, but the site from which Swete's text is taken gives the
+    Old Greek only, so Swete is not quoted here. Hebrew חַיֵּי עוֹלָם, Greek ζωὴ αἰώνιος:
+    the only occurrence of "everlasting life" in the Hebrew Bible. אַדְמַת־עָפָר,
+    "ground of dust", recalls Gen. 2:7 and 3:19.
+  notes: >-
+    The text that Jewish (Talmud, Maimonides, Kohler) and Christian writers alike
+    take as the Old Testament's plainest statement of bodily resurrection.
+    Kohler finds "no trace of such a belief in the entire Bible save for two
+    late post-exilic passages", this and Isa. 26:19.
+
+- id: ezek-37-12-14
+  ref: Ezekiel 37:12–14
+  kjv: EZE 37:12-14
+  topics: [resurrection]
+  claim: >-
+    God will open the graves of his people, bring them up out of them, bring them
+    into the land of Israel, and put his spirit in them, and they shall live.
+  terms: ["mt: פֹתֵחַ אֶת־קִבְרוֹתֵיכֶם", "mt: וְנָתַתִּי רוּחִי בָכֶם וִחְיִיתֶם", "lxx: ἀνοίγω τὰ μνήματα ὑμῶν"]
+  notes: >-
+    Verse 11 interprets the bones as "the whole house of Israel". Kohler: "in
+    the form of allegory. As the prophet himself says, he aimed to describe the
+    resurrection of Judah and Israel from their grave of exile." In the Talmud
+    the Minim answer R. Gamaliel's proof from Isa. 26:19 that it may mean "those
+    dead who were restored by Ezekiel" (Sanhedrin 90b). Christian writers read
+    the vision as a figure that presupposes the bodily resurrection.
+
+- id: hos-13-14
+  ref: Hosea 13:14
+  kjv: HOS 13:14
+  topics: [resurrection]
+  claim: >-
+    "I will ransom them from the power of the grave; I will redeem them from
+    death: O death, I will be thy plagues; O grave, I will be thy destruction."
+  terms: ["mt: מִיַּד שְׁאוֹל אֶפְדֵּם", "mt: מִמָּוֶת אֶגְאָלֵם", "lxx: ποῦ τὸ κέντρον σου ᾅδη"]
+  mt_lxx: >-
+    The Hebrew אֱהִי (KJV "I will be") is read by the Greek as "where?": ποῦ ἡ
+    δίκη σου, θάνατε; ποῦ τὸ κέντρον σου, ᾅδη; Paul quotes the Greek form in 1
+    Cor. 15:55.
+
+- id: 2macc-7
+  ref: 2 Maccabees 7:9–11, 14, 23
+  kjv: 2MA 7:9-11, 2MA 7:14, 2MA 7:23
+  skip: [mt, kjv, swete]
+  topics: [resurrection]
+  claim: >-
+    The martyred brothers: the King of the world will raise us up to an
+    everlasting renewal of life; the third stretches out his tongue and hands,
+    hoping to receive them again from God; the Creator will give breath and life
+    again.
+  terms: ["lxx: εἰς αἰώνιον ἀναβίωσιν ζωῆς ἡμᾶς ἀναστήσει", "lxx: παρʼ αὐτοῦ ταῦτα πάλιν ἐλπίζω κομίσασθαι", "lxx: σοὶ μὲν γὰρ ἀνάστασις εἰς ζωὴν οὐκ ἔσται"]
+  mt_lxx: >-
+    No Hebrew original survives; the book was written in Greek. Not in the
+    Hebrew canon, nor in the canon of the Reformed or Lutheran confessions.
+  notes: >-
+    The plainest pre-Christian statement of the resurrection of the same
+    members: the tongue and hands given up are hoped for again. Kohler and the
+    Jewish Encyclopedia cite it for the Pharisaic belief; Heb. 11:35 ("that they
+    might obtain a better resurrection") is usually read as alluding to it.
+
+- id: matt-22-29-32
+  ref: Matthew 22:29–32
+  kjv: MAT 22:29-32
+  topics: [resurrection]
+  claim: >-
+    To the Sadducees: in the resurrection they neither marry nor are given in
+    marriage, but are as the angels of God in heaven; God is not the God of the
+    dead but of the living.
+  terms: ["tr: ὡς ἄγγελοι τοῦ Θεοῦ ἐν οὐρανῷ εἰσι", "tr: οὐκ ἔστιν ὁ Θεὸς Θεὸς νεκρῶν, ἀλλὰ ζώντων"]
+  variants: >-
+    The SBL text reads γαμίζονται for ἐκγαμίζονται and lacks the second Θεός in
+    verse 32.
+  words: >-
+    ὡς ἄγγελοι: "as" angels, in not marrying, not "become" angels. Compare 2
+    Baruch 51:10, "made like unto the angels", and the saying of Rav (Berakhot
+    17a), "In the world to come there is neither eating nor drinking; no
+    procreation of children".
+
+- id: luke-24-39
+  ref: Luke 24:39
+  kjv: LUK 24:39
+  topics: [resurrection]
+  claim: >-
+    The risen Christ: "Handle me, and see; for a spirit hath not flesh and bones,
+    as ye see me have."
+  terms: ["tr: σάρκα καὶ ὀστέα οὐκ ἔχει"]
+  notes: >-
+    The proof that the risen body is flesh (σάρξ), against any reading of 1 Cor.
+    15:44, 50 that makes the "spiritual body" a body of spirit.
+
+- id: john-5-28-29
+  ref: John 5:28–29
+  kjv: JOH 5:28-29
+  topics: [resurrection]
+  claim: >-
+    All that are in the graves shall hear his voice and come forth, they that
+    have done good to the resurrection of life, they that have done evil to the
+    resurrection of damnation.
+  terms: ["tr: πάντες οἱ ἐν τοῖς μνημείοις", "tr: εἰς ἀνάστασιν ζωῆς", "tr: εἰς ἀνάστασιν κρίσεως"]
+  words: >-
+    οἱ ἐν τοῖς μνημείοις is the phrase of Isa. 26:19 LXX; the two resurrections
+    are those of Dan. 12:2.
+
+- id: acts-23-6-8
+  ref: Acts 23:6–8
+  kjv: ACT 23:6-8
+  topics: [resurrection]
+  claim: >-
+    Paul, a Pharisee, is judged "of the hope and resurrection of the dead"; the
+    Sadducees say there is no resurrection, neither angel nor spirit, but the
+    Pharisees confess both.
+  terms: ["tr: περὶ ἐλπίδος καὶ ἀναστάσεως νεκρῶν", "tr: Σαδδουκαῖοι μὲν γὰρ λέγουσι μὴ εἶναι ἀνάστασιν"]
+  notes: >-
+    Matches Josephus (War 2.8.14; Ant. 18.1.3–4) and Mishnah Sanhedrin 10:1 on
+    the parties.
+
+- id: rom-8-11
+  ref: Romans 8:11
+  kjv: ROM 8:11
+  topics: [resurrection]
+  claim: >-
+    He that raised up Christ from the dead shall also quicken your mortal bodies
+    by (or because of) his Spirit that dwells in you.
+  terms: ["tr: ζωοποιήσει καὶ τὰ θνητὰ σώματα ὑμῶν", "tr: διὰ τοῦ ἐνοικοῦντος αὐτοῦ πνεύματος", "sbl: διὰ τὸ ἐνοικοῦν αὐτοῦ πνεῦμα"]
+  variants: >-
+    The Textus Receptus reads διὰ τοῦ ἐνοικοῦντος αὐτοῦ πνεύματος (genitive:
+    "through his Spirit"); the Byzantine and SBL texts διὰ τὸ ἐνοικοῦν αὐτοῦ
+    πνεῦμα (accusative: "because of his Spirit"). Either way the object is τὰ
+    θνητὰ σώματα ὑμῶν, "your mortal bodies".
+
+- id: 1cor-15-35-44
+  ref: 1 Corinthians 15:35–44
+  kjv: 1CO 15:35-44
+  topics: [resurrection]
+  claim: >-
+    "How are the dead raised up? and with what body do they come?" That which is
+    sown is not the body that shall be, but bare grain; God gives it a body as
+    it pleases him; sown in corruption, raised in incorruption; sown a natural
+    body, raised a spiritual body.
+  terms: ["tr: ποίῳ δὲ σώματι ἔρχονται", "tr: οὐ τὸ σῶμα τὸ γενησόμενον σπείρεις", "tr: γυμνὸν κόκκον", "tr: σπείρεται σῶμα ψυχικόν, ἐγείρεται σῶμα πνευματικόν"]
+  variants: >-
+    In verse 44 the Textus Receptus reads ἔστι σῶμα ψυχικόν, καὶ ἔστι σῶμα
+    πνευματικόν ("there is a natural body, and there is a spiritual body"), the
+    SBL text εἰ ἔστιν σῶμα ψυχικόν, ἔστιν καὶ πνευματικόν ("if there is a
+    natural body, there is also a spiritual"). In verse 39 the order of birds and
+    fishes differs.
+  words: >-
+    ψυχικός is "of the ψυχή", animated by the soul (the adjective of Gen. 2:7
+    LXX, εἰς ψυχὴν ζῶσαν, quoted in v. 45); πνευματικός is "of the πνεῦμα",
+    governed by the Spirit. Both qualify σῶμα: the contrast is between two
+    bodies, not between body and spirit. The subject of the four verbs
+    σπείρεται ... ἐγείρεται is unexpressed and the same. "Not the body that shall
+    be" (v. 37) and "bare grain" (γυμνὸν κόκκον, literally "naked grain") are
+    the Talmud's image too: R. Meir argues from wheat "buried naked" that comes
+    out "dressed in so many garments" (Sanhedrin 90b).
+  notes: >-
+    Calvin: the same body raised with a new quality; the "spiritual body" is not
+    a body of spiritual substance. The Lutheran dogmaticians teach the same
+    numerical identity. 2 Baruch 49–51 asks Paul's question in the same words.
+
+- id: 1cor-15-50-54
+  ref: 1 Corinthians 15:50–54
+  kjv: 1CO 15:50-54
+  topics: [resurrection]
+  claim: >-
+    Flesh and blood cannot inherit the kingdom of God; we shall not all sleep
+    but we shall all be changed; this corruptible must put on incorruption, and
+    this mortal must put on immortality.
+  terms: ["tr: σὰρξ καὶ αἷμα βασιλείαν Θεοῦ κληρονομῆσαι οὐ δύνανται", "tr: πάντες δὲ ἀλλαγησόμεθα", "tr: δεῖ γὰρ τὸ φθαρτὸν τοῦτο ἐνδύσασθαι ἀφθαρσίαν"]
+  words: >-
+    σὰρξ καὶ αἷμα is a Hebrew idiom (בָּשָׂר וָדָם) for man in his mortal
+    frailty (Matt. 16:17; Gal. 1:16), explained by the next clause, "neither
+    doth corruption inherit incorruption". τὸ φθαρτὸν τοῦτο, "this corruptible",
+    with the demonstrative, is what puts on incorruption: the same body.
+    ἐνδύσασθαι, "put on", is the clothing language of 2 Cor. 5:2–4.
+  notes: >-
+    "Flesh and blood" is read by Calvin and the Reformed of the quality, not the
+    substance, of the flesh; by Hodge of the present organization of the body,
+    "not adapted to our future state of being".
